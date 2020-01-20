@@ -14,6 +14,7 @@
 264|[Ugly Number II](./0264-ugly-number-ii.js)|Medium|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
+459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 606|[Construct String from Binary Tree](./0606-construct-string-from-binary-tree.js)|Easy|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
 648|[Replace Words](./0648-replace-words.js)|Medium|
