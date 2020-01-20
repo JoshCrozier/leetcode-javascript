@@ -23,6 +23,7 @@
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
 929|[Unique Email Addresses](./0929-unique-email-addresses.js)|Easy|
+966|[Vowel Spellchecker](./0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./0976-largest-perimeter-triangle.js)|Easy|
 977|[Squares of a Sorted Array](./0977-squares-of-a-sorted-array.js)|Easy|
