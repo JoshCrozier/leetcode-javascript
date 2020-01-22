@@ -6,6 +6,7 @@
 
 |#|Title|Difficulty|
 |:---|:---|:---|
+4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
