@@ -40,6 +40,7 @@
 1189|[Maximum Number of Balloons](./1189-maximum-number-of-balloons.js)|Easy|
 1207|[Unique Number of Occurrences](./1207-unique-number-of-occurrences.js)|Easy|
 1232|[Check If It Is a Straight Line](./1232-check-if-it-is-a-straight-line.js)|Easy|
+1249|[Minimum Remove to Make Valid Parentheses](./1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
 1252|[Cells with Odd Values in a Matrix](./1252-cells-with-odd-values-in-a-matrix.js)|Easy|
 1287|[Element Appearing More Than 25% In Sorted Array](./1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
 1290|[Convert Binary Number in a Linked List to Integer](./1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
