@@ -19,6 +19,7 @@
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
 648|[Replace Words](./0648-replace-words.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
+722|[Remove Comments](./0722-remove-comments.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
