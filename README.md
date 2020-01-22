@@ -52,6 +52,7 @@
 1313|[Decompress Run-Length Encoded List](./1313-decompress-run-length-encoded-list.js)|Easy|
 1317|[Convert Integer to the Sum of Two No-Zero Integers](./1317-convert-integer-to-the-sum-of-two-no-zero-integers.js)|Easy|
 1318|[Minimum Flips to Make a OR b Equal to c](./1318-minimum-flips-to-make-a-or-b-equal-to-c.js)|Medium|
+1323|[Maximum 69 Number](./1323-maximum-69-number.js)|Easy|
 1324|[Print Words Vertically](./1324-print-words-vertically.js)|Medium|
 
 ## License
