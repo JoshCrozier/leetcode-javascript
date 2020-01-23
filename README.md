@@ -10,6 +10,7 @@
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
+66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
