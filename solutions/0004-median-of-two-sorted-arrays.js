@@ -21,7 +21,7 @@ var findMedianSortedArrays = function(nums1, nums2) {
   const limit = Math.floor(total / 2) + 1;
   let i = 0, j = 0, prev, last
 
-  while(i + j < limit) {
+  while (i + j < limit) {
     if (last !== undefined) {
       prev = last;
     }
