@@ -24,7 +24,7 @@
  * @return {number[]}
  */
 var filterRestaurants = function(restaurants, veganFriendly, maxPrice, maxDistance) {
-  return restaurants.filter(r => (!veganFriendly || r[2]) && r[3] <= maxPrice && r[4] <= maxDistance)
+  return restaurants.filter(([,, v, p, d]) => v >= veganFriendly && p <= maxPrice && d <= maxDistance)
     .sort((a, b) => a[1] === b[1] ? b[0] - a[0] : b[1] - a[1])
     .map(r => r[0]);
 };
