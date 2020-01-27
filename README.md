@@ -32,6 +32,7 @@
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
+867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
 929|[Unique Email Addresses](./0929-unique-email-addresses.js)|Easy|
