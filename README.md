@@ -24,6 +24,7 @@
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
 606|[Construct String from Binary Tree](./0606-construct-string-from-binary-tree.js)|Easy|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
+628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
 648|[Replace Words](./0648-replace-words.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
