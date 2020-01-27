@@ -29,8 +29,7 @@ var isValidSudoku = function(board) {
       const options = [rows[i], columns[j], boxes[k]];
 
       if (options.some(option => option.has(value))) return false;
-      if (value === '.') continue;
-      options.forEach(option => option.add(value));
+      if (value !== '.') options.forEach(option => option.add(value));
     }
   }
 
