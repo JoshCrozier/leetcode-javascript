@@ -66,7 +66,7 @@
 1318|[Minimum Flips to Make a OR b Equal to c](./1318-minimum-flips-to-make-a-or-b-equal-to-c.js)|Medium|
 1323|[Maximum 69 Number](./1323-maximum-69-number.js)|Easy|
 1324|[Print Words Vertically](./1324-print-words-vertically.js)|Medium|
-5319|[Remove Palindromic Subsequences](./5319-remove-palindromic-subsequences.js)|Easy|
+1332|[Remove Palindromic Subsequences](./1332-remove-palindromic-subsequences.js)|Easy|
 5320|[Filter Restaurants by Vegan-Friendly, Price and Distance](./5320-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
 
 ## License
