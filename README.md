@@ -28,6 +28,7 @@
 628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
 648|[Replace Words](./0648-replace-words.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
+713|[Subarray Product Less Than K](./0713-subarray-product-less-than-k.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
