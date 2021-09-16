@@ -7,6 +7,7 @@
 |#|Title|Difficulty|
 |:---|:---|:---|
 4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
+31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
@@ -76,4 +77,4 @@
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2019-2020 [Josh Crozier](https://joshcrozier.com)
+Copyright (c) 2019-2021 [Josh Crozier](https://joshcrozier.com)
