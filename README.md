@@ -6,6 +6,7 @@
 
 |#|Title|Difficulty|
 |:---|:---|:---|
+1|[Two Sum](./0001-two-sum.js)|Easy|
 4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
