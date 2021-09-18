@@ -20,6 +20,7 @@
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
 263|[Ugly Number](./0263-ugly-number.js)|Easy|
 264|[Ugly Number II](./0264-ugly-number-ii.js)|Medium|
+283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
 345|[Reverse Vowels of a String](./0345-reverse-vowels-of-a-string.js)|Easy|
 350|[Intersection of Two Arrays II](./0350-intersection-of-two-arrays-ii.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
