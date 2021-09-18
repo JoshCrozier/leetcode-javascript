@@ -11,6 +11,7 @@
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
+54|[Spiral Matrix](./0054-spiral-matrix.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
