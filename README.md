@@ -8,6 +8,7 @@
 |:---|:---|:---|
 1|[Two Sum](./0001-two-sum.js)|Easy|
 4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
+27|[Remove Element](./0027-remove-element.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
