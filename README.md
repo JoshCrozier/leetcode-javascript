@@ -7,6 +7,7 @@
 |#|Title|Difficulty|
 |:---|:---|:---|
 1|[Two Sum](./0001-two-sum.js)|Easy|
+2|[Add Two Numbers](./0002-add-two-numbers.js)|Medium|
 4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
 7|[Reverse Integer](./0007-reverse-integer.js)|Easy|
 27|[Remove Element](./0027-remove-element.js)|Easy|
