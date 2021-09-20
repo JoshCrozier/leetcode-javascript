@@ -11,6 +11,7 @@
 3|[Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters.js)|Medium|
 4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
 7|[Reverse Integer](./0007-reverse-integer.js)|Easy|
+14|[Longest Common Prefix](./0014-longest-common-prefix.js)|Easy|
 27|[Remove Element](./0027-remove-element.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
