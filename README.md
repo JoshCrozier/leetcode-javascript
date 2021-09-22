@@ -85,6 +85,7 @@
 1332|[Remove Palindromic Subsequences](./1332-remove-palindromic-subsequences.js)|Easy|
 1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](./1333-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
 1360|[Number of Days Between Two Dates](./1360-number-of-days-between-two-dates.js)|Easy|
+1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 
