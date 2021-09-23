@@ -17,6 +17,7 @@
 27|[Remove Element](./0027-remove-element.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
+41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
 54|[Spiral Matrix](./0054-spiral-matrix.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
