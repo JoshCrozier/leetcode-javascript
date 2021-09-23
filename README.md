@@ -14,6 +14,7 @@
 8|[String to Integer (atoi)](./0008-string-to-integer-atoi.js)|Medium|
 10|[Regular Expression Matching](./0010-regular-expression-matching.js)|Hard|
 14|[Longest Common Prefix](./0014-longest-common-prefix.js)|Easy|
+17|[Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number.js)|Medium|
 27|[Remove Element](./0027-remove-element.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
