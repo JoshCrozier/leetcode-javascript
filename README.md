@@ -20,6 +20,7 @@
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
+50|[Pow(x, n)](./0050-powx-n.js)|Medium|
 54|[Spiral Matrix](./0054-spiral-matrix.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 66|[Plus One](./0066-plus-one.js)|Easy|
