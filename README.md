@@ -56,6 +56,7 @@
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
+884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
 925|[Long Pressed Name](./0925-long-pressed-name.js)|Easy|
