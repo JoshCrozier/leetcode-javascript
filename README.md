@@ -94,6 +94,7 @@
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
+2000|[Reverse Prefix of Word](./2000-reverse-prefix-of-word.js)|Easy|
 
 ## License
 
