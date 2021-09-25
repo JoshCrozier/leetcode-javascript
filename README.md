@@ -24,6 +24,7 @@
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
 49|[Group Anagrams](./0049-group-anagrams.js)|Medium|
 50|[Pow(x, n)](./0050-powx-n.js)|Medium|
+53|[Maximum Subarray](./0053-maximum-subarray.js)|Easy|
 54|[Spiral Matrix](./0054-spiral-matrix.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 66|[Plus One](./0066-plus-one.js)|Easy|
