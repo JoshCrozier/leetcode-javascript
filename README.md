@@ -10,6 +10,7 @@
 2|[Add Two Numbers](./0002-add-two-numbers.js)|Medium|
 3|[Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters.js)|Medium|
 4|[Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays.js)|Hard|
+6|[ZigZag Conversion](./0006-zigzag-conversion.js)|Medium|
 7|[Reverse Integer](./0007-reverse-integer.js)|Easy|
 8|[String to Integer (atoi)](./0008-string-to-integer-atoi.js)|Medium|
 10|[Regular Expression Matching](./0010-regular-expression-matching.js)|Hard|
