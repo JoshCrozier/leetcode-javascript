@@ -33,6 +33,7 @@
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
+73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
