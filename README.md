@@ -23,6 +23,7 @@
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
+42|[Trapping Rain Water](./0042-trapping-rain-water.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
 49|[Group Anagrams](./0049-group-anagrams.js)|Medium|
 50|[Pow(x, n)](./0050-powx-n.js)|Medium|
