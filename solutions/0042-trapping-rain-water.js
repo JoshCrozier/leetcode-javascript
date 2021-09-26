@@ -23,7 +23,7 @@ var trap = function(height) {
     leftMax[i] = Math.max(height[i], leftMax[i - 1]);
   }
 
-  for (let i = height.length - 2; i > -1; i--){
+  for (let i = height.length - 2; i > -1; i--) {
     rightMax[i] = Math.max(height[i], rightMax[i + 1]);
   }
 
