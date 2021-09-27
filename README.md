@@ -36,6 +36,7 @@
 67|[Add Binary](./0067-add-binary.js)|Easy|
 73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
+118|[Pascal's Triangle](./0118-pascals-triangle.js)|Easy|
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
