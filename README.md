@@ -54,6 +54,7 @@
 350|[Intersection of Two Arrays II](./0350-intersection-of-two-arrays-ii.js)|Easy|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
+442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
