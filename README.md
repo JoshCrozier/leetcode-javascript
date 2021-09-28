@@ -48,6 +48,7 @@
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
 234|[Palindrome Linked List](./0234-palindrome-linked-list.js)|Easy|
+242|[Valid Anagram](./0242-valid-anagram.js)|Easy|
 263|[Ugly Number](./0263-ugly-number.js)|Easy|
 264|[Ugly Number II](./0264-ugly-number-ii.js)|Medium|
 268|[Missing Number](./0268-missing-number.js)|Easy|
