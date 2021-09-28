@@ -21,6 +21,7 @@
 13|[Roman to Integer](./0013-roman-to-integer.js)|Easy|
 14|[Longest Common Prefix](./0014-longest-common-prefix.js)|Easy|
 17|[Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number.js)|Medium|
+21|[Merge Two Sorted Lists](./0021-merge-two-sorted-lists.js)|Easy|
 27|[Remove Element](./0027-remove-element.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
