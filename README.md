@@ -35,6 +35,7 @@
 66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
 73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
+83|[Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list.js)|Easy|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 118|[Pascal's Triangle](./0118-pascals-triangle.js)|Easy|
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
