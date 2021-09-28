@@ -42,6 +42,7 @@
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
 136|[Single Number](./0136-single-number.js)|Easy|
+141|[Linked List Cycle](./0141-linked-list-cycle.js)|Easy|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
 217|[Contains Duplicate](./0217-contains-duplicate.js)|Easy|
