@@ -125,6 +125,7 @@
 1324|[Print Words Vertically](./1324-print-words-vertically.js)|Medium|
 1332|[Remove Palindromic Subsequences](./1332-remove-palindromic-subsequences.js)|Easy|
 1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](./1333-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
+1356|[Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
 1360|[Number of Days Between Two Dates](./1360-number-of-days-between-two-dates.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
