@@ -115,6 +115,7 @@
 1290|[Convert Binary Number in a Linked List to Integer](./1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
 1291|[Sequential Digits](./1291-sequential-digits.js)|Medium|
 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.js)|Medium|
+1295|[Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits.js)|Easy|
 1297|[Maximum Number of Occurrences of a Substring](./1297-maximum-number-of-occurrences-of-a-substring.js)|Medium|
 1304|[Find N Unique Integers Sum up to Zero](./1304-find-n-unique-integers-sum-up-to-zero.js)|Easy|
 1309|[Decrypt String from Alphabet to Integer Mapping](./1309-decrypt-string-from-alphabet-to-integer-mapping.js)|Easy|
