@@ -55,6 +55,7 @@
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
 225|[Implement Stack using Queues](./0225-implement-stack-using-queues.js)|Easy|
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
+232|[Implement Queue using Stacks](./0232-implement-queue-using-stacks.js)|Easy|
 234|[Palindrome Linked List](./0234-palindrome-linked-list.js)|Easy|
 237|[Delete Node in a Linked List](./0237-delete-node-in-a-linked-list.js)|Easy|
 242|[Valid Anagram](./0242-valid-anagram.js)|Easy|
