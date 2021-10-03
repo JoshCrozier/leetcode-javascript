@@ -42,6 +42,7 @@
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 94|[Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal.js)|Easy|
 102|[Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal.js)|Medium|
+111|[Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree.js)|Easy|
 118|[Pascal's Triangle](./0118-pascals-triangle.js)|Easy|
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
