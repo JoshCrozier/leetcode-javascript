@@ -63,6 +63,7 @@
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
 232|[Implement Queue using Stacks](./0232-implement-queue-using-stacks.js)|Easy|
 234|[Palindrome Linked List](./0234-palindrome-linked-list.js)|Easy|
+235|[Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree.js)|Easy|
 237|[Delete Node in a Linked List](./0237-delete-node-in-a-linked-list.js)|Easy|
 242|[Valid Anagram](./0242-valid-anagram.js)|Easy|
 263|[Ugly Number](./0263-ugly-number.js)|Easy|
