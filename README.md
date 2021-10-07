@@ -142,6 +142,7 @@
 1351|[Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1356|[Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
 1360|[Number of Days Between Two Dates](./1360-number-of-days-between-two-dates.js)|Easy|
+1365|[How Many Numbers Are Smaller Than the Current Number](./1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
 1380|[Lucky Numbers in a Matrix](./1380-lucky-numbers-in-a-matrix.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
