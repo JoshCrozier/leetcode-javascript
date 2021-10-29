@@ -150,6 +150,7 @@
 1408|[String Matching in an Array](./1408-string-matching-in-an-array.js)|Easy|
 1436|[Destination City](./1436-destination-city.js)|Easy|
 1437|[Check If All 1's Are at Least Length K Places Away](./1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
+1446|[Consecutive Characters](./1446-consecutive-characters.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
