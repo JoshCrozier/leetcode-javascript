@@ -148,6 +148,7 @@
 1380|[Lucky Numbers in a Matrix](./1380-lucky-numbers-in-a-matrix.js)|Easy|
 1389|[Create Target Array in the Given Order](./1389-create-target-array-in-the-given-order.js)|Easy|
 1408|[String Matching in an Array](./1408-string-matching-in-an-array.js)|Easy|
+1436|[Destination City](./1436-destination-city.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
