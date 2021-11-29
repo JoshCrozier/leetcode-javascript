@@ -155,6 +155,7 @@
 1446|[Consecutive Characters](./1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./1447-simplified-fractions.js)|Medium|
 1450|[Number of Students Doing Homework at a Given Time](./1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
+1451|[Rearrange Words in a Sentence](./1451-rearrange-words-in-a-sentence.js)|Medium|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
