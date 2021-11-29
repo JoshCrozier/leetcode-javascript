@@ -152,6 +152,7 @@
 1437|[Check If All 1's Are at Least Length K Places Away](./1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
 1446|[Consecutive Characters](./1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./1447-simplified-fractions.js)|Medium|
+1450|[Number of Students Doing Homework at a Given Time](./1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
