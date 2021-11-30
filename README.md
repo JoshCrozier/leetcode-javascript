@@ -99,6 +99,7 @@
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
+821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
