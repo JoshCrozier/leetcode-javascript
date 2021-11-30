@@ -157,6 +157,7 @@
 1450|[Number of Students Doing Homework at a Given Time](./1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
 1451|[Rearrange Words in a Sentence](./1451-rearrange-words-in-a-sentence.js)|Medium|
 1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](./1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.js)|Easy|
+1456|[Maximum Number of Vowels in a Substring of Given Length](./1456-maximum-number-of-vowels-in-a-substring-of-given-length.js)|Medium|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
