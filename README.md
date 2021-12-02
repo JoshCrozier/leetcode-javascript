@@ -165,6 +165,7 @@
 1470|[Shuffle the Array](./1470-shuffle-the-array.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1475|[Final Prices With a Special Discount in a Shop](./1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
+1486|[XOR Operation in an Array](./1486-xor-operation-in-an-array.js)|Easy|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
