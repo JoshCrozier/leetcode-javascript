@@ -56,6 +56,7 @@
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
 179|[Largest Number](./0179-largest-number.js)|Medium|
+191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
 217|[Contains Duplicate](./0217-contains-duplicate.js)|Easy|
