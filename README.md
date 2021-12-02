@@ -62,6 +62,7 @@
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
 225|[Implement Stack using Queues](./0225-implement-stack-using-queues.js)|Easy|
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
+231|[Power of Two](./0231-power-of-two.js)|Easy|
 232|[Implement Queue using Stacks](./0232-implement-queue-using-stacks.js)|Easy|
 234|[Palindrome Linked List](./0234-palindrome-linked-list.js)|Easy|
 235|[Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree.js)|Easy|
