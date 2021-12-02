@@ -74,6 +74,7 @@
 273|[Integer to English Words](./0273-integer-to-english-words.js)|Hard|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
+342|[Power of Four](./0342-power-of-four.js)|Easy|
 345|[Reverse Vowels of a String](./0345-reverse-vowels-of-a-string.js)|Easy|
 347|[Top K Frequent Elements](./0347-top-k-frequent-elements.js)|Medium|
 349|[Intersection of Two Arrays](./0349-intersection-of-two-arrays.js)|Easy|
