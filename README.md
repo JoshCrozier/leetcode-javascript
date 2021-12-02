@@ -162,6 +162,7 @@
 1456|[Maximum Number of Vowels in a Substring of Given Length](./1456-maximum-number-of-vowels-in-a-substring-of-given-length.js)|Medium|
 1460|[Make Two Arrays Equal by Reversing Sub-arrays](./1460-make-two-arrays-equal-by-reversing-sub-arrays.js)|Easy|
 1464|[Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array.js)|Easy|
+1470|[Shuffle the Array](./1470-shuffle-the-array.js)|Easy|
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
