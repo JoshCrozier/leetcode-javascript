@@ -170,6 +170,7 @@
 1472|[Design Browser History](./1472-design-browser-history.js)|Medium|
 1475|[Final Prices With a Special Discount in a Shop](./1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
 1480|[Running Sum of 1d Array](./1480-running-sum-of-1d-array.js)|Easy|
+1481|[Least Number of Unique Integers after K Removals](./1481-least-number-of-unique-integers-after-k-removals.js)|Medium|
 1486|[XOR Operation in an Array](./1486-xor-operation-in-an-array.js)|Easy|
 1492|[The kth Factor of n](./1492-the-kth-factor-of-n.js)|Medium|
 1496|[Path Crossing](./1496-path-crossing.js)|Easy|
