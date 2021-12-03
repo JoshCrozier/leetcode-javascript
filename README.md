@@ -172,6 +172,7 @@
 1480|[Running Sum of 1d Array](./1480-running-sum-of-1d-array.js)|Easy|
 1481|[Least Number of Unique Integers after K Removals](./1481-least-number-of-unique-integers-after-k-removals.js)|Medium|
 1486|[XOR Operation in an Array](./1486-xor-operation-in-an-array.js)|Easy|
+1491|[Average Salary Excluding the Minimum and Maximum Salary](./1491-average-salary-excluding-the-minimum-and-maximum-salary.js)|Easy|
 1492|[The kth Factor of n](./1492-the-kth-factor-of-n.js)|Medium|
 1496|[Path Crossing](./1496-path-crossing.js)|Easy|
 1502|[Can Make Arithmetic Progression From Sequence](./1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
