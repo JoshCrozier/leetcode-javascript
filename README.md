@@ -171,6 +171,7 @@
 1475|[Final Prices With a Special Discount in a Shop](./1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
 1480|[Running Sum of 1d Array](./1480-running-sum-of-1d-array.js)|Easy|
 1486|[XOR Operation in an Array](./1486-xor-operation-in-an-array.js)|Easy|
+1496|[Path Crossing](./1496-path-crossing.js)|Easy|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
