@@ -174,6 +174,7 @@
 1486|[XOR Operation in an Array](./1486-xor-operation-in-an-array.js)|Easy|
 1491|[Average Salary Excluding the Minimum and Maximum Salary](./1491-average-salary-excluding-the-minimum-and-maximum-salary.js)|Easy|
 1492|[The kth Factor of n](./1492-the-kth-factor-of-n.js)|Medium|
+1493|[Longest Subarray of 1's After Deleting One Element](./1493-longest-subarray-of-1s-after-deleting-one-element.js)|Medium|
 1496|[Path Crossing](./1496-path-crossing.js)|Easy|
 1502|[Can Make Arithmetic Progression From Sequence](./1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
