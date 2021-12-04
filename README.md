@@ -177,6 +177,7 @@
 1493|[Longest Subarray of 1's After Deleting One Element](./1493-longest-subarray-of-1s-after-deleting-one-element.js)|Medium|
 1496|[Path Crossing](./1496-path-crossing.js)|Easy|
 1502|[Can Make Arithmetic Progression From Sequence](./1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
+1507|[Reformat Date](./1507-reformat-date.js)|Easy|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
