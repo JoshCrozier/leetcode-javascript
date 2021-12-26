@@ -190,6 +190,7 @@
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
+1935|[Maximum Number of Words You Can Type](./1935-maximum-number-of-words-you-can-type.js)|Easy|
 2000|[Reverse Prefix of Word](./2000-reverse-prefix-of-word.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./2016-maximum-difference-between-increasing-elements.js)|Easy|
 
