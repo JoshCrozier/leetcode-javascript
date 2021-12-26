@@ -61,6 +61,7 @@
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
+214|[Shortest Palindrome](./0214-shortest-palindrome.js)|Hard|
 217|[Contains Duplicate](./0217-contains-duplicate.js)|Easy|
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
 225|[Implement Stack using Queues](./0225-implement-stack-using-queues.js)|Easy|
