@@ -24,6 +24,7 @@
 20|[Valid Parentheses](./0020-valid-parentheses.js)|Easy|
 21|[Merge Two Sorted Lists](./0021-merge-two-sorted-lists.js)|Easy|
 27|[Remove Element](./0027-remove-element.js)|Easy|
+28|[Implement strStr()](./0028-implement-strstr.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
