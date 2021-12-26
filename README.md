@@ -105,6 +105,7 @@
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
+796|[Rotate String](./0796-rotate-string.js)|Easy|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
