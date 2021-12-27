@@ -187,6 +187,7 @@
 1550|[Three Consecutive Odds](./1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./1551-minimum-operations-to-make-array-equal.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
+1668|[Maximum Repeating Substring](./1668-maximum-repeating-substring.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
