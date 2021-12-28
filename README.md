@@ -24,6 +24,7 @@
 19|[Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list.js)|Medium|
 20|[Valid Parentheses](./0020-valid-parentheses.js)|Easy|
 21|[Merge Two Sorted Lists](./0021-merge-two-sorted-lists.js)|Easy|
+22|[Generate Parentheses](./0022-generate-parentheses.js)|Medium|
 27|[Remove Element](./0027-remove-element.js)|Easy|
 28|[Implement strStr()](./0028-implement-strstr.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
