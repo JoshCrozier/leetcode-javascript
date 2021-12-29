@@ -62,6 +62,7 @@
 145|[Binary Tree Postorder Traversal](./0145-binary-tree-postorder-traversal.js)|Easy|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
+169|[Majority Element](./0169-majority-element.js)|Easy|
 179|[Largest Number](./0179-largest-number.js)|Medium|
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
