@@ -54,6 +54,7 @@
 118|[Pascal's Triangle](./0118-pascals-triangle.js)|Easy|
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
+128|[Longest Consecutive Sequence](./0128-longest-consecutive-sequence.js)|Medium|
 133|[Clone Graph](./0133-clone-graph.js)|Medium|
 136|[Single Number](./0136-single-number.js)|Easy|
 141|[Linked List Cycle](./0141-linked-list-cycle.js)|Easy|
