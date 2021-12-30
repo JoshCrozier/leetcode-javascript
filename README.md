@@ -29,6 +29,7 @@
 27|[Remove Element](./0027-remove-element.js)|Easy|
 28|[Implement strStr()](./0028-implement-strstr.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
+33|[Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array.js)|Medium|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
 42|[Trapping Rain Water](./0042-trapping-rain-water.js)|Hard|
