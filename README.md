@@ -30,6 +30,7 @@
 28|[Implement strStr()](./0028-implement-strstr.js)|Easy|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 33|[Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array.js)|Medium|
+34|[Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 35|[Search Insert Position](./0035-search-insert-position.js)|Easy|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
