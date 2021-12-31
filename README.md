@@ -27,6 +27,7 @@
 22|[Generate Parentheses](./0022-generate-parentheses.js)|Medium|
 23|[Merge k Sorted Lists](./0023-merge-k-sorted-lists.js)|Hard|
 24|[Swap Nodes in Pairs](./0024-swap-nodes-in-pairs.js)|Medium|
+26|[Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array.js)|Easy|
 27|[Remove Element](./0027-remove-element.js)|Easy|
 28|[Implement strStr()](./0028-implement-strstr.js)|Easy|
 29|[Divide Two Integers](./0029-divide-two-integers.js)|Medium|
