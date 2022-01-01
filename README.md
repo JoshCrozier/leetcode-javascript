@@ -39,6 +39,7 @@
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
 42|[Trapping Rain Water](./0042-trapping-rain-water.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
+46|[Permutations](./0046-permutations.js)|Medium|
 49|[Group Anagrams](./0049-group-anagrams.js)|Medium|
 50|[Pow(x, n)](./0050-powx-n.js)|Medium|
 53|[Maximum Subarray](./0053-maximum-subarray.js)|Easy|
@@ -216,4 +217,4 @@
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2019-2021 [Josh Crozier](https://joshcrozier.com)
+Copyright (c) 2019-2022 [Josh Crozier](https://joshcrozier.com)
