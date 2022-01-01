@@ -206,6 +206,7 @@
 1566|[Detect Pattern of Length M Repeated K or More Times](./1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1668|[Maximum Repeating Substring](./1668-maximum-repeating-substring.js)|Easy|
+1672|[Richest Customer Wealth](./1672-richest-customer-wealth.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
