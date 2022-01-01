@@ -105,6 +105,7 @@
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
+506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 551|[Student Attendance Record I](./0551-student-attendance-record-i.js)|Easy|
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
