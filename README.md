@@ -213,6 +213,7 @@
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
 1935|[Maximum Number of Words You Can Type](./1935-maximum-number-of-words-you-can-type.js)|Easy|
+1996|[The Number of Weak Characters in the Game](./1996-the-number-of-weak-characters-in-the-game.js)|Medium|
 2000|[Reverse Prefix of Word](./2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./2016-maximum-difference-between-increasing-elements.js)|Easy|
