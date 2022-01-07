@@ -118,6 +118,7 @@
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
 566|[Reshape the Matrix](./0566-reshape-the-matrix.js)|Easy|
+567|[Permutation in String](./0567-permutation-in-string.js)|Medium|
 606|[Construct String from Binary Tree](./0606-construct-string-from-binary-tree.js)|Easy|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
 628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
