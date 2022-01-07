@@ -125,6 +125,7 @@
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 700|[Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree.js)|Easy|
 701|[Insert into a Binary Search Tree](./0701-insert-into-a-binary-search-tree.js)|Medium|
+704|[Binary Search](./0704-binary-search.js)|Easy|
 713|[Subarray Product Less Than K](./0713-subarray-product-less-than-k.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
