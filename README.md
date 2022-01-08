@@ -77,6 +77,7 @@
 167|[Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted.js)|Easy|
 169|[Majority Element](./0169-majority-element.js)|Easy|
 179|[Largest Number](./0179-largest-number.js)|Medium|
+189|[Rotate Array](./0189-rotate-array.js)|Medium|
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
