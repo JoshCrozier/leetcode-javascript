@@ -117,6 +117,7 @@
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
 506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
+542|[01 Matrix](./0542-01-matrix.js)|Medium|
 551|[Student Attendance Record I](./0551-student-attendance-record-i.js)|Easy|
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
