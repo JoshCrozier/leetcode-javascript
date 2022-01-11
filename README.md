@@ -151,6 +151,7 @@
 876|[Middle of the Linked List](./0876-middle-of-the-linked-list.js)|Easy|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
+905|[Sort Array By Parity](./0905-sort-array-by-parity.js)|Easy|
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
 925|[Long Pressed Name](./0925-long-pressed-name.js)|Easy|
 929|[Unique Email Addresses](./0929-unique-email-addresses.js)|Easy|
