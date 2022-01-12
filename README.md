@@ -153,6 +153,7 @@
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 905|[Sort Array By Parity](./0905-sort-array-by-parity.js)|Easy|
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
+922|[Sort Array By Parity II](./0922-sort-array-by-parity-ii.js)|Easy|
 925|[Long Pressed Name](./0925-long-pressed-name.js)|Easy|
 929|[Unique Email Addresses](./0929-unique-email-addresses.js)|Easy|
 966|[Vowel Spellchecker](./0966-vowel-spellchecker.js)|Medium|
