@@ -165,6 +165,7 @@
 1009|[Complement of Base 10 Integer](./1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
 1037|[Valid Boomerang](./1037-valid-boomerang.js)|Easy|
+1041|[Robot Bounded In Circle](./1041-robot-bounded-in-circle.js)|Medium|
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
 1189|[Maximum Number of Balloons](./1189-maximum-number-of-balloons.js)|Easy|
