@@ -244,6 +244,7 @@
 2011|[Final Value of Variable After Performing Operations](./2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./2016-maximum-difference-between-increasing-elements.js)|Easy|
 2047|[Number of Valid Words in a Sentence](./2047-number-of-valid-words-in-a-sentence.js)|Easy|
+2053|[Kth Distinct String in an Array](./2053-kth-distinct-string-in-an-array.js)|Medium|
 2095|[Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 
