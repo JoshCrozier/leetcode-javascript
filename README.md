@@ -164,6 +164,7 @@
 977|[Squares of a Sorted Array](./0977-squares-of-a-sorted-array.js)|Easy|
 985|[Sum of Even Numbers After Queries](./0985-sum-of-even-numbers-after-queries.js)|Easy|
 989|[Add to Array-Form of Integer](./0989-add-to-array-form-of-integer.js)|Easy|
+994|[Rotting Oranges](./0994-rotting-oranges.js)|Medium|
 997|[Find the Town Judge](./0997-find-the-town-judge.js)|Easy|
 1009|[Complement of Base 10 Integer](./1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
