@@ -60,6 +60,7 @@
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 94|[Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal.js)|Easy|
 98|[Validate Binary Search Tree](./0098-validate-binary-search-tree.js)|Medium|
+100|[Same Tree](./0100-same-tree.js)|Easy|
 101|[Symmetric Tree](./0101-symmetric-tree.js)|Easy|
 102|[Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal.js)|Medium|
 104|[Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree.js)|Easy|
