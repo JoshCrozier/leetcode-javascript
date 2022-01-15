@@ -174,6 +174,7 @@
 997|[Find the Town Judge](./0997-find-the-town-judge.js)|Easy|
 1009|[Complement of Base 10 Integer](./1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
+1022|[Sum of Root To Leaf Binary Numbers](./1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1037|[Valid Boomerang](./1037-valid-boomerang.js)|Easy|
 1041|[Robot Bounded In Circle](./1041-robot-bounded-in-circle.js)|Medium|
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
