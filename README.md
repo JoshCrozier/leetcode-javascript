@@ -39,6 +39,7 @@
 34|[Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 35|[Search Insert Position](./0035-search-insert-position.js)|Easy|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
+39|[Combination Sum](./0039-combination-sum.js)|Medium|
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
 42|[Trapping Rain Water](./0042-trapping-rain-water.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
