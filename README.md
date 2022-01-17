@@ -132,6 +132,7 @@
 606|[Construct String from Binary Tree](./0606-construct-string-from-binary-tree.js)|Easy|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
 628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
+645|[Set Mismatch](./0645-set-mismatch.js)|Medium|
 648|[Replace Words](./0648-replace-words.js)|Medium|
 653|[Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst.js)|Easy|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
