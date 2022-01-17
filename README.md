@@ -234,6 +234,7 @@
 1496|[Path Crossing](./1496-path-crossing.js)|Easy|
 1502|[Can Make Arithmetic Progression From Sequence](./1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1507|[Reformat Date](./1507-reformat-date.js)|Easy|
+1512|[Number of Good Pairs](./1512-number-of-good-pairs.js)|Easy|
 1550|[Three Consecutive Odds](./1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./1551-minimum-operations-to-make-array-equal.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
