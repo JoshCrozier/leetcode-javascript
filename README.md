@@ -89,6 +89,7 @@
 198|[House Robber](./0198-house-robber.js)|Medium|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
+213|[House Robber II](./0213-house-robber-ii.js)|Medium|
 214|[Shortest Palindrome](./0214-shortest-palindrome.js)|Hard|
 217|[Contains Duplicate](./0217-contains-duplicate.js)|Easy|
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
