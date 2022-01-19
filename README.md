@@ -86,6 +86,7 @@
 189|[Rotate Array](./0189-rotate-array.js)|Medium|
 190|[Reverse Bits](./0190-reverse-bits.js)|Easy|
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
+198|[House Robber](./0198-house-robber.js)|Medium|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
 214|[Shortest Palindrome](./0214-shortest-palindrome.js)|Hard|
