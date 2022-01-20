@@ -247,6 +247,7 @@
 1550|[Three Consecutive Odds](./1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./1551-minimum-operations-to-make-array-equal.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
+1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
 1668|[Maximum Repeating Substring](./1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./1669-merge-in-between-linked-lists.js)|Medium|
