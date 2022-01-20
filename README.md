@@ -70,6 +70,7 @@
 116|[Populating Next Right Pointers in Each Node](./0116-populating-next-right-pointers-in-each-node.js)|Medium|
 118|[Pascal's Triangle](./0118-pascals-triangle.js)|Easy|
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
+120|[Triangle](./0120-triangle.js)|Medium|
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
 128|[Longest Consecutive Sequence](./0128-longest-consecutive-sequence.js)|Medium|
 133|[Clone Graph](./0133-clone-graph.js)|Medium|
