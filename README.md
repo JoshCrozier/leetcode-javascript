@@ -254,6 +254,7 @@
 1668|[Maximum Repeating Substring](./1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./1669-merge-in-between-linked-lists.js)|Medium|
 1672|[Richest Customer Wealth](./1672-richest-customer-wealth.js)|Easy|
+1716|[Calculate Money in Leetcode Bank](./1716-calculate-money-in-leetcode-bank.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./1832-check-if-the-sentence-is-pangram.js)|Easy|
