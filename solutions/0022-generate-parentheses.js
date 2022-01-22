@@ -18,7 +18,7 @@ var generateParenthesis = function(n) {
 };
 
 function backtrack(result, str, open, close, max) {
-  if (str.length == max * 2){
+  if (str.length === max * 2) {
     result.push(str);
     return;
   }
