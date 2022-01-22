@@ -257,6 +257,7 @@
 1716|[Calculate Money in Leetcode Bank](./1716-calculate-money-in-leetcode-bank.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
+1791|[Find Center of Star Graph](./1791-find-center-of-star-graph.js)|Easy|
 1832|[Check if the Sentence Is Pangram](./1832-check-if-the-sentence-is-pangram.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
