@@ -121,6 +121,7 @@
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
+414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
