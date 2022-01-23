@@ -272,6 +272,7 @@
 2053|[Kth Distinct String in an Array](./2053-kth-distinct-string-in-an-array.js)|Medium|
 2085|[Count Common Words With One Occurrence](./2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
+2099|[Find Subsequence of Length K With the Largest Sum](./2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 
 ## License
