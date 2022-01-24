@@ -90,6 +90,7 @@
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
 198|[House Robber](./0198-house-robber.js)|Medium|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
+204|[Count Primes](./0204-count-primes.js)|Medium|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
 213|[House Robber II](./0213-house-robber-ii.js)|Medium|
 214|[Shortest Palindrome](./0214-shortest-palindrome.js)|Hard|
