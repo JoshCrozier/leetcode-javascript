@@ -131,6 +131,7 @@
 476|[Number Complement](./0476-number-complement.js)|Easy|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
 506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
+520|[Detect Capital](./0520-detect-capital.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
 551|[Student Attendance Record I](./0551-student-attendance-record-i.js)|Easy|
