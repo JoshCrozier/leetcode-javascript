@@ -277,6 +277,7 @@
 2000|[Reverse Prefix of Word](./2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./2016-maximum-difference-between-increasing-elements.js)|Easy|
+2027|[Minimum Moves to Convert String](./2027-minimum-moves-to-convert-string.js)|Easy|
 2047|[Number of Valid Words in a Sentence](./2047-number-of-valid-words-in-a-sentence.js)|Easy|
 2053|[Kth Distinct String in an Array](./2053-kth-distinct-string-in-an-array.js)|Medium|
 2085|[Count Common Words With One Occurrence](./2085-count-common-words-with-one-occurrence.js)|Easy|
