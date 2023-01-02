@@ -114,6 +114,7 @@
 278|[First Bad Version](./0278-first-bad-version.js)|Medium|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
+316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 342|[Power of Four](./0342-power-of-four.js)|Easy|
 344|[Reverse String](./0344-reverse-string.js)|Easy|
