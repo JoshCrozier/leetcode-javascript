@@ -193,6 +193,7 @@
 1022|[Sum of Root To Leaf Binary Numbers](./1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1037|[Valid Boomerang](./1037-valid-boomerang.js)|Easy|
 1041|[Robot Bounded In Circle](./1041-robot-bounded-in-circle.js)|Medium|
+1081|[Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
 1189|[Maximum Number of Balloons](./1189-maximum-number-of-balloons.js)|Easy|
