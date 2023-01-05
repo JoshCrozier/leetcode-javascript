@@ -289,6 +289,7 @@
 2099|[Find Subsequence of Length K With the Largest Sum](./2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 2129|[Capitalize the Title](./2129-capitalize-the-title.js)|Easy|
+2154|[Keep Multiplying Found Values by Two](./2154-keep-multiplying-found-values-by-two.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
 
