@@ -55,6 +55,7 @@
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
+69|[Sqrt(x)](./0069-sqrtx.js)|Medium|
 70|[Climbing Stairs](./0070-climbing-stairs.js)|Easy|
 73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
 74|[Search a 2D Matrix](./0074-search-a-2d-matrix.js)|Medium|
