@@ -131,6 +131,7 @@
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
+452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
 476|[Number Complement](./0476-number-complement.js)|Easy|
