@@ -127,6 +127,7 @@
 347|[Top K Frequent Elements](./0347-top-k-frequent-elements.js)|Medium|
 349|[Intersection of Two Arrays](./0349-intersection-of-two-arrays.js)|Easy|
 350|[Intersection of Two Arrays II](./0350-intersection-of-two-arrays-ii.js)|Easy|
+367|[Valid Perfect Square](./0367-valid-perfect-square.js)|Easy|
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
