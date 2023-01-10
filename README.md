@@ -282,6 +282,7 @@
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1791|[Find Center of Star Graph](./1791-find-center-of-star-graph.js)|Easy|
 1812|[Determine Color of a Chessboard Square](./1812-determine-color-of-a-chessboard-square.js)|Easy|
+1817|[Finding the Users Active Minutes](./1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./1832-check-if-the-sentence-is-pangram.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
