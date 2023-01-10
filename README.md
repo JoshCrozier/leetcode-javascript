@@ -230,6 +230,7 @@
 1318|[Minimum Flips to Make a OR b Equal to c](./1318-minimum-flips-to-make-a-or-b-equal-to-c.js)|Medium|
 1323|[Maximum 69 Number](./1323-maximum-69-number.js)|Easy|
 1324|[Print Words Vertically](./1324-print-words-vertically.js)|Medium|
+1331|[Rank Transform of an Array](./1331-rank-transform-of-an-array.js)|Easy|
 1332|[Remove Palindromic Subsequences](./1332-remove-palindromic-subsequences.js)|Easy|
 1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](./1333-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
 1342|[Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero.js)|Easy|
