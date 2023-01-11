@@ -61,6 +61,7 @@
 74|[Search a 2D Matrix](./0074-search-a-2d-matrix.js)|Medium|
 77|[Combinations](./0077-combinations.js)|Medium|
 78|[Subsets](./0078-subsets.js)|Medium|
+80|[Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii.js)|Medium|
 83|[Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list.js)|Easy|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 90|[Subsets II](./0090-subsets-ii.js)|Medium|
