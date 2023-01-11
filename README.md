@@ -248,6 +248,7 @@
 1431|[Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1436|[Destination City](./1436-destination-city.js)|Easy|
 1437|[Check If All 1's Are at Least Length K Places Away](./1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
+1443|[Minimum Time to Collect All Apples in a Tree](./1443-minimum-time-to-collect-all-apples-in-a-tree.js)|Medium|
 1446|[Consecutive Characters](./1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./1447-simplified-fractions.js)|Medium|
 1450|[Number of Students Doing Homework at a Given Time](./1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
