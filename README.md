@@ -309,6 +309,7 @@
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
+2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
 
 ## License
 
