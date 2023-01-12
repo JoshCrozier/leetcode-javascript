@@ -35,6 +35,7 @@
 27|[Remove Element](./0027-remove-element.js)|Easy|
 28|[Implement strStr()](./0028-implement-strstr.js)|Easy|
 29|[Divide Two Integers](./0029-divide-two-integers.js)|Medium|
+30|[Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words.js)|Hard|
 31|[Next Permutation](./0031-next-permutation.js)|Medium|
 33|[Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array.js)|Medium|
 34|[Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
