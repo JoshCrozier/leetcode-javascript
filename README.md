@@ -143,6 +143,7 @@
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
 452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
+461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
