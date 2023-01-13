@@ -309,6 +309,7 @@
 2154|[Keep Multiplying Found Values by Two](./2154-keep-multiplying-found-values-by-two.js)|Easy|
 2235|[Add Two Integers](./2235-add-two-integers.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
+2396|[Strictly Palindromic Number](./2396-strictly-palindromic-number.js)|Medium|
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
