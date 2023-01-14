@@ -79,6 +79,7 @@
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
 120|[Triangle](./0120-triangle.js)|Medium|
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
+125|[Valid Palindrome](./0125-valid-palindrome.js)|Easy|
 128|[Longest Consecutive Sequence](./0128-longest-consecutive-sequence.js)|Medium|
 133|[Clone Graph](./0133-clone-graph.js)|Medium|
 134|[Gas Station](./0134-gas-station.js)|Medium|
