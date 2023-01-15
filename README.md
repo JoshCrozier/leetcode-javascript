@@ -103,6 +103,7 @@
 190|[Reverse Bits](./0190-reverse-bits.js)|Easy|
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
 198|[House Robber](./0198-house-robber.js)|Medium|
+202|[Happy Number](./0202-happy-number.js)|Easy|
 203|[Remove Linked List Elements](./0203-remove-linked-list-elements.js)|Easy|
 204|[Count Primes](./0204-count-primes.js)|Medium|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
