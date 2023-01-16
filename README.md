@@ -49,6 +49,7 @@
 42|[Trapping Rain Water](./0042-trapping-rain-water.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
 46|[Permutations](./0046-permutations.js)|Medium|
+47|[Permutations II](./0047-permutations-ii.js)|Medium|
 48|[Rotate Image](./0048-rotate-image.js)|Medium|
 49|[Group Anagrams](./0049-group-anagrams.js)|Medium|
 50|[Pow(x, n)](./0050-powx-n.js)|Medium|
