@@ -285,6 +285,7 @@
 1502|[Can Make Arithmetic Progression From Sequence](./1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1507|[Reformat Date](./1507-reformat-date.js)|Easy|
 1512|[Number of Good Pairs](./1512-number-of-good-pairs.js)|Easy|
+1519|[Number of Nodes in the Sub-Tree With the Same Label](./1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1528|[Shuffle String](./1528-shuffle-string.js)|Easy|
 1550|[Three Consecutive Odds](./1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./1551-minimum-operations-to-make-array-equal.js)|Medium|
