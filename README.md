@@ -208,6 +208,7 @@
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
 922|[Sort Array By Parity II](./0922-sort-array-by-parity-ii.js)|Easy|
 925|[Long Pressed Name](./0925-long-pressed-name.js)|Easy|
+926|[Flip String to Monotone Increasing](./0926-flip-string-to-monotone-increasing.js)|Medium|
 929|[Unique Email Addresses](./0929-unique-email-addresses.js)|Easy|
 966|[Vowel Spellchecker](./0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./0970-powerful-integers.js)|Easy|
