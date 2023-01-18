@@ -42,6 +42,7 @@
 34|[Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 35|[Search Insert Position](./0035-search-insert-position.js)|Easy|
 36|[Valid Sudoku](./0036-valid-sudoku.js)|Medium|
+37|[Sudoku Solver](./0037-sudoku-solver.js)|Hard|
 38|[Count and Say](./0038-count-and-say.js)|Medium|
 39|[Combination Sum](./0039-combination-sum.js)|Medium|
 40|[Combination Sum II](./0040-combination-sum-ii.js)|Medium|
