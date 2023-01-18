@@ -48,6 +48,7 @@
 41|[First Missing Positive](./0041-first-missing-positive.js)|Hard|
 42|[Trapping Rain Water](./0042-trapping-rain-water.js)|Hard|
 43|[Multiply Strings](./0043-multiply-strings.js)|Medium|
+45|[Jump Game II](./0045-jump-game-ii.js)|Medium|
 46|[Permutations](./0046-permutations.js)|Medium|
 47|[Permutations II](./0047-permutations-ii.js)|Medium|
 48|[Rotate Image](./0048-rotate-image.js)|Medium|
