@@ -332,6 +332,7 @@
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
+2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 
 ## License
 
