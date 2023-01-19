@@ -331,6 +331,7 @@
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
+2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 
 ## License
 
