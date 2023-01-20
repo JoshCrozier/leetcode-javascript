@@ -161,6 +161,7 @@
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 491|[Non-decreasing Subsequences](./0491-non-decreasing-subsequences.js)|Medium|
+492|[Construct the Rectangle](./0492-construct-the-rectangle.js)|Easy|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
 506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
 509|[Fibonacci Number](./0509-fibonacci-number.js)|Easy|
