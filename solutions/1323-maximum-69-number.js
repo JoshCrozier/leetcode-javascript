@@ -1,6 +1,6 @@
 /**
  * 1323. Maximum 69 Number
- * https://leetcode.com/problems/maximum-69-number/submissions/
+ * https://leetcode.com/problems/maximum-69-number/
  * Difficulty: Easy
  *
  * Given a positive integer num consisting only of digits 6 and 9.
@@ -13,6 +13,6 @@
  * @param {number} num
  * @return {number}
  */
-var maximum69Number  = function(num) {
+var maximum69Number = function(num) {
   return +String(num).replace(6, 9);
 };
