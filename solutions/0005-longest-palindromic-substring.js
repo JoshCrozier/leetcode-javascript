@@ -14,10 +14,11 @@ var longestPalindrome = function(s) {
   let result = '';
 
   for (let i = 0; i < s.length; i++) {
-    let palindrome1 = getExtendedPalindrome(s, i, i);
-    let palindrome2 = getExtendedPalindrome(s, i, i + 1);
-    let longerPalindrome = palindrome1.length > palindrome2.length
-      ? palindrome1 : palindrome2;
+    const palindrome1 = getExtendedPalindrome(s, i, i);
+    const palindrome2 = getExtendedPalindrome(s, i, i + 1);
+    const longerPalindrome = palindrome1.length > palindrome2.length
+      ? palindrome1
+      : palindrome2;
 
     if (longerPalindrome.length > result.length) {
       result = longerPalindrome;
