@@ -164,6 +164,7 @@
 492|[Construct the Rectangle](./0492-construct-the-rectangle.js)|Easy|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
 501|[Find Mode in Binary Search Tree](./0501-find-mode-in-binary-search-tree.js)|Easy|
+502|[IPO](./0502-ipo.js)|Hard|
 506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
 509|[Fibonacci Number](./0509-fibonacci-number.js)|Easy|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
