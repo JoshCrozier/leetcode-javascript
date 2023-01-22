@@ -90,6 +90,7 @@
 121|[Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock.js)|Easy|
 125|[Valid Palindrome](./0125-valid-palindrome.js)|Easy|
 128|[Longest Consecutive Sequence](./0128-longest-consecutive-sequence.js)|Medium|
+131|[Palindrome Partitioning](./0131-palindrome-partitioning.js)|Medium|
 133|[Clone Graph](./0133-clone-graph.js)|Medium|
 134|[Gas Station](./0134-gas-station.js)|Medium|
 135|[Candy](./0135-candy.js)|Hard|
