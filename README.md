@@ -57,6 +57,7 @@
 49|[Group Anagrams](./0049-group-anagrams.js)|Medium|
 50|[Pow(x, n)](./0050-powx-n.js)|Medium|
 51|[N-Queens](./0051-n-queens.js)|Hard|
+52|[N-Queens II](./0052-n-queens-ii.js)|Hard|
 53|[Maximum Subarray](./0053-maximum-subarray.js)|Easy|
 54|[Spiral Matrix](./0054-spiral-matrix.js)|Medium|
 57|[Insert Interval](./0057-insert-interval.js)|Medium|
