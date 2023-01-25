@@ -155,6 +155,7 @@
 350|[Intersection of Two Arrays II](./0350-intersection-of-two-arrays-ii.js)|Easy|
 367|[Valid Perfect Square](./0367-valid-perfect-square.js)|Easy|
 371|[Sum of Two Integers](./0371-sum-of-two-integers.js)|Medium|
+372|[Super Pow](./0372-super-pow.js)|Medium|
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
