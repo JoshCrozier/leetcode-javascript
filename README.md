@@ -163,6 +163,7 @@
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
+405|[Convert a Number to Hexadecimal](./0405-convert-a-number-to-hexadecimal.js)|Easy|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 419|[Battleships in a Board](./0419-battleships-in-a-board.js)|Medium|
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
