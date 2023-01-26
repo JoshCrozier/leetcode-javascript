@@ -60,6 +60,7 @@
 52|[N-Queens II](./0052-n-queens-ii.js)|Hard|
 53|[Maximum Subarray](./0053-maximum-subarray.js)|Easy|
 54|[Spiral Matrix](./0054-spiral-matrix.js)|Medium|
+55|[Jump Game](./0055-jump-game.js)|Medium|
 57|[Insert Interval](./0057-insert-interval.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 59|[Spiral Matrix II](./0059-spiral-matrix-ii.js)|Medium|
