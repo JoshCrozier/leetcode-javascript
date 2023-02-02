@@ -85,6 +85,7 @@
 95|[Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii.js)|Medium|
 96|[Unique Binary Search Trees](./0096-unique-binary-search-trees.js)|Medium|
 98|[Validate Binary Search Tree](./0098-validate-binary-search-tree.js)|Medium|
+99|[Recover Binary Search Tree](./0099-recover-binary-search-tree.js)|Medium|
 100|[Same Tree](./0100-same-tree.js)|Easy|
 101|[Symmetric Tree](./0101-symmetric-tree.js)|Easy|
 102|[Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal.js)|Medium|
