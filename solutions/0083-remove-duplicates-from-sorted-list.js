@@ -20,17 +20,14 @@
  */
 var deleteDuplicates = function(head) {
   const result = new ListNode();
-  const set = new Set();
   let tail = result;
 
   while (head) {
-    if (!set.has(head.val)) {
+    if (head.val !== head.next?.val) {
       tail.next = new ListNode(head.val);
       tail = tail.next;
     }
-
-    set.add(head.val);
-
+    previous = head.val;
     head = head.next;
   }
 
