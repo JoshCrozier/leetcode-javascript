@@ -81,6 +81,7 @@
 83|[Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list.js)|Easy|
 86|[Partition List](./0086-partition-list.js)|Medium|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
+89|[Gray Code](./0089-gray-code.js)|Medium|
 90|[Subsets II](./0090-subsets-ii.js)|Medium|
 93|[Restore IP Addresses](./0093-restore-ip-addresses.js)|Medium|
 94|[Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal.js)|Easy|
