@@ -361,9 +361,10 @@
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
+3402|[Minimum Operations to Make Columns Strictly Increasing](./3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2019-2023 [Josh Crozier](https://joshcrozier.com)
+Copyright (c) 2019-2025 [Josh Crozier](https://joshcrozier.com)
