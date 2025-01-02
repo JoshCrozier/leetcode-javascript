@@ -361,6 +361,7 @@
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
+2618|[Check if Object Instance of Class](./2618-check-if-object-instance-of-class.js)|Medium|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
