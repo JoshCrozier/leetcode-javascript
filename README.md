@@ -363,6 +363,7 @@
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2618|[Check if Object Instance of Class](./2618-check-if-object-instance-of-class.js)|Medium|
 2619|[Array Prototype Last](./2619-array-prototype-last.js)|Easy|
+2629|[Function Composition](./2629-function-composition.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
