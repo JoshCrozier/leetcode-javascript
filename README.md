@@ -365,6 +365,7 @@
 2619|[Array Prototype Last](./2619-array-prototype-last.js)|Easy|
 2620|[Counter](./2620-counter.js)|Easy|
 2621|[Sleep](./2621-sleep.js)|Easy|
+2622|[Cache With Time Limit](./2622-cache-with-time-limit.js)|Medium|
 2629|[Function Composition](./2629-function-composition.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
