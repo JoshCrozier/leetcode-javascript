@@ -362,6 +362,7 @@
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
+3397|[Maximum Number of Distinct Elements After Operations](./3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
 3402|[Minimum Operations to Make Columns Strictly Increasing](./3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 
 ## License
