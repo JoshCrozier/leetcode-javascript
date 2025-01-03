@@ -65,6 +65,7 @@
 57|[Insert Interval](./0057-insert-interval.js)|Medium|
 58|[Length of Last Word](./0058-length-of-last-word.js)|Easy|
 59|[Spiral Matrix II](./0059-spiral-matrix-ii.js)|Medium|
+60|[Permutation Sequence](./0060-permutation-sequence.js)|Hard|
 62|[Unique Paths](./0062-unique-paths.js)|Medium|
 64|[Minimum Path Sum](./0064-minimum-path-sum.js)|Medium|
 66|[Plus One](./0066-plus-one.js)|Easy|
