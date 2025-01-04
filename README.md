@@ -176,6 +176,7 @@
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 419|[Battleships in a Board](./0419-battleships-in-a-board.js)|Medium|
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
+443|[String Compression](./0443-string-compression.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
 452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
