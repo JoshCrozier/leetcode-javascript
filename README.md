@@ -159,6 +159,7 @@
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
+334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
 342|[Power of Four](./0342-power-of-four.js)|Easy|
 344|[Reverse String](./0344-reverse-string.js)|Easy|
 345|[Reverse Vowels of a String](./0345-reverse-vowels-of-a-string.js)|Easy|
