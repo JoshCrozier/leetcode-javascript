@@ -337,6 +337,7 @@
 1672|[Richest Customer Wealth](./1672-richest-customer-wealth.js)|Easy|
 1716|[Calculate Money in Leetcode Bank](./1716-calculate-money-in-leetcode-bank.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
+1768|[Merge Strings Alternately](./1768-merge-strings-alternately.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1791|[Find Center of Star Graph](./1791-find-center-of-star-graph.js)|Easy|
 1812|[Determine Color of a Chessboard Square](./1812-determine-color-of-a-chessboard-square.js)|Easy|
