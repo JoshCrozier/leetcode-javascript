@@ -369,6 +369,7 @@
 2621|[Sleep](./2621-sleep.js)|Easy|
 2622|[Cache With Time Limit](./2622-cache-with-time-limit.js)|Medium|
 2623|[Memoize](./2623-memoize.js)|Medium|
+2627|[Debounce](./2627-debounce.js)|Medium|
 2629|[Function Composition](./2629-function-composition.js)|Easy|
 2630|[Memoize II](./2630-memoize-ii.js)|Hard|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
