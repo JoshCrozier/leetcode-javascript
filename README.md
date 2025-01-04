@@ -173,6 +173,7 @@
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
+392|[Is Subsequence](./0392-is-subsequence.js)|Easy|
 405|[Convert a Number to Hexadecimal](./0405-convert-a-number-to-hexadecimal.js)|Easy|
 412|[Fizz Buzz](./0412-fizz-buzz.js)|Easy|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
