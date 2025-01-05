@@ -333,6 +333,7 @@
 1566|[Detect Pattern of Length M Repeated K or More Times](./1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./1598-crawler-log-folder.js)|Easy|
+1657|[Determine if Two Strings Are Close](./1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./1669-merge-in-between-linked-lists.js)|Medium|
 1672|[Richest Customer Wealth](./1672-richest-customer-wealth.js)|Easy|
