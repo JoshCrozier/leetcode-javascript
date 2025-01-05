@@ -68,6 +68,7 @@
 60|[Permutation Sequence](./0060-permutation-sequence.js)|Hard|
 62|[Unique Paths](./0062-unique-paths.js)|Medium|
 64|[Minimum Path Sum](./0064-minimum-path-sum.js)|Medium|
+65|[Valid Number](./0065-valid-number.js)|Hard|
 66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
 69|[Sqrt(x)](./0069-sqrtx.js)|Medium|
