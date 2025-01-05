@@ -74,6 +74,7 @@
 70|[Climbing Stairs](./0070-climbing-stairs.js)|Easy|
 73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
 74|[Search a 2D Matrix](./0074-search-a-2d-matrix.js)|Medium|
+75|[Sort Colors](./0075-sort-colors.js)|Medium|
 77|[Combinations](./0077-combinations.js)|Medium|
 78|[Subsets](./0078-subsets.js)|Medium|
 80|[Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii.js)|Medium|
