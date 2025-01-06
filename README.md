@@ -387,6 +387,7 @@
 2629|[Function Composition](./2629-function-composition.js)|Easy|
 2630|[Memoize II](./2630-memoize-ii.js)|Hard|
 2637|[Promise Time Limit](./2637-promise-time-limit.js)|Medium|
+2648|[Generate Fibonacci Sequence](./2648-generate-fibonacci-sequence.js)|Easy|
 2703|[Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)|Easy|
 3110|[Score of a String](./3110-score-of-a-string.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
