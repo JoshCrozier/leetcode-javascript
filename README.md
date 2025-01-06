@@ -391,6 +391,7 @@
 2649|[Nested Array Generator](./2649-nested-array-generator.js)|Medium|
 2650|[Design Cancellable Function](./2650-design-cancellable-function.js)|Hard|
 2665|[Counter II](./2665-counter-ii.js)|Easy|
+2667|[Create Hello World Function](./2667-create-hello-world-function.js)|Easy|
 2703|[Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)|Easy|
 3110|[Score of a String](./3110-score-of-a-string.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
