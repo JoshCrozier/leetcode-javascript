@@ -387,6 +387,7 @@
 2627|[Debounce](./2627-debounce.js)|Medium|
 2629|[Function Composition](./2629-function-composition.js)|Easy|
 2630|[Memoize II](./2630-memoize-ii.js)|Hard|
+2631|[Group By](./2631-group-by.js)|Medium|
 2634|[Filter Elements from Array](./2634-filter-elements-from-array.js)|Easy|
 2635|[Apply Transform Over Each Element in Array](./2635-apply-transform-over-each-element-in-array.js)|Easy|
 2637|[Promise Time Limit](./2637-promise-time-limit.js)|Medium|
