@@ -386,6 +386,7 @@
 2627|[Debounce](./2627-debounce.js)|Medium|
 2629|[Function Composition](./2629-function-composition.js)|Easy|
 2630|[Memoize II](./2630-memoize-ii.js)|Hard|
+2634|[Filter Elements from Array](./2634-filter-elements-from-array.js)|Easy|
 2637|[Promise Time Limit](./2637-promise-time-limit.js)|Medium|
 2648|[Generate Fibonacci Sequence](./2648-generate-fibonacci-sequence.js)|Easy|
 2649|[Nested Array Generator](./2649-nested-array-generator.js)|Medium|
