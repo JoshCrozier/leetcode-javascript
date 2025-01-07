@@ -383,6 +383,7 @@
 2621|[Sleep](./2621-sleep.js)|Easy|
 2622|[Cache With Time Limit](./2622-cache-with-time-limit.js)|Medium|
 2623|[Memoize](./2623-memoize.js)|Medium|
+2626|[Array Reduce Transformation](./2626-array-reduce-transformation.js)|Easy|
 2627|[Debounce](./2627-debounce.js)|Medium|
 2629|[Function Composition](./2629-function-composition.js)|Easy|
 2630|[Memoize II](./2630-memoize-ii.js)|Hard|
