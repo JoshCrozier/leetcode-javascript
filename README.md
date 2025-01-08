@@ -184,6 +184,7 @@
 412|[Fizz Buzz](./0412-fizz-buzz.js)|Easy|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 419|[Battleships in a Board](./0419-battleships-in-a-board.js)|Medium|
+435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 443|[String Compression](./0443-string-compression.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
