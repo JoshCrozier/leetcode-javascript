@@ -83,6 +83,7 @@
 81|[Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii.js)|Medium|
 82|[Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii.js)|Medium|
 83|[Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list.js)|Easy|
+84|[Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram.js)|Hard|
 85|[Maximal Rectangle](./0085-maximal-rectangle.js)|Hard|
 86|[Partition List](./0086-partition-list.js)|Medium|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
