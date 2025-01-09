@@ -407,6 +407,7 @@
 2677|[Chunk Array](./2677-chunk-array.js)|Easy|
 2695|[Array Wrapper](./2695-array-wrapper.js)|Easy|
 2703|[Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)|Easy|
+2715|[Timeout Cancellation](./2715-timeout-cancellation.js)|Easy|
 2721|[Execute Asynchronous Functions in Parallel](./2721-execute-asynchronous-functions-in-parallel.js)|Medium|
 2722|[Join Two Arrays by ID](./2722-join-two-arrays-by-id.js)|Medium|
 2724|[Sort By](./2724-sort-by.js)|Easy|
