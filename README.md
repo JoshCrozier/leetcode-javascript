@@ -408,6 +408,7 @@
 2695|[Array Wrapper](./2695-array-wrapper.js)|Easy|
 2703|[Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)|Easy|
 2721|[Execute Asynchronous Functions in Parallel](./2721-execute-asynchronous-functions-in-parallel.js)|Medium|
+2722|[Join Two Arrays by ID](./2722-join-two-arrays-by-id.js)|Medium|
 2724|[Sort By](./2724-sort-by.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3110|[Score of a String](./3110-score-of-a-string.js)|Easy|
