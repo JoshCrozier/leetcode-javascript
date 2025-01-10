@@ -3,28 +3,29 @@
  * https://leetcode.com/problems/word-subsets/
  * Difficulty: Medium
  *
- * We are given two arrays A and B of words.  Each word is a string of lowercase letters.
+ * You are given two string arrays words1 and words2.
  *
- * Now, say that word b is a subset of word a if every letter in b occurs in a, including
- * multiplicity.  For example, "wrr" is a subset of "warrior", but is not a subset of "world".
+ * A string b is a subset of string a if every letter in b occurs in a including multiplicity.
  *
- * Now say a word a from A is universal if for every b in B, b is a subset of a.
+ * For example, "wrr" is a subset of "warrior" but is not a subset of "world".
  *
- * Return a list of all universal words in A.  You can return the words in any order.
+ * A string a from words1 is universal if for every string b in words2, b is a subset of a.
+ *
+ * Return an array of all the universal strings in words1. You may return the answer in any order.
  */
 
 /**
- * @param {string[]} A
- * @param {string[]} B
+ * @param {string[]} words1
+ * @param {string[]} words2
  * @return {string[]}
  */
-var wordSubsets = function(A, B) {
+var wordSubsets = function(words1, words2) {
   const count = (string, char) => string.split(char).length - 1;
-  const subset = Array.from(B.reduce((map, b) => {
+  const subset = Array.from(words2.reduce((map, b) => {
     b.split('').forEach(char => {
       map.set(char, (map.get(char) || 0) > count(b, char) ? map.get(char) : count(b, char));
     });
     return map;
   }, new Map()));
-  return A.filter(a => subset.every(match => count(a, match[0]) >= match[1]));
+  return words1.filter(a => subset.every(match => count(a, match[0]) >= match[1]));
 };
