@@ -278,6 +278,7 @@
 1081|[Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
+1122|[Relative Sort Array](./1122-relative-sort-array.js)|Easy|
 1189|[Maximum Number of Balloons](./1189-maximum-number-of-balloons.js)|Easy|
 1207|[Unique Number of Occurrences](./1207-unique-number-of-occurrences.js)|Easy|
 1232|[Check If It Is a Straight Line](./1232-check-if-it-is-a-straight-line.js)|Easy|
