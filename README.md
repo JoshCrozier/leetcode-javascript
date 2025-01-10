@@ -358,6 +358,7 @@
 1812|[Determine Color of a Chessboard Square](./1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./1832-check-if-the-sentence-is-pangram.js)|Easy|
+1833|[Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1920|[Build Array from Permutation](./1920-build-array-from-permutation.js)|Easy|
