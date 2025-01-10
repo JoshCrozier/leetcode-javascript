@@ -161,6 +161,7 @@
 264|[Ugly Number II](./0264-ugly-number-ii.js)|Medium|
 268|[Missing Number](./0268-missing-number.js)|Easy|
 273|[Integer to English Words](./0273-integer-to-english-words.js)|Hard|
+274|[H-Index](./0274-h-index.js)|Medium|
 278|[First Bad Version](./0278-first-bad-version.js)|Medium|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
