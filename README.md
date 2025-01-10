@@ -274,6 +274,7 @@
 1037|[Valid Boomerang](./1037-valid-boomerang.js)|Easy|
 1041|[Robot Bounded In Circle](./1041-robot-bounded-in-circle.js)|Medium|
 1047|[Remove All Adjacent Duplicates In String](./1047-remove-all-adjacent-duplicates-in-string.js)|Easy|
+1051|[Height Checker](./1051-height-checker.js)|Easy|
 1071|[Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings.js)|Easy|
 1081|[Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
