@@ -311,6 +311,7 @@
 1374|[Generate a String With Characters That Have Odd Counts](./1374-generate-a-string-with-characters-that-have-odd-counts.js)|Easy|
 1380|[Lucky Numbers in a Matrix](./1380-lucky-numbers-in-a-matrix.js)|Easy|
 1389|[Create Target Array in the Given Order](./1389-create-target-array-in-the-given-order.js)|Easy|
+1400|[Construct K Palindrome Strings](./1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./1402-reducing-dishes.js)|Hard|
 1408|[String Matching in an Array](./1408-string-matching-in-an-array.js)|Easy|
 1410|[HTML Entity Parser](./1410-html-entity-parser.js)|Medium|
