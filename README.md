@@ -233,6 +233,7 @@
 706|[Design HashMap](./0706-design-hashmap.js)|Easy|
 713|[Subarray Product Less Than K](./0713-subarray-product-less-than-k.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
+724|[Find Pivot Index](./0724-find-pivot-index.js)|Easy|
 733|[Flood Fill](./0733-flood-fill.js)|Easy|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
 746|[Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs.js)|Easy|
