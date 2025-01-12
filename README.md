@@ -390,6 +390,7 @@
 2215|[Find the Difference of Two Arrays](./2215-find-the-difference-of-two-arrays.js)|Easy|
 2235|[Add Two Integers](./2235-add-two-integers.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
+2390|[Removing Stars From a String](./2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./2396-strictly-palindromic-number.js)|Medium|
 2413|[Smallest Even Multiple](./2413-smallest-even-multiple.js)|Easy|
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
