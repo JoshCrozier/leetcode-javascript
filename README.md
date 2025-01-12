@@ -222,6 +222,7 @@
 643|[Maximum Average Subarray I](./0643-maximum-average-subarray-i.js)|Easy|
 645|[Set Mismatch](./0645-set-mismatch.js)|Medium|
 648|[Replace Words](./0648-replace-words.js)|Medium|
+649|[Dota2 Senate](./0649-dota2-senate.js)|Medium|
 653|[Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst.js)|Easy|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
