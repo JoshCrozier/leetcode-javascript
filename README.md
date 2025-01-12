@@ -383,6 +383,7 @@
 2095|[Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./2114-maximum-number-of-words-found-in-sentences.js)|Easy|
+2116|[Check if a Parentheses String Can Be Valid](./2116-check-if-a-parentheses-string-can-be-valid.js)|Medium|
 2129|[Capitalize the Title](./2129-capitalize-the-title.js)|Easy|
 2154|[Keep Multiplying Found Values by Two](./2154-keep-multiplying-found-values-by-two.js)|Easy|
 2185|[Counting Words With a Given Prefix](./2185-counting-words-with-a-given-prefix.js)|Easy|
