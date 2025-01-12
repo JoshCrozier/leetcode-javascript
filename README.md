@@ -263,6 +263,7 @@
 925|[Long Pressed Name](./0925-long-pressed-name.js)|Easy|
 926|[Flip String to Monotone Increasing](./0926-flip-string-to-monotone-increasing.js)|Medium|
 929|[Unique Email Addresses](./0929-unique-email-addresses.js)|Easy|
+933|[Number of Recent Calls](./0933-number-of-recent-calls.js)|Easy|
 966|[Vowel Spellchecker](./0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./0976-largest-perimeter-triangle.js)|Easy|
