@@ -393,6 +393,7 @@
 2114|[Maximum Number of Words Found in Sentences](./2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 2116|[Check if a Parentheses String Can Be Valid](./2116-check-if-a-parentheses-string-can-be-valid.js)|Medium|
 2129|[Capitalize the Title](./2129-capitalize-the-title.js)|Easy|
+2130|[Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./2154-keep-multiplying-found-values-by-two.js)|Easy|
 2185|[Counting Words With a Given Prefix](./2185-counting-words-with-a-given-prefix.js)|Easy|
 2215|[Find the Difference of Two Arrays](./2215-find-the-difference-of-two-arrays.js)|Easy|
