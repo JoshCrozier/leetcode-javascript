@@ -252,6 +252,7 @@
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
+841|[Keys and Rooms](./0841-keys-and-rooms.js)|Medium|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
