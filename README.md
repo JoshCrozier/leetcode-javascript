@@ -210,6 +210,7 @@
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
+547|[Number of Provinces](./0547-number-of-provinces.js)|Medium|
 551|[Student Attendance Record I](./0551-student-attendance-record-i.js)|Easy|
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
 563|[Binary Tree Tilt](./0563-binary-tree-tilt.js)|Easy|
