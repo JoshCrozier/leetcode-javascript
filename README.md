@@ -167,6 +167,7 @@
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
+328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
 342|[Power of Four](./0342-power-of-four.js)|Easy|
 344|[Reverse String](./0344-reverse-string.js)|Easy|
