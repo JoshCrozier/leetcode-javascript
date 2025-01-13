@@ -442,6 +442,7 @@
 2724|[Sort By](./2724-sort-by.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3110|[Score of a String](./3110-score-of-a-string.js)|Easy|
+3223|[Minimum Length of String After Operations](./3223-minimum-length-of-string-after-operations.js)|Medium|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
