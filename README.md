@@ -223,6 +223,7 @@
 605|[Can Place Flowers](./0605-can-place-flowers.js)|Easy|
 606|[Construct String from Binary Tree](./0606-construct-string-from-binary-tree.js)|Easy|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
+621|[Task Scheduler](./0621-task-scheduler.js)|Medium|
 628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
 643|[Maximum Average Subarray I](./0643-maximum-average-subarray-i.js)|Easy|
 645|[Set Mismatch](./0645-set-mismatch.js)|Medium|
