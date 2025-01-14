@@ -431,6 +431,7 @@
 2648|[Generate Fibonacci Sequence](./2648-generate-fibonacci-sequence.js)|Easy|
 2649|[Nested Array Generator](./2649-nested-array-generator.js)|Medium|
 2650|[Design Cancellable Function](./2650-design-cancellable-function.js)|Hard|
+2657|[Find the Prefix Common Array of Two Arrays](./2657-find-the-prefix-common-array-of-two-arrays.js)|Medium|
 2665|[Counter II](./2665-counter-ii.js)|Easy|
 2666|[Allow One Function Call](./2666-allow-one-function-call.js)|Easy|
 2667|[Create Hello World Function](./2667-create-hello-world-function.js)|Easy|
