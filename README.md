@@ -169,6 +169,7 @@
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
+338|[Counting Bits](./0338-counting-bits.js)|Easy|
 342|[Power of Four](./0342-power-of-four.js)|Easy|
 344|[Reverse String](./0344-reverse-string.js)|Easy|
 345|[Reverse Vowels of a String](./0345-reverse-vowels-of-a-string.js)|Easy|
