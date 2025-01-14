@@ -257,6 +257,7 @@
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
+872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
 876|[Middle of the Linked List](./0876-middle-of-the-linked-list.js)|Easy|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
