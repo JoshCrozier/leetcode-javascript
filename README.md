@@ -281,6 +281,7 @@
 997|[Find the Town Judge](./0997-find-the-town-judge.js)|Easy|
 1002|[Find Common Characters](./1002-find-common-characters.js)|Easy|
 1004|[Max Consecutive Ones III](./1004-max-consecutive-ones-iii.js)|Medium|
+1005|[Maximize Sum Of Array After K Negations](./1005-maximize-sum-of-array-after-k-negations.js)|Easy|
 1009|[Complement of Base 10 Integer](./1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
