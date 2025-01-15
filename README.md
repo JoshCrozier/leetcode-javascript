@@ -202,6 +202,7 @@
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
 491|[Non-decreasing Subsequences](./0491-non-decreasing-subsequences.js)|Medium|
 492|[Construct the Rectangle](./0492-construct-the-rectangle.js)|Easy|
+496|[Next Greater Element I](./0496-next-greater-element-i.js)|Easy|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
 501|[Find Mode in Binary Search Tree](./0501-find-mode-in-binary-search-tree.js)|Easy|
 502|[IPO](./0502-ipo.js)|Hard|
