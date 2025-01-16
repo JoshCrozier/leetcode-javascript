@@ -75,6 +75,7 @@
 69|[Sqrt(x)](./0069-sqrtx.js)|Medium|
 70|[Climbing Stairs](./0070-climbing-stairs.js)|Easy|
 71|[Simplify Path](./0071-simplify-path.js)|Medium|
+72|[Edit Distance](./0072-edit-distance.js)|Medium|
 73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
 74|[Search a 2D Matrix](./0074-search-a-2d-matrix.js)|Medium|
 75|[Sort Colors](./0075-sort-colors.js)|Medium|
