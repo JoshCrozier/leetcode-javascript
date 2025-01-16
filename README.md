@@ -72,6 +72,7 @@
 65|[Valid Number](./0065-valid-number.js)|Hard|
 66|[Plus One](./0066-plus-one.js)|Easy|
 67|[Add Binary](./0067-add-binary.js)|Easy|
+68|[Text Justification](./0068-text-justification.js)|Hard|
 69|[Sqrt(x)](./0069-sqrtx.js)|Medium|
 70|[Climbing Stairs](./0070-climbing-stairs.js)|Easy|
 71|[Simplify Path](./0071-simplify-path.js)|Medium|
