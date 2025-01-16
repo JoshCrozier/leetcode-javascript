@@ -416,6 +416,7 @@
 2390|[Removing Stars From a String](./2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./2396-strictly-palindromic-number.js)|Medium|
 2413|[Smallest Even Multiple](./2413-smallest-even-multiple.js)|Easy|
+2425|[Bitwise XOR of All Pairings](./2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
 2429|[Minimize XOR](./2429-minimize-xor.js)|Medium|
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
