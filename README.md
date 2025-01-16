@@ -204,6 +204,7 @@
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
 476|[Number Complement](./0476-number-complement.js)|Easy|
+482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
 491|[Non-decreasing Subsequences](./0491-non-decreasing-subsequences.js)|Medium|
 492|[Construct the Rectangle](./0492-construct-the-rectangle.js)|Easy|
