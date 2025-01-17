@@ -447,6 +447,7 @@
 2666|[Allow One Function Call](./2666-allow-one-function-call.js)|Easy|
 2667|[Create Hello World Function](./2667-create-hello-world-function.js)|Easy|
 2677|[Chunk Array](./2677-chunk-array.js)|Easy|
+2683|[Neighboring Bitwise XOR](./2683-neighboring-bitwise-xor.js)|Medium|
 2693|[Call Function with Custom Context](./2693-call-function-with-custom-context.js)|Medium|
 2695|[Array Wrapper](./2695-array-wrapper.js)|Easy|
 2703|[Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)|Easy|
