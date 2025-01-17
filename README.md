@@ -126,6 +126,7 @@
 143|[Reorder List](./0143-reorder-list.js)|Medium|
 144|[Binary Tree Preorder Traversal](./0144-binary-tree-preorder-traversal.js)|Easy|
 145|[Binary Tree Postorder Traversal](./0145-binary-tree-postorder-traversal.js)|Easy|
+146|[LRU Cache](./0146-lru-cache.js)|Medium|
 148|[Sort List](./0148-sort-list.js)|Medium|
 149|[Max Points on a Line](./0149-max-points-on-a-line.js)|Hard|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
