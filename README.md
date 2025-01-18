@@ -173,6 +173,7 @@
 278|[First Bad Version](./0278-first-bad-version.js)|Medium|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
+295|[Find Median from Data Stream](./0295-find-median-from-data-stream.js)|Hard|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
