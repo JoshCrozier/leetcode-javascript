@@ -154,6 +154,7 @@
 216|[Combination Sum III](./0216-combination-sum-iii.js)|Medium|
 217|[Contains Duplicate](./0217-contains-duplicate.js)|Easy|
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
+220|[Contains Duplicate III](./0220-contains-duplicate-iii.js)|Hard|
 225|[Implement Stack using Queues](./0225-implement-stack-using-queues.js)|Easy|
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
 229|[Majority Element II](./0229-majority-element-ii.js)|Medium|
