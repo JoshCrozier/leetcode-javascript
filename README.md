@@ -345,6 +345,7 @@
 1356|[Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
 1360|[Number of Days Between Two Dates](./1360-number-of-days-between-two-dates.js)|Easy|
 1365|[How Many Numbers Are Smaller Than the Current Number](./1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
+1368|[Minimum Cost to Make at Least One Valid Path in a Grid](./1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.js)|Hard|
 1374|[Generate a String With Characters That Have Odd Counts](./1374-generate-a-string-with-characters-that-have-odd-counts.js)|Easy|
 1380|[Lucky Numbers in a Matrix](./1380-lucky-numbers-in-a-matrix.js)|Easy|
 1389|[Create Target Array in the Given Order](./1389-create-target-array-in-the-given-order.js)|Easy|
