@@ -224,6 +224,7 @@
 503|[Next Greater Element II](./0503-next-greater-element-ii.js)|Medium|
 504|[Base 7](./0504-base-7.js)|Easy|
 506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
+507|[Perfect Number](./0507-perfect-number.js)|Easy|
 509|[Fibonacci Number](./0509-fibonacci-number.js)|Easy|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
