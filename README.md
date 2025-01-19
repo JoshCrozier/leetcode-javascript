@@ -227,6 +227,7 @@
 507|[Perfect Number](./0507-perfect-number.js)|Easy|
 509|[Fibonacci Number](./0509-fibonacci-number.js)|Easy|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
+521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
 547|[Number of Provinces](./0547-number-of-provinces.js)|Medium|
