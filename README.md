@@ -208,6 +208,7 @@
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
 452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
+456|[132 Pattern](./0456-132-pattern.js)|Medium|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
