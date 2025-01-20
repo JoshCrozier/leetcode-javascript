@@ -103,6 +103,7 @@
 101|[Symmetric Tree](./0101-symmetric-tree.js)|Easy|
 102|[Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal.js)|Medium|
 104|[Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree.js)|Easy|
+108|[Convert Sorted Array to Binary Search Tree](./0108-convert-sorted-array-to-binary-search-tree.js)|Easy|
 110|[Balanced Binary Tree](./0110-balanced-binary-tree.js)|Easy|
 111|[Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree.js)|Easy|
 112|[Path Sum](./0112-path-sum.js)|Easy|
