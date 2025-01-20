@@ -108,6 +108,7 @@
 111|[Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree.js)|Easy|
 112|[Path Sum](./0112-path-sum.js)|Easy|
 113|[Path Sum II](./0113-path-sum-ii.js)|Medium|
+114|[Flatten Binary Tree to Linked List](./0114-flatten-binary-tree-to-linked-list.js)|Medium|
 116|[Populating Next Right Pointers in Each Node](./0116-populating-next-right-pointers-in-each-node.js)|Medium|
 118|[Pascal's Triangle](./0118-pascals-triangle.js)|Easy|
 119|[Pascal's Triangle II](./0119-pascals-triangle-ii.js)|Easy|
