@@ -322,6 +322,7 @@
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
 1122|[Relative Sort Array](./1122-relative-sort-array.js)|Easy|
 1189|[Maximum Number of Balloons](./1189-maximum-number-of-balloons.js)|Easy|
+1206|[Design Skiplist](./1206-design-skiplist.js)|Hard|
 1207|[Unique Number of Occurrences](./1207-unique-number-of-occurrences.js)|Easy|
 1208|[Get Equal Substrings Within Budget](./1208-get-equal-substrings-within-budget.js)|Medium|
 1217|[Minimum Cost to Move Chips to The Same Position](./1217-minimum-cost-to-move-chips-to-the-same-position.js)|Easy|
