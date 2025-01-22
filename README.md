@@ -406,6 +406,7 @@
 1716|[Calculate Money in Leetcode Bank](./1716-calculate-money-in-leetcode-bank.js)|Easy|
 1732|[Find the Highest Altitude](./1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
+1765|[Map of Highest Peak](./1765-map-of-highest-peak.js)|Medium|
 1768|[Merge Strings Alternately](./1768-merge-strings-alternately.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1791|[Find Center of Star Graph](./1791-find-center-of-star-graph.js)|Easy|
