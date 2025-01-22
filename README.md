@@ -143,6 +143,7 @@
 168|[Excel Sheet Column Title](./0168-excel-sheet-column-title.js)|Easy|
 169|[Majority Element](./0169-majority-element.js)|Easy|
 179|[Largest Number](./0179-largest-number.js)|Medium|
+187|[Repeated DNA Sequences](./0187-repeated-dna-sequences.js)|Medium|
 189|[Rotate Array](./0189-rotate-array.js)|Medium|
 190|[Reverse Bits](./0190-reverse-bits.js)|Easy|
 191|[Number of 1 Bits](./0191-number-of-1-bits.js)|Easy|
