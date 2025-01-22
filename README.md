@@ -83,6 +83,7 @@
 75|[Sort Colors](./0075-sort-colors.js)|Medium|
 77|[Combinations](./0077-combinations.js)|Medium|
 78|[Subsets](./0078-subsets.js)|Medium|
+79|[Word Search](./0079-word-search.js)|Medium|
 80|[Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii.js)|Medium|
 81|[Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii.js)|Medium|
 82|[Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii.js)|Medium|
