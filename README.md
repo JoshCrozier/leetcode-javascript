@@ -257,6 +257,7 @@
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 695|[Max Area of Island](./0695-max-area-of-island.js)|Medium|
+697|[Degree of an Array](./0697-degree-of-an-array.js)|Easy|
 700|[Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree.js)|Easy|
 701|[Insert into a Binary Search Tree](./0701-insert-into-a-binary-search-tree.js)|Medium|
 704|[Binary Search](./0704-binary-search.js)|Easy|
