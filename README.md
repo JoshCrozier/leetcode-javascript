@@ -81,6 +81,7 @@
 73|[Set Matrix Zeroes](./0073-set-matrix-zeroes.js)|Medium|
 74|[Search a 2D Matrix](./0074-search-a-2d-matrix.js)|Medium|
 75|[Sort Colors](./0075-sort-colors.js)|Medium|
+76|[Minimum Window Substring](./0076-minimum-window-substring.js)|Hard|
 77|[Combinations](./0077-combinations.js)|Medium|
 78|[Subsets](./0078-subsets.js)|Medium|
 79|[Word Search](./0079-word-search.js)|Medium|
