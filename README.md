@@ -273,6 +273,7 @@
 733|[Flood Fill](./0733-flood-fill.js)|Easy|
 735|[Asteroid Collision](./0735-asteroid-collision.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
+744|[Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target.js)|Easy|
 745|[Prefix and Suffix Search](./0745-prefix-and-suffix-search.js)|Hard|
 746|[Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs.js)|Easy|
 747|[Largest Number At Least Twice of Others](./0747-largest-number-at-least-twice-of-others.js)|Easy|
