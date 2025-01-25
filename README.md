@@ -266,6 +266,7 @@
 697|[Degree of an Array](./0697-degree-of-an-array.js)|Easy|
 700|[Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree.js)|Easy|
 701|[Insert into a Binary Search Tree](./0701-insert-into-a-binary-search-tree.js)|Medium|
+703|[Kth Largest Element in a Stream](./0703-kth-largest-element-in-a-stream.js)|Easy|
 704|[Binary Search](./0704-binary-search.js)|Easy|
 705|[Design HashSet](./0705-design-hashset.js)|Easy|
 706|[Design HashMap](./0706-design-hashmap.js)|Easy|
