@@ -92,6 +92,7 @@
 84|[Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram.js)|Hard|
 85|[Maximal Rectangle](./0085-maximal-rectangle.js)|Hard|
 86|[Partition List](./0086-partition-list.js)|Medium|
+87|[Scramble String](./0087-scramble-string.js)|Hard|
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 89|[Gray Code](./0089-gray-code.js)|Medium|
 90|[Subsets II](./0090-subsets-ii.js)|Medium|
