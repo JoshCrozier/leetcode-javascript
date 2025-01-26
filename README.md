@@ -96,6 +96,7 @@
 88|[Merge Sorted Array](./0088-merge-sorted-array.js)|Easy|
 89|[Gray Code](./0089-gray-code.js)|Medium|
 90|[Subsets II](./0090-subsets-ii.js)|Medium|
+91|[Decode Ways](./0091-decode-ways.js)|Medium|
 92|[Reverse Linked List II](./0092-reverse-linked-list-ii.js)|Medium|
 93|[Restore IP Addresses](./0093-restore-ip-addresses.js)|Medium|
 94|[Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal.js)|Easy|
