@@ -109,6 +109,7 @@
 102|[Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal.js)|Medium|
 103|[Binary Tree Zigzag Level Order Traversal](./0103-binary-tree-zigzag-level-order-traversal.js)|Medium|
 104|[Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree.js)|Easy|
+105|[Construct Binary Tree from Preorder and Inorder Traversal](./0105-construct-binary-tree-from-preorder-and-inorder-traversal.js)|Medium|
 108|[Convert Sorted Array to Binary Search Tree](./0108-convert-sorted-array-to-binary-search-tree.js)|Easy|
 110|[Balanced Binary Tree](./0110-balanced-binary-tree.js)|Easy|
 111|[Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree.js)|Easy|
