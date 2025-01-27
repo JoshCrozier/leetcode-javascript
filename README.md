@@ -439,6 +439,7 @@
 1920|[Build Array from Permutation](./1920-build-array-from-permutation.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
 1935|[Maximum Number of Words You Can Type](./1935-maximum-number-of-words-you-can-type.js)|Easy|
+1985|[Find the Kth Largest Integer in the Array](./1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
 1996|[The Number of Weak Characters in the Game](./1996-the-number-of-weak-characters-in-the-game.js)|Medium|
 2000|[Reverse Prefix of Word](./2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./2011-final-value-of-variable-after-performing-operations.js)|Easy|
