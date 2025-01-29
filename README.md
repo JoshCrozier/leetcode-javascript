@@ -269,6 +269,7 @@
 649|[Dota2 Senate](./0649-dota2-senate.js)|Medium|
 653|[Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst.js)|Easy|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
+684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 695|[Max Area of Island](./0695-max-area-of-island.js)|Medium|
 697|[Degree of an Array](./0697-degree-of-an-array.js)|Easy|
