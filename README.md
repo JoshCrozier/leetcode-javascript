@@ -152,6 +152,7 @@
 162|[Find Peak Element](./0162-find-peak-element.js)|Medium|
 164|[Maximum Gap](./0164-maximum-gap.js)|Medium|
 165|[Compare Version Numbers](./0165-compare-version-numbers.js)|Medium|
+166|[Fraction to Recurring Decimal](./0166-fraction-to-recurring-decimal.js)|Medium|
 167|[Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted.js)|Easy|
 168|[Excel Sheet Column Title](./0168-excel-sheet-column-title.js)|Easy|
 169|[Majority Element](./0169-majority-element.js)|Easy|
