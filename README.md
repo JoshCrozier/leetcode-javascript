@@ -348,6 +348,7 @@
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
 1122|[Relative Sort Array](./1122-relative-sort-array.js)|Easy|
+1161|[Maximum Level Sum of a Binary Tree](./1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
 1189|[Maximum Number of Balloons](./1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./1206-design-skiplist.js)|Hard|
