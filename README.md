@@ -481,6 +481,7 @@
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
+2493|[Divide Nodes Into the Maximum Number of Groups](./2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2618|[Check if Object Instance of Class](./2618-check-if-object-instance-of-class.js)|Medium|
