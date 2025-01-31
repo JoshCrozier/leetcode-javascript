@@ -133,6 +133,7 @@
 125|[Valid Palindrome](./0125-valid-palindrome.js)|Easy|
 127|[Word Ladder](./0127-word-ladder.js)|Hard|
 128|[Longest Consecutive Sequence](./0128-longest-consecutive-sequence.js)|Medium|
+129|[Sum Root to Leaf Numbers](./0129-sum-root-to-leaf-numbers.js)|Medium|
 131|[Palindrome Partitioning](./0131-palindrome-partitioning.js)|Medium|
 133|[Clone Graph](./0133-clone-graph.js)|Medium|
 134|[Gas Station](./0134-gas-station.js)|Medium|
