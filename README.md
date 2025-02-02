@@ -451,6 +451,7 @@
 1716|[Calculate Money in Leetcode Bank](./1716-calculate-money-in-leetcode-bank.js)|Easy|
 1732|[Find the Highest Altitude](./1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
+1752|[Check if Array Is Sorted and Rotated](./1752-check-if-array-is-sorted-and-rotated.js)|Easy|
 1764|[Form Array by Concatenating Subarrays of Another Array](./1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./1765-map-of-highest-peak.js)|Medium|
 1768|[Merge Strings Alternately](./1768-merge-strings-alternately.js)|Easy|
