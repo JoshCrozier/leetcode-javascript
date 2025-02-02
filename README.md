@@ -164,6 +164,7 @@
 168|[Excel Sheet Column Title](./0168-excel-sheet-column-title.js)|Easy|
 169|[Majority Element](./0169-majority-element.js)|Easy|
 171|[Excel Sheet Column Number](./0171-excel-sheet-column-number.js)|Easy|
+172|[Factorial Trailing Zeroes](./0172-factorial-trailing-zeroes.js)|Medium|
 173|[Binary Search Tree Iterator](./0173-binary-search-tree-iterator.js)|Medium|
 179|[Largest Number](./0179-largest-number.js)|Medium|
 187|[Repeated DNA Sequences](./0187-repeated-dna-sequences.js)|Medium|
