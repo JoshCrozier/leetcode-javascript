@@ -184,6 +184,7 @@
 205|[Isomorphic Strings](./0205-isomorphic-strings.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
 207|[Course Schedule](./0207-course-schedule.js)|Medium|
+211|[Design Add and Search Words Data Structure](./0211-design-add-and-search-words-data-structure.js)|Medium|
 213|[House Robber II](./0213-house-robber-ii.js)|Medium|
 214|[Shortest Palindrome](./0214-shortest-palindrome.js)|Hard|
 215|[Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array.js)|Medium|
