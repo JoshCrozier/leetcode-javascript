@@ -155,6 +155,7 @@
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
 153|[Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array.js)|Medium|
+154|[Find Minimum in Rotated Sorted Array II](./0154-find-minimum-in-rotated-sorted-array-ii.js)|Hard|
 155|[Min Stack](./0155-min-stack.js)|Medium|
 160|[Intersection of Two Linked Lists](./0160-intersection-of-two-linked-lists.js)|Medium|
 162|[Find Peak Element](./0162-find-peak-element.js)|Medium|
