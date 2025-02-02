@@ -538,6 +538,7 @@
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 3042|[Count Prefix and Suffix Pairs I](./3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3110|[Score of a String](./3110-score-of-a-string.js)|Easy|
+3151|[Special Array I](./3151-special-array-i.js)|Easy|
 3223|[Minimum Length of String After Operations](./3223-minimum-length-of-string-after-operations.js)|Medium|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
