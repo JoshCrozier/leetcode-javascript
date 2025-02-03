@@ -290,6 +290,7 @@
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 695|[Max Area of Island](./0695-max-area-of-island.js)|Medium|
+696|[Count Binary Substrings](./0696-count-binary-substrings.js)|Easy|
 697|[Degree of an Array](./0697-degree-of-an-array.js)|Easy|
 700|[Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree.js)|Easy|
 701|[Insert into a Binary Search Tree](./0701-insert-into-a-binary-search-tree.js)|Medium|
