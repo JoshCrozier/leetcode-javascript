@@ -286,6 +286,7 @@
 648|[Replace Words](./0648-replace-words.js)|Medium|
 649|[Dota2 Senate](./0649-dota2-senate.js)|Medium|
 653|[Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst.js)|Easy|
+654|[Maximum Binary Tree](./0654-maximum-binary-tree.js)|Medium|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
