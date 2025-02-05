@@ -464,6 +464,7 @@
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1790|[Check if One String Swap Can Make Strings Equal](./1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./1791-find-center-of-star-graph.js)|Easy|
+1800|[Maximum Ascending Subarray Sum](./1800-maximum-ascending-subarray-sum.js)|Easy|
 1812|[Determine Color of a Chessboard Square](./1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./1832-check-if-the-sentence-is-pangram.js)|Easy|
