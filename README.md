@@ -462,6 +462,7 @@
 1765|[Map of Highest Peak](./1765-map-of-highest-peak.js)|Medium|
 1768|[Merge Strings Alternately](./1768-merge-strings-alternately.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
+1790|[Check if One String Swap Can Make Strings Equal](./1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./1791-find-center-of-star-graph.js)|Easy|
 1812|[Determine Color of a Chessboard Square](./1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./1817-finding-the-users-active-minutes.js)|Medium|
