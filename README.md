@@ -154,6 +154,7 @@
 147|[Insertion Sort List](./0147-insertion-sort-list.js)|Medium|
 148|[Sort List](./0148-sort-list.js)|Medium|
 149|[Max Points on a Line](./0149-max-points-on-a-line.js)|Hard|
+150|[Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation.js)|Medium|
 151|[Reverse Words in a String](./0151-reverse-words-in-a-string.js)|Medium|
 152|[Maximum Product Subarray](./0152-maximum-product-subarray.js)|Medium|
 153|[Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array.js)|Medium|
