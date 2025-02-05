@@ -215,6 +215,7 @@
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
 295|[Find Median from Data Stream](./0295-find-median-from-data-stream.js)|Hard|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
+322|[Coin Change](./0322-coin-change.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
