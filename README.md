@@ -136,6 +136,7 @@
 129|[Sum Root to Leaf Numbers](./0129-sum-root-to-leaf-numbers.js)|Medium|
 130|[Surrounded Regions](./0130-surrounded-regions.js)|Medium|
 131|[Palindrome Partitioning](./0131-palindrome-partitioning.js)|Medium|
+132|[Palindrome Partitioning II](./0132-palindrome-partitioning-ii.js)|Hard|
 133|[Clone Graph](./0133-clone-graph.js)|Medium|
 134|[Gas Station](./0134-gas-station.js)|Medium|
 135|[Candy](./0135-candy.js)|Hard|
