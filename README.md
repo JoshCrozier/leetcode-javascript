@@ -171,6 +171,7 @@
 171|[Excel Sheet Column Number](./0171-excel-sheet-column-number.js)|Easy|
 172|[Factorial Trailing Zeroes](./0172-factorial-trailing-zeroes.js)|Medium|
 173|[Binary Search Tree Iterator](./0173-binary-search-tree-iterator.js)|Medium|
+174|[Dungeon Game](./0174-dungeon-game.js)|Hard|
 179|[Largest Number](./0179-largest-number.js)|Medium|
 187|[Repeated DNA Sequences](./0187-repeated-dna-sequences.js)|Medium|
 189|[Rotate Array](./0189-rotate-array.js)|Medium|
