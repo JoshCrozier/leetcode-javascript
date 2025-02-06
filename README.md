@@ -187,6 +187,7 @@
 205|[Isomorphic Strings](./0205-isomorphic-strings.js)|Easy|
 206|[Reverse Linked List](./0206-reverse-linked-list.js)|Easy|
 207|[Course Schedule](./0207-course-schedule.js)|Medium|
+208|[Implement Trie (Prefix Tree)](./0208-implement-trie-prefix-tree.js)|Medium|
 209|[Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum.js)|Medium|
 211|[Design Add and Search Words Data Structure](./0211-design-add-and-search-words-data-structure.js)|Medium|
 213|[House Robber II](./0213-house-robber-ii.js)|Medium|
