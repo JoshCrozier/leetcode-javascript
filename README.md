@@ -432,6 +432,7 @@
 1443|[Minimum Time to Collect All Apples in a Tree](./1443-minimum-time-to-collect-all-apples-in-a-tree.js)|Medium|
 1446|[Consecutive Characters](./1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./1447-simplified-fractions.js)|Medium|
+1448|[Count Good Nodes in Binary Tree](./1448-count-good-nodes-in-binary-tree.js)|Medium|
 1450|[Number of Students Doing Homework at a Given Time](./1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
 1451|[Rearrange Words in a Sentence](./1451-rearrange-words-in-a-sentence.js)|Medium|
 1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](./1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.js)|Easy|
