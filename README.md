@@ -252,6 +252,7 @@
 415|[Add Strings](./0415-add-strings.js)|Easy|
 419|[Battleships in a Board](./0419-battleships-in-a-board.js)|Medium|
 435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
+437|[Path Sum III](./0437-path-sum-iii.js)|Medium|
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 443|[String Compression](./0443-string-compression.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
