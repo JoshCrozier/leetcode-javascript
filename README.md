@@ -567,6 +567,7 @@
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3110|[Score of a String](./3110-score-of-a-string.js)|Easy|
 3151|[Special Array I](./3151-special-array-i.js)|Easy|
+3160|[Find the Number of Distinct Colors Among the Balls](./3160-find-the-number-of-distinct-colors-among-the-balls.js)|Medium|
 3223|[Minimum Length of String After Operations](./3223-minimum-length-of-string-after-operations.js)|Medium|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
