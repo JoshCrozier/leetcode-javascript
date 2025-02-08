@@ -206,6 +206,7 @@
 232|[Implement Queue using Stacks](./0232-implement-queue-using-stacks.js)|Easy|
 234|[Palindrome Linked List](./0234-palindrome-linked-list.js)|Easy|
 235|[Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree.js)|Easy|
+236|[Lowest Common Ancestor of a Binary Tree](./0236-lowest-common-ancestor-of-a-binary-tree.js)|Medium|
 237|[Delete Node in a Linked List](./0237-delete-node-in-a-linked-list.js)|Easy|
 238|[Product of Array Except Self](./0238-product-of-array-except-self.js)|Medium|
 242|[Valid Anagram](./0242-valid-anagram.js)|Easy|
