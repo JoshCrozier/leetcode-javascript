@@ -518,6 +518,7 @@
 2336|[Smallest Number in Infinite Set](./2336-smallest-number-in-infinite-set.js)|Medium|
 2349|[Design a Number Container System](./2349-design-a-number-container-system.js)|Medium|
 2352|[Equal Row and Column Pairs](./2352-equal-row-and-column-pairs.js)|Medium|
+2364|[Count Number of Bad Pairs](./2364-count-number-of-bad-pairs.js)|Medium|
 2390|[Removing Stars From a String](./2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./2396-strictly-palindromic-number.js)|Medium|
 2413|[Smallest Even Multiple](./2413-smallest-even-multiple.js)|Easy|
