@@ -204,6 +204,7 @@
 229|[Majority Element II](./0229-majority-element-ii.js)|Medium|
 231|[Power of Two](./0231-power-of-two.js)|Easy|
 232|[Implement Queue using Stacks](./0232-implement-queue-using-stacks.js)|Easy|
+233|[Number of Digit One](./0233-number-of-digit-one.js)|Hard|
 234|[Palindrome Linked List](./0234-palindrome-linked-list.js)|Easy|
 235|[Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree.js)|Easy|
 236|[Lowest Common Ancestor of a Binary Tree](./0236-lowest-common-ancestor-of-a-binary-tree.js)|Medium|
