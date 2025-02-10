@@ -219,6 +219,7 @@
 268|[Missing Number](./0268-missing-number.js)|Easy|
 273|[Integer to English Words](./0273-integer-to-english-words.js)|Hard|
 274|[H-Index](./0274-h-index.js)|Medium|
+275|[H-Index II](./0275-h-index-ii.js)|Medium|
 278|[First Bad Version](./0278-first-bad-version.js)|Medium|
 282|[Expression Add Operators](./0282-expression-add-operators.js)|Hard|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
