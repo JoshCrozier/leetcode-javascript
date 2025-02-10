@@ -235,6 +235,7 @@
 347|[Top K Frequent Elements](./0347-top-k-frequent-elements.js)|Medium|
 349|[Intersection of Two Arrays](./0349-intersection-of-two-arrays.js)|Easy|
 350|[Intersection of Two Arrays II](./0350-intersection-of-two-arrays-ii.js)|Easy|
+352|[Data Stream as Disjoint Intervals](./0352-data-stream-as-disjoint-intervals.js)|Hard|
 367|[Valid Perfect Square](./0367-valid-perfect-square.js)|Easy|
 371|[Sum of Two Integers](./0371-sum-of-two-integers.js)|Medium|
 372|[Super Pow](./0372-super-pow.js)|Medium|
