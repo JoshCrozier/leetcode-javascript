@@ -262,6 +262,7 @@
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 443|[String Compression](./0443-string-compression.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
+450|[Delete Node in a BST](./0450-delete-node-in-a-bst.js)|Medium|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
 452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
 456|[132 Pattern](./0456-132-pattern.js)|Medium|
