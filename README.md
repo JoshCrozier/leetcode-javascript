@@ -492,6 +492,7 @@
 1833|[Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
+1910|[Remove All Occurrences of a Substring](./1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./1920-build-array-from-permutation.js)|Easy|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
 1935|[Maximum Number of Words You Can Type](./1935-maximum-number-of-words-you-can-type.js)|Easy|
