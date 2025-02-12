@@ -527,6 +527,7 @@
 2244|[Minimum Rounds to Complete All Tasks](./2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2336|[Smallest Number in Infinite Set](./2336-smallest-number-in-infinite-set.js)|Medium|
+2342|[Max Sum of a Pair With Equal Sum of Digits](./2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
 2349|[Design a Number Container System](./2349-design-a-number-container-system.js)|Medium|
 2352|[Equal Row and Column Pairs](./2352-equal-row-and-column-pairs.js)|Medium|
 2364|[Count Number of Bad Pairs](./2364-count-number-of-bad-pairs.js)|Medium|
