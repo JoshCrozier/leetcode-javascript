@@ -324,6 +324,7 @@
 705|[Design HashSet](./0705-design-hashset.js)|Easy|
 706|[Design HashMap](./0706-design-hashmap.js)|Easy|
 713|[Subarray Product Less Than K](./0713-subarray-product-less-than-k.js)|Medium|
+717|[1-bit and 2-bit Characters](./0717-1-bit-and-2-bit-characters.js)|Easy|
 720|[Longest Word in Dictionary](./0720-longest-word-in-dictionary.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 724|[Find Pivot Index](./0724-find-pivot-index.js)|Easy|
