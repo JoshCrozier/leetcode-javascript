@@ -339,6 +339,7 @@
 748|[Shortest Completing Word](./0748-shortest-completing-word.js)|Easy|
 762|[Prime Number of Set Bits in Binary Representation](./0762-prime-number-of-set-bits-in-binary-representation.js)|Easy|
 784|[Letter Case Permutation](./0784-letter-case-permutation.js)|Medium|
+790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
 796|[Rotate String](./0796-rotate-string.js)|Easy|
 802|[Find Eventual Safe States](./0802-find-eventual-safe-states.js)|Medium|
