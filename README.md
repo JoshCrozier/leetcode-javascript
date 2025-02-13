@@ -226,6 +226,7 @@
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
 295|[Find Median from Data Stream](./0295-find-median-from-data-stream.js)|Hard|
+303|[Range Sum Query - Immutable](./0303-range-sum-query-immutable.js)|Easy|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 322|[Coin Change](./0322-coin-change.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
