@@ -504,6 +504,7 @@
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./1920-build-array-from-permutation.js)|Easy|
+1926|[Nearest Exit from Entrance in Maze](./1926-nearest-exit-from-entrance-in-maze.js)|Medium|
 1929|[Concatenation of Array](./1929-concatenation-of-array.js)|Easy|
 1935|[Maximum Number of Words You Can Type](./1935-maximum-number-of-words-you-can-type.js)|Easy|
 1985|[Find the Kth Largest Integer in the Array](./1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
