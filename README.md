@@ -430,6 +430,7 @@
 1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](./1333-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
 1342|[Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero.js)|Easy|
 1351|[Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
+1352|[Product of the Last K Numbers](./1352-product-of-the-last-k-numbers.js)|Medium|
 1356|[Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
 1360|[Number of Days Between Two Dates](./1360-number-of-days-between-two-dates.js)|Easy|
 1365|[How Many Numbers Are Smaller Than the Current Number](./1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
