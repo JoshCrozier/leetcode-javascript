@@ -582,6 +582,7 @@
 2693|[Call Function with Custom Context](./2693-call-function-with-custom-context.js)|Medium|
 2694|[Event Emitter](./2694-event-emitter.js)|Medium|
 2695|[Array Wrapper](./2695-array-wrapper.js)|Easy|
+2698|[Find the Punishment Number of an Integer](./2698-find-the-punishment-number-of-an-integer.js)|Medium|
 2703|[Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)|Easy|
 2704|[To Be Or Not To Be](./2704-to-be-or-not-to-be.js)|Easy|
 2705|[Compact Object](./2705-compact-object.js)|Medium|
