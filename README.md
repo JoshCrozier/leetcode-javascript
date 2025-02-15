@@ -225,6 +225,7 @@
 279|[Perfect Squares](./0279-perfect-squares.js)|Medium|
 282|[Expression Add Operators](./0282-expression-add-operators.js)|Hard|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
+289|[Game of Life](./0289-game-of-life.js)|Medium|
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
 292|[Nim Game](./0292-nim-game.js)|Easy|
 295|[Find Median from Data Stream](./0295-find-median-from-data-stream.js)|Hard|
