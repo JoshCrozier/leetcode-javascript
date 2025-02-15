@@ -232,6 +232,7 @@
 303|[Range Sum Query - Immutable](./0303-range-sum-query-immutable.js)|Easy|
 306|[Additive Number](./0306-additive-number.js)|Medium|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
+318|[Maximum Product of Word Lengths](./0318-maximum-product-of-word-lengths.js)|Medium|
 322|[Coin Change](./0322-coin-change.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
