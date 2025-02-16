@@ -492,6 +492,7 @@
 1672|[Richest Customer Wealth](./1672-richest-customer-wealth.js)|Easy|
 1679|[Max Number of K-Sum Pairs](./1679-max-number-of-k-sum-pairs.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./1716-calculate-money-in-leetcode-bank.js)|Easy|
+1718|[Construct the Lexicographically Largest Valid Sequence](./1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./1726-tuple-with-same-product.js)|Medium|
 1732|[Find the Highest Altitude](./1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
