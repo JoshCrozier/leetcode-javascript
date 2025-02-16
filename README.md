@@ -249,6 +249,7 @@
 371|[Sum of Two Integers](./0371-sum-of-two-integers.js)|Medium|
 372|[Super Pow](./0372-super-pow.js)|Medium|
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
+380|[Insert Delete GetRandom O(1)](./0380-insert-delete-getrandom-o1.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
 389|[Find the Difference](./0389-find-the-difference.js)|Easy|
