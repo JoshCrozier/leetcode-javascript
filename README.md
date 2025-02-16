@@ -277,6 +277,7 @@
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
+472|[Concatenated Words](./0472-concatenated-words.js)|Hard|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
