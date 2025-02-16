@@ -280,6 +280,7 @@
 476|[Number Complement](./0476-number-complement.js)|Easy|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
+486|[Predict the Winner](./0486-predict-the-winner.js)|Medium|
 491|[Non-decreasing Subsequences](./0491-non-decreasing-subsequences.js)|Medium|
 492|[Construct the Rectangle](./0492-construct-the-rectangle.js)|Easy|
 496|[Next Greater Element I](./0496-next-greater-element-i.js)|Easy|
