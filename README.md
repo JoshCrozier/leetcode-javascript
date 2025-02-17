@@ -226,6 +226,7 @@
 279|[Perfect Squares](./0279-perfect-squares.js)|Medium|
 282|[Expression Add Operators](./0282-expression-add-operators.js)|Hard|
 283|[Move Zeroes](./0283-move-zeroes.js)|Easy|
+287|[Find the Duplicate Number](./0287-find-the-duplicate-number.js)|Medium|
 289|[Game of Life](./0289-game-of-life.js)|Medium|
 290|[Word Pattern](./0290-word-pattern.js)|Easy|
 292|[Nim Game](./0292-nim-game.js)|Easy|
