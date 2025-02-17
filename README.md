@@ -203,6 +203,7 @@
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
 228|[Summary Ranges](./0228-summary-ranges.js)|Easy|
 229|[Majority Element II](./0229-majority-element-ii.js)|Medium|
+230|[Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst.js)|Medium|
 231|[Power of Two](./0231-power-of-two.js)|Easy|
 232|[Implement Queue using Stacks](./0232-implement-queue-using-stacks.js)|Easy|
 233|[Number of Digit One](./0233-number-of-digit-one.js)|Hard|
