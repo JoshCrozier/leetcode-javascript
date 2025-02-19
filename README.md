@@ -239,6 +239,7 @@
 309|[Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 318|[Maximum Product of Word Lengths](./0318-maximum-product-of-word-lengths.js)|Medium|
+319|[Bulb Switcher](./0319-bulb-switcher.js)|Medium|
 322|[Coin Change](./0322-coin-change.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
