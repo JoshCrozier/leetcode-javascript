@@ -626,6 +626,7 @@
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
 3402|[Minimum Operations to Make Columns Strictly Increasing](./3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
+3452|[Sum of Good Numbers](./3452-sum-of-good-numbers.js)|Easy|
 
 ## License
 
