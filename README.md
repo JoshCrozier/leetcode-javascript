@@ -463,6 +463,7 @@
 1402|[Reducing Dishes](./1402-reducing-dishes.js)|Hard|
 1408|[String Matching in an Array](./1408-string-matching-in-an-array.js)|Easy|
 1410|[HTML Entity Parser](./1410-html-entity-parser.js)|Medium|
+1415|[The k-th Lexicographical String of All Happy Strings of Length n](./1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
 1431|[Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1436|[Destination City](./1436-destination-city.js)|Easy|
 1437|[Check If All 1's Are at Least Length K Places Away](./1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
