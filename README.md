@@ -215,6 +215,7 @@
 236|[Lowest Common Ancestor of a Binary Tree](./0236-lowest-common-ancestor-of-a-binary-tree.js)|Medium|
 237|[Delete Node in a Linked List](./0237-delete-node-in-a-linked-list.js)|Easy|
 238|[Product of Array Except Self](./0238-product-of-array-except-self.js)|Medium|
+239|[Sliding Window Maximum](./0239-sliding-window-maximum.js)|Hard|
 242|[Valid Anagram](./0242-valid-anagram.js)|Easy|
 257|[Binary Tree Paths](./0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./0258-add-digits.js)|Easy|
