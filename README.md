@@ -286,6 +286,7 @@
 434|[Number of Segments in a String](./0434-number-of-segments-in-a-string.js)|Easy|
 435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
 437|[Path Sum III](./0437-path-sum-iii.js)|Medium|
+438|[Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string.js)|Medium|
 441|[Arranging Coins](./0441-arranging-coins.js)|Easy|
 442|[Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array.js)|Medium|
 443|[String Compression](./0443-string-compression.js)|Medium|
