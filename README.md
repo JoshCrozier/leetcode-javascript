@@ -242,6 +242,7 @@
 303|[Range Sum Query - Immutable](./0303-range-sum-query-immutable.js)|Easy|
 306|[Additive Number](./0306-additive-number.js)|Medium|
 309|[Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
+315|[Count of Smaller Numbers After Self](./0315-count-of-smaller-numbers-after-self.js)|Hard|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 318|[Maximum Product of Word Lengths](./0318-maximum-product-of-word-lengths.js)|Medium|
 319|[Bulb Switcher](./0319-bulb-switcher.js)|Medium|
