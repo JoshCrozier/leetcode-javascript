@@ -238,6 +238,7 @@
 292|[Nim Game](./0292-nim-game.js)|Easy|
 295|[Find Median from Data Stream](./0295-find-median-from-data-stream.js)|Hard|
 297|[Serialize and Deserialize Binary Tree](./0297-serialize-and-deserialize-binary-tree.js)|Hard|
+300|[Longest Increasing Subsequence](./0300-longest-increasing-subsequence.js)|Medium|
 303|[Range Sum Query - Immutable](./0303-range-sum-query-immutable.js)|Easy|
 306|[Additive Number](./0306-additive-number.js)|Medium|
 309|[Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
