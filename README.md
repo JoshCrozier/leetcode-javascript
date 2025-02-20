@@ -318,6 +318,7 @@
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
+543|[Diameter of Binary Tree](./0543-diameter-of-binary-tree.js)|Easy|
 547|[Number of Provinces](./0547-number-of-provinces.js)|Medium|
 551|[Student Attendance Record I](./0551-student-attendance-record-i.js)|Easy|
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
