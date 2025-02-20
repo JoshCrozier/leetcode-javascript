@@ -281,6 +281,7 @@
 412|[Fizz Buzz](./0412-fizz-buzz.js)|Easy|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 415|[Add Strings](./0415-add-strings.js)|Easy|
+416|[Partition Equal Subset Sum](./0416-partition-equal-subset-sum.js)|Medium|
 419|[Battleships in a Board](./0419-battleships-in-a-board.js)|Medium|
 434|[Number of Segments in a String](./0434-number-of-segments-in-a-string.js)|Easy|
 435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
