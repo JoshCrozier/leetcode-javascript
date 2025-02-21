@@ -246,6 +246,7 @@
 297|[Serialize and Deserialize Binary Tree](./0297-serialize-and-deserialize-binary-tree.js)|Hard|
 299|[Bulls and Cows](./0299-bulls-and-cows.js)|Medium|
 300|[Longest Increasing Subsequence](./0300-longest-increasing-subsequence.js)|Medium|
+301|[Remove Invalid Parentheses](./0301-remove-invalid-parentheses.js)|Hard|
 303|[Range Sum Query - Immutable](./0303-range-sum-query-immutable.js)|Easy|
 306|[Additive Number](./0306-additive-number.js)|Medium|
 309|[Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
