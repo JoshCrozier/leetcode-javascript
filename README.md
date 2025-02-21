@@ -204,6 +204,7 @@
 220|[Contains Duplicate III](./0220-contains-duplicate-iii.js)|Hard|
 221|[Maximal Square](./0221-maximal-square.js)|Medium|
 222|[Count Complete Tree Nodes](./0222-count-complete-tree-nodes.js)|Easy|
+223|[Rectangle Area](./0223-rectangle-area.js)|Medium|
 224|[Basic Calculator](./0224-basic-calculator.js)|Hard|
 225|[Implement Stack using Queues](./0225-implement-stack-using-queues.js)|Easy|
 226|[Invert Binary Tree](./0226-invert-binary-tree.js)|Easy|
