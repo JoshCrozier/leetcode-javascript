@@ -222,6 +222,7 @@
 238|[Product of Array Except Self](./0238-product-of-array-except-self.js)|Medium|
 239|[Sliding Window Maximum](./0239-sliding-window-maximum.js)|Hard|
 240|[Search a 2D Matrix II](./0240-search-a-2d-matrix-ii.js)|Medium|
+241|[Different Ways to Add Parentheses](./0241-different-ways-to-add-parentheses.js)|Medium|
 242|[Valid Anagram](./0242-valid-anagram.js)|Easy|
 257|[Binary Tree Paths](./0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./0258-add-digits.js)|Easy|
