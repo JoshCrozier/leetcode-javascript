@@ -257,6 +257,7 @@
 318|[Maximum Product of Word Lengths](./0318-maximum-product-of-word-lengths.js)|Medium|
 319|[Bulb Switcher](./0319-bulb-switcher.js)|Medium|
 322|[Coin Change](./0322-coin-change.js)|Medium|
+324|[Wiggle Sort II](./0324-wiggle-sort-ii.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
 329|[Longest Increasing Path in a Matrix](./0329-longest-increasing-path-in-a-matrix.js)|Hard|
