@@ -281,6 +281,7 @@
 378|[Kth Smallest Element in a Sorted Matrix](./0378-kth-smallest-element-in-a-sorted-matrix.js)|Medium|
 380|[Insert Delete GetRandom O(1)](./0380-insert-delete-getrandom-o1.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
+384|[Shuffle an Array](./0384-shuffle-an-array.js)|Medium|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
 389|[Find the Difference](./0389-find-the-difference.js)|Easy|
 392|[Is Subsequence](./0392-is-subsequence.js)|Easy|
