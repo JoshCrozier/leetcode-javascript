@@ -456,6 +456,7 @@
 1233|[Remove Sub-Folders from the Filesystem](./1233-remove-sub-folders-from-the-filesystem.js)|Medium|
 1249|[Minimum Remove to Make Valid Parentheses](./1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
 1252|[Cells with Odd Values in a Matrix](./1252-cells-with-odd-values-in-a-matrix.js)|Easy|
+1261|[Find Elements in a Contaminated Binary Tree](./1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
 1267|[Count Servers that Communicate](./1267-count-servers-that-communicate.js)|Medium|
 1268|[Search Suggestions System](./1268-search-suggestions-system.js)|Medium|
 1287|[Element Appearing More Than 25% In Sorted Array](./1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
