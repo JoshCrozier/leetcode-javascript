@@ -193,6 +193,7 @@
 209|[Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum.js)|Medium|
 210|[Course Schedule II](./0210-course-schedule-ii.js)|Medium|
 211|[Design Add and Search Words Data Structure](./0211-design-add-and-search-words-data-structure.js)|Medium|
+212|[Word Search II](./0212-word-search-ii.js)|Hard|
 213|[House Robber II](./0213-house-robber-ii.js)|Medium|
 214|[Shortest Palindrome](./0214-shortest-palindrome.js)|Hard|
 215|[Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array.js)|Medium|
