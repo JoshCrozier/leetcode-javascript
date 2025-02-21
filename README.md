@@ -202,6 +202,7 @@
 218|[The Skyline Problem](./0218-the-skyline-problem.js)|Hard|
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
 220|[Contains Duplicate III](./0220-contains-duplicate-iii.js)|Hard|
+221|[Maximal Square](./0221-maximal-square.js)|Medium|
 222|[Count Complete Tree Nodes](./0222-count-complete-tree-nodes.js)|Easy|
 224|[Basic Calculator](./0224-basic-calculator.js)|Hard|
 225|[Implement Stack using Queues](./0225-implement-stack-using-queues.js)|Easy|
