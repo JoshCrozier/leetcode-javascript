@@ -199,6 +199,7 @@
 215|[Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array.js)|Medium|
 216|[Combination Sum III](./0216-combination-sum-iii.js)|Medium|
 217|[Contains Duplicate](./0217-contains-duplicate.js)|Easy|
+218|[The Skyline Problem](./0218-the-skyline-problem.js)|Hard|
 219|[Contains Duplicate II](./0219-contains-duplicate-ii.js)|Easy|
 220|[Contains Duplicate III](./0220-contains-duplicate-iii.js)|Hard|
 222|[Count Complete Tree Nodes](./0222-count-complete-tree-nodes.js)|Easy|
