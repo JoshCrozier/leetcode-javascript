@@ -265,6 +265,7 @@
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
 337|[House Robber III](./0337-house-robber-iii.js)|Medium|
 338|[Counting Bits](./0338-counting-bits.js)|Easy|
+341|[Flatten Nested List Iterator](./0341-flatten-nested-list-iterator.js)|Medium|
 342|[Power of Four](./0342-power-of-four.js)|Easy|
 344|[Reverse String](./0344-reverse-string.js)|Easy|
 345|[Reverse Vowels of a String](./0345-reverse-vowels-of-a-string.js)|Easy|
