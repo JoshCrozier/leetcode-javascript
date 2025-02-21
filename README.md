@@ -244,6 +244,7 @@
 292|[Nim Game](./0292-nim-game.js)|Easy|
 295|[Find Median from Data Stream](./0295-find-median-from-data-stream.js)|Hard|
 297|[Serialize and Deserialize Binary Tree](./0297-serialize-and-deserialize-binary-tree.js)|Hard|
+299|[Bulls and Cows](./0299-bulls-and-cows.js)|Medium|
 300|[Longest Increasing Subsequence](./0300-longest-increasing-subsequence.js)|Medium|
 303|[Range Sum Query - Immutable](./0303-range-sum-query-immutable.js)|Easy|
 306|[Additive Number](./0306-additive-number.js)|Medium|
