@@ -268,6 +268,7 @@
 329|[Longest Increasing Path in a Matrix](./0329-longest-increasing-path-in-a-matrix.js)|Hard|
 330|[Patching Array](./0330-patching-array.js)|Hard|
 331|[Verify Preorder Serialization of a Binary Tree](./0331-verify-preorder-serialization-of-a-binary-tree.js)|Medium|
+332|[Reconstruct Itinerary](./0332-reconstruct-itinerary.js)|Hard|
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
 337|[House Robber III](./0337-house-robber-iii.js)|Medium|
 338|[Counting Bits](./0338-counting-bits.js)|Easy|
