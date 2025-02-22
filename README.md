@@ -285,6 +285,7 @@
 352|[Data Stream as Disjoint Intervals](./0352-data-stream-as-disjoint-intervals.js)|Hard|
 354|[Russian Doll Envelopes](./0354-russian-doll-envelopes.js)|Hard|
 355|[Design Twitter](./0355-design-twitter.js)|Medium|
+357|[Count Numbers with Unique Digits](./0357-count-numbers-with-unique-digits.js)|Medium|
 367|[Valid Perfect Square](./0367-valid-perfect-square.js)|Easy|
 371|[Sum of Two Integers](./0371-sum-of-two-integers.js)|Medium|
 372|[Super Pow](./0372-super-pow.js)|Medium|
