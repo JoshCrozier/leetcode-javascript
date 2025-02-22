@@ -437,6 +437,7 @@
 1010|[Pairs of Songs With Total Durations Divisible by 60](./1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1023|[Camelcase Matching](./1023-camelcase-matching.js)|Medium|
+1028|[Recover a Tree From Preorder Traversal](./1028-recover-a-tree-from-preorder-traversal.js)|Hard|
 1037|[Valid Boomerang](./1037-valid-boomerang.js)|Easy|
 1041|[Robot Bounded In Circle](./1041-robot-bounded-in-circle.js)|Medium|
 1047|[Remove All Adjacent Duplicates In String](./1047-remove-all-adjacent-duplicates-in-string.js)|Easy|
