@@ -266,6 +266,7 @@
 327|[Count of Range Sum](./0327-count-of-range-sum.js)|Hard|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
 329|[Longest Increasing Path in a Matrix](./0329-longest-increasing-path-in-a-matrix.js)|Hard|
+330|[Patching Array](./0330-patching-array.js)|Hard|
 331|[Verify Preorder Serialization of a Binary Tree](./0331-verify-preorder-serialization-of-a-binary-tree.js)|Medium|
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
 337|[House Robber III](./0337-house-robber-iii.js)|Medium|
