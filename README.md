@@ -263,6 +263,7 @@
 322|[Coin Change](./0322-coin-change.js)|Medium|
 324|[Wiggle Sort II](./0324-wiggle-sort-ii.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
+327|[Count of Range Sum](./0327-count-of-range-sum.js)|Hard|
 328|[Odd Even Linked List](./0328-odd-even-linked-list.js)|Medium|
 329|[Longest Increasing Path in a Matrix](./0329-longest-increasing-path-in-a-matrix.js)|Hard|
 331|[Verify Preorder Serialization of a Binary Tree](./0331-verify-preorder-serialization-of-a-binary-tree.js)|Medium|
