@@ -259,6 +259,7 @@
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 318|[Maximum Product of Word Lengths](./0318-maximum-product-of-word-lengths.js)|Medium|
 319|[Bulb Switcher](./0319-bulb-switcher.js)|Medium|
+321|[Create Maximum Number](./0321-create-maximum-number.js)|Hard|
 322|[Coin Change](./0322-coin-change.js)|Medium|
 324|[Wiggle Sort II](./0324-wiggle-sort-ii.js)|Medium|
 326|[Power of Three](./0326-power-of-three.js)|Easy|
