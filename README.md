@@ -286,6 +286,7 @@
 354|[Russian Doll Envelopes](./0354-russian-doll-envelopes.js)|Hard|
 355|[Design Twitter](./0355-design-twitter.js)|Medium|
 357|[Count Numbers with Unique Digits](./0357-count-numbers-with-unique-digits.js)|Medium|
+363|[Max Sum of Rectangle No Larger Than K](./0363-max-sum-of-rectangle-no-larger-than-k.js)|Hard|
 367|[Valid Perfect Square](./0367-valid-perfect-square.js)|Easy|
 371|[Sum of Two Integers](./0371-sum-of-two-integers.js)|Medium|
 372|[Super Pow](./0372-super-pow.js)|Medium|
