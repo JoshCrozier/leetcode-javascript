@@ -253,6 +253,7 @@
 307|[Range Sum Query - Mutable](./0307-range-sum-query-mutable.js)|Medium|
 309|[Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
 310|[Minimum Height Trees](./0310-minimum-height-trees.js)|Medium|
+312|[Burst Balloons](./0312-burst-balloons.js)|Hard|
 315|[Count of Smaller Numbers After Self](./0315-count-of-smaller-numbers-after-self.js)|Hard|
 316|[Remove Duplicate Letters](./0316-remove-duplicate-letters.js)|Medium|
 318|[Maximum Product of Word Lengths](./0318-maximum-product-of-word-lengths.js)|Medium|
