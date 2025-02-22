@@ -276,6 +276,7 @@
 338|[Counting Bits](./0338-counting-bits.js)|Easy|
 341|[Flatten Nested List Iterator](./0341-flatten-nested-list-iterator.js)|Medium|
 342|[Power of Four](./0342-power-of-four.js)|Easy|
+343|[Integer Break](./0343-integer-break.js)|Medium|
 344|[Reverse String](./0344-reverse-string.js)|Easy|
 345|[Reverse Vowels of a String](./0345-reverse-vowels-of-a-string.js)|Easy|
 347|[Top K Frequent Elements](./0347-top-k-frequent-elements.js)|Medium|
