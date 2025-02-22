@@ -271,6 +271,7 @@
 332|[Reconstruct Itinerary](./0332-reconstruct-itinerary.js)|Hard|
 334|[Increasing Triplet Subsequence](./0334-increasing-triplet-subsequence.js)|Medium|
 335|[Self Crossing](./0335-self-crossing.js)|Hard|
+336|[Palindrome Pairs](./0336-palindrome-pairs.js)|Hard|
 337|[House Robber III](./0337-house-robber-iii.js)|Medium|
 338|[Counting Bits](./0338-counting-bits.js)|Easy|
 341|[Flatten Nested List Iterator](./0341-flatten-nested-list-iterator.js)|Medium|
