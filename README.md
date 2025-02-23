@@ -303,6 +303,7 @@
 382|[Linked List Random Node](./0382-linked-list-random-node.js)|Medium|
 383|[Ransom Note](./0383-ransom-note.js)|Easy|
 384|[Shuffle an Array](./0384-shuffle-an-array.js)|Medium|
+385|[Mini Parser](./0385-mini-parser.js)|Medium|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
 389|[Find the Difference](./0389-find-the-difference.js)|Easy|
 392|[Is Subsequence](./0392-is-subsequence.js)|Easy|
