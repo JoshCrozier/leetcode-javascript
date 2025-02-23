@@ -420,6 +420,7 @@
 875|[Koko Eating Bananas](./0875-koko-eating-bananas.js)|Medium|
 876|[Middle of the Linked List](./0876-middle-of-the-linked-list.js)|Easy|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
+889|[Construct Binary Tree from Preorder and Postorder Traversal](./0889-construct-binary-tree-from-preorder-and-postorder-traversal.js)|Medium|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 901|[Online Stock Span](./0901-online-stock-span.js)|Medium|
 905|[Sort Array By Parity](./0905-sort-array-by-parity.js)|Easy|
