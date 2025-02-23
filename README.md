@@ -289,6 +289,7 @@
 363|[Max Sum of Rectangle No Larger Than K](./0363-max-sum-of-rectangle-no-larger-than-k.js)|Hard|
 365|[Water and Jug Problem](./0365-water-and-jug-problem.js)|Medium|
 367|[Valid Perfect Square](./0367-valid-perfect-square.js)|Easy|
+368|[Largest Divisible Subset](./0368-largest-divisible-subset.js)|Medium|
 371|[Sum of Two Integers](./0371-sum-of-two-integers.js)|Medium|
 372|[Super Pow](./0372-super-pow.js)|Medium|
 374|[Guess Number Higher or Lower](./0374-guess-number-higher-or-lower.js)|Medium|
