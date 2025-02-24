@@ -315,6 +315,7 @@
 394|[Decode String](./0394-decode-string.js)|Medium|
 395|[Longest Substring with At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters.js)|Medium|
 396|[Rotate Function](./0396-rotate-function.js)|Medium|
+397|[Integer Replacement](./0397-integer-replacement.js)|Medium|
 399|[Evaluate Division](./0399-evaluate-division.js)|Medium|
 404|[Sum of Left Leaves](./0404-sum-of-left-leaves.js)|Easy|
 405|[Convert a Number to Hexadecimal](./0405-convert-a-number-to-hexadecimal.js)|Easy|
