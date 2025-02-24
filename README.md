@@ -311,6 +311,7 @@
 390|[Elimination Game](./0390-elimination-game.js)|Medium|
 391|[Perfect Rectangle](./0391-perfect-rectangle.js)|Hard|
 392|[Is Subsequence](./0392-is-subsequence.js)|Easy|
+393|[UTF-8 Validation](./0393-utf-8-validation.js)|Medium|
 394|[Decode String](./0394-decode-string.js)|Medium|
 395|[Longest Substring with At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters.js)|Medium|
 399|[Evaluate Division](./0399-evaluate-division.js)|Medium|
