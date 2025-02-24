@@ -624,6 +624,7 @@
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
 2429|[Minimize XOR](./2429-minimize-xor.js)|Medium|
 2462|[Total Cost to Hire K Workers](./2462-total-cost-to-hire-k-workers.js)|Medium|
+2467|[Most Profitable Path in a Tree](./2467-most-profitable-path-in-a-tree.js)|Medium|
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
