@@ -306,6 +306,7 @@
 385|[Mini Parser](./0385-mini-parser.js)|Medium|
 386|[Lexicographical Numbers](./0386-lexicographical-numbers.js)|Medium|
 387|[First Unique Character in a String](./0387-first-unique-character-in-a-string.js)|Easy|
+388|[Longest Absolute File Path](./0388-longest-absolute-file-path.js)|Medium|
 389|[Find the Difference](./0389-find-the-difference.js)|Easy|
 392|[Is Subsequence](./0392-is-subsequence.js)|Easy|
 394|[Decode String](./0394-decode-string.js)|Medium|
