@@ -309,6 +309,7 @@
 388|[Longest Absolute File Path](./0388-longest-absolute-file-path.js)|Medium|
 389|[Find the Difference](./0389-find-the-difference.js)|Easy|
 390|[Elimination Game](./0390-elimination-game.js)|Medium|
+391|[Perfect Rectangle](./0391-perfect-rectangle.js)|Hard|
 392|[Is Subsequence](./0392-is-subsequence.js)|Easy|
 394|[Decode String](./0394-decode-string.js)|Medium|
 395|[Longest Substring with At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters.js)|Medium|
