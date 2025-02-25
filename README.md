@@ -324,6 +324,7 @@
 403|[Frog Jump](./0403-frog-jump.js)|Hard|
 404|[Sum of Left Leaves](./0404-sum-of-left-leaves.js)|Easy|
 405|[Convert a Number to Hexadecimal](./0405-convert-a-number-to-hexadecimal.js)|Easy|
+406|[Queue Reconstruction by Height](./0406-queue-reconstruction-by-height.js)|Medium|
 407|[Trapping Rain Water II](./0407-trapping-rain-water-ii.js)|Hard|
 412|[Fizz Buzz](./0412-fizz-buzz.js)|Easy|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
