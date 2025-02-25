@@ -320,6 +320,7 @@
 399|[Evaluate Division](./0399-evaluate-division.js)|Medium|
 400|[Nth Digit](./0400-nth-digit.js)|Medium|
 401|[Binary Watch](./0401-binary-watch.js)|Easy|
+402|[Remove K Digits](./0402-remove-k-digits.js)|Medium|
 404|[Sum of Left Leaves](./0404-sum-of-left-leaves.js)|Easy|
 405|[Convert a Number to Hexadecimal](./0405-convert-a-number-to-hexadecimal.js)|Easy|
 407|[Trapping Rain Water II](./0407-trapping-rain-water-ii.js)|Hard|
