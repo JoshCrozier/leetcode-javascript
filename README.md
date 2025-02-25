@@ -557,6 +557,7 @@
 1507|[Reformat Date](./1507-reformat-date.js)|Easy|
 1512|[Number of Good Pairs](./1512-number-of-good-pairs.js)|Easy|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
+1524|[Number of Sub-arrays With Odd Sum](./1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1528|[Shuffle String](./1528-shuffle-string.js)|Easy|
 1535|[Find the Winner of an Array Game](./1535-find-the-winner-of-an-array-game.js)|Medium|
 1550|[Three Consecutive Odds](./1550-three-consecutive-odds.js)|Easy|
