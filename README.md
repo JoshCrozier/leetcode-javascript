@@ -580,6 +580,7 @@
 1726|[Tuple with Same Product](./1726-tuple-with-same-product.js)|Medium|
 1732|[Find the Highest Altitude](./1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./1748-sum-of-unique-elements.js)|Easy|
+1749|[Maximum Absolute Sum of Any Subarray](./1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1752|[Check if Array Is Sorted and Rotated](./1752-check-if-array-is-sorted-and-rotated.js)|Easy|
 1764|[Form Array by Concatenating Subarrays of Another Array](./1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./1765-map-of-highest-peak.js)|Medium|
