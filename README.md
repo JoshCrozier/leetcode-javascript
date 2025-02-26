@@ -339,6 +339,7 @@
 421|[Maximum XOR of Two Numbers in an Array](./0421-maximum-xor-of-two-numbers-in-an-array.js)|Medium|
 423|[Reconstruct Original Digits from English](./0423-reconstruct-original-digits-from-english.js)|Medium|
 424|[Longest Repeating Character Replacement](./0424-longest-repeating-character-replacement.js)|Medium|
+427|[Construct Quad Tree](./0427-construct-quad-tree.js)|Medium|
 434|[Number of Segments in a String](./0434-number-of-segments-in-a-string.js)|Easy|
 435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
 437|[Path Sum III](./0437-path-sum-iii.js)|Medium|
