@@ -327,6 +327,7 @@
 406|[Queue Reconstruction by Height](./0406-queue-reconstruction-by-height.js)|Medium|
 407|[Trapping Rain Water II](./0407-trapping-rain-water-ii.js)|Hard|
 409|[Longest Palindrome](./0409-longest-palindrome.js)|Easy|
+410|[Split Array Largest Sum](./0410-split-array-largest-sum.js)|Hard|
 412|[Fizz Buzz](./0412-fizz-buzz.js)|Easy|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 415|[Add Strings](./0415-add-strings.js)|Easy|
