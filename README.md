@@ -329,6 +329,7 @@
 409|[Longest Palindrome](./0409-longest-palindrome.js)|Easy|
 410|[Split Array Largest Sum](./0410-split-array-largest-sum.js)|Hard|
 412|[Fizz Buzz](./0412-fizz-buzz.js)|Easy|
+413|[Arithmetic Slices](./0413-arithmetic-slices.js)|Medium|
 414|[Third Maximum Number](./0414-third-maximum-number.js)|Easy|
 415|[Add Strings](./0415-add-strings.js)|Easy|
 416|[Partition Equal Subset Sum](./0416-partition-equal-subset-sum.js)|Medium|
