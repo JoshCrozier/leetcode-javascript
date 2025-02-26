@@ -335,6 +335,7 @@
 416|[Partition Equal Subset Sum](./0416-partition-equal-subset-sum.js)|Medium|
 417|[Pacific Atlantic Water Flow](./0417-pacific-atlantic-water-flow.js)|Medium|
 419|[Battleships in a Board](./0419-battleships-in-a-board.js)|Medium|
+420|[Strong Password Checker](./0420-strong-password-checker.js)|Hard|
 434|[Number of Segments in a String](./0434-number-of-segments-in-a-string.js)|Easy|
 435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
 437|[Path Sum III](./0437-path-sum-iii.js)|Medium|
