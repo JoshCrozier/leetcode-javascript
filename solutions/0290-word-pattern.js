@@ -5,8 +5,11 @@
  *
  * Given a pattern and a string s, find if s follows the same pattern.
  *
- * Here follow means a full match, such that there is a bijection between
- * a letter in pattern and a non-empty word in s.
+ * Here follow means a full match, such that there is a bijection between a letter in
+ * pattern and a non-empty word in s. Specifically:
+ * - Each letter in pattern maps to exactly one unique word in s.
+ * - Each unique word in s maps to exactly one letter in pattern.
+ * - No two letters map to the same word, and no two words map to the same letter.
  */
 
 /**
@@ -15,15 +18,12 @@
  * @return {boolean}
  */
 var wordPattern = function(pattern, s) {
-  const words = s.split(/\s+/);
+  const words = s.split(' ');
+  if (pattern.length !== words.length) return false;
   const map = new Map();
-
-  return words.every((word, index) => {
-    const offset = pattern.length === words.length ? index + 1 : words.length / pattern.length;
-    const sequence = pattern.slice(index, offset);
-    if (!map.has(sequence) && !Array.from(map.values()).includes(word)) {
-      map.set(sequence, word);
-    }
-    return map.get(sequence) === word && pattern.length <= words.length;
-  });
+  return pattern.split('').every((char, i) =>
+    map.has(char)
+      ? map.get(char) === words[i]
+      : !([...map.values()].includes(words[i])) && map.set(char, words[i])
+  );
 };
