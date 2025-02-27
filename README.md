@@ -355,6 +355,7 @@
 443|[String Compression](./0443-string-compression.js)|Medium|
 445|[Add Two Numbers II](./0445-add-two-numbers-ii.js)|Medium|
 446|[Arithmetic Slices II - Subsequence](./0446-arithmetic-slices-ii-subsequence.js)|Hard|
+447|[Number of Boomerangs](./0447-number-of-boomerangs.js)|Medium|
 448|[Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array.js)|Easy|
 450|[Delete Node in a BST](./0450-delete-node-in-a-bst.js)|Medium|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
