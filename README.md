@@ -346,6 +346,7 @@
 433|[Minimum Genetic Mutation](./0433-minimum-genetic-mutation.js)|Medium|
 434|[Number of Segments in a String](./0434-number-of-segments-in-a-string.js)|Easy|
 435|[Non-overlapping Intervals](./0435-non-overlapping-intervals.js)|Medium|
+436|[Find Right Interval](./0436-find-right-interval.js)|Medium|
 437|[Path Sum III](./0437-path-sum-iii.js)|Medium|
 438|[Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string.js)|Medium|
 441|[Arranging Coins](./0441-arranging-coins.js)|Easy|
