@@ -363,6 +363,7 @@
 452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
 453|[Minimum Moves to Equal Array Elements](./0453-minimum-moves-to-equal-array-elements.js)|Medium|
 454|[4Sum II](./0454-4sum-ii.js)|Medium|
+455|[Assign Cookies](./0455-assign-cookies.js)|Easy|
 456|[132 Pattern](./0456-132-pattern.js)|Medium|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
