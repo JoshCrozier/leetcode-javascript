@@ -361,6 +361,7 @@
 450|[Delete Node in a BST](./0450-delete-node-in-a-bst.js)|Medium|
 451|[Sort Characters By Frequency](./0451-sort-characters-by-frequency.js)|Medium|
 452|[Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons.js)|Medium|
+453|[Minimum Moves to Equal Array Elements](./0453-minimum-moves-to-equal-array-elements.js)|Medium|
 454|[4Sum II](./0454-4sum-ii.js)|Medium|
 456|[132 Pattern](./0456-132-pattern.js)|Medium|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
