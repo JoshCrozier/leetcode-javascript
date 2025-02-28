@@ -497,6 +497,7 @@
 1071|[Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings.js)|Easy|
 1079|[Letter Tile Possibilities](./1079-letter-tile-possibilities.js)|Medium|
 1081|[Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters.js)|Medium|
+1092|[Shortest Common Supersequence](./1092-shortest-common-supersequence.js)|Hard|
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
 1122|[Relative Sort Array](./1122-relative-sort-array.js)|Easy|
