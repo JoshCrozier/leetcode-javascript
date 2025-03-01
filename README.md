@@ -372,6 +372,7 @@
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
 462|[Minimum Moves to Equal Array Elements II](./0462-minimum-moves-to-equal-array-elements-ii.js)|Medium|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
+464|[Can I Win](./0464-can-i-win.js)|Medium|
 472|[Concatenated Words](./0472-concatenated-words.js)|Hard|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
