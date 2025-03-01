@@ -370,6 +370,7 @@
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
 460|[LFU Cache](./0460-lfu-cache.js)|Hard|
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
+462|[Minimum Moves to Equal Array Elements II](./0462-minimum-moves-to-equal-array-elements-ii.js)|Medium|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
 472|[Concatenated Words](./0472-concatenated-words.js)|Hard|
 476|[Number Complement](./0476-number-complement.js)|Easy|
