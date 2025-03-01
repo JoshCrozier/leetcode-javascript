@@ -1,6 +1,6 @@
 /**
  * 3402. Minimum Operations to Make Columns Strictly Increasing
- * https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
+ * https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
  * Difficulty: Easy
  *
  * You are given a m x n matrix grid consisting of non-negative integers.
