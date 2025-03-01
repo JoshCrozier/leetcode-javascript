@@ -662,6 +662,7 @@
 2425|[Bitwise XOR of All Pairings](./2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
 2429|[Minimize XOR](./2429-minimize-xor.js)|Medium|
+2460|[Apply Operations to an Array](./2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./2462-total-cost-to-hire-k-workers.js)|Medium|
 2467|[Most Profitable Path in a Tree](./2467-most-profitable-path-in-a-tree.js)|Medium|
 2469|[Convert the Temperature](./2469-convert-the-temperature.js)|Easy|
