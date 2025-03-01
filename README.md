@@ -368,6 +368,7 @@
 457|[Circular Array Loop](./0457-circular-array-loop.js)|Medium|
 458|[Poor Pigs](./0458-poor-pigs.js)|Hard|
 459|[Repeated Substring Pattern](./0459-repeated-substring-pattern.js)|Easy|
+460|[LFU Cache](./0460-lfu-cache.js)|Hard|
 461|[Hamming Distance](./0461-hamming-distance.js)|Easy|
 463|[Island Perimeter](./0463-island-perimeter.js)|Medium|
 472|[Concatenated Words](./0472-concatenated-words.js)|Hard|
