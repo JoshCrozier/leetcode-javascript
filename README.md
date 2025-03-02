@@ -488,6 +488,7 @@
 912|[Sort an Array](./0912-sort-an-array.js)|Medium|
 914|[X of a Kind in a Deck of Cards](./0914-x-of-a-kind-in-a-deck-of-cards.js)|Medium|
 916|[Word Subsets](./0916-word-subsets.js)|Medium|
+918|[Maximum Sum Circular Subarray](./0918-maximum-sum-circular-subarray.js)|Medium|
 922|[Sort Array By Parity II](./0922-sort-array-by-parity-ii.js)|Easy|
 925|[Long Pressed Name](./0925-long-pressed-name.js)|Easy|
 926|[Flip String to Monotone Increasing](./0926-flip-string-to-monotone-increasing.js)|Medium|
