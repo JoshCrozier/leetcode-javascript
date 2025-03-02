@@ -379,6 +379,7 @@
 470|[Implement Rand10() Using Rand7()](./0470-implement-rand10-using-rand7.js)|Medium|
 472|[Concatenated Words](./0472-concatenated-words.js)|Hard|
 473|[Matchsticks to Square](./0473-matchsticks-to-square.js)|Medium|
+474|[Ones and Zeroes](./0474-ones-and-zeroes.js)|Medium|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
