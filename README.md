@@ -380,6 +380,7 @@
 472|[Concatenated Words](./0472-concatenated-words.js)|Hard|
 473|[Matchsticks to Square](./0473-matchsticks-to-square.js)|Medium|
 474|[Ones and Zeroes](./0474-ones-and-zeroes.js)|Medium|
+475|[Heaters](./0475-heaters.js)|Medium|
 476|[Number Complement](./0476-number-complement.js)|Easy|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
