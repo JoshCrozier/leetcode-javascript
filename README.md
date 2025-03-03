@@ -410,6 +410,7 @@
 508|[Most Frequent Subtree Sum](./0508-most-frequent-subtree-sum.js)|Medium|
 509|[Fibonacci Number](./0509-fibonacci-number.js)|Easy|
 513|[Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value.js)|Medium|
+514|[Freedom Trail](./0514-freedom-trail.js)|Hard|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
 530|[Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst.js)|Easy|
