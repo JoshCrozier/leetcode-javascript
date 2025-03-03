@@ -391,6 +391,7 @@
 483|[Smallest Good Base](./0483-smallest-good-base.js)|Hard|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
 486|[Predict the Winner](./0486-predict-the-winner.js)|Medium|
+488|[Zuma Game](./0488-zuma-game.js)|Hard|
 491|[Non-decreasing Subsequences](./0491-non-decreasing-subsequences.js)|Medium|
 492|[Construct the Rectangle](./0492-construct-the-rectangle.js)|Easy|
 496|[Next Greater Element I](./0496-next-greater-element-i.js)|Easy|
