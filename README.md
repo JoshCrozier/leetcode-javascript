@@ -385,6 +385,7 @@
 477|[Total Hamming Distance](./0477-total-hamming-distance.js)|Medium|
 478|[Generate Random Point in a Circle](./0478-generate-random-point-in-a-circle.js)|Medium|
 479|[Largest Palindrome Product](./0479-largest-palindrome-product.js)|Hard|
+480|[Sliding Window Median](./0480-sliding-window-median.js)|Hard|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
 486|[Predict the Winner](./0486-predict-the-winner.js)|Medium|
