@@ -384,6 +384,7 @@
 476|[Number Complement](./0476-number-complement.js)|Easy|
 477|[Total Hamming Distance](./0477-total-hamming-distance.js)|Medium|
 478|[Generate Random Point in a Circle](./0478-generate-random-point-in-a-circle.js)|Medium|
+479|[Largest Palindrome Product](./0479-largest-palindrome-product.js)|Hard|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
 486|[Predict the Winner](./0486-predict-the-winner.js)|Medium|
