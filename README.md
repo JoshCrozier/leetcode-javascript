@@ -388,6 +388,7 @@
 480|[Sliding Window Median](./0480-sliding-window-median.js)|Hard|
 481|[Magical String](./0481-magical-string.js)|Medium|
 482|[License Key Formatting](./0482-license-key-formatting.js)|Easy|
+483|[Smallest Good Base](./0483-smallest-good-base.js)|Hard|
 485|[Max Consecutive Ones](./0485-max-consecutive-ones.js)|Easy|
 486|[Predict the Winner](./0486-predict-the-winner.js)|Medium|
 491|[Non-decreasing Subsequences](./0491-non-decreasing-subsequences.js)|Medium|
