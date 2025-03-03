@@ -398,6 +398,7 @@
 494|[Target Sum](./0494-target-sum.js)|Medium|
 495|[Teemo Attacking](./0495-teemo-attacking.js)|Easy|
 496|[Next Greater Element I](./0496-next-greater-element-i.js)|Easy|
+497|[Random Point in Non-overlapping Rectangles](./0497-random-point-in-non-overlapping-rectangles.js)|Medium|
 500|[Keyboard Row](./0500-keyboard-row.js)|Easy|
 501|[Find Mode in Binary Search Tree](./0501-find-mode-in-binary-search-tree.js)|Easy|
 502|[IPO](./0502-ipo.js)|Hard|
