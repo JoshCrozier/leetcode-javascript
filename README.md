@@ -407,6 +407,7 @@
 504|[Base 7](./0504-base-7.js)|Easy|
 506|[Relative Ranks](./0506-relative-ranks.js)|Easy|
 507|[Perfect Number](./0507-perfect-number.js)|Easy|
+508|[Most Frequent Subtree Sum](./0508-most-frequent-subtree-sum.js)|Medium|
 509|[Fibonacci Number](./0509-fibonacci-number.js)|Easy|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
