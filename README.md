@@ -413,6 +413,7 @@
 514|[Freedom Trail](./0514-freedom-trail.js)|Hard|
 515|[Find Largest Value in Each Tree Row](./0515-find-largest-value-in-each-tree-row.js)|Medium|
 516|[Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence.js)|Medium|
+517|[Super Washing Machines](./0517-super-washing-machines.js)|Hard|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
 530|[Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst.js)|Easy|
