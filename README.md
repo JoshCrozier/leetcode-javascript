@@ -415,6 +415,7 @@
 516|[Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence.js)|Medium|
 517|[Super Washing Machines](./0517-super-washing-machines.js)|Hard|
 518|[Coin Change II](./0518-coin-change-ii.js)|Medium|
+519|[Random Flip Matrix](./0519-random-flip-matrix.js)|Medium|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
 530|[Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst.js)|Easy|
