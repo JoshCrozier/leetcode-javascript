@@ -423,6 +423,7 @@
 524|[Longest Word in Dictionary through Deleting](./0524-longest-word-in-dictionary-through-deleting.js)|Medium|
 525|[Contiguous Array](./0525-contiguous-array.js)|Medium|
 526|[Beautiful Arrangement](./0526-beautiful-arrangement.js)|Medium|
+528|[Random Pick with Weight](./0528-random-pick-with-weight.js)|Medium|
 530|[Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
