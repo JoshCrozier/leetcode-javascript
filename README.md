@@ -418,6 +418,7 @@
 519|[Random Flip Matrix](./0519-random-flip-matrix.js)|Medium|
 520|[Detect Capital](./0520-detect-capital.js)|Easy|
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
+522|[Longest Uncommon Subsequence II](./0522-longest-uncommon-subsequence-ii.js)|Medium|
 530|[Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
