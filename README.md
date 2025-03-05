@@ -540,6 +540,7 @@
 1023|[Camelcase Matching](./1023-camelcase-matching.js)|Medium|
 1028|[Recover a Tree From Preorder Traversal](./1028-recover-a-tree-from-preorder-traversal.js)|Hard|
 1037|[Valid Boomerang](./1037-valid-boomerang.js)|Easy|
+1038|[Binary Search Tree to Greater Sum Tree](./1038-binary-search-tree-to-greater-sum-tree.js)|Medium|
 1041|[Robot Bounded In Circle](./1041-robot-bounded-in-circle.js)|Medium|
 1047|[Remove All Adjacent Duplicates In String](./1047-remove-all-adjacent-duplicates-in-string.js)|Easy|
 1051|[Height Checker](./1051-height-checker.js)|Easy|
