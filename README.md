@@ -429,6 +429,7 @@
 532|[K-diff Pairs in an Array](./0532-k-diff-pairs-in-an-array.js)|Medium|
 537|[Complex Number Multiplication](./0537-complex-number-multiplication.js)|Medium|
 538|[Convert BST to Greater Tree](./0538-convert-bst-to-greater-tree.js)|Medium|
+539|[Minimum Time Difference](./0539-minimum-time-difference.js)|Medium|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
 543|[Diameter of Binary Tree](./0543-diameter-of-binary-tree.js)|Easy|
