@@ -420,6 +420,7 @@
 521|[Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i.js)|Easy|
 522|[Longest Uncommon Subsequence II](./0522-longest-uncommon-subsequence-ii.js)|Medium|
 523|[Continuous Subarray Sum](./0523-continuous-subarray-sum.js)|Medium|
+524|[Longest Word in Dictionary through Deleting](./0524-longest-word-in-dictionary-through-deleting.js)|Medium|
 530|[Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst.js)|Easy|
 541|[Reverse String II](./0541-reverse-string-ii.js)|Easy|
 542|[01 Matrix](./0542-01-matrix.js)|Medium|
