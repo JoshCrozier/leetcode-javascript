@@ -443,6 +443,7 @@
 556|[Next Greater Element III](./0556-next-greater-element-iii.js)|Medium|
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
 558|[Logical OR of Two Binary Grids Represented as Quad-Trees](./0558-logical-or-of-two-binary-grids-represented-as-quad-trees.js)|Medium|
+559|[Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree.js)|Easy|
 560|[Subarray Sum Equals K](./0560-subarray-sum-equals-k.js)|Medium|
 563|[Binary Tree Tilt](./0563-binary-tree-tilt.js)|Easy|
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
