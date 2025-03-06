@@ -450,6 +450,7 @@
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
 566|[Reshape the Matrix](./0566-reshape-the-matrix.js)|Easy|
 567|[Permutation in String](./0567-permutation-in-string.js)|Medium|
+572|[Subtree of Another Tree](./0572-subtree-of-another-tree.js)|Easy|
 575|[Distribute Candies](./0575-distribute-candies.js)|Easy|
 589|[N-ary Tree Preorder Traversal](./0589-n-ary-tree-preorder-traversal.js)|Easy|
 594|[Longest Harmonious Subsequence](./0594-longest-harmonious-subsequence.js)|Easy|
