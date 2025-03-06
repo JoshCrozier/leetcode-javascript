@@ -446,6 +446,7 @@
 559|[Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree.js)|Easy|
 560|[Subarray Sum Equals K](./0560-subarray-sum-equals-k.js)|Medium|
 563|[Binary Tree Tilt](./0563-binary-tree-tilt.js)|Easy|
+564|[Find the Closest Palindrome](./0564-find-the-closest-palindrome.js)|Hard|
 565|[Array Nesting](./0565-array-nesting.js)|Medium|
 566|[Reshape the Matrix](./0566-reshape-the-matrix.js)|Easy|
 567|[Permutation in String](./0567-permutation-in-string.js)|Medium|
