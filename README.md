@@ -704,6 +704,7 @@
 2215|[Find the Difference of Two Arrays](./2215-find-the-difference-of-two-arrays.js)|Easy|
 2235|[Add Two Integers](./2235-add-two-integers.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
+2270|[Number of Ways to Split Array](./2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2336|[Smallest Number in Infinite Set](./2336-smallest-number-in-infinite-set.js)|Medium|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
