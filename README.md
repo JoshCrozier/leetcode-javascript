@@ -440,6 +440,7 @@
 552|[Student Attendance Record II](./0552-student-attendance-record-ii.js)|Hard|
 553|[Optimal Division](./0553-optimal-division.js)|Medium|
 554|[Brick Wall](./0554-brick-wall.js)|Medium|
+556|[Next Greater Element III](./0556-next-greater-element-iii.js)|Medium|
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
 560|[Subarray Sum Equals K](./0560-subarray-sum-equals-k.js)|Medium|
 563|[Binary Tree Tilt](./0563-binary-tree-tilt.js)|Easy|
