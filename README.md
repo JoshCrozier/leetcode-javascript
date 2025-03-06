@@ -437,6 +437,7 @@
 546|[Remove Boxes](./0546-remove-boxes.js)|Hard|
 547|[Number of Provinces](./0547-number-of-provinces.js)|Medium|
 551|[Student Attendance Record I](./0551-student-attendance-record-i.js)|Easy|
+552|[Student Attendance Record II](./0552-student-attendance-record-ii.js)|Hard|
 557|[Reverse Words in a String III](./0557-reverse-words-in-a-string-iii.js)|Easy|
 560|[Subarray Sum Equals K](./0560-subarray-sum-equals-k.js)|Medium|
 563|[Binary Tree Tilt](./0563-binary-tree-tilt.js)|Easy|
