@@ -768,6 +768,7 @@
 2726|[Calculator with Method Chaining](./2726-calculator-with-method-chaining.js)|Easy|
 2727|[Is Object Empty](./2727-is-object-empty.js)|Easy|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
+2965|[Find Missing and Repeated Values](./2965-find-missing-and-repeated-values.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
