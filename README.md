@@ -745,6 +745,7 @@
 2482|[Difference Between Ones and Zeros in Row and Column](./2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./2490-circular-sentence.js)|Easy|
 2493|[Divide Nodes Into the Maximum Number of Groups](./2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
+2523|[Closest Prime Numbers in Range](./2523-closest-prime-numbers-in-range.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2542|[Maximum Subsequence Score](./2542-maximum-subsequence-score.js)|Medium|
