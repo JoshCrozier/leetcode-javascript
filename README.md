@@ -464,6 +464,7 @@
 594|[Longest Harmonious Subsequence](./0594-longest-harmonious-subsequence.js)|Easy|
 598|[Range Addition II](./0598-range-addition-ii.js)|Easy|
 599|[Minimum Index Sum of Two Lists](./0599-minimum-index-sum-of-two-lists.js)|Easy|
+600|[Non-negative Integers without Consecutive Ones](./0600-non-negative-integers-without-consecutive-ones.js)|Hard|
 605|[Can Place Flowers](./0605-can-place-flowers.js)|Easy|
 606|[Construct String from Binary Tree](./0606-construct-string-from-binary-tree.js)|Easy|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
