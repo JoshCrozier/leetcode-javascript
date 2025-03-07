@@ -477,6 +477,7 @@
 628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
 629|[K Inverse Pairs Array](./0629-k-inverse-pairs-array.js)|Hard|
 630|[Course Schedule III](./0630-course-schedule-iii.js)|Hard|
+633|[Sum of Square Numbers](./0633-sum-of-square-numbers.js)|Medium|
 637|[Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree.js)|Easy|
 643|[Maximum Average Subarray I](./0643-maximum-average-subarray-i.js)|Easy|
 645|[Set Mismatch](./0645-set-mismatch.js)|Medium|
