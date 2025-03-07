@@ -460,6 +460,7 @@
 590|[N-ary Tree Postorder Traversal](./0590-n-ary-tree-postorder-traversal.js)|Easy|
 591|[Tag Validator](./0591-tag-validator.js)|Hard|
 592|[Fraction Addition and Subtraction](./0592-fraction-addition-and-subtraction.js)|Medium|
+593|[Valid Square](./0593-valid-square.js)|Medium|
 594|[Longest Harmonious Subsequence](./0594-longest-harmonious-subsequence.js)|Easy|
 599|[Minimum Index Sum of Two Lists](./0599-minimum-index-sum-of-two-lists.js)|Easy|
 605|[Can Place Flowers](./0605-can-place-flowers.js)|Easy|
