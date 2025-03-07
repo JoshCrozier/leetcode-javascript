@@ -471,6 +471,7 @@
 611|[Valid Triangle Number](./0611-valid-triangle-number.js)|Medium|
 617|[Merge Two Binary Trees](./0617-merge-two-binary-trees.js)|Easy|
 621|[Task Scheduler](./0621-task-scheduler.js)|Medium|
+622|[Design Circular Queue](./0622-design-circular-queue.js)|Medium|
 628|[Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers.js)|Easy|
 637|[Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree.js)|Easy|
 643|[Maximum Average Subarray I](./0643-maximum-average-subarray-i.js)|Easy|
