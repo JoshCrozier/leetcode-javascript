@@ -486,6 +486,7 @@
 643|[Maximum Average Subarray I](./0643-maximum-average-subarray-i.js)|Easy|
 645|[Set Mismatch](./0645-set-mismatch.js)|Medium|
 646|[Maximum Length of Pair Chain](./0646-maximum-length-of-pair-chain.js)|Medium|
+647|[Palindromic Substrings](./0647-palindromic-substrings.js)|Medium|
 648|[Replace Words](./0648-replace-words.js)|Medium|
 649|[Dota2 Senate](./0649-dota2-senate.js)|Medium|
 653|[Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst.js)|Easy|
