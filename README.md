@@ -735,6 +735,7 @@
 2352|[Equal Row and Column Pairs](./2352-equal-row-and-column-pairs.js)|Medium|
 2364|[Count Number of Bad Pairs](./2364-count-number-of-bad-pairs.js)|Medium|
 2375|[Construct Smallest Number From DI String](./2375-construct-smallest-number-from-di-string.js)|Medium|
+2379|[Minimum Recolors to Get K Consecutive Black Blocks](./2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
 2381|[Shifting Letters II](./2381-shifting-letters-ii.js)|Medium|
 2390|[Removing Stars From a String](./2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./2396-strictly-palindromic-number.js)|Medium|
