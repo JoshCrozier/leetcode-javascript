@@ -489,6 +489,7 @@
 647|[Palindromic Substrings](./0647-palindromic-substrings.js)|Medium|
 648|[Replace Words](./0648-replace-words.js)|Medium|
 649|[Dota2 Senate](./0649-dota2-senate.js)|Medium|
+650|[2 Keys Keyboard](./0650-2-keys-keyboard.js)|Medium|
 653|[Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst.js)|Easy|
 654|[Maximum Binary Tree](./0654-maximum-binary-tree.js)|Medium|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
