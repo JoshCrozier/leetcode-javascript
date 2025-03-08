@@ -482,6 +482,7 @@
 637|[Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree.js)|Easy|
 638|[Shopping Offers](./0638-shopping-offers.js)|Medium|
 639|[Decode Ways II](./0639-decode-ways-ii.js)|Hard|
+641|[Design Circular Deque](./0641-design-circular-deque.js)|Medium|
 643|[Maximum Average Subarray I](./0643-maximum-average-subarray-i.js)|Easy|
 645|[Set Mismatch](./0645-set-mismatch.js)|Medium|
 648|[Replace Words](./0648-replace-words.js)|Medium|
