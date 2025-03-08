@@ -497,6 +497,7 @@
 657|[Robot Return to Origin](./0657-robot-return-to-origin.js)|Easy|
 658|[Find K Closest Elements](./0658-find-k-closest-elements.js)|Medium|
 659|[Split Array into Consecutive Subsequences](./0659-split-array-into-consecutive-subsequences.js)|Medium|
+661|[Image Smoother](./0661-image-smoother.js)|Easy|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
