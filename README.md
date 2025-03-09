@@ -500,6 +500,7 @@
 661|[Image Smoother](./0661-image-smoother.js)|Easy|
 662|[Maximum Width of Binary Tree](./0662-maximum-width-of-binary-tree.js)|Medium|
 664|[Strange Printer](./0664-strange-printer.js)|Hard|
+667|[Beautiful Arrangement II](./0667-beautiful-arrangement-ii.js)|Medium|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
