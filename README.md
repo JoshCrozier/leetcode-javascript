@@ -508,6 +508,7 @@
 672|[Bulb Switcher II](./0672-bulb-switcher-ii.js)|Medium|
 673|[Number of Longest Increasing Subsequence](./0673-number-of-longest-increasing-subsequence.js)|Medium|
 674|[Longest Continuous Increasing Subsequence](./0674-longest-continuous-increasing-subsequence.js)|Easy|
+675|[Cut Off Trees for Golf Event](./0675-cut-off-trees-for-golf-event.js)|Hard|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
