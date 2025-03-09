@@ -768,6 +768,7 @@
 2529|[Maximum Count of Positive Integer and Negative Integer](./2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2542|[Maximum Subsequence Score](./2542-maximum-subsequence-score.js)|Medium|
+2559|[Count Vowel Strings in Ranges](./2559-count-vowel-strings-in-ranges.js)|Medium|
 2570|[Merge Two 2D Arrays by Summing Values](./2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2579|[Count Total Number of Colored Cells](./2579-count-total-number-of-colored-cells.js)|Medium|
 2618|[Check if Object Instance of Class](./2618-check-if-object-instance-of-class.js)|Medium|
