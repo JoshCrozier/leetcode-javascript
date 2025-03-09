@@ -510,6 +510,7 @@
 674|[Longest Continuous Increasing Subsequence](./0674-longest-continuous-increasing-subsequence.js)|Easy|
 675|[Cut Off Trees for Golf Event](./0675-cut-off-trees-for-golf-event.js)|Hard|
 676|[Implement Magic Dictionary](./0676-implement-magic-dictionary.js)|Medium|
+677|[Map Sum Pairs](./0677-map-sum-pairs.js)|Medium|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
