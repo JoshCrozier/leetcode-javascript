@@ -502,6 +502,7 @@
 664|[Strange Printer](./0664-strange-printer.js)|Hard|
 667|[Beautiful Arrangement II](./0667-beautiful-arrangement-ii.js)|Medium|
 668|[Kth Smallest Number in Multiplication Table](./0668-kth-smallest-number-in-multiplication-table.js)|Hard|
+669|[Trim a Binary Search Tree](./0669-trim-a-binary-search-tree.js)|Medium|
 670|[Maximum Swap](./0670-maximum-swap.js)|Medium|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
