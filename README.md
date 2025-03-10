@@ -521,6 +521,7 @@
 687|[Longest Univalue Path](./0687-longest-univalue-path.js)|Medium|
 688|[Knight Probability in Chessboard](./0688-knight-probability-in-chessboard.js)|Medium|
 689|[Maximum Sum of 3 Non-Overlapping Subarrays](./0689-maximum-sum-of-3-non-overlapping-subarrays.js)|Hard|
+690|[Employee Importance](./0690-employee-importance.js)|Medium|
 693|[Binary Number with Alternating Bits](./0693-binary-number-with-alternating-bits.js)|Easy|
 695|[Max Area of Island](./0695-max-area-of-island.js)|Medium|
 696|[Count Binary Substrings](./0696-count-binary-substrings.js)|Easy|
