@@ -836,6 +836,7 @@
 3174|[Clear Digits](./3174-clear-digits.js)|Easy|
 3208|[Alternating Groups II](./3208-alternating-groups-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./3223-minimum-length-of-string-after-operations.js)|Medium|
+3306|[Count of Substrings Containing Every Vowel and K Consonants II](./3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
 3392|[Count Subarrays of Length Three With a Condition](./3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
