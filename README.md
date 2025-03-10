@@ -516,6 +516,7 @@
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
 682|[Baseball Game](./0682-baseball-game.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
+685|[Redundant Connection II](./0685-redundant-connection-ii.js)|Hard|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 693|[Binary Number with Alternating Bits](./0693-binary-number-with-alternating-bits.js)|Easy|
 695|[Max Area of Island](./0695-max-area-of-island.js)|Medium|
