@@ -844,6 +844,7 @@
 3452|[Sum of Good Numbers](./3452-sum-of-good-numbers.js)|Easy|
 3461|[Check If Digits Are Equal in String After Operations I](./3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
 3462|[Maximum Sum With at Most K Elements](./3462-maximum-sum-with-at-most-k-elements.js)|Medium|
+3463|[Check If Digits Are Equal in String After Operations II](./3463-check-if-digits-are-equal-in-string-after-operations-ii.js)|Hard|
 
 ## License
 
