@@ -514,6 +514,7 @@
 678|[Valid Parenthesis String](./0678-valid-parenthesis-string.js)|Medium|
 679|[24 Game](./0679-24-game.js)|Hard|
 680|[Valid Palindrome II](./0680-valid-palindrome-ii.js)|Easy|
+682|[Baseball Game](./0682-baseball-game.js)|Easy|
 684|[Redundant Connection](./0684-redundant-connection.js)|Medium|
 686|[Repeated String Match](./0686-repeated-string-match.js)|Easy|
 693|[Binary Number with Alternating Bits](./0693-binary-number-with-alternating-bits.js)|Easy|
