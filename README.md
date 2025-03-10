@@ -843,6 +843,7 @@
 3402|[Minimum Operations to Make Columns Strictly Increasing](./3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 3452|[Sum of Good Numbers](./3452-sum-of-good-numbers.js)|Easy|
 3461|[Check If Digits Are Equal in String After Operations I](./3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
+3462|[Maximum Sum With at Most K Elements](./3462-maximum-sum-with-at-most-k-elements.js)|Medium|
 
 ## License
 
