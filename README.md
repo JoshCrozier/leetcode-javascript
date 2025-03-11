@@ -536,6 +536,7 @@
 705|[Design HashSet](./0705-design-hashset.js)|Easy|
 706|[Design HashMap](./0706-design-hashmap.js)|Easy|
 707|[Design Linked List](./0707-design-linked-list.js)|Medium|
+710|[Random Pick with Blacklist](./0710-random-pick-with-blacklist.js)|Hard|
 713|[Subarray Product Less Than K](./0713-subarray-product-less-than-k.js)|Medium|
 714|[Best Time to Buy and Sell Stock with Transaction Fee](./0714-best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
 717|[1-bit and 2-bit Characters](./0717-1-bit-and-2-bit-characters.js)|Easy|
