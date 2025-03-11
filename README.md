@@ -653,6 +653,7 @@
 1351|[Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./1352-product-of-the-last-k-numbers.js)|Medium|
 1356|[Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
+1358|[Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters.js)|Medium|
 1360|[Number of Days Between Two Dates](./1360-number-of-days-between-two-dates.js)|Easy|
 1365|[How Many Numbers Are Smaller Than the Current Number](./1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
 1366|[Rank Teams by Votes](./1366-rank-teams-by-votes.js)|Medium|
