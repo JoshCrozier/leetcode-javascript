@@ -543,6 +543,7 @@
 715|[Range Module](./0715-range-module.js)|Hard|
 717|[1-bit and 2-bit Characters](./0717-1-bit-and-2-bit-characters.js)|Easy|
 718|[Maximum Length of Repeated Subarray](./0718-maximum-length-of-repeated-subarray.js)|Medium|
+719|[Find K-th Smallest Pair Distance](./0719-find-k-th-smallest-pair-distance.js)|Hard|
 720|[Longest Word in Dictionary](./0720-longest-word-in-dictionary.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 724|[Find Pivot Index](./0724-find-pivot-index.js)|Easy|
