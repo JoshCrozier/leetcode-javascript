@@ -540,6 +540,7 @@
 712|[Minimum ASCII Delete Sum for Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings.js)|Medium|
 713|[Subarray Product Less Than K](./0713-subarray-product-less-than-k.js)|Medium|
 714|[Best Time to Buy and Sell Stock with Transaction Fee](./0714-best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
+715|[Range Module](./0715-range-module.js)|Hard|
 717|[1-bit and 2-bit Characters](./0717-1-bit-and-2-bit-characters.js)|Easy|
 720|[Longest Word in Dictionary](./0720-longest-word-in-dictionary.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
