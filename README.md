@@ -528,6 +528,7 @@
 696|[Count Binary Substrings](./0696-count-binary-substrings.js)|Easy|
 697|[Degree of an Array](./0697-degree-of-an-array.js)|Easy|
 698|[Partition to K Equal Sum Subsets](./0698-partition-to-k-equal-sum-subsets.js)|Medium|
+699|[Falling Squares](./0699-falling-squares.js)|Hard|
 700|[Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree.js)|Easy|
 701|[Insert into a Binary Search Tree](./0701-insert-into-a-binary-search-tree.js)|Medium|
 703|[Kth Largest Element in a Stream](./0703-kth-largest-element-in-a-stream.js)|Easy|
