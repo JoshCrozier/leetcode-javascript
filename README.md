@@ -546,6 +546,7 @@
 718|[Maximum Length of Repeated Subarray](./0718-maximum-length-of-repeated-subarray.js)|Medium|
 719|[Find K-th Smallest Pair Distance](./0719-find-k-th-smallest-pair-distance.js)|Hard|
 720|[Longest Word in Dictionary](./0720-longest-word-in-dictionary.js)|Medium|
+721|[Accounts Merge](./0721-accounts-merge.js)|Medium|
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 724|[Find Pivot Index](./0724-find-pivot-index.js)|Easy|
 733|[Flood Fill](./0733-flood-fill.js)|Easy|
