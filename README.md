@@ -552,6 +552,7 @@
 725|[Split Linked List in Parts](./0725-split-linked-list-in-parts.js)|Medium|
 726|[Number of Atoms](./0726-number-of-atoms.js)|Hard|
 728|[Self Dividing Numbers](./0728-self-dividing-numbers.js)|Easy|
+729|[My Calendar I](./0729-my-calendar-i.js)|Medium|
 733|[Flood Fill](./0733-flood-fill.js)|Easy|
 735|[Asteroid Collision](./0735-asteroid-collision.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
