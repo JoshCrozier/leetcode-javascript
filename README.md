@@ -550,6 +550,7 @@
 722|[Remove Comments](./0722-remove-comments.js)|Medium|
 724|[Find Pivot Index](./0724-find-pivot-index.js)|Easy|
 725|[Split Linked List in Parts](./0725-split-linked-list-in-parts.js)|Medium|
+726|[Number of Atoms](./0726-number-of-atoms.js)|Hard|
 733|[Flood Fill](./0733-flood-fill.js)|Easy|
 735|[Asteroid Collision](./0735-asteroid-collision.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
