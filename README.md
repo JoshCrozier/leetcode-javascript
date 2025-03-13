@@ -559,6 +559,7 @@
 733|[Flood Fill](./0733-flood-fill.js)|Easy|
 735|[Asteroid Collision](./0735-asteroid-collision.js)|Medium|
 736|[Parse Lisp Expression](./0736-parse-lisp-expression.js)|Hard|
+738|[Monotone Increasing Digits](./0738-monotone-increasing-digits.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
 743|[Network Delay Time](./0743-network-delay-time.js)|Medium|
 744|[Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target.js)|Easy|
