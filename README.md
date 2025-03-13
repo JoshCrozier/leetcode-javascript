@@ -569,6 +569,7 @@
 746|[Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs.js)|Easy|
 747|[Largest Number At Least Twice of Others](./0747-largest-number-at-least-twice-of-others.js)|Easy|
 748|[Shortest Completing Word](./0748-shortest-completing-word.js)|Easy|
+749|[Contain Virus](./0749-contain-virus.js)|Hard|
 762|[Prime Number of Set Bits in Binary Representation](./0762-prime-number-of-set-bits-in-binary-representation.js)|Easy|
 763|[Partition Labels](./0763-partition-labels.js)|Medium|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
