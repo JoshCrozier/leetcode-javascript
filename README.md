@@ -572,6 +572,7 @@
 749|[Contain Virus](./0749-contain-virus.js)|Hard|
 752|[Open the Lock](./0752-open-the-lock.js)|Medium|
 753|[Cracking the Safe](./0753-cracking-the-safe.js)|Hard|
+754|[Reach a Number](./0754-reach-a-number.js)|Medium|
 762|[Prime Number of Set Bits in Binary Representation](./0762-prime-number-of-set-bits-in-binary-representation.js)|Easy|
 763|[Partition Labels](./0763-partition-labels.js)|Medium|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
