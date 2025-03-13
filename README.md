@@ -562,6 +562,7 @@
 738|[Monotone Increasing Digits](./0738-monotone-increasing-digits.js)|Medium|
 739|[Daily Temperatures](./0739-daily-temperatures.js)|Medium|
 740|[Delete and Earn](./0740-delete-and-earn.js)|Medium|
+741|[Cherry Pickup](./0741-cherry-pickup.js)|Hard|
 743|[Network Delay Time](./0743-network-delay-time.js)|Medium|
 744|[Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target.js)|Easy|
 745|[Prefix and Suffix Search](./0745-prefix-and-suffix-search.js)|Hard|
