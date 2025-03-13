@@ -581,6 +581,7 @@
 764|[Largest Plus Sign](./0764-largest-plus-sign.js)|Medium|
 765|[Couples Holding Hands](./0765-couples-holding-hands.js)|Hard|
 766|[Toeplitz Matrix](./0766-toeplitz-matrix.js)|Easy|
+767|[Reorganize String](./0767-reorganize-string.js)|Medium|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
 784|[Letter Case Permutation](./0784-letter-case-permutation.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
