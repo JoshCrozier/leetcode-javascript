@@ -575,6 +575,7 @@
 754|[Reach a Number](./0754-reach-a-number.js)|Medium|
 756|[Pyramid Transition Matrix](./0756-pyramid-transition-matrix.js)|Medium|
 757|[Set Intersection Size At Least Two](./0757-set-intersection-size-at-least-two.js)|Hard|
+761|[Special Binary String](./0761-special-binary-string.js)|Hard|
 762|[Prime Number of Set Bits in Binary Representation](./0762-prime-number-of-set-bits-in-binary-representation.js)|Easy|
 763|[Partition Labels](./0763-partition-labels.js)|Medium|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
