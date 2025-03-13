@@ -580,6 +580,7 @@
 763|[Partition Labels](./0763-partition-labels.js)|Medium|
 764|[Largest Plus Sign](./0764-largest-plus-sign.js)|Medium|
 765|[Couples Holding Hands](./0765-couples-holding-hands.js)|Hard|
+766|[Toeplitz Matrix](./0766-toeplitz-matrix.js)|Easy|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
 784|[Letter Case Permutation](./0784-letter-case-permutation.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
