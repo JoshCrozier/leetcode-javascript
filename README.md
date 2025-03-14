@@ -591,6 +591,7 @@
 778|[Swim in Rising Water](./0778-swim-in-rising-water.js)|Hard|
 779|[K-th Symbol in Grammar](./0779-k-th-symbol-in-grammar.js)|Medium|
 780|[Reaching Points](./0780-reaching-points.js)|Hard|
+781|[Rabbits in Forest](./0781-rabbits-in-forest.js)|Medium|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
 784|[Letter Case Permutation](./0784-letter-case-permutation.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
