@@ -585,6 +585,7 @@
 768|[Max Chunks To Make Sorted II](./0768-max-chunks-to-make-sorted-ii.js)|Hard|
 769|[Max Chunks To Make Sorted](./0769-max-chunks-to-make-sorted.js)|Medium|
 770|[Basic Calculator IV](./0770-basic-calculator-iv.js)|Hard|
+773|[Sliding Puzzle](./0773-sliding-puzzle.js)|Hard|
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
 784|[Letter Case Permutation](./0784-letter-case-permutation.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
