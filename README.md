@@ -596,6 +596,7 @@
 783|[Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes.js)|Easy|
 784|[Letter Case Permutation](./0784-letter-case-permutation.js)|Medium|
 785|[Is Graph Bipartite?](./0785-is-graph-bipartite.js)|Medium|
+786|[K-th Smallest Prime Fraction](./0786-k-th-smallest-prime-fraction.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
 796|[Rotate String](./0796-rotate-string.js)|Easy|
