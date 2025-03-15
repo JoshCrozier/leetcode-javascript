@@ -598,6 +598,7 @@
 785|[Is Graph Bipartite?](./0785-is-graph-bipartite.js)|Medium|
 786|[K-th Smallest Prime Fraction](./0786-k-th-smallest-prime-fraction.js)|Medium|
 787|[Cheapest Flights Within K Stops](./0787-cheapest-flights-within-k-stops.js)|Medium|
+788|[Rotated Digits](./0788-rotated-digits.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
 796|[Rotate String](./0796-rotate-string.js)|Easy|
