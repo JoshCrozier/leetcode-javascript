@@ -609,6 +609,7 @@
 796|[Rotate String](./0796-rotate-string.js)|Easy|
 797|[All Paths From Source to Target](./0797-all-paths-from-source-to-target.js)|Medium|
 798|[Smallest Rotation with Highest Score](./0798-smallest-rotation-with-highest-score.js)|Hard|
+799|[Champagne Tower](./0799-champagne-tower.js)|Medium|
 802|[Find Eventual Safe States](./0802-find-eventual-safe-states.js)|Medium|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
