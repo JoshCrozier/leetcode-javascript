@@ -612,6 +612,7 @@
 799|[Champagne Tower](./0799-champagne-tower.js)|Medium|
 801|[Minimum Swaps To Make Sequences Increasing](./0801-minimum-swaps-to-make-sequences-increasing.js)|Hard|
 802|[Find Eventual Safe States](./0802-find-eventual-safe-states.js)|Medium|
+803|[Bricks Falling When Hit](./0803-bricks-falling-when-hit.js)|Hard|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
