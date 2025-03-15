@@ -602,6 +602,7 @@
 789|[Escape The Ghosts](./0789-escape-the-ghosts.js)|Medium|
 790|[Domino and Tromino Tiling](./0790-domino-and-tromino-tiling.js)|Medium|
 791|[Custom Sort String](./0791-custom-sort-string.js)|Medium|
+792|[Number of Matching Subsequences](./0792-number-of-matching-subsequences.js)|Medium|
 796|[Rotate String](./0796-rotate-string.js)|Easy|
 802|[Find Eventual Safe States](./0802-find-eventual-safe-states.js)|Medium|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
