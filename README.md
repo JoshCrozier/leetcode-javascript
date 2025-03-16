@@ -619,6 +619,7 @@
 808|[Soup Servings](./0808-soup-servings.js)|Medium|
 809|[Expressive Words](./0809-expressive-words.js)|Medium|
 810|[Chalkboard XOR Game](./0810-chalkboard-xor-game.js)|Hard|
+811|[Subdomain Visit Count](./0811-subdomain-visit-count.js)|Medium|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
