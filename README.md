@@ -615,6 +615,7 @@
 803|[Bricks Falling When Hit](./0803-bricks-falling-when-hit.js)|Hard|
 804|[Unique Morse Code Words](./0804-unique-morse-code-words.js)|Easy|
 805|[Split Array With Same Average](./0805-split-array-with-same-average.js)|Hard|
+806|[Number of Lines To Write String](./0806-number-of-lines-to-write-string.js)|Easy|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
