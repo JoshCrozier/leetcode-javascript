@@ -851,6 +851,7 @@
 2560|[House Robber IV](./2560-house-robber-iv.js)|Medium|
 2570|[Merge Two 2D Arrays by Summing Values](./2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2579|[Count Total Number of Colored Cells](./2579-count-total-number-of-colored-cells.js)|Medium|
+2594|[Minimum Time to Repair Cars](./2594-minimum-time-to-repair-cars.js)|Medium|
 2618|[Check if Object Instance of Class](./2618-check-if-object-instance-of-class.js)|Medium|
 2619|[Array Prototype Last](./2619-array-prototype-last.js)|Easy|
 2620|[Counter](./2620-counter.js)|Easy|
