@@ -626,6 +626,7 @@
 815|[Bus Routes](./0815-bus-routes.js)|Hard|
 816|[Ambiguous Coordinates](./0816-ambiguous-coordinates.js)|Medium|
 817|[Linked List Components](./0817-linked-list-components.js)|Medium|
+818|[Race Car](./0818-race-car.js)|Hard|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
