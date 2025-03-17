@@ -623,6 +623,7 @@
 812|[Largest Triangle Area](./0812-largest-triangle-area.js)|Easy|
 813|[Largest Sum of Averages](./0813-largest-sum-of-averages.js)|Medium|
 814|[Binary Tree Pruning](./0814-binary-tree-pruning.js)|Medium|
+815|[Bus Routes](./0815-bus-routes.js)|Hard|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
