@@ -823,6 +823,7 @@
 2154|[Keep Multiplying Found Values by Two](./2154-keep-multiplying-found-values-by-two.js)|Easy|
 2161|[Partition Array According to Given Pivot](./2161-partition-array-according-to-given-pivot.js)|Medium|
 2185|[Counting Words With a Given Prefix](./2185-counting-words-with-a-given-prefix.js)|Easy|
+2206|[Divide Array Into Equal Pairs](./2206-divide-array-into-equal-pairs.js)|Easy|
 2215|[Find the Difference of Two Arrays](./2215-find-the-difference-of-two-arrays.js)|Easy|
 2226|[Maximum Candies Allocated to K Children](./2226-maximum-candies-allocated-to-k-children.js)|Medium|
 2235|[Add Two Integers](./2235-add-two-integers.js)|Easy|
