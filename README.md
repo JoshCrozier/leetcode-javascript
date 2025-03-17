@@ -630,6 +630,7 @@
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
 820|[Short Encoding of Words](./0820-short-encoding-of-words.js)|Medium|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
+822|[Card Flipping Game](./0822-card-flipping-game.js)|Medium|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
 827|[Making A Large Island](./0827-making-a-large-island.js)|Hard|
 830|[Positions of Large Groups](./0830-positions-of-large-groups.js)|Easy|
