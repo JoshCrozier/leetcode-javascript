@@ -628,6 +628,7 @@
 817|[Linked List Components](./0817-linked-list-components.js)|Medium|
 818|[Race Car](./0818-race-car.js)|Hard|
 819|[Most Common Word](./0819-most-common-word.js)|Easy|
+820|[Short Encoding of Words](./0820-short-encoding-of-words.js)|Medium|
 821|[Shortest Distance to a Character](./0821-shortest-distance-to-a-character.js)|Easy|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
 827|[Making A Large Island](./0827-making-a-large-island.js)|Hard|
