@@ -633,6 +633,7 @@
 822|[Card Flipping Game](./0822-card-flipping-game.js)|Medium|
 823|[Binary Trees With Factors](./0823-binary-trees-with-factors.js)|Medium|
 824|[Goat Latin](./0824-goat-latin.js)|Easy|
+825|[Friends Of Appropriate Ages](./0825-friends-of-appropriate-ages.js)|Medium|
 827|[Making A Large Island](./0827-making-a-large-island.js)|Hard|
 830|[Positions of Large Groups](./0830-positions-of-large-groups.js)|Easy|
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
