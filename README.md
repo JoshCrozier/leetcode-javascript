@@ -637,6 +637,7 @@
 826|[Most Profit Assigning Work](./0826-most-profit-assigning-work.js)|Medium|
 827|[Making A Large Island](./0827-making-a-large-island.js)|Hard|
 828|[Count Unique Characters of All Substrings of a Given String](./0828-count-unique-characters-of-all-substrings-of-a-given-string.js)|Hard|
+829|[Consecutive Numbers Sum](./0829-consecutive-numbers-sum.js)|Hard|
 830|[Positions of Large Groups](./0830-positions-of-large-groups.js)|Easy|
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
 841|[Keys and Rooms](./0841-keys-and-rooms.js)|Medium|
