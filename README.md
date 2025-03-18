@@ -849,6 +849,7 @@
 2381|[Shifting Letters II](./2381-shifting-letters-ii.js)|Medium|
 2390|[Removing Stars From a String](./2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./2396-strictly-palindromic-number.js)|Medium|
+2401|[Longest Nice Subarray](./2401-longest-nice-subarray.js)|Medium|
 2413|[Smallest Even Multiple](./2413-smallest-even-multiple.js)|Easy|
 2425|[Bitwise XOR of All Pairings](./2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./2427-number-of-common-factors.js)|Easy|
