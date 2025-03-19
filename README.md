@@ -640,6 +640,7 @@
 829|[Consecutive Numbers Sum](./0829-consecutive-numbers-sum.js)|Hard|
 830|[Positions of Large Groups](./0830-positions-of-large-groups.js)|Easy|
 831|[Masking Personal Information](./0831-masking-personal-information.js)|Medium|
+833|[Find And Replace in String](./0833-find-and-replace-in-string.js)|Medium|
 841|[Keys and Rooms](./0841-keys-and-rooms.js)|Medium|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
