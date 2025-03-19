@@ -647,6 +647,7 @@
 837|[New 21 Game](./0837-new-21-game.js)|Medium|
 838|[Push Dominoes](./0838-push-dominoes.js)|Medium|
 839|[Similar String Groups](./0839-similar-string-groups.js)|Hard|
+840|[Magic Squares In Grid](./0840-magic-squares-in-grid.js)|Medium|
 841|[Keys and Rooms](./0841-keys-and-rooms.js)|Medium|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
