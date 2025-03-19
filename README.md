@@ -924,6 +924,7 @@
 3151|[Special Array I](./3151-special-array-i.js)|Easy|
 3160|[Find the Number of Distinct Colors Among the Balls](./3160-find-the-number-of-distinct-colors-among-the-balls.js)|Medium|
 3174|[Clear Digits](./3174-clear-digits.js)|Easy|
+3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
 3208|[Alternating Groups II](./3208-alternating-groups-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./3223-minimum-length-of-string-after-operations.js)|Medium|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
