@@ -663,6 +663,7 @@
 853|[Car Fleet](./0853-car-fleet.js)|Medium|
 854|[K-Similar Strings](./0854-k-similar-strings.js)|Hard|
 855|[Exam Room](./0855-exam-room.js)|Medium|
+856|[Score of Parentheses](./0856-score-of-parentheses.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
