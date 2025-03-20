@@ -654,6 +654,7 @@
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 845|[Longest Mountain in Array](./0845-longest-mountain-in-array.js)|Medium|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
+847|[Shortest Path Visiting All Nodes](./0847-shortest-path-visiting-all-nodes.js)|Hard|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
