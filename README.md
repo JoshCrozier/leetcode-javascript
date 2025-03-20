@@ -652,6 +652,7 @@
 842|[Split Array into Fibonacci Sequence](./0842-split-array-into-fibonacci-sequence.js)|Medium|
 843|[Guess the Word](./0843-guess-the-word.js)|Hard|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
+845|[Longest Mountain in Array](./0845-longest-mountain-in-array.js)|Medium|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
