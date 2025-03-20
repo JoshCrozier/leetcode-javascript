@@ -650,6 +650,7 @@
 840|[Magic Squares In Grid](./0840-magic-squares-in-grid.js)|Medium|
 841|[Keys and Rooms](./0841-keys-and-rooms.js)|Medium|
 842|[Split Array into Fibonacci Sequence](./0842-split-array-into-fibonacci-sequence.js)|Medium|
+843|[Guess the Word](./0843-guess-the-word.js)|Hard|
 844|[Backspace String Compare](./0844-backspace-string-compare.js)|Easy|
 846|[Hand of Straights](./0846-hand-of-straights.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
