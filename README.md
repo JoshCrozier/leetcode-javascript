@@ -659,6 +659,7 @@
 849|[Maximize Distance to Closest Person](./0849-maximize-distance-to-closest-person.js)|Medium|
 850|[Rectangle Area II](./0850-rectangle-area-ii.js)|Hard|
 851|[Loud and Rich](./0851-loud-and-rich.js)|Medium|
+852|[Peak Index in a Mountain Array](./0852-peak-index-in-a-mountain-array.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
