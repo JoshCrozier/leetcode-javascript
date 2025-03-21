@@ -668,6 +668,7 @@
 858|[Mirror Reflection](./0858-mirror-reflection.js)|Medium|
 859|[Buddy Strings](./0859-buddy-strings.js)|Easy|
 860|[Lemonade Change](./0860-lemonade-change.js)|Easy|
+861|[Score After Flipping Matrix](./0861-score-after-flipping-matrix.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
