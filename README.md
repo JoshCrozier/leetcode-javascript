@@ -502,6 +502,7 @@
 661|[Image Smoother](./0661-image-smoother.js)|Easy|
 662|[Maximum Width of Binary Tree](./0662-maximum-width-of-binary-tree.js)|Medium|
 664|[Strange Printer](./0664-strange-printer.js)|Hard|
+665|[Non-decreasing Array](./0665-non-decreasing-array.js)|Medium|
 667|[Beautiful Arrangement II](./0667-beautiful-arrangement-ii.js)|Medium|
 668|[Kth Smallest Number in Multiplication Table](./0668-kth-smallest-number-in-multiplication-table.js)|Hard|
 669|[Trim a Binary Search Tree](./0669-trim-a-binary-search-tree.js)|Medium|
