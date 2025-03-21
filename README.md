@@ -678,6 +678,7 @@
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 869|[Reordered Power of 2](./0869-reordered-power-of-2.js)|Medium|
 870|[Advantage Shuffle](./0870-advantage-shuffle.js)|Medium|
+871|[Minimum Number of Refueling Stops](./0871-minimum-number-of-refueling-stops.js)|Hard|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
 873|[Length of Longest Fibonacci Subsequence](./0873-length-of-longest-fibonacci-subsequence.js)|Medium|
 875|[Koko Eating Bananas](./0875-koko-eating-bananas.js)|Medium|
