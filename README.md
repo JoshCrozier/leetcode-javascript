@@ -723,6 +723,7 @@
 1103|[Distribute Candies to People](./1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./1108-defanging-an-ip-address.js)|Easy|
 1122|[Relative Sort Array](./1122-relative-sort-array.js)|Easy|
+1123|[Lowest Common Ancestor of Deepest Leaves](./1123-lowest-common-ancestor-of-deepest-leaves.js)|Medium|
 1137|[N-th Tribonacci Number](./1137-n-th-tribonacci-number.js)|Easy|
 1143|[Longest Common Subsequence](./1143-longest-common-subsequence.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
