@@ -681,6 +681,7 @@
 871|[Minimum Number of Refueling Stops](./0871-minimum-number-of-refueling-stops.js)|Hard|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
 873|[Length of Longest Fibonacci Subsequence](./0873-length-of-longest-fibonacci-subsequence.js)|Medium|
+874|[Walking Robot Simulation](./0874-walking-robot-simulation.js)|Medium|
 875|[Koko Eating Bananas](./0875-koko-eating-bananas.js)|Medium|
 876|[Middle of the Linked List](./0876-middle-of-the-linked-list.js)|Easy|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
