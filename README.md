@@ -672,6 +672,7 @@
 862|[Shortest Subarray with Sum at Least K](./0862-shortest-subarray-with-sum-at-least-k.js)|Hard|
 863|[All Nodes Distance K in Binary Tree](./0863-all-nodes-distance-k-in-binary-tree.js)|Medium|
 864|[Shortest Path to Get All Keys](./0864-shortest-path-to-get-all-keys.js)|Hard|
+865|[Smallest Subtree with all the Deepest Nodes](./0865-smallest-subtree-with-all-the-deepest-nodes.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
