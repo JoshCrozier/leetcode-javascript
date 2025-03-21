@@ -676,6 +676,7 @@
 866|[Prime Palindrome](./0866-prime-palindrome.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
+869|[Reordered Power of 2](./0869-reordered-power-of-2.js)|Medium|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
 873|[Length of Longest Fibonacci Subsequence](./0873-length-of-longest-fibonacci-subsequence.js)|Medium|
 875|[Koko Eating Bananas](./0875-koko-eating-bananas.js)|Medium|
