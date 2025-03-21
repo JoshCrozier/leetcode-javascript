@@ -666,6 +666,7 @@
 856|[Score of Parentheses](./0856-score-of-parentheses.js)|Medium|
 857|[Minimum Cost to Hire K Workers](./0857-minimum-cost-to-hire-k-workers.js)|Hard|
 858|[Mirror Reflection](./0858-mirror-reflection.js)|Medium|
+859|[Buddy Strings](./0859-buddy-strings.js)|Easy|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
