@@ -689,6 +689,7 @@
 876|[Middle of the Linked List](./0876-middle-of-the-linked-list.js)|Easy|
 877|[Stone Game](./0877-stone-game.js)|Medium|
 878|[Nth Magical Number](./0878-nth-magical-number.js)|Hard|
+879|[Profitable Schemes](./0879-profitable-schemes.js)|Hard|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
 889|[Construct Binary Tree from Preorder and Postorder Traversal](./0889-construct-binary-tree-from-preorder-and-postorder-traversal.js)|Medium|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
