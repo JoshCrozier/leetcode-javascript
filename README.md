@@ -673,6 +673,7 @@
 863|[All Nodes Distance K in Binary Tree](./0863-all-nodes-distance-k-in-binary-tree.js)|Medium|
 864|[Shortest Path to Get All Keys](./0864-shortest-path-to-get-all-keys.js)|Hard|
 865|[Smallest Subtree with all the Deepest Nodes](./0865-smallest-subtree-with-all-the-deepest-nodes.js)|Medium|
+866|[Prime Palindrome](./0866-prime-palindrome.js)|Medium|
 867|[Transpose Matrix](./0867-transpose-matrix.js)|Easy|
 868|[Binary Gap](./0868-binary-gap.js)|Easy|
 872|[Leaf-Similar Trees](./0872-leaf-similar-trees.js)|Easy|
