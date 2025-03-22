@@ -698,6 +698,7 @@
 885|[Spiral Matrix III](./0885-spiral-matrix-iii.js)|Medium|
 886|[Possible Bipartition](./0886-possible-bipartition.js)|Medium|
 887|[Super Egg Drop](./0887-super-egg-drop.js)|Hard|
+888|[Fair Candy Swap](./0888-fair-candy-swap.js)|Easy|
 889|[Construct Binary Tree from Preorder and Postorder Traversal](./0889-construct-binary-tree-from-preorder-and-postorder-traversal.js)|Medium|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 901|[Online Stock Span](./0901-online-stock-span.js)|Medium|
