@@ -704,6 +704,7 @@
 891|[Sum of Subsequence Widths](./0891-sum-of-subsequence-widths.js)|Hard|
 892|[Surface Area of 3D Shapes](./0892-surface-area-of-3d-shapes.js)|Easy|
 893|[Groups of Special-Equivalent Strings](./0893-groups-of-special-equivalent-strings.js)|Medium|
+894|[All Possible Full Binary Trees](./0894-all-possible-full-binary-trees.js)|Medium|
 901|[Online Stock Span](./0901-online-stock-span.js)|Medium|
 905|[Sort Array By Parity](./0905-sort-array-by-parity.js)|Easy|
 909|[Snakes and Ladders](./0909-snakes-and-ladders.js)|Medium|
