@@ -702,6 +702,7 @@
 889|[Construct Binary Tree from Preorder and Postorder Traversal](./0889-construct-binary-tree-from-preorder-and-postorder-traversal.js)|Medium|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 891|[Sum of Subsequence Widths](./0891-sum-of-subsequence-widths.js)|Hard|
+892|[Surface Area of 3D Shapes](./0892-surface-area-of-3d-shapes.js)|Easy|
 901|[Online Stock Span](./0901-online-stock-span.js)|Medium|
 905|[Sort Array By Parity](./0905-sort-array-by-parity.js)|Easy|
 909|[Snakes and Ladders](./0909-snakes-and-ladders.js)|Medium|
