@@ -691,6 +691,7 @@
 878|[Nth Magical Number](./0878-nth-magical-number.js)|Hard|
 879|[Profitable Schemes](./0879-profitable-schemes.js)|Hard|
 880|[Decoded String at Index](./0880-decoded-string-at-index.js)|Medium|
+881|[Boats to Save People](./0881-boats-to-save-people.js)|Medium|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
 889|[Construct Binary Tree from Preorder and Postorder Traversal](./0889-construct-binary-tree-from-preorder-and-postorder-traversal.js)|Medium|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
