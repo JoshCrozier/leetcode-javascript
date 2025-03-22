@@ -948,6 +948,7 @@
 2667|[Create Hello World Function](./2667-create-hello-world-function.js)|Easy|
 2677|[Chunk Array](./2677-chunk-array.js)|Easy|
 2683|[Neighboring Bitwise XOR](./2683-neighboring-bitwise-xor.js)|Medium|
+2685|[Count the Number of Complete Components](./2685-count-the-number-of-complete-components.js)|Medium|
 2693|[Call Function with Custom Context](./2693-call-function-with-custom-context.js)|Medium|
 2694|[Event Emitter](./2694-event-emitter.js)|Medium|
 2695|[Array Wrapper](./2695-array-wrapper.js)|Easy|
