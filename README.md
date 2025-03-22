@@ -695,6 +695,7 @@
 882|[Reachable Nodes In Subdivided Graph](./0882-reachable-nodes-in-subdivided-graph.js)|Hard|
 883|[Projection Area of 3D Shapes](./0883-projection-area-of-3d-shapes.js)|Easy|
 884|[Uncommon Words from Two Sentences](./0884-uncommon-words-from-two-sentences.js)|Easy|
+885|[Spiral Matrix III](./0885-spiral-matrix-iii.js)|Medium|
 889|[Construct Binary Tree from Preorder and Postorder Traversal](./0889-construct-binary-tree-from-preorder-and-postorder-traversal.js)|Medium|
 890|[Find and Replace Pattern](./0890-find-and-replace-pattern.js)|Medium|
 901|[Online Stock Span](./0901-online-stock-span.js)|Medium|
