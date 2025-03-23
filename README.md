@@ -714,6 +714,7 @@
 901|[Online Stock Span](./0901-online-stock-span.js)|Medium|
 902|[Numbers At Most N Given Digit Set](./0902-numbers-at-most-n-given-digit-set.js)|Hard|
 903|[Valid Permutations for DI Sequence](./0903-valid-permutations-for-di-sequence.js)|Hard|
+904|[Fruit Into Baskets](./0904-fruit-into-baskets.js)|Medium|
 905|[Sort Array By Parity](./0905-sort-array-by-parity.js)|Easy|
 909|[Snakes and Ladders](./0909-snakes-and-ladders.js)|Medium|
 912|[Sort an Array](./0912-sort-an-array.js)|Medium|
