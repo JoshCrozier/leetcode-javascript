@@ -718,6 +718,7 @@
 905|[Sort Array By Parity](./solutions/0905-sort-array-by-parity.js)|Easy|
 906|[Super Palindromes](./solutions/0906-super-palindromes.js)|Hard|
 907|[Sum of Subarray Minimums](./solutions/0907-sum-of-subarray-minimums.js)|Medium|
+908|[Smallest Range I](./solutions/0908-smallest-range-i.js)|Easy|
 909|[Snakes and Ladders](./solutions/0909-snakes-and-ladders.js)|Medium|
 912|[Sort an Array](./solutions/0912-sort-an-array.js)|Medium|
 914|[X of a Kind in a Deck of Cards](./solutions/0914-x-of-a-kind-in-a-deck-of-cards.js)|Medium|
