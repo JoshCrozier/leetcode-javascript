@@ -725,6 +725,7 @@
 912|[Sort an Array](./solutions/0912-sort-an-array.js)|Medium|
 913|[Cat and Mouse](./solutions/0913-cat-and-mouse.js)|Hard|
 914|[X of a Kind in a Deck of Cards](./solutions/0914-x-of-a-kind-in-a-deck-of-cards.js)|Medium|
+915|[Partition Array into Disjoint Intervals](./solutions/0915-partition-array-into-disjoint-intervals.js)|Medium|
 916|[Word Subsets](./solutions/0916-word-subsets.js)|Medium|
 918|[Maximum Sum Circular Subarray](./solutions/0918-maximum-sum-circular-subarray.js)|Medium|
 922|[Sort Array By Parity II](./solutions/0922-sort-array-by-parity-ii.js)|Easy|
