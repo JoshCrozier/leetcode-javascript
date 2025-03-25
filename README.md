@@ -729,6 +729,7 @@
 916|[Word Subsets](./solutions/0916-word-subsets.js)|Medium|
 918|[Maximum Sum Circular Subarray](./solutions/0918-maximum-sum-circular-subarray.js)|Medium|
 919|[Complete Binary Tree Inserter](./solutions/0919-complete-binary-tree-inserter.js)|Medium|
+920|[Number of Music Playlists](./solutions/0920-number-of-music-playlists.js)|Hard|
 922|[Sort Array By Parity II](./solutions/0922-sort-array-by-parity-ii.js)|Easy|
 925|[Long Pressed Name](./solutions/0925-long-pressed-name.js)|Easy|
 926|[Flip String to Monotone Increasing](./solutions/0926-flip-string-to-monotone-increasing.js)|Medium|
