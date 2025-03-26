@@ -732,6 +732,7 @@
 920|[Number of Music Playlists](./solutions/0920-number-of-music-playlists.js)|Hard|
 921|[Minimum Add to Make Parentheses Valid](./solutions/0921-minimum-add-to-make-parentheses-valid.js)|Medium|
 922|[Sort Array By Parity II](./solutions/0922-sort-array-by-parity-ii.js)|Easy|
+923|[3Sum With Multiplicity](./solutions/0923-3sum-with-multiplicity.js)|Medium|
 925|[Long Pressed Name](./solutions/0925-long-pressed-name.js)|Easy|
 926|[Flip String to Monotone Increasing](./solutions/0926-flip-string-to-monotone-increasing.js)|Medium|
 929|[Unique Email Addresses](./solutions/0929-unique-email-addresses.js)|Easy|
