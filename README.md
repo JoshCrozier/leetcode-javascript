@@ -739,6 +739,7 @@
 927|[Three Equal Parts](./solutions/0927-three-equal-parts.js)|Hard|
 928|[Minimize Malware Spread II](./solutions/0928-minimize-malware-spread-ii.js)|Hard|
 929|[Unique Email Addresses](./solutions/0929-unique-email-addresses.js)|Easy|
+930|[Binary Subarrays With Sum](./solutions/0930-binary-subarrays-with-sum.js)|Medium|
 933|[Number of Recent Calls](./solutions/0933-number-of-recent-calls.js)|Easy|
 937|[Reorder Data in Log Files](./solutions/0937-reorder-data-in-log-files.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
