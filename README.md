@@ -736,6 +736,7 @@
 924|[Minimize Malware Spread](./solutions/0924-minimize-malware-spread.js)|Hard|
 925|[Long Pressed Name](./solutions/0925-long-pressed-name.js)|Easy|
 926|[Flip String to Monotone Increasing](./solutions/0926-flip-string-to-monotone-increasing.js)|Medium|
+927|[Three Equal Parts](./solutions/0927-three-equal-parts.js)|Hard|
 929|[Unique Email Addresses](./solutions/0929-unique-email-addresses.js)|Easy|
 933|[Number of Recent Calls](./solutions/0933-number-of-recent-calls.js)|Easy|
 937|[Reorder Data in Log Files](./solutions/0937-reorder-data-in-log-files.js)|Medium|
