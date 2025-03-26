@@ -741,6 +741,7 @@
 929|[Unique Email Addresses](./solutions/0929-unique-email-addresses.js)|Easy|
 930|[Binary Subarrays With Sum](./solutions/0930-binary-subarrays-with-sum.js)|Medium|
 931|[Minimum Falling Path Sum](./solutions/0931-minimum-falling-path-sum.js)|Medium|
+932|[Beautiful Array](./solutions/0932-beautiful-array.js)|Medium|
 933|[Number of Recent Calls](./solutions/0933-number-of-recent-calls.js)|Easy|
 937|[Reorder Data in Log Files](./solutions/0937-reorder-data-in-log-files.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
