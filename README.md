@@ -1,4 +1,4 @@
-# 1,027 LeetCode solutions in JavaScript
+# 1,028 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -752,6 +752,7 @@
 940|[Distinct Subsequences II](./solutions/0940-distinct-subsequences-ii.js)|Hard|
 941|[Valid Mountain Array](./solutions/0941-valid-mountain-array.js)|Easy|
 942|[DI String Match](./solutions/0942-di-string-match.js)|Easy|
+943|[Find the Shortest Superstring](./solutions/0943-find-the-shortest-superstring.js)|Hard|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
