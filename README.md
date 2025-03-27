@@ -1,4 +1,4 @@
-# 1,031 LeetCode solutions in JavaScript
+# 1,032 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -756,6 +756,7 @@
 944|[Delete Columns to Make Sorted](./solutions/0944-delete-columns-to-make-sorted.js)|Easy|
 945|[Minimum Increment to Make Array Unique](./solutions/0945-minimum-increment-to-make-array-unique.js)|Medium|
 946|[Validate Stack Sequences](./solutions/0946-validate-stack-sequences.js)|Medium|
+947|[Most Stones Removed with Same Row or Column](./solutions/0947-most-stones-removed-with-same-row-or-column.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
