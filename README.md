@@ -748,6 +748,7 @@
 936|[Stamping The Sequence](./solutions/0936-stamping-the-sequence.js)|Hard|
 937|[Reorder Data in Log Files](./solutions/0937-reorder-data-in-log-files.js)|Medium|
 938|[Range Sum of BST](./solutions/0938-range-sum-of-bst.js)|Easy|
+939|[Minimum Area Rectangle](./solutions/0939-minimum-area-rectangle.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
