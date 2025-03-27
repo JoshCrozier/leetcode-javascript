@@ -1,4 +1,4 @@
-# 1,033 LeetCode solutions in JavaScript
+# 1,034 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -758,6 +758,7 @@
 946|[Validate Stack Sequences](./solutions/0946-validate-stack-sequences.js)|Medium|
 947|[Most Stones Removed with Same Row or Column](./solutions/0947-most-stones-removed-with-same-row-or-column.js)|Medium|
 948|[Bag of Tokens](./solutions/0948-bag-of-tokens.js)|Medium|
+949|[Largest Time for Given Digits](./solutions/0949-largest-time-for-given-digits.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
