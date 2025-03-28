@@ -1,4 +1,4 @@
-# 1,049 LeetCode solutions in JavaScript
+# 1,050 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -773,6 +773,7 @@
 962|[Maximum Width Ramp](./solutions/0962-maximum-width-ramp.js)|Medium|
 963|[Minimum Area Rectangle II](./solutions/0963-minimum-area-rectangle-ii.js)|Medium|
 964|[Least Operators to Express Number](./solutions/0964-least-operators-to-express-number.js)|Hard|
+965|[Univalued Binary Tree](./solutions/0965-univalued-binary-tree.js)|Easy|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
