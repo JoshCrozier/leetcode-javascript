@@ -1,4 +1,4 @@
-# 1,043 LeetCode solutions in JavaScript
+# 1,044 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -767,6 +767,7 @@
 955|[Delete Columns to Make Sorted II](./solutions/0955-delete-columns-to-make-sorted-ii.js)|Medium|
 956|[Tallest Billboard](./solutions/0956-tallest-billboard.js)|Hard|
 957|[Prison Cells After N Days](./solutions/0957-prison-cells-after-n-days.js)|Medium|
+958|[Check Completeness of a Binary Tree](./solutions/0958-check-completeness-of-a-binary-tree.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
