@@ -1,4 +1,4 @@
-# 1,037 LeetCode solutions in JavaScript
+# 1,038 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -761,6 +761,7 @@
 949|[Largest Time for Given Digits](./solutions/0949-largest-time-for-given-digits.js)|Medium|
 950|[Reveal Cards In Increasing Order](./solutions/0950-reveal-cards-in-increasing-order.js)|Medium|
 951|[Flip Equivalent Binary Trees](./solutions/0951-flip-equivalent-binary-trees.js)|Medium|
+952|[Largest Component Size by Common Factor](./solutions/0952-largest-component-size-by-common-factor.js)|Hard|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
