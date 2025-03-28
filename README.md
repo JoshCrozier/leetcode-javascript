@@ -1,4 +1,4 @@
-# 1,035 LeetCode solutions in JavaScript
+# 1,036 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -964,6 +964,7 @@
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./solutions/2490-circular-sentence.js)|Easy|
 2493|[Divide Nodes Into the Maximum Number of Groups](./solutions/2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
+2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
