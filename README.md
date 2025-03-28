@@ -1,4 +1,4 @@
-# 1,039 LeetCode solutions in JavaScript
+# 1,040 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -763,6 +763,7 @@
 951|[Flip Equivalent Binary Trees](./solutions/0951-flip-equivalent-binary-trees.js)|Medium|
 952|[Largest Component Size by Common Factor](./solutions/0952-largest-component-size-by-common-factor.js)|Hard|
 953|[Verifying an Alien Dictionary](./solutions/0953-verifying-an-alien-dictionary.js)|Easy|
+954|[Array of Doubled Pairs](./solutions/0954-array-of-doubled-pairs.js)|Medium|
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
