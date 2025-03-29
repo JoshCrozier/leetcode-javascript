@@ -1,4 +1,4 @@
-# 1,053 LeetCode solutions in JavaScript
+# 1,054 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -777,6 +777,7 @@
 966|[Vowel Spellchecker](./solutions/0966-vowel-spellchecker.js)|Medium|
 967|[Numbers With Same Consecutive Differences](./solutions/0967-numbers-with-same-consecutive-differences.js)|Medium|
 968|[Binary Tree Cameras](./solutions/0968-binary-tree-cameras.js)|Hard|
+969|[Pancake Sorting](./solutions/0969-pancake-sorting.js)|Medium|
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
 977|[Squares of a Sorted Array](./solutions/0977-squares-of-a-sorted-array.js)|Easy|
