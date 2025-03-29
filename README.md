@@ -1,4 +1,4 @@
-# 1,056 LeetCode solutions in JavaScript
+# 1,057 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -781,6 +781,7 @@
 970|[Powerful Integers](./solutions/0970-powerful-integers.js)|Easy|
 971|[Flip Binary Tree To Match Preorder Traversal](./solutions/0971-flip-binary-tree-to-match-preorder-traversal.js)|Medium|
 972|[Equal Rational Numbers](./solutions/0972-equal-rational-numbers.js)|Hard|
+973|[K Closest Points to Origin](./solutions/0973-k-closest-points-to-origin.js)|Medium|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
 977|[Squares of a Sorted Array](./solutions/0977-squares-of-a-sorted-array.js)|Easy|
 985|[Sum of Even Numbers After Queries](./solutions/0985-sum-of-even-numbers-after-queries.js)|Easy|
