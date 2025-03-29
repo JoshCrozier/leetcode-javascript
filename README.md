@@ -1,4 +1,4 @@
-# 1,059 LeetCode solutions in JavaScript
+# 1,060 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -786,6 +786,7 @@
 975|[Odd Even Jump](./solutions/0975-odd-even-jump.js)|Hard|
 976|[Largest Perimeter Triangle](./solutions/0976-largest-perimeter-triangle.js)|Easy|
 977|[Squares of a Sorted Array](./solutions/0977-squares-of-a-sorted-array.js)|Easy|
+978|[Longest Turbulent Subarray](./solutions/0978-longest-turbulent-subarray.js)|Medium|
 985|[Sum of Even Numbers After Queries](./solutions/0985-sum-of-even-numbers-after-queries.js)|Easy|
 989|[Add to Array-Form of Integer](./solutions/0989-add-to-array-form-of-integer.js)|Easy|
 994|[Rotting Oranges](./solutions/0994-rotting-oranges.js)|Medium|
