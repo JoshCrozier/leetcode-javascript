@@ -1,4 +1,4 @@
-# 1,060 LeetCode solutions in JavaScript
+# 1,061 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -1066,6 +1066,7 @@
 3461|[Check If Digits Are Equal in String After Operations I](./solutions/3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
 3462|[Maximum Sum With at Most K Elements](./solutions/3462-maximum-sum-with-at-most-k-elements.js)|Medium|
 3463|[Check If Digits Are Equal in String After Operations II](./solutions/3463-check-if-digits-are-equal-in-string-after-operations-ii.js)|Hard|
+3464|[Maximize the Distance Between Points on a Square](./solutions/3464-maximize-the-distance-between-points-on-a-square.js)|Hard|
 
 ## License
 
