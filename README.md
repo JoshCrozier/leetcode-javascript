@@ -1,4 +1,4 @@
-# 1,064 LeetCode solutions in JavaScript
+# 1,065 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -790,6 +790,7 @@
 979|[Distribute Coins in Binary Tree](./solutions/0979-distribute-coins-in-binary-tree.js)|Medium|
 980|[Unique Paths III](./solutions/0980-unique-paths-iii.js)|Hard|
 981|[Time Based Key-Value Store](./solutions/0981-time-based-key-value-store.js)|Medium|
+982|[Triples with Bitwise AND Equal To Zero](./solutions/0982-triples-with-bitwise-and-equal-to-zero.js)|Hard|
 985|[Sum of Even Numbers After Queries](./solutions/0985-sum-of-even-numbers-after-queries.js)|Easy|
 989|[Add to Array-Form of Integer](./solutions/0989-add-to-array-form-of-integer.js)|Easy|
 994|[Rotting Oranges](./solutions/0994-rotting-oranges.js)|Medium|
