@@ -1,4 +1,4 @@
-# 1,050 LeetCode solutions in JavaScript
+# 1,051 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -1031,6 +1031,7 @@
 2726|[Calculator with Method Chaining](./solutions/2726-calculator-with-method-chaining.js)|Easy|
 2727|[Is Object Empty](./solutions/2727-is-object-empty.js)|Easy|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
+2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
