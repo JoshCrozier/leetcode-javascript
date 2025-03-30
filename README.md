@@ -1,4 +1,4 @@
-# 1,070 LeetCode solutions in JavaScript
+# 1,071 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -798,6 +798,7 @@
 987|[Vertical Order Traversal of a Binary Tree](./solutions/0987-vertical-order-traversal-of-a-binary-tree.js)|Hard|
 988|[Smallest String Starting From Leaf](./solutions/0988-smallest-string-starting-from-leaf.js)|Medium|
 989|[Add to Array-Form of Integer](./solutions/0989-add-to-array-form-of-integer.js)|Easy|
+990|[Satisfiability of Equality Equations](./solutions/0990-satisfiability-of-equality-equations.js)|Medium|
 994|[Rotting Oranges](./solutions/0994-rotting-oranges.js)|Medium|
 997|[Find the Town Judge](./solutions/0997-find-the-town-judge.js)|Easy|
 1002|[Find Common Characters](./solutions/1002-find-common-characters.js)|Easy|
