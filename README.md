@@ -1,4 +1,4 @@
-# 1,068 LeetCode solutions in JavaScript
+# 1,069 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -795,6 +795,7 @@
 984|[String Without AAA or BBB](./solutions/0984-string-without-aaa-or-bbb.js)|Medium|
 985|[Sum of Even Numbers After Queries](./solutions/0985-sum-of-even-numbers-after-queries.js)|Easy|
 986|[Interval List Intersections](./solutions/0986-interval-list-intersections.js)|Medium|
+987|[Vertical Order Traversal of a Binary Tree](./solutions/0987-vertical-order-traversal-of-a-binary-tree.js)|Hard|
 989|[Add to Array-Form of Integer](./solutions/0989-add-to-array-form-of-integer.js)|Easy|
 994|[Rotting Oranges](./solutions/0994-rotting-oranges.js)|Medium|
 997|[Find the Town Judge](./solutions/0997-find-the-town-judge.js)|Easy|
