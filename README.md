@@ -1,4 +1,4 @@
-# 1,072 LeetCode solutions in JavaScript
+# 1,073 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -800,6 +800,7 @@
 989|[Add to Array-Form of Integer](./solutions/0989-add-to-array-form-of-integer.js)|Easy|
 990|[Satisfiability of Equality Equations](./solutions/0990-satisfiability-of-equality-equations.js)|Medium|
 991|[Broken Calculator](./solutions/0991-broken-calculator.js)|Medium|
+992|[Subarrays with K Different Integers](./solutions/0992-subarrays-with-k-different-integers.js)|Hard|
 994|[Rotting Oranges](./solutions/0994-rotting-oranges.js)|Medium|
 997|[Find the Town Judge](./solutions/0997-find-the-town-judge.js)|Easy|
 1002|[Find Common Characters](./solutions/1002-find-common-characters.js)|Easy|
