@@ -1,4 +1,4 @@
-# 1,074 LeetCode solutions in JavaScript
+# 1,075 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -803,6 +803,7 @@
 992|[Subarrays with K Different Integers](./solutions/0992-subarrays-with-k-different-integers.js)|Hard|
 993|[Cousins in Binary Tree](./solutions/0993-cousins-in-binary-tree.js)|Easy|
 994|[Rotting Oranges](./solutions/0994-rotting-oranges.js)|Medium|
+995|[Minimum Number of K Consecutive Bit Flips](./solutions/0995-minimum-number-of-k-consecutive-bit-flips.js)|Hard|
 997|[Find the Town Judge](./solutions/0997-find-the-town-judge.js)|Easy|
 1002|[Find Common Characters](./solutions/1002-find-common-characters.js)|Easy|
 1004|[Max Consecutive Ones III](./solutions/1004-max-consecutive-ones-iii.js)|Medium|
