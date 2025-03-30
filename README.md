@@ -1,4 +1,4 @@
-# 1,078 LeetCode solutions in JavaScript
+# 1,079 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -808,6 +808,7 @@
 997|[Find the Town Judge](./solutions/0997-find-the-town-judge.js)|Easy|
 998|[Maximum Binary Tree II](./solutions/0998-maximum-binary-tree-ii.js)|Medium|
 999|[Available Captures for Rook](./solutions/0999-available-captures-for-rook.js)|Easy|
+1000|[Minimum Cost to Merge Stones](./solutions/1000-minimum-cost-to-merge-stones.js)|Hard|
 1002|[Find Common Characters](./solutions/1002-find-common-characters.js)|Easy|
 1004|[Max Consecutive Ones III](./solutions/1004-max-consecutive-ones-iii.js)|Medium|
 1005|[Maximize Sum Of Array After K Negations](./solutions/1005-maximize-sum-of-array-after-k-negations.js)|Easy|
