@@ -1,4 +1,4 @@
-# 1,082 LeetCode solutions in JavaScript
+# 1,083 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -814,6 +814,7 @@
 1003|[Check If Word Is Valid After Substitutions](./solutions/1003-check-if-word-is-valid-after-substitutions.js)|Medium|
 1004|[Max Consecutive Ones III](./solutions/1004-max-consecutive-ones-iii.js)|Medium|
 1005|[Maximize Sum Of Array After K Negations](./solutions/1005-maximize-sum-of-array-after-k-negations.js)|Easy|
+1006|[Clumsy Factorial](./solutions/1006-clumsy-factorial.js)|Medium|
 1009|[Complement of Base 10 Integer](./solutions/1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./solutions/1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
