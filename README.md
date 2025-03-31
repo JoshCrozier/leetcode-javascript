@@ -1,4 +1,4 @@
-# 1,085 LeetCode solutions in JavaScript
+# 1,086 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -819,6 +819,7 @@
 1008|[Construct Binary Search Tree from Preorder Traversal](./solutions/1008-construct-binary-search-tree-from-preorder-traversal.js)|Medium|
 1009|[Complement of Base 10 Integer](./solutions/1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./solutions/1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
+1011|[Capacity To Ship Packages Within D Days](./solutions/1011-capacity-to-ship-packages-within-d-days.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1023|[Camelcase Matching](./solutions/1023-camelcase-matching.js)|Medium|
 1028|[Recover a Tree From Preorder Traversal](./solutions/1028-recover-a-tree-from-preorder-traversal.js)|Hard|
