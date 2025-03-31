@@ -1,4 +1,4 @@
-# 1,081 LeetCode solutions in JavaScript
+# 1,082 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -811,6 +811,7 @@
 1000|[Minimum Cost to Merge Stones](./solutions/1000-minimum-cost-to-merge-stones.js)|Hard|
 1001|[Grid Illumination](./solutions/1001-grid-illumination.js)|Hard|
 1002|[Find Common Characters](./solutions/1002-find-common-characters.js)|Easy|
+1003|[Check If Word Is Valid After Substitutions](./solutions/1003-check-if-word-is-valid-after-substitutions.js)|Medium|
 1004|[Max Consecutive Ones III](./solutions/1004-max-consecutive-ones-iii.js)|Medium|
 1005|[Maximize Sum Of Array After K Negations](./solutions/1005-maximize-sum-of-array-after-k-negations.js)|Easy|
 1009|[Complement of Base 10 Integer](./solutions/1009-complement-of-base-10-integer.js)|Easy|
