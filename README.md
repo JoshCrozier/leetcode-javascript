@@ -1,4 +1,4 @@
-# 1,090 LeetCode solutions in JavaScript
+# 1,091 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -824,6 +824,7 @@
 1013|[Partition Array Into Three Parts With Equal Sum](./solutions/1013-partition-array-into-three-parts-with-equal-sum.js)|Easy|
 1014|[Best Sightseeing Pair](./solutions/1014-best-sightseeing-pair.js)|Medium|
 1015|[Smallest Integer Divisible by K](./solutions/1015-smallest-integer-divisible-by-k.js)|Medium|
+1016|[Binary String With Substrings Representing 1 To N](./solutions/1016-binary-string-with-substrings-representing-1-to-n.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1023|[Camelcase Matching](./solutions/1023-camelcase-matching.js)|Medium|
 1028|[Recover a Tree From Preorder Traversal](./solutions/1028-recover-a-tree-from-preorder-traversal.js)|Hard|
