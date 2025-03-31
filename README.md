@@ -1,4 +1,4 @@
-# 1,087 LeetCode solutions in JavaScript
+# 1,088 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -821,6 +821,7 @@
 1010|[Pairs of Songs With Total Durations Divisible by 60](./solutions/1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
 1011|[Capacity To Ship Packages Within D Days](./solutions/1011-capacity-to-ship-packages-within-d-days.js)|Medium|
 1012|[Numbers With Repeated Digits](./solutions/1012-numbers-with-repeated-digits.js)|Hard|
+1013|[Partition Array Into Three Parts With Equal Sum](./solutions/1013-partition-array-into-three-parts-with-equal-sum.js)|Easy|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1023|[Camelcase Matching](./solutions/1023-camelcase-matching.js)|Medium|
 1028|[Recover a Tree From Preorder Traversal](./solutions/1028-recover-a-tree-from-preorder-traversal.js)|Hard|
