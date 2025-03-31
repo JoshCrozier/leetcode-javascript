@@ -1,4 +1,4 @@
-# 1,080 LeetCode solutions in JavaScript
+# 1,081 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -1011,6 +1011,7 @@
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2542|[Maximum Subsequence Score](./solutions/2542-maximum-subsequence-score.js)|Medium|
+2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
