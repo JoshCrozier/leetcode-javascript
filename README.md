@@ -1,4 +1,4 @@
-# 1,083 LeetCode solutions in JavaScript
+# 1,084 LeetCode solutions in JavaScript
 
 [https://leetcode.com/](https://leetcode.com/)
 
@@ -815,6 +815,7 @@
 1004|[Max Consecutive Ones III](./solutions/1004-max-consecutive-ones-iii.js)|Medium|
 1005|[Maximize Sum Of Array After K Negations](./solutions/1005-maximize-sum-of-array-after-k-negations.js)|Easy|
 1006|[Clumsy Factorial](./solutions/1006-clumsy-factorial.js)|Medium|
+1007|[Minimum Domino Rotations For Equal Row](./solutions/1007-minimum-domino-rotations-for-equal-row.js)|Medium|
 1009|[Complement of Base 10 Integer](./solutions/1009-complement-of-base-10-integer.js)|Easy|
 1010|[Pairs of Songs With Total Durations Divisible by 60](./solutions/1010-pairs-of-songs-with-total-durations-divisible-by-60.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
