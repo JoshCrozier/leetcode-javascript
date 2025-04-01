@@ -1,4 +1,4 @@
-# 1,105 LeetCode solutions in JavaScript
+# 1,106 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -841,6 +841,7 @@
 1031|[Maximum Sum of Two Non-Overlapping Subarrays](./solutions/1031-maximum-sum-of-two-non-overlapping-subarrays.js)|Medium|
 1032|[Stream of Characters](./solutions/1032-stream-of-characters.js)|Hard|
 1033|[Moving Stones Until Consecutive](./solutions/1033-moving-stones-until-consecutive.js)|Medium|
+1034|[Coloring A Border](./solutions/1034-coloring-a-border.js)|Medium|
 1037|[Valid Boomerang](./solutions/1037-valid-boomerang.js)|Easy|
 1038|[Binary Search Tree to Greater Sum Tree](./solutions/1038-binary-search-tree-to-greater-sum-tree.js)|Medium|
 1041|[Robot Bounded In Circle](./solutions/1041-robot-bounded-in-circle.js)|Medium|
