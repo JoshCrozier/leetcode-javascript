@@ -1,4 +1,4 @@
-# 1,096 LeetCode solutions in JavaScript
+# 1,097 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -831,6 +831,7 @@
 1020|[Number of Enclaves](./solutions/1020-number-of-enclaves.js)|Medium|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1023|[Camelcase Matching](./solutions/1023-camelcase-matching.js)|Medium|
+1024|[Video Stitching](./solutions/1024-video-stitching.js)|Medium|
 1028|[Recover a Tree From Preorder Traversal](./solutions/1028-recover-a-tree-from-preorder-traversal.js)|Hard|
 1037|[Valid Boomerang](./solutions/1037-valid-boomerang.js)|Easy|
 1038|[Binary Search Tree to Greater Sum Tree](./solutions/1038-binary-search-tree-to-greater-sum-tree.js)|Medium|
