@@ -1,4 +1,4 @@
-# 1,100 LeetCode solutions in JavaScript
+# 1,101 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -836,6 +836,7 @@
 1026|[Maximum Difference Between Node and Ancestor](./solutions/1026-maximum-difference-between-node-and-ancestor.js)|Medium|
 1027|[Longest Arithmetic Subsequence](./solutions/1027-longest-arithmetic-subsequence.js)|Medium|
 1028|[Recover a Tree From Preorder Traversal](./solutions/1028-recover-a-tree-from-preorder-traversal.js)|Hard|
+1029|[Two City Scheduling](./solutions/1029-two-city-scheduling.js)|Medium|
 1037|[Valid Boomerang](./solutions/1037-valid-boomerang.js)|Easy|
 1038|[Binary Search Tree to Greater Sum Tree](./solutions/1038-binary-search-tree-to-greater-sum-tree.js)|Medium|
 1041|[Robot Bounded In Circle](./solutions/1041-robot-bounded-in-circle.js)|Medium|
