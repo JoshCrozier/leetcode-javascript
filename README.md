@@ -1,6 +1,6 @@
-# 1,095 LeetCode solutions in JavaScript
+# 1,096 LeetCode solutions in JavaScript
 
-[https://leetcode.com/](https://leetcode.com/)
+[https://leetcodejavascript.com](https://leetcodejavascript.com)
 
 ## Table of Contents:
 
@@ -897,6 +897,7 @@
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
 1410|[HTML Entity Parser](./solutions/1410-html-entity-parser.js)|Medium|
 1415|[The k-th Lexicographical String of All Happy Strings of Length n](./solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
+1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1436|[Destination City](./solutions/1436-destination-city.js)|Easy|
 1437|[Check If All 1's Are at Least Length K Places Away](./solutions/1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
