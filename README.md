@@ -1,4 +1,4 @@
-# 1,119 LeetCode solutions in JavaScript
+# 1,120 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -854,6 +854,7 @@
 1044|[Longest Duplicate Substring](./solutions/1044-longest-duplicate-substring.js)|Hard|
 1046|[Last Stone Weight](./solutions/1046-last-stone-weight.js)|Easy|
 1047|[Remove All Adjacent Duplicates In String](./solutions/1047-remove-all-adjacent-duplicates-in-string.js)|Easy|
+1048|[Longest String Chain](./solutions/1048-longest-string-chain.js)|Medium|
 1051|[Height Checker](./solutions/1051-height-checker.js)|Easy|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
