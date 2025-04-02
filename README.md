@@ -1,4 +1,4 @@
-# 1,121 LeetCode solutions in JavaScript
+# 1,122 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -857,6 +857,7 @@
 1048|[Longest String Chain](./solutions/1048-longest-string-chain.js)|Medium|
 1049|[Last Stone Weight II](./solutions/1049-last-stone-weight-ii.js)|Medium|
 1051|[Height Checker](./solutions/1051-height-checker.js)|Easy|
+1052|[Grumpy Bookstore Owner](./solutions/1052-grumpy-bookstore-owner.js)|Medium|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
 1073|[Adding Two Negabinary Numbers](./solutions/1073-adding-two-negabinary-numbers.js)|Medium|
