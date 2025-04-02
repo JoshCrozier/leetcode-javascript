@@ -1,4 +1,4 @@
-# 1,115 LeetCode solutions in JavaScript
+# 1,116 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -849,6 +849,7 @@
 1039|[Minimum Score Triangulation of Polygon](./solutions/1039-minimum-score-triangulation-of-polygon.js)|Medium|
 1040|[Moving Stones Until Consecutive II](./solutions/1040-moving-stones-until-consecutive-ii.js)|Medium|
 1041|[Robot Bounded In Circle](./solutions/1041-robot-bounded-in-circle.js)|Medium|
+1042|[Flower Planting With No Adjacent](./solutions/1042-flower-planting-with-no-adjacent.js)|Medium|
 1047|[Remove All Adjacent Duplicates In String](./solutions/1047-remove-all-adjacent-duplicates-in-string.js)|Easy|
 1051|[Height Checker](./solutions/1051-height-checker.js)|Easy|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
