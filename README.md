@@ -1,4 +1,4 @@
-# 1,110 LeetCode solutions in JavaScript
+# 1,111 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1003,6 +1003,7 @@
 2127|[Maximum Employees to Be Invited to a Meeting](./solutions/2127-maximum-employees-to-be-invited-to-a-meeting.js)|Hard|
 2129|[Capitalize the Title](./solutions/2129-capitalize-the-title.js)|Easy|
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
+2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2185|[Counting Words With a Given Prefix](./solutions/2185-counting-words-with-a-given-prefix.js)|Easy|
