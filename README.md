@@ -1,4 +1,4 @@
-# 1,118 LeetCode solutions in JavaScript
+# 1,119 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -852,6 +852,7 @@
 1042|[Flower Planting With No Adjacent](./solutions/1042-flower-planting-with-no-adjacent.js)|Medium|
 1043|[Partition Array for Maximum Sum](./solutions/1043-partition-array-for-maximum-sum.js)|Medium|
 1044|[Longest Duplicate Substring](./solutions/1044-longest-duplicate-substring.js)|Hard|
+1046|[Last Stone Weight](./solutions/1046-last-stone-weight.js)|Easy|
 1047|[Remove All Adjacent Duplicates In String](./solutions/1047-remove-all-adjacent-duplicates-in-string.js)|Easy|
 1051|[Height Checker](./solutions/1051-height-checker.js)|Easy|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
