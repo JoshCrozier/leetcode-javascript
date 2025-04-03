@@ -1,4 +1,4 @@
-# 1,129 LeetCode solutions in JavaScript
+# 1,130 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -870,6 +870,7 @@
 1080|[Insufficient Nodes in Root to Leaf Paths](./solutions/1080-insufficient-nodes-in-root-to-leaf-paths.js)|Medium|
 1081|[Smallest Subsequence of Distinct Characters](./solutions/1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1089|[Duplicate Zeros](./solutions/1089-duplicate-zeros.js)|Easy|
+1090|[Largest Values From Labels](./solutions/1090-largest-values-from-labels.js)|Medium|
 1092|[Shortest Common Supersequence](./solutions/1092-shortest-common-supersequence.js)|Hard|
 1103|[Distribute Candies to People](./solutions/1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./solutions/1108-defanging-an-ip-address.js)|Easy|
