@@ -1,4 +1,4 @@
-# 1,127 LeetCode solutions in JavaScript
+# 1,128 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -867,6 +867,7 @@
 1074|[Number of Submatrices That Sum to Target](./solutions/1074-number-of-submatrices-that-sum-to-target.js)|Hard|
 1078|[Occurrences After Bigram](./solutions/1078-occurrences-after-bigram.js)|Easy|
 1079|[Letter Tile Possibilities](./solutions/1079-letter-tile-possibilities.js)|Medium|
+1080|[Insufficient Nodes in Root to Leaf Paths](./solutions/1080-insufficient-nodes-in-root-to-leaf-paths.js)|Medium|
 1081|[Smallest Subsequence of Distinct Characters](./solutions/1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1092|[Shortest Common Supersequence](./solutions/1092-shortest-common-supersequence.js)|Hard|
 1103|[Distribute Candies to People](./solutions/1103-distribute-candies-to-people.js)|Easy|
