@@ -1,4 +1,4 @@
-# 1,126 LeetCode solutions in JavaScript
+# 1,127 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -865,6 +865,7 @@
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
 1073|[Adding Two Negabinary Numbers](./solutions/1073-adding-two-negabinary-numbers.js)|Medium|
 1074|[Number of Submatrices That Sum to Target](./solutions/1074-number-of-submatrices-that-sum-to-target.js)|Hard|
+1078|[Occurrences After Bigram](./solutions/1078-occurrences-after-bigram.js)|Easy|
 1079|[Letter Tile Possibilities](./solutions/1079-letter-tile-possibilities.js)|Medium|
 1081|[Smallest Subsequence of Distinct Characters](./solutions/1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1092|[Shortest Common Supersequence](./solutions/1092-shortest-common-supersequence.js)|Hard|
