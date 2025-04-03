@@ -1,4 +1,4 @@
-# 1,125 LeetCode solutions in JavaScript
+# 1,126 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1105,6 +1105,7 @@
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
+2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
