@@ -1,4 +1,4 @@
-# 1,132 LeetCode solutions in JavaScript
+# 1,133 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -874,6 +874,7 @@
 1091|[Shortest Path in Binary Matrix](./solutions/1091-shortest-path-in-binary-matrix.js)|Medium|
 1092|[Shortest Common Supersequence](./solutions/1092-shortest-common-supersequence.js)|Hard|
 1093|[Statistics from a Large Sample](./solutions/1093-statistics-from-a-large-sample.js)|Medium|
+1094|[Car Pooling](./solutions/1094-car-pooling.js)|Medium|
 1103|[Distribute Candies to People](./solutions/1103-distribute-candies-to-people.js)|Easy|
 1108|[Defanging an IP Address](./solutions/1108-defanging-an-ip-address.js)|Easy|
 1122|[Relative Sort Array](./solutions/1122-relative-sort-array.js)|Easy|
