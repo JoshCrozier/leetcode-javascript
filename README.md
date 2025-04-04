@@ -1,4 +1,4 @@
-# 1,137 LeetCode solutions in JavaScript
+# 1,138 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -880,6 +880,7 @@
 1103|[Distribute Candies to People](./solutions/1103-distribute-candies-to-people.js)|Easy|
 1104|[Path In Zigzag Labelled Binary Tree](./solutions/1104-path-in-zigzag-labelled-binary-tree.js)|Medium|
 1105|[Filling Bookcase Shelves](./solutions/1105-filling-bookcase-shelves.js)|Medium|
+1106|[Parsing A Boolean Expression](./solutions/1106-parsing-a-boolean-expression.js)|Hard|
 1108|[Defanging an IP Address](./solutions/1108-defanging-an-ip-address.js)|Easy|
 1122|[Relative Sort Array](./solutions/1122-relative-sort-array.js)|Easy|
 1123|[Lowest Common Ancestor of Deepest Leaves](./solutions/1123-lowest-common-ancestor-of-deepest-leaves.js)|Medium|
