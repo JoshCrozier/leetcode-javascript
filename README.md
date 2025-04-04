@@ -1,4 +1,4 @@
-# 1,144 LeetCode solutions in JavaScript
+# 1,145 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -890,6 +890,7 @@
 1124|[Longest Well-Performing Interval](./solutions/1124-longest-well-performing-interval.js)|Medium|
 1125|[Smallest Sufficient Team](./solutions/1125-smallest-sufficient-team.js)|Hard|
 1128|[Number of Equivalent Domino Pairs](./solutions/1128-number-of-equivalent-domino-pairs.js)|Easy|
+1129|[Shortest Path with Alternating Colors](./solutions/1129-shortest-path-with-alternating-colors.js)|Medium|
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
 1143|[Longest Common Subsequence](./solutions/1143-longest-common-subsequence.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
