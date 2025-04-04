@@ -1,4 +1,4 @@
-# 1,149 LeetCode solutions in JavaScript
+# 1,150 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -896,6 +896,7 @@
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
 1138|[Alphabet Board Path](./solutions/1138-alphabet-board-path.js)|Medium|
 1139|[Largest 1-Bordered Square](./solutions/1139-largest-1-bordered-square.js)|Medium|
+1140|[Stone Game II](./solutions/1140-stone-game-ii.js)|Medium|
 1143|[Longest Common Subsequence](./solutions/1143-longest-common-subsequence.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
