@@ -1,4 +1,4 @@
-# 1,146 LeetCode solutions in JavaScript
+# 1,147 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -892,6 +892,7 @@
 1128|[Number of Equivalent Domino Pairs](./solutions/1128-number-of-equivalent-domino-pairs.js)|Easy|
 1129|[Shortest Path with Alternating Colors](./solutions/1129-shortest-path-with-alternating-colors.js)|Medium|
 1130|[Minimum Cost Tree From Leaf Values](./solutions/1130-minimum-cost-tree-from-leaf-values.js)|Medium|
+1131|[Maximum of Absolute Value Expression](./solutions/1131-maximum-of-absolute-value-expression.js)|Medium|
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
 1143|[Longest Common Subsequence](./solutions/1143-longest-common-subsequence.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
