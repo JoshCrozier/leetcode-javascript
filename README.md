@@ -1,4 +1,4 @@
-# 1,139 LeetCode solutions in JavaScript
+# 1,140 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -883,6 +883,7 @@
 1106|[Parsing A Boolean Expression](./solutions/1106-parsing-a-boolean-expression.js)|Hard|
 1108|[Defanging an IP Address](./solutions/1108-defanging-an-ip-address.js)|Easy|
 1109|[Corporate Flight Bookings](./solutions/1109-corporate-flight-bookings.js)|Medium|
+1110|[Delete Nodes And Return Forest](./solutions/1110-delete-nodes-and-return-forest.js)|Medium|
 1122|[Relative Sort Array](./solutions/1122-relative-sort-array.js)|Easy|
 1123|[Lowest Common Ancestor of Deepest Leaves](./solutions/1123-lowest-common-ancestor-of-deepest-leaves.js)|Medium|
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
