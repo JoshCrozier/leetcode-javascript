@@ -1,4 +1,4 @@
-# 1,151 LeetCode solutions in JavaScript
+# 1,152 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -899,6 +899,7 @@
 1140|[Stone Game II](./solutions/1140-stone-game-ii.js)|Medium|
 1143|[Longest Common Subsequence](./solutions/1143-longest-common-subsequence.js)|Medium|
 1144|[Decrease Elements To Make Array Zigzag](./solutions/1144-decrease-elements-to-make-array-zigzag.js)|Medium|
+1145|[Binary Tree Coloring Game](./solutions/1145-binary-tree-coloring-game.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
