@@ -1,4 +1,4 @@
-# 1,141 LeetCode solutions in JavaScript
+# 1,142 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -887,6 +887,7 @@
 1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](./solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.js)|Medium|
 1122|[Relative Sort Array](./solutions/1122-relative-sort-array.js)|Easy|
 1123|[Lowest Common Ancestor of Deepest Leaves](./solutions/1123-lowest-common-ancestor-of-deepest-leaves.js)|Medium|
+1124|[Longest Well-Performing Interval](./solutions/1124-longest-well-performing-interval.js)|Medium|
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
 1143|[Longest Common Subsequence](./solutions/1143-longest-common-subsequence.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
