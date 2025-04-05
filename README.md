@@ -1,4 +1,4 @@
-# 1,157 LeetCode solutions in JavaScript
+# 1,158 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -905,6 +905,7 @@
 1154|[Day of the Year](./solutions/1154-day-of-the-year.js)|Easy|
 1155|[Number of Dice Rolls With Target Sum](./solutions/1155-number-of-dice-rolls-with-target-sum.js)|Medium|
 1156|[Swap For Longest Repeated Character Substring](./solutions/1156-swap-for-longest-repeated-character-substring.js)|Medium|
+1157|[Online Majority Element In Subarray](./solutions/1157-online-majority-element-in-subarray.js)|Hard|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
