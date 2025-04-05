@@ -1,4 +1,4 @@
-# 1,169 LeetCode solutions in JavaScript
+# 1,170 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -917,6 +917,7 @@
 1175|[Prime Arrangements](./solutions/1175-prime-arrangements.js)|Easy|
 1177|[Can Make Palindrome from Substring](./solutions/1177-can-make-palindrome-from-substring.js)|Medium|
 1178|[Number of Valid Words for Each Puzzle](./solutions/1178-number-of-valid-words-for-each-puzzle.js)|Hard|
+1184|[Distance Between Bus Stops](./solutions/1184-distance-between-bus-stops.js)|Easy|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
