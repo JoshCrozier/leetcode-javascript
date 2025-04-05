@@ -1,4 +1,4 @@
-# 1,173 LeetCode solutions in JavaScript
+# 1,174 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -922,6 +922,7 @@
 1186|[Maximum Subarray Sum with One Deletion](./solutions/1186-maximum-subarray-sum-with-one-deletion.js)|Medium|
 1187|[Make Array Strictly Increasing](./solutions/1187-make-array-strictly-increasing.js)|Hard|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
+1190|[Reverse Substrings Between Each Pair of Parentheses](./solutions/1190-reverse-substrings-between-each-pair-of-parentheses.js)|Medium|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
 1207|[Unique Number of Occurrences](./solutions/1207-unique-number-of-occurrences.js)|Easy|
