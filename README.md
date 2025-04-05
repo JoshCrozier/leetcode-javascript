@@ -1,4 +1,4 @@
-# 1,159 LeetCode solutions in JavaScript
+# 1,160 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -908,6 +908,7 @@
 1157|[Online Majority Element In Subarray](./solutions/1157-online-majority-element-in-subarray.js)|Hard|
 1160|[Find Words That Can Be Formed by Characters](./solutions/1160-find-words-that-can-be-formed-by-characters.js)|Easy|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
+1162|[As Far from Land as Possible](./solutions/1162-as-far-from-land-as-possible.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
