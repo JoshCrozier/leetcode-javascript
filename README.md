@@ -1,4 +1,4 @@
-# 1,167 LeetCode solutions in JavaScript
+# 1,168 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -915,6 +915,7 @@
 1171|[Remove Zero Sum Consecutive Nodes from Linked List](./solutions/1171-remove-zero-sum-consecutive-nodes-from-linked-list.js)|Medium|
 1172|[Dinner Plate Stacks](./solutions/1172-dinner-plate-stacks.js)|Hard|
 1175|[Prime Arrangements](./solutions/1175-prime-arrangements.js)|Easy|
+1177|[Can Make Palindrome from Substring](./solutions/1177-can-make-palindrome-from-substring.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
