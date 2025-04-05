@@ -1,4 +1,4 @@
-# 1,174 LeetCode solutions in JavaScript
+# 1,175 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -923,6 +923,7 @@
 1187|[Make Array Strictly Increasing](./solutions/1187-make-array-strictly-increasing.js)|Hard|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1190|[Reverse Substrings Between Each Pair of Parentheses](./solutions/1190-reverse-substrings-between-each-pair-of-parentheses.js)|Medium|
+1191|[K-Concatenation Maximum Sum](./solutions/1191-k-concatenation-maximum-sum.js)|Medium|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
 1207|[Unique Number of Occurrences](./solutions/1207-unique-number-of-occurrences.js)|Easy|
