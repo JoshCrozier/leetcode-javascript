@@ -1,4 +1,4 @@
-# 1,165 LeetCode solutions in JavaScript
+# 1,166 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -913,6 +913,7 @@
 1169|[Invalid Transactions](./solutions/1169-invalid-transactions.js)|Medium|
 1170|[Compare Strings by Frequency of the Smallest Character](./solutions/1170-compare-strings-by-frequency-of-the-smallest-character.js)|Medium|
 1171|[Remove Zero Sum Consecutive Nodes from Linked List](./solutions/1171-remove-zero-sum-consecutive-nodes-from-linked-list.js)|Medium|
+1172|[Dinner Plate Stacks](./solutions/1172-dinner-plate-stacks.js)|Hard|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
