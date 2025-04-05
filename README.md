@@ -1,4 +1,4 @@
-# 1,155 LeetCode solutions in JavaScript
+# 1,156 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -903,6 +903,7 @@
 1146|[Snapshot Array](./solutions/1146-snapshot-array.js)|Medium|
 1147|[Longest Chunked Palindrome Decomposition](./solutions/1147-longest-chunked-palindrome-decomposition.js)|Hard|
 1154|[Day of the Year](./solutions/1154-day-of-the-year.js)|Easy|
+1155|[Number of Dice Rolls With Target Sum](./solutions/1155-number-of-dice-rolls-with-target-sum.js)|Medium|
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
