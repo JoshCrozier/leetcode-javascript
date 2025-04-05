@@ -1,4 +1,4 @@
-# 1,162 LeetCode solutions in JavaScript
+# 1,163 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -910,6 +910,7 @@
 1161|[Maximum Level Sum of a Binary Tree](./solutions/1161-maximum-level-sum-of-a-binary-tree.js)|Medium|
 1162|[As Far from Land as Possible](./solutions/1162-as-far-from-land-as-possible.js)|Medium|
 1163|[Last Substring in Lexicographical Order](./solutions/1163-last-substring-in-lexicographical-order.js)|Hard|
+1169|[Invalid Transactions](./solutions/1169-invalid-transactions.js)|Medium|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
