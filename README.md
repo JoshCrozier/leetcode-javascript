@@ -1,4 +1,4 @@
-# 1,172 LeetCode solutions in JavaScript
+# 1,173 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -920,6 +920,7 @@
 1184|[Distance Between Bus Stops](./solutions/1184-distance-between-bus-stops.js)|Easy|
 1185|[Day of the Week](./solutions/1185-day-of-the-week.js)|Easy|
 1186|[Maximum Subarray Sum with One Deletion](./solutions/1186-maximum-subarray-sum-with-one-deletion.js)|Medium|
+1187|[Make Array Strictly Increasing](./solutions/1187-make-array-strictly-increasing.js)|Hard|
 1189|[Maximum Number of Balloons](./solutions/1189-maximum-number-of-balloons.js)|Easy|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
