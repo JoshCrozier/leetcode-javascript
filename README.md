@@ -1,4 +1,4 @@
-# 1,188 LeetCode solutions in JavaScript
+# 1,189 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -944,6 +944,7 @@
 1227|[Airplane Seat Assignment Probability](./solutions/1227-airplane-seat-assignment-probability.js)|Medium|
 1232|[Check If It Is a Straight Line](./solutions/1232-check-if-it-is-a-straight-line.js)|Easy|
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
+1234|[Replace the Substring for Balanced String](./solutions/1234-replace-the-substring-for-balanced-string.js)|Medium|
 1249|[Minimum Remove to Make Valid Parentheses](./solutions/1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
 1252|[Cells with Odd Values in a Matrix](./solutions/1252-cells-with-odd-values-in-a-matrix.js)|Easy|
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
