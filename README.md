@@ -1,4 +1,4 @@
-# 1,181 LeetCode solutions in JavaScript
+# 1,182 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -935,6 +935,7 @@
 1209|[Remove All Adjacent Duplicates in String II](./solutions/1209-remove-all-adjacent-duplicates-in-string-ii.js)|Medium|
 1210|[Minimum Moves to Reach Target with Rotations](./solutions/1210-minimum-moves-to-reach-target-with-rotations.js)|Hard|
 1217|[Minimum Cost to Move Chips to The Same Position](./solutions/1217-minimum-cost-to-move-chips-to-the-same-position.js)|Easy|
+1218|[Longest Arithmetic Subsequence of Given Difference](./solutions/1218-longest-arithmetic-subsequence-of-given-difference.js)|Medium|
 1232|[Check If It Is a Straight Line](./solutions/1232-check-if-it-is-a-straight-line.js)|Easy|
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
 1249|[Minimum Remove to Make Valid Parentheses](./solutions/1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
