@@ -1,4 +1,4 @@
-# 1,176 LeetCode solutions in JavaScript
+# 1,177 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -926,6 +926,7 @@
 1191|[K-Concatenation Maximum Sum](./solutions/1191-k-concatenation-maximum-sum.js)|Medium|
 1192|[Critical Connections in a Network](./solutions/1192-critical-connections-in-a-network.js)|Hard|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
+1201|[Ugly Number III](./solutions/1201-ugly-number-iii.js)|Medium|
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
 1207|[Unique Number of Occurrences](./solutions/1207-unique-number-of-occurrences.js)|Easy|
 1208|[Get Equal Substrings Within Budget](./solutions/1208-get-equal-substrings-within-budget.js)|Medium|
