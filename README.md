@@ -1,4 +1,4 @@
-# 1,185 LeetCode solutions in JavaScript
+# 1,186 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -939,6 +939,7 @@
 1219|[Path with Maximum Gold](./solutions/1219-path-with-maximum-gold.js)|Medium|
 1220|[Count Vowels Permutation](./solutions/1220-count-vowels-permutation.js)|Hard|
 1222|[Queens That Can Attack the King](./solutions/1222-queens-that-can-attack-the-king.js)|Medium|
+1223|[Dice Roll Simulation](./solutions/1223-dice-roll-simulation.js)|Hard|
 1232|[Check If It Is a Straight Line](./solutions/1232-check-if-it-is-a-straight-line.js)|Easy|
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
 1249|[Minimum Remove to Make Valid Parentheses](./solutions/1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
