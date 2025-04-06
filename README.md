@@ -1,4 +1,4 @@
-# 1,179 LeetCode solutions in JavaScript
+# 1,180 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -932,6 +932,7 @@
 1206|[Design Skiplist](./solutions/1206-design-skiplist.js)|Hard|
 1207|[Unique Number of Occurrences](./solutions/1207-unique-number-of-occurrences.js)|Easy|
 1208|[Get Equal Substrings Within Budget](./solutions/1208-get-equal-substrings-within-budget.js)|Medium|
+1209|[Remove All Adjacent Duplicates in String II](./solutions/1209-remove-all-adjacent-duplicates-in-string-ii.js)|Medium|
 1217|[Minimum Cost to Move Chips to The Same Position](./solutions/1217-minimum-cost-to-move-chips-to-the-same-position.js)|Easy|
 1232|[Check If It Is a Straight Line](./solutions/1232-check-if-it-is-a-straight-line.js)|Easy|
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
