@@ -1,4 +1,4 @@
-# 1,199 LeetCode solutions in JavaScript
+# 1,200 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -957,6 +957,7 @@
 1252|[Cells with Odd Values in a Matrix](./solutions/1252-cells-with-odd-values-in-a-matrix.js)|Easy|
 1253|[Reconstruct a 2-Row Binary Matrix](./solutions/1253-reconstruct-a-2-row-binary-matrix.js)|Medium|
 1254|[Number of Closed Islands](./solutions/1254-number-of-closed-islands.js)|Medium|
+1255|[Maximum Score Words Formed by Letters](./solutions/1255-maximum-score-words-formed-by-letters.js)|Hard|
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
 1267|[Count Servers that Communicate](./solutions/1267-count-servers-that-communicate.js)|Medium|
 1268|[Search Suggestions System](./solutions/1268-search-suggestions-system.js)|Medium|
