@@ -1,4 +1,4 @@
-# 1,202 LeetCode solutions in JavaScript
+# 1,203 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -961,6 +961,7 @@
 1260|[Shift 2D Grid](./solutions/1260-shift-2d-grid.js)|Easy|
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
 1262|[Greatest Sum Divisible by Three](./solutions/1262-greatest-sum-divisible-by-three.js)|Medium|
+1263|[Minimum Moves to Move a Box to Their Target Location](./solutions/1263-minimum-moves-to-move-a-box-to-their-target-location.js)|Hard|
 1267|[Count Servers that Communicate](./solutions/1267-count-servers-that-communicate.js)|Medium|
 1268|[Search Suggestions System](./solutions/1268-search-suggestions-system.js)|Medium|
 1287|[Element Appearing More Than 25% In Sorted Array](./solutions/1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
