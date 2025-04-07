@@ -1,4 +1,4 @@
-# 1,192 LeetCode solutions in JavaScript
+# 1,193 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -948,6 +948,7 @@
 1235|[Maximum Profit in Job Scheduling](./solutions/1235-maximum-profit-in-job-scheduling.js)|Hard|
 1237|[Find Positive Integer Solution for a Given Equation](./solutions/1237-find-positive-integer-solution-for-a-given-equation.js)|Medium|
 1238|[Circular Permutation in Binary Representation](./solutions/1238-circular-permutation-in-binary-representation.js)|Medium|
+1239|[Maximum Length of a Concatenated String with Unique Characters](./solutions/1239-maximum-length-of-a-concatenated-string-with-unique-characters.js)|Medium|
 1249|[Minimum Remove to Make Valid Parentheses](./solutions/1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
 1252|[Cells with Odd Values in a Matrix](./solutions/1252-cells-with-odd-values-in-a-matrix.js)|Easy|
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
