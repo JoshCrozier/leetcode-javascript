@@ -1,4 +1,4 @@
-# 1,204 LeetCode solutions in JavaScript
+# 1,205 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -965,6 +965,7 @@
 1267|[Count Servers that Communicate](./solutions/1267-count-servers-that-communicate.js)|Medium|
 1268|[Search Suggestions System](./solutions/1268-search-suggestions-system.js)|Medium|
 1269|[Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.js)|Hard|
+1275|[Find Winner on a Tic Tac Toe Game](./solutions/1275-find-winner-on-a-tic-tac-toe-game.js)|Easy|
 1287|[Element Appearing More Than 25% In Sorted Array](./solutions/1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
 1290|[Convert Binary Number in a Linked List to Integer](./solutions/1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
 1291|[Sequential Digits](./solutions/1291-sequential-digits.js)|Medium|
