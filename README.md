@@ -1,4 +1,4 @@
-# 1,206 LeetCode solutions in JavaScript
+# 1,207 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -967,6 +967,7 @@
 1269|[Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.js)|Hard|
 1275|[Find Winner on a Tic Tac Toe Game](./solutions/1275-find-winner-on-a-tic-tac-toe-game.js)|Easy|
 1276|[Number of Burgers with No Waste of Ingredients](./solutions/1276-number-of-burgers-with-no-waste-of-ingredients.js)|Medium|
+1277|[Count Square Submatrices with All Ones](./solutions/1277-count-square-submatrices-with-all-ones.js)|Medium|
 1287|[Element Appearing More Than 25% In Sorted Array](./solutions/1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
 1290|[Convert Binary Number in a Linked List to Integer](./solutions/1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
 1291|[Sequential Digits](./solutions/1291-sequential-digits.js)|Medium|
