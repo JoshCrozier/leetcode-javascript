@@ -1,4 +1,4 @@
-# 1,210 LeetCode solutions in JavaScript
+# 1,211 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -972,6 +972,7 @@
 1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./solutions/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.js)|Hard|
 1286|[Iterator for Combination](./solutions/1286-iterator-for-combination.js)|Medium|
 1287|[Element Appearing More Than 25% In Sorted Array](./solutions/1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
+1288|[Remove Covered Intervals](./solutions/1288-remove-covered-intervals.js)|Medium|
 1290|[Convert Binary Number in a Linked List to Integer](./solutions/1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
 1291|[Sequential Digits](./solutions/1291-sequential-digits.js)|Medium|
 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./solutions/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.js)|Medium|
