@@ -1,4 +1,4 @@
-# 1,212 LeetCode solutions in JavaScript
+# 1,213 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -977,6 +977,7 @@
 1290|[Convert Binary Number in a Linked List to Integer](./solutions/1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
 1291|[Sequential Digits](./solutions/1291-sequential-digits.js)|Medium|
 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./solutions/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.js)|Medium|
+1293|[Shortest Path in a Grid with Obstacles Elimination](./solutions/1293-shortest-path-in-a-grid-with-obstacles-elimination.js)|Hard|
 1295|[Find Numbers with Even Number of Digits](./solutions/1295-find-numbers-with-even-number-of-digits.js)|Easy|
 1296|[Divide Array in Sets of K Consecutive Numbers](./solutions/1296-divide-array-in-sets-of-k-consecutive-numbers.js)|Medium|
 1297|[Maximum Number of Occurrences of a Substring](./solutions/1297-maximum-number-of-occurrences-of-a-substring.js)|Medium|
