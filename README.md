@@ -1,4 +1,4 @@
-# 1,218 LeetCode solutions in JavaScript
+# 1,219 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -987,6 +987,7 @@
 1301|[Number of Paths with Max Score](./solutions/1301-number-of-paths-with-max-score.js)|Hard|
 1302|[Deepest Leaves Sum](./solutions/1302-deepest-leaves-sum.js)|Medium|
 1304|[Find N Unique Integers Sum up to Zero](./solutions/1304-find-n-unique-integers-sum-up-to-zero.js)|Easy|
+1305|[All Elements in Two Binary Search Trees](./solutions/1305-all-elements-in-two-binary-search-trees.js)|Medium|
 1309|[Decrypt String from Alphabet to Integer Mapping](./solutions/1309-decrypt-string-from-alphabet-to-integer-mapping.js)|Easy|
 1313|[Decompress Run-Length Encoded List](./solutions/1313-decompress-run-length-encoded-list.js)|Easy|
 1317|[Convert Integer to the Sum of Two No-Zero Integers](./solutions/1317-convert-integer-to-the-sum-of-two-no-zero-integers.js)|Easy|
