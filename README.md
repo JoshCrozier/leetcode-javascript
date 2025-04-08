@@ -1,4 +1,4 @@
-# 1,215 LeetCode solutions in JavaScript
+# 1,216 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -983,6 +983,7 @@
 1297|[Maximum Number of Occurrences of a Substring](./solutions/1297-maximum-number-of-occurrences-of-a-substring.js)|Medium|
 1298|[Maximum Candies You Can Get from Boxes](./solutions/1298-maximum-candies-you-can-get-from-boxes.js)|Hard|
 1299|[Replace Elements with Greatest Element on Right Side](./solutions/1299-replace-elements-with-greatest-element-on-right-side.js)|Easy|
+1300|[Sum of Mutated Array Closest to Target](./solutions/1300-sum-of-mutated-array-closest-to-target.js)|Medium|
 1304|[Find N Unique Integers Sum up to Zero](./solutions/1304-find-n-unique-integers-sum-up-to-zero.js)|Easy|
 1309|[Decrypt String from Alphabet to Integer Mapping](./solutions/1309-decrypt-string-from-alphabet-to-integer-mapping.js)|Easy|
 1313|[Decompress Run-Length Encoded List](./solutions/1313-decompress-run-length-encoded-list.js)|Easy|
