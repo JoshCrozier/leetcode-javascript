@@ -1,4 +1,4 @@
-# 1,208 LeetCode solutions in JavaScript
+# 1,209 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -969,6 +969,7 @@
 1276|[Number of Burgers with No Waste of Ingredients](./solutions/1276-number-of-burgers-with-no-waste-of-ingredients.js)|Medium|
 1277|[Count Square Submatrices with All Ones](./solutions/1277-count-square-submatrices-with-all-ones.js)|Medium|
 1278|[Palindrome Partitioning III](./solutions/1278-palindrome-partitioning-iii.js)|Hard|
+1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./solutions/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.js)|Hard|
 1287|[Element Appearing More Than 25% In Sorted Array](./solutions/1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
 1290|[Convert Binary Number in a Linked List to Integer](./solutions/1290-convert-binary-number-in-a-linked-list-to-integer.js)|Easy|
 1291|[Sequential Digits](./solutions/1291-sequential-digits.js)|Medium|
