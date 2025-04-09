@@ -1,4 +1,4 @@
-# 1,221 LeetCode solutions in JavaScript
+# 1,222 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -991,6 +991,7 @@
 1306|[Jump Game III](./solutions/1306-jump-game-iii.js)|Medium|
 1307|[Verbal Arithmetic Puzzle](./solutions/1307-verbal-arithmetic-puzzle.js)|Hard|
 1309|[Decrypt String from Alphabet to Integer Mapping](./solutions/1309-decrypt-string-from-alphabet-to-integer-mapping.js)|Easy|
+1310|[XOR Queries of a Subarray](./solutions/1310-xor-queries-of-a-subarray.js)|Medium|
 1313|[Decompress Run-Length Encoded List](./solutions/1313-decompress-run-length-encoded-list.js)|Easy|
 1317|[Convert Integer to the Sum of Two No-Zero Integers](./solutions/1317-convert-integer-to-the-sum-of-two-no-zero-integers.js)|Easy|
 1318|[Minimum Flips to Make a OR b Equal to c](./solutions/1318-minimum-flips-to-make-a-or-b-equal-to-c.js)|Medium|
