@@ -1,4 +1,4 @@
-# 1,229 LeetCode solutions in JavaScript
+# 1,230 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1001,6 +1001,7 @@
 1317|[Convert Integer to the Sum of Two No-Zero Integers](./solutions/1317-convert-integer-to-the-sum-of-two-no-zero-integers.js)|Easy|
 1318|[Minimum Flips to Make a OR b Equal to c](./solutions/1318-minimum-flips-to-make-a-or-b-equal-to-c.js)|Medium|
 1319|[Number of Operations to Make Network Connected](./solutions/1319-number-of-operations-to-make-network-connected.js)|Medium|
+1320|[Minimum Distance to Type a Word Using Two Fingers](./solutions/1320-minimum-distance-to-type-a-word-using-two-fingers.js)|Hard|
 1323|[Maximum 69 Number](./solutions/1323-maximum-69-number.js)|Easy|
 1324|[Print Words Vertically](./solutions/1324-print-words-vertically.js)|Medium|
 1331|[Rank Transform of an Array](./solutions/1331-rank-transform-of-an-array.js)|Easy|
