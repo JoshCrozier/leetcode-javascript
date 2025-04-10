@@ -1,4 +1,4 @@
-# 1,228 LeetCode solutions in JavaScript
+# 1,229 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -997,6 +997,7 @@
 1313|[Decompress Run-Length Encoded List](./solutions/1313-decompress-run-length-encoded-list.js)|Easy|
 1314|[Matrix Block Sum](./solutions/1314-matrix-block-sum.js)|Medium|
 1315|[Sum of Nodes with Even-Valued Grandparent](./solutions/1315-sum-of-nodes-with-even-valued-grandparent.js)|Medium|
+1316|[Distinct Echo Substrings](./solutions/1316-distinct-echo-substrings.js)|Hard|
 1317|[Convert Integer to the Sum of Two No-Zero Integers](./solutions/1317-convert-integer-to-the-sum-of-two-no-zero-integers.js)|Easy|
 1318|[Minimum Flips to Make a OR b Equal to c](./solutions/1318-minimum-flips-to-make-a-or-b-equal-to-c.js)|Medium|
 1319|[Number of Operations to Make Network Connected](./solutions/1319-number-of-operations-to-make-network-connected.js)|Medium|
