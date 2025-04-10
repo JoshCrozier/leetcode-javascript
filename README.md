@@ -1,4 +1,4 @@
-# 1,231 LeetCode solutions in JavaScript
+# 1,232 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1005,6 +1005,7 @@
 1323|[Maximum 69 Number](./solutions/1323-maximum-69-number.js)|Easy|
 1324|[Print Words Vertically](./solutions/1324-print-words-vertically.js)|Medium|
 1325|[Delete Leaves With a Given Value](./solutions/1325-delete-leaves-with-a-given-value.js)|Medium|
+1326|[Minimum Number of Taps to Open to Water a Garden](./solutions/1326-minimum-number-of-taps-to-open-to-water-a-garden.js)|Hard|
 1331|[Rank Transform of an Array](./solutions/1331-rank-transform-of-an-array.js)|Easy|
 1332|[Remove Palindromic Subsequences](./solutions/1332-remove-palindromic-subsequences.js)|Easy|
 1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](./solutions/1333-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
