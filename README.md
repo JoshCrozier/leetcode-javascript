@@ -1,4 +1,4 @@
-# 1,225 LeetCode solutions in JavaScript
+# 1,226 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1206,6 +1206,7 @@
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
+2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
