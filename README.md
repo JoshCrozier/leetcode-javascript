@@ -1,4 +1,4 @@
-# 1,235 LeetCode solutions in JavaScript
+# 1,236 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1012,6 +1012,7 @@
 1331|[Rank Transform of an Array](./solutions/1331-rank-transform-of-an-array.js)|Easy|
 1332|[Remove Palindromic Subsequences](./solutions/1332-remove-palindromic-subsequences.js)|Easy|
 1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](./solutions/1333-filter-restaurants-by-vegan-friendly-price-and-distance.js)|Medium|
+1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](./solutions/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.js)|Medium|
 1342|[Number of Steps to Reduce a Number to Zero](./solutions/1342-number-of-steps-to-reduce-a-number-to-zero.js)|Easy|
 1351|[Count Negative Numbers in a Sorted Matrix](./solutions/1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./solutions/1352-product-of-the-last-k-numbers.js)|Medium|
