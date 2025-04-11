@@ -1,4 +1,4 @@
-# 1,241 LeetCode solutions in JavaScript
+# 1,242 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1017,6 +1017,7 @@
 1337|[The K Weakest Rows in a Matrix](./solutions/1337-the-k-weakest-rows-in-a-matrix.js)|Easy|
 1338|[Reduce Array Size to The Half](./solutions/1338-reduce-array-size-to-the-half.js)|Medium|
 1339|[Maximum Product of Splitted Binary Tree](./solutions/1339-maximum-product-of-splitted-binary-tree.js)|Medium|
+1340|[Jump Game V](./solutions/1340-jump-game-v.js)|Hard|
 1342|[Number of Steps to Reduce a Number to Zero](./solutions/1342-number-of-steps-to-reduce-a-number-to-zero.js)|Easy|
 1351|[Count Negative Numbers in a Sorted Matrix](./solutions/1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./solutions/1352-product-of-the-last-k-numbers.js)|Medium|
