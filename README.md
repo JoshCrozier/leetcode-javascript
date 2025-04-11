@@ -1,4 +1,4 @@
-# 1,248 LeetCode solutions in JavaScript
+# 1,249 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1025,6 +1025,7 @@
 1346|[Check If N and Its Double Exist](./solutions/1346-check-if-n-and-its-double-exist.js)|Easy|
 1347|[Minimum Number of Steps to Make Two Strings Anagram](./solutions/1347-minimum-number-of-steps-to-make-two-strings-anagram.js)|Medium|
 1348|[Tweet Counts Per Frequency](./solutions/1348-tweet-counts-per-frequency.js)|Medium|
+1349|[Maximum Students Taking Exam](./solutions/1349-maximum-students-taking-exam.js)|Hard|
 1351|[Count Negative Numbers in a Sorted Matrix](./solutions/1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./solutions/1352-product-of-the-last-k-numbers.js)|Medium|
 1356|[Sort Integers by The Number of 1 Bits](./solutions/1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
