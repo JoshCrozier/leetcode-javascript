@@ -1,4 +1,4 @@
-# 1,242 LeetCode solutions in JavaScript
+# 1,243 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1019,6 +1019,7 @@
 1339|[Maximum Product of Splitted Binary Tree](./solutions/1339-maximum-product-of-splitted-binary-tree.js)|Medium|
 1340|[Jump Game V](./solutions/1340-jump-game-v.js)|Hard|
 1342|[Number of Steps to Reduce a Number to Zero](./solutions/1342-number-of-steps-to-reduce-a-number-to-zero.js)|Easy|
+1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./solutions/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.js)|Medium|
 1351|[Count Negative Numbers in a Sorted Matrix](./solutions/1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./solutions/1352-product-of-the-last-k-numbers.js)|Medium|
 1356|[Sort Integers by The Number of 1 Bits](./solutions/1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
