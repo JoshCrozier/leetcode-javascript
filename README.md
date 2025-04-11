@@ -1,4 +1,4 @@
-# 1,240 LeetCode solutions in JavaScript
+# 1,241 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1216,6 +1216,7 @@
 2727|[Is Object Empty](./solutions/2727-is-object-empty.js)|Easy|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
+2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
