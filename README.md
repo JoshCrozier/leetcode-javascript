@@ -1,4 +1,4 @@
-# 1,249 LeetCode solutions in JavaScript
+# 1,250 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1028,6 +1028,7 @@
 1349|[Maximum Students Taking Exam](./solutions/1349-maximum-students-taking-exam.js)|Hard|
 1351|[Count Negative Numbers in a Sorted Matrix](./solutions/1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./solutions/1352-product-of-the-last-k-numbers.js)|Medium|
+1353|[Maximum Number of Events That Can Be Attended](./solutions/1353-maximum-number-of-events-that-can-be-attended.js)|Medium|
 1356|[Sort Integers by The Number of 1 Bits](./solutions/1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
 1358|[Number of Substrings Containing All Three Characters](./solutions/1358-number-of-substrings-containing-all-three-characters.js)|Medium|
 1360|[Number of Days Between Two Dates](./solutions/1360-number-of-days-between-two-dates.js)|Easy|
