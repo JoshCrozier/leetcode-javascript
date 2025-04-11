@@ -1,4 +1,4 @@
-# 1,245 LeetCode solutions in JavaScript
+# 1,246 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1022,6 +1022,7 @@
 1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./solutions/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.js)|Medium|
 1344|[Angle Between Hands of a Clock](./solutions/1344-angle-between-hands-of-a-clock.js)|Medium|
 1345|[Jump Game IV](./solutions/1345-jump-game-iv.js)|Hard|
+1346|[Check If N and Its Double Exist](./solutions/1346-check-if-n-and-its-double-exist.js)|Easy|
 1351|[Count Negative Numbers in a Sorted Matrix](./solutions/1351-count-negative-numbers-in-a-sorted-matrix.js)|Easy|
 1352|[Product of the Last K Numbers](./solutions/1352-product-of-the-last-k-numbers.js)|Medium|
 1356|[Sort Integers by The Number of 1 Bits](./solutions/1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
