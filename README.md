@@ -1,4 +1,4 @@
-# 1,250 LeetCode solutions in JavaScript
+# 1,251 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1243,6 +1243,7 @@
 3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./solutions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
 3208|[Alternating Groups II](./solutions/3208-alternating-groups-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
+3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
