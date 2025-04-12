@@ -1,4 +1,4 @@
-# 1,267 LeetCode solutions in JavaScript
+# 1,268 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1054,6 +1054,7 @@
 1380|[Lucky Numbers in a Matrix](./solutions/1380-lucky-numbers-in-a-matrix.js)|Easy|
 1381|[Design a Stack With Increment Operation](./solutions/1381-design-a-stack-with-increment-operation.js)|Medium|
 1382|[Balance a Binary Search Tree](./solutions/1382-balance-a-binary-search-tree.js)|Medium|
+1383|[Maximum Performance of a Team](./solutions/1383-maximum-performance-of-a-team.js)|Hard|
 1389|[Create Target Array in the Given Order](./solutions/1389-create-target-array-in-the-given-order.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
