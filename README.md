@@ -1,4 +1,4 @@
-# 1,252 LeetCode solutions in JavaScript
+# 1,253 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1031,6 +1031,7 @@
 1353|[Maximum Number of Events That Can Be Attended](./solutions/1353-maximum-number-of-events-that-can-be-attended.js)|Medium|
 1354|[Construct Target Array With Multiple Sums](./solutions/1354-construct-target-array-with-multiple-sums.js)|Hard|
 1356|[Sort Integers by The Number of 1 Bits](./solutions/1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
+1357|[Apply Discount Every n Orders](./solutions/1357-apply-discount-every-n-orders.js)|Medium|
 1358|[Number of Substrings Containing All Three Characters](./solutions/1358-number-of-substrings-containing-all-three-characters.js)|Medium|
 1360|[Number of Days Between Two Dates](./solutions/1360-number-of-days-between-two-dates.js)|Easy|
 1365|[How Many Numbers Are Smaller Than the Current Number](./solutions/1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
