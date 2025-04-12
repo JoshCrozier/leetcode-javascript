@@ -1,4 +1,4 @@
-# 1,269 LeetCode solutions in JavaScript
+# 1,270 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1056,6 +1056,7 @@
 1382|[Balance a Binary Search Tree](./solutions/1382-balance-a-binary-search-tree.js)|Medium|
 1383|[Maximum Performance of a Team](./solutions/1383-maximum-performance-of-a-team.js)|Hard|
 1385|[Find the Distance Value Between Two Arrays](./solutions/1385-find-the-distance-value-between-two-arrays.js)|Easy|
+1386|[Cinema Seat Allocation](./solutions/1386-cinema-seat-allocation.js)|Medium|
 1389|[Create Target Array in the Given Order](./solutions/1389-create-target-array-in-the-given-order.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
