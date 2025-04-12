@@ -1,4 +1,4 @@
-# 1,261 LeetCode solutions in JavaScript
+# 1,262 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1047,6 +1047,7 @@
 1372|[Longest ZigZag Path in a Binary Tree](./solutions/1372-longest-zigzag-path-in-a-binary-tree.js)|Medium|
 1373|[Maximum Sum BST in Binary Tree](./solutions/1373-maximum-sum-bst-in-binary-tree.js)|Hard|
 1374|[Generate a String With Characters That Have Odd Counts](./solutions/1374-generate-a-string-with-characters-that-have-odd-counts.js)|Easy|
+1375|[Number of Times Binary String Is Prefix-Aligned](./solutions/1375-number-of-times-binary-string-is-prefix-aligned.js)|Medium|
 1380|[Lucky Numbers in a Matrix](./solutions/1380-lucky-numbers-in-a-matrix.js)|Easy|
 1389|[Create Target Array in the Given Order](./solutions/1389-create-target-array-in-the-given-order.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
