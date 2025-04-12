@@ -1,4 +1,4 @@
-# 1,253 LeetCode solutions in JavaScript
+# 1,254 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1033,6 +1033,7 @@
 1356|[Sort Integers by The Number of 1 Bits](./solutions/1356-sort-integers-by-the-number-of-1-bits.js)|Easy|
 1357|[Apply Discount Every n Orders](./solutions/1357-apply-discount-every-n-orders.js)|Medium|
 1358|[Number of Substrings Containing All Three Characters](./solutions/1358-number-of-substrings-containing-all-three-characters.js)|Medium|
+1359|[Count All Valid Pickup and Delivery Options](./solutions/1359-count-all-valid-pickup-and-delivery-options.js)|Hard|
 1360|[Number of Days Between Two Dates](./solutions/1360-number-of-days-between-two-dates.js)|Easy|
 1365|[How Many Numbers Are Smaller Than the Current Number](./solutions/1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
 1366|[Rank Teams by Votes](./solutions/1366-rank-teams-by-votes.js)|Medium|
