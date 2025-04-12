@@ -1,4 +1,4 @@
-# 1,259 LeetCode solutions in JavaScript
+# 1,260 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1043,6 +1043,7 @@
 1367|[Linked List in Binary Tree](./solutions/1367-linked-list-in-binary-tree.js)|Medium|
 1368|[Minimum Cost to Make at Least One Valid Path in a Grid](./solutions/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.js)|Hard|
 1370|[Increasing Decreasing String](./solutions/1370-increasing-decreasing-string.js)|Easy|
+1371|[Find the Longest Substring Containing Vowels in Even Counts](./solutions/1371-find-the-longest-substring-containing-vowels-in-even-counts.js)|Medium|
 1372|[Longest ZigZag Path in a Binary Tree](./solutions/1372-longest-zigzag-path-in-a-binary-tree.js)|Medium|
 1374|[Generate a String With Characters That Have Odd Counts](./solutions/1374-generate-a-string-with-characters-that-have-odd-counts.js)|Easy|
 1380|[Lucky Numbers in a Matrix](./solutions/1380-lucky-numbers-in-a-matrix.js)|Easy|
