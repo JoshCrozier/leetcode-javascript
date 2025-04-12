@@ -1,4 +1,4 @@
-# 1,256 LeetCode solutions in JavaScript
+# 1,257 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1037,6 +1037,7 @@
 1360|[Number of Days Between Two Dates](./solutions/1360-number-of-days-between-two-dates.js)|Easy|
 1361|[Validate Binary Tree Nodes](./solutions/1361-validate-binary-tree-nodes.js)|Medium|
 1362|[Closest Divisors](./solutions/1362-closest-divisors.js)|Medium|
+1363|[Largest Multiple of Three](./solutions/1363-largest-multiple-of-three.js)|Hard|
 1365|[How Many Numbers Are Smaller Than the Current Number](./solutions/1365-how-many-numbers-are-smaller-than-the-current-number.js)|Easy|
 1366|[Rank Teams by Votes](./solutions/1366-rank-teams-by-votes.js)|Medium|
 1368|[Minimum Cost to Make at Least One Valid Path in a Grid](./solutions/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.js)|Hard|
