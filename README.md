@@ -1,4 +1,4 @@
-# 1,264 LeetCode solutions in JavaScript
+# 1,265 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1050,6 +1050,7 @@
 1375|[Number of Times Binary String Is Prefix-Aligned](./solutions/1375-number-of-times-binary-string-is-prefix-aligned.js)|Medium|
 1376|[Time Needed to Inform All Employees](./solutions/1376-time-needed-to-inform-all-employees.js)|Medium|
 1377|[Frog Position After T Seconds](./solutions/1377-frog-position-after-t-seconds.js)|Hard|
+1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./solutions/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.js)|Easy|
 1380|[Lucky Numbers in a Matrix](./solutions/1380-lucky-numbers-in-a-matrix.js)|Easy|
 1389|[Create Target Array in the Given Order](./solutions/1389-create-target-array-in-the-given-order.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
