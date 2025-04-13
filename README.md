@@ -1,4 +1,4 @@
-# 1,289 LeetCode solutions in JavaScript
+# 1,290 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1080,6 +1080,7 @@
 1410|[HTML Entity Parser](./solutions/1410-html-entity-parser.js)|Medium|
 1411|[Number of Ways to Paint N × 3 Grid](./solutions/1411-number-of-ways-to-paint-n-3-grid.js)|Hard|
 1413|[Minimum Value to Get Positive Step by Step Sum](./solutions/1413-minimum-value-to-get-positive-step-by-step-sum.js)|Easy|
+1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.js)|Medium|
 1415|[The k-th Lexicographical String of All Happy Strings of Length n](./solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
 1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
