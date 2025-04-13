@@ -1,4 +1,4 @@
-# 1,275 LeetCode solutions in JavaScript
+# 1,276 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1062,6 +1062,7 @@
 1389|[Create Target Array in the Given Order](./solutions/1389-create-target-array-in-the-given-order.js)|Easy|
 1390|[Four Divisors](./solutions/1390-four-divisors.js)|Medium|
 1391|[Check if There is a Valid Path in a Grid](./solutions/1391-check-if-there-is-a-valid-path-in-a-grid.js)|Medium|
+1392|[Longest Happy Prefix](./solutions/1392-longest-happy-prefix.js)|Hard|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
