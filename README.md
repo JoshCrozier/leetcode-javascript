@@ -1,4 +1,4 @@
-# 1,276 LeetCode solutions in JavaScript
+# 1,277 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1063,6 +1063,7 @@
 1390|[Four Divisors](./solutions/1390-four-divisors.js)|Medium|
 1391|[Check if There is a Valid Path in a Grid](./solutions/1391-check-if-there-is-a-valid-path-in-a-grid.js)|Medium|
 1392|[Longest Happy Prefix](./solutions/1392-longest-happy-prefix.js)|Hard|
+1394|[Find Lucky Integer in an Array](./solutions/1394-find-lucky-integer-in-an-array.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
