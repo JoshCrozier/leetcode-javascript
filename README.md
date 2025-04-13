@@ -1,4 +1,4 @@
-# 1,287 LeetCode solutions in JavaScript
+# 1,288 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1078,6 +1078,7 @@
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
 1409|[Queries on a Permutation With Key](./solutions/1409-queries-on-a-permutation-with-key.js)|Medium|
 1410|[HTML Entity Parser](./solutions/1410-html-entity-parser.js)|Medium|
+1411|[Number of Ways to Paint N × 3 Grid](./solutions/1411-number-of-ways-to-paint-n-3-grid.js)|Hard|
 1415|[The k-th Lexicographical String of All Happy Strings of Length n](./solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
 1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
