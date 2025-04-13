@@ -1,4 +1,4 @@
-# 1,284 LeetCode solutions in JavaScript
+# 1,285 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1073,6 +1073,7 @@
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
 1403|[Minimum Subsequence in Non-Increasing Order](./solutions/1403-minimum-subsequence-in-non-increasing-order.js)|Easy|
 1404|[Number of Steps to Reduce a Number in Binary Representation to One](./solutions/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.js)|Medium|
+1405|[Longest Happy String](./solutions/1405-longest-happy-string.js)|Medium|
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
 1410|[HTML Entity Parser](./solutions/1410-html-entity-parser.js)|Medium|
 1415|[The k-th Lexicographical String of All Happy Strings of Length n](./solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
