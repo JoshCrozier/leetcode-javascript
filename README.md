@@ -1,4 +1,4 @@
-# 1,278 LeetCode solutions in JavaScript
+# 1,279 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1065,6 +1065,7 @@
 1392|[Longest Happy Prefix](./solutions/1392-longest-happy-prefix.js)|Hard|
 1394|[Find Lucky Integer in an Array](./solutions/1394-find-lucky-integer-in-an-array.js)|Easy|
 1395|[Count Number of Teams](./solutions/1395-count-number-of-teams.js)|Medium|
+1396|[Design Underground System](./solutions/1396-design-underground-system.js)|Medium|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
