@@ -1,4 +1,4 @@
-# 1,272 LeetCode solutions in JavaScript
+# 1,273 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1058,6 +1058,7 @@
 1385|[Find the Distance Value Between Two Arrays](./solutions/1385-find-the-distance-value-between-two-arrays.js)|Easy|
 1386|[Cinema Seat Allocation](./solutions/1386-cinema-seat-allocation.js)|Medium|
 1387|[Sort Integers by The Power Value](./solutions/1387-sort-integers-by-the-power-value.js)|Medium|
+1388|[Pizza With 3n Slices](./solutions/1388-pizza-with-3n-slices.js)|Hard|
 1389|[Create Target Array in the Given Order](./solutions/1389-create-target-array-in-the-given-order.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
