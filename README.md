@@ -1,4 +1,4 @@
-# 1,286 LeetCode solutions in JavaScript
+# 1,287 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1076,6 +1076,7 @@
 1405|[Longest Happy String](./solutions/1405-longest-happy-string.js)|Medium|
 1406|[Stone Game III](./solutions/1406-stone-game-iii.js)|Hard|
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
+1409|[Queries on a Permutation With Key](./solutions/1409-queries-on-a-permutation-with-key.js)|Medium|
 1410|[HTML Entity Parser](./solutions/1410-html-entity-parser.js)|Medium|
 1415|[The k-th Lexicographical String of All Happy Strings of Length n](./solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
 1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
