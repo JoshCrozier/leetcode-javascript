@@ -1,4 +1,4 @@
-# 1,280 LeetCode solutions in JavaScript
+# 1,281 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1067,6 +1067,7 @@
 1395|[Count Number of Teams](./solutions/1395-count-number-of-teams.js)|Medium|
 1396|[Design Underground System](./solutions/1396-design-underground-system.js)|Medium|
 1397|[Find All Good Strings](./solutions/1397-find-all-good-strings.js)|Hard|
+1399|[Count Largest Group](./solutions/1399-count-largest-group.js)|Easy|
 1400|[Construct K Palindrome Strings](./solutions/1400-construct-k-palindrome-strings.js)|Medium|
 1402|[Reducing Dishes](./solutions/1402-reducing-dishes.js)|Hard|
 1408|[String Matching in an Array](./solutions/1408-string-matching-in-an-array.js)|Easy|
