@@ -1,4 +1,4 @@
-# 1,270 LeetCode solutions in JavaScript
+# 1,271 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1130,6 +1130,7 @@
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
+1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
 1926|[Nearest Exit from Entrance in Maze](./solutions/1926-nearest-exit-from-entrance-in-maze.js)|Medium|
 1929|[Concatenation of Array](./solutions/1929-concatenation-of-array.js)|Easy|
 1930|[Unique Length-3 Palindromic Subsequences](./solutions/1930-unique-length-3-palindromic-subsequences.js)|Medium|
