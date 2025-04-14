@@ -1,4 +1,4 @@
-# 1,309 LeetCode solutions in JavaScript
+# 1,310 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1110,6 +1110,7 @@
 1450|[Number of Students Doing Homework at a Given Time](./solutions/1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
 1451|[Rearrange Words in a Sentence](./solutions/1451-rearrange-words-in-a-sentence.js)|Medium|
 1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](./solutions/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.js)|Medium|
+1453|[Maximum Number of Darts Inside of a Circular Dartboard](./solutions/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.js)|Hard|
 1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](./solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.js)|Easy|
 1456|[Maximum Number of Vowels in a Substring of Given Length](./solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length.js)|Medium|
 1460|[Make Two Arrays Equal by Reversing Sub-arrays](./solutions/1460-make-two-arrays-equal-by-reversing-sub-arrays.js)|Easy|
