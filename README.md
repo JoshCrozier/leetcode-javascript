@@ -1,4 +1,4 @@
-# 1,299 LeetCode solutions in JavaScript
+# 1,300 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1092,6 +1092,7 @@
 1424|[Diagonal Traverse II](./solutions/1424-diagonal-traverse-ii.js)|Medium|
 1425|[Constrained Subsequence Sum](./solutions/1425-constrained-subsequence-sum.js)|Hard|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
+1432|[Max Difference You Can Get From Changing an Integer](./solutions/1432-max-difference-you-can-get-from-changing-an-integer.js)|Medium|
 1436|[Destination City](./solutions/1436-destination-city.js)|Easy|
 1437|[Check If All 1's Are at Least Length K Places Away](./solutions/1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
 1443|[Minimum Time to Collect All Apples in a Tree](./solutions/1443-minimum-time-to-collect-all-apples-in-a-tree.js)|Medium|
