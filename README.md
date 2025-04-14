@@ -1,4 +1,4 @@
-# 1,307 LeetCode solutions in JavaScript
+# 1,308 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1106,6 +1106,7 @@
 1446|[Consecutive Characters](./solutions/1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./solutions/1447-simplified-fractions.js)|Medium|
 1448|[Count Good Nodes in Binary Tree](./solutions/1448-count-good-nodes-in-binary-tree.js)|Medium|
+1449|[Form Largest Integer With Digits That Add up to Target](./solutions/1449-form-largest-integer-with-digits-that-add-up-to-target.js)|Hard|
 1450|[Number of Students Doing Homework at a Given Time](./solutions/1450-number-of-students-doing-homework-at-a-given-time.js)|Easy|
 1451|[Rearrange Words in a Sentence](./solutions/1451-rearrange-words-in-a-sentence.js)|Medium|
 1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](./solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.js)|Easy|
