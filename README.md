@@ -1,4 +1,4 @@
-# 1,290 LeetCode solutions in JavaScript
+# 1,291 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1114,6 +1114,7 @@
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1528|[Shuffle String](./solutions/1528-shuffle-string.js)|Easy|
+1534|[Count Good Triplets](./solutions/1534-count-good-triplets.js)|Easy|
 1535|[Find the Winner of an Array Game](./solutions/1535-find-the-winner-of-an-array-game.js)|Medium|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
