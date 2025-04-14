@@ -1,4 +1,4 @@
-# 1,294 LeetCode solutions in JavaScript
+# 1,295 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1085,6 +1085,7 @@
 1416|[Restore The Array](./solutions/1416-restore-the-array.js)|Hard|
 1417|[Reformat The String](./solutions/1417-reformat-the-string.js)|Easy|
 1418|[Display Table of Food Orders in a Restaurant](./solutions/1418-display-table-of-food-orders-in-a-restaurant.js)|Medium|
+1419|[Minimum Number of Frogs Croaking](./solutions/1419-minimum-number-of-frogs-croaking.js)|Medium|
 1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1436|[Destination City](./solutions/1436-destination-city.js)|Easy|
