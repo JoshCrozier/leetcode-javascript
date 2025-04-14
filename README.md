@@ -1,4 +1,4 @@
-# 1,292 LeetCode solutions in JavaScript
+# 1,293 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1083,6 +1083,7 @@
 1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.js)|Medium|
 1415|[The k-th Lexicographical String of All Happy Strings of Length n](./solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.js)|Medium|
 1416|[Restore The Array](./solutions/1416-restore-the-array.js)|Hard|
+1417|[Reformat The String](./solutions/1417-reformat-the-string.js)|Easy|
 1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1436|[Destination City](./solutions/1436-destination-city.js)|Easy|
