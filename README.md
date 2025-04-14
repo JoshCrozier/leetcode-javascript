@@ -1,4 +1,4 @@
-# 1,306 LeetCode solutions in JavaScript
+# 1,307 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1102,6 +1102,7 @@
 1441|[Build an Array With Stack Operations](./solutions/1441-build-an-array-with-stack-operations.js)|Medium|
 1442|[Count Triplets That Can Form Two Arrays of Equal XOR](./solutions/1442-count-triplets-that-can-form-two-arrays-of-equal-xor.js)|Medium|
 1443|[Minimum Time to Collect All Apples in a Tree](./solutions/1443-minimum-time-to-collect-all-apples-in-a-tree.js)|Medium|
+1444|[Number of Ways of Cutting a Pizza](./solutions/1444-number-of-ways-of-cutting-a-pizza.js)|Hard|
 1446|[Consecutive Characters](./solutions/1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./solutions/1447-simplified-fractions.js)|Medium|
 1448|[Count Good Nodes in Binary Tree](./solutions/1448-count-good-nodes-in-binary-tree.js)|Medium|
