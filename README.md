@@ -1,4 +1,4 @@
-# 1,297 LeetCode solutions in JavaScript
+# 1,298 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1089,6 +1089,7 @@
 1420|[Build Array Where You Can Find The Maximum Exactly K Comparisons](./solutions/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.js)|Hard|
 1422|[Maximum Score After Splitting a String](./solutions/1422-maximum-score-after-splitting-a-string.js)|Easy|
 1423|[Maximum Points You Can Obtain from Cards](./solutions/1423-maximum-points-you-can-obtain-from-cards.js)|Medium|
+1424|[Diagonal Traverse II](./solutions/1424-diagonal-traverse-ii.js)|Medium|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1436|[Destination City](./solutions/1436-destination-city.js)|Easy|
 1437|[Check If All 1's Are at Least Length K Places Away](./solutions/1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
