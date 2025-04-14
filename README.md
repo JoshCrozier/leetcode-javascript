@@ -1,4 +1,4 @@
-# 1,304 LeetCode solutions in JavaScript
+# 1,305 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1099,6 +1099,7 @@
 1437|[Check If All 1's Are at Least Length K Places Away](./solutions/1437-check-if-all-1s-are-at-least-length-k-places-away.js)|Easy|
 1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./solutions/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.js)|Medium|
 1439|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](./solutions/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.js)|Hard|
+1441|[Build an Array With Stack Operations](./solutions/1441-build-an-array-with-stack-operations.js)|Medium|
 1443|[Minimum Time to Collect All Apples in a Tree](./solutions/1443-minimum-time-to-collect-all-apples-in-a-tree.js)|Medium|
 1446|[Consecutive Characters](./solutions/1446-consecutive-characters.js)|Easy|
 1447|[Simplified Fractions](./solutions/1447-simplified-fractions.js)|Medium|
