@@ -1,4 +1,4 @@
-# 1,318 LeetCode solutions in JavaScript
+# 1,319 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1126,6 +1126,7 @@
 1470|[Shuffle the Array](./solutions/1470-shuffle-the-array.js)|Easy|
 1471|[The k Strongest Values in an Array](./solutions/1471-the-k-strongest-values-in-an-array.js)|Medium|
 1472|[Design Browser History](./solutions/1472-design-browser-history.js)|Medium|
+1473|[Paint House III](./solutions/1473-paint-house-iii.js)|Hard|
 1475|[Final Prices With a Special Discount in a Shop](./solutions/1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
 1480|[Running Sum of 1d Array](./solutions/1480-running-sum-of-1d-array.js)|Easy|
 1481|[Least Number of Unique Integers after K Removals](./solutions/1481-least-number-of-unique-integers-after-k-removals.js)|Medium|
