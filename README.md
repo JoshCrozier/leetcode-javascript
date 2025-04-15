@@ -1,4 +1,4 @@
-# 1,315 LeetCode solutions in JavaScript
+# 1,316 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1120,6 +1120,7 @@
 1462|[Course Schedule IV](./solutions/1462-course-schedule-iv.js)|Medium|
 1463|[Cherry Pickup II](./solutions/1463-cherry-pickup-ii.js)|Hard|
 1464|[Maximum Product of Two Elements in an Array](./solutions/1464-maximum-product-of-two-elements-in-an-array.js)|Easy|
+1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./solutions/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.js)|Medium|
 1466|[Reorder Routes to Make All Paths Lead to the City Zero](./solutions/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.js)|Medium|
 1470|[Shuffle the Array](./solutions/1470-shuffle-the-array.js)|Easy|
 1472|[Design Browser History](./solutions/1472-design-browser-history.js)|Medium|
