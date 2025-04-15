@@ -1,4 +1,4 @@
-# 1,317 LeetCode solutions in JavaScript
+# 1,318 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1124,6 +1124,7 @@
 1466|[Reorder Routes to Make All Paths Lead to the City Zero](./solutions/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.js)|Medium|
 1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](./solutions/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.js)|Hard|
 1470|[Shuffle the Array](./solutions/1470-shuffle-the-array.js)|Easy|
+1471|[The k Strongest Values in an Array](./solutions/1471-the-k-strongest-values-in-an-array.js)|Medium|
 1472|[Design Browser History](./solutions/1472-design-browser-history.js)|Medium|
 1475|[Final Prices With a Special Discount in a Shop](./solutions/1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
 1480|[Running Sum of 1d Array](./solutions/1480-running-sum-of-1d-array.js)|Easy|
