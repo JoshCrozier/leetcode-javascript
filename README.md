@@ -1,4 +1,4 @@
-# 1,314 LeetCode solutions in JavaScript
+# 1,315 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1118,6 +1118,7 @@
 1460|[Make Two Arrays Equal by Reversing Sub-arrays](./solutions/1460-make-two-arrays-equal-by-reversing-sub-arrays.js)|Easy|
 1461|[Check If a String Contains All Binary Codes of Size K](./solutions/1461-check-if-a-string-contains-all-binary-codes-of-size-k.js)|Medium|
 1462|[Course Schedule IV](./solutions/1462-course-schedule-iv.js)|Medium|
+1463|[Cherry Pickup II](./solutions/1463-cherry-pickup-ii.js)|Hard|
 1464|[Maximum Product of Two Elements in an Array](./solutions/1464-maximum-product-of-two-elements-in-an-array.js)|Easy|
 1466|[Reorder Routes to Make All Paths Lead to the City Zero](./solutions/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.js)|Medium|
 1470|[Shuffle the Array](./solutions/1470-shuffle-the-array.js)|Easy|
