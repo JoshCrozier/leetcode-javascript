@@ -1,4 +1,4 @@
-# 1,311 LeetCode solutions in JavaScript
+# 1,312 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1113,6 +1113,7 @@
 1453|[Maximum Number of Darts Inside of a Circular Dartboard](./solutions/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.js)|Hard|
 1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](./solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.js)|Easy|
 1456|[Maximum Number of Vowels in a Substring of Given Length](./solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length.js)|Medium|
+1457|[Pseudo-Palindromic Paths in a Binary Tree](./solutions/1457-pseudo-palindromic-paths-in-a-binary-tree.js)|Medium|
 1460|[Make Two Arrays Equal by Reversing Sub-arrays](./solutions/1460-make-two-arrays-equal-by-reversing-sub-arrays.js)|Easy|
 1462|[Course Schedule IV](./solutions/1462-course-schedule-iv.js)|Medium|
 1464|[Maximum Product of Two Elements in an Array](./solutions/1464-maximum-product-of-two-elements-in-an-array.js)|Easy|
