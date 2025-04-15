@@ -1,4 +1,4 @@
-# 1,316 LeetCode solutions in JavaScript
+# 1,317 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1122,6 +1122,7 @@
 1464|[Maximum Product of Two Elements in an Array](./solutions/1464-maximum-product-of-two-elements-in-an-array.js)|Easy|
 1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./solutions/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.js)|Medium|
 1466|[Reorder Routes to Make All Paths Lead to the City Zero](./solutions/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.js)|Medium|
+1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](./solutions/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.js)|Hard|
 1470|[Shuffle the Array](./solutions/1470-shuffle-the-array.js)|Easy|
 1472|[Design Browser History](./solutions/1472-design-browser-history.js)|Medium|
 1475|[Final Prices With a Special Discount in a Shop](./solutions/1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
