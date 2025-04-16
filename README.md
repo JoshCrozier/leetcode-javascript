@@ -1,4 +1,4 @@
-# 1,326 LeetCode solutions in JavaScript
+# 1,327 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1137,6 +1137,7 @@
 1483|[Kth Ancestor of a Tree Node](./solutions/1483-kth-ancestor-of-a-tree-node.js)|Hard|
 1486|[XOR Operation in an Array](./solutions/1486-xor-operation-in-an-array.js)|Easy|
 1487|[Making File Names Unique](./solutions/1487-making-file-names-unique.js)|Medium|
+1488|[Avoid Flood in The City](./solutions/1488-avoid-flood-in-the-city.js)|Medium|
 1491|[Average Salary Excluding the Minimum and Maximum Salary](./solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary.js)|Easy|
 1492|[The kth Factor of n](./solutions/1492-the-kth-factor-of-n.js)|Medium|
 1493|[Longest Subarray of 1's After Deleting One Element](./solutions/1493-longest-subarray-of-1s-after-deleting-one-element.js)|Medium|
