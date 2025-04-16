@@ -1,4 +1,4 @@
-# 1,334 LeetCode solutions in JavaScript
+# 1,335 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1150,6 +1150,7 @@
 1502|[Can Make Arithmetic Progression From Sequence](./solutions/1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1503|[Last Moment Before All Ants Fall Out of a Plank](./solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank.js)|Medium|
 1504|[Count Submatrices With All Ones](./solutions/1504-count-submatrices-with-all-ones.js)|Medium|
+1505|[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./solutions/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.js)|Hard|
 1507|[Reformat Date](./solutions/1507-reformat-date.js)|Easy|
 1512|[Number of Good Pairs](./solutions/1512-number-of-good-pairs.js)|Easy|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
