@@ -1,4 +1,4 @@
-# 1,328 LeetCode solutions in JavaScript
+# 1,329 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1142,6 +1142,7 @@
 1491|[Average Salary Excluding the Minimum and Maximum Salary](./solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary.js)|Easy|
 1492|[The kth Factor of n](./solutions/1492-the-kth-factor-of-n.js)|Medium|
 1493|[Longest Subarray of 1's After Deleting One Element](./solutions/1493-longest-subarray-of-1s-after-deleting-one-element.js)|Medium|
+1494|[Parallel Courses II](./solutions/1494-parallel-courses-ii.js)|Hard|
 1496|[Path Crossing](./solutions/1496-path-crossing.js)|Easy|
 1502|[Can Make Arithmetic Progression From Sequence](./solutions/1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1507|[Reformat Date](./solutions/1507-reformat-date.js)|Easy|
