@@ -1,4 +1,4 @@
-# 1,331 LeetCode solutions in JavaScript
+# 1,332 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1146,6 +1146,7 @@
 1496|[Path Crossing](./solutions/1496-path-crossing.js)|Easy|
 1497|[Check If Array Pairs Are Divisible by k](./solutions/1497-check-if-array-pairs-are-divisible-by-k.js)|Medium|
 1498|[Number of Subsequences That Satisfy the Given Sum Condition](./solutions/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.js)|Medium|
+1499|[Max Value of Equation](./solutions/1499-max-value-of-equation.js)|Hard|
 1502|[Can Make Arithmetic Progression From Sequence](./solutions/1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1507|[Reformat Date](./solutions/1507-reformat-date.js)|Easy|
 1512|[Number of Good Pairs](./solutions/1512-number-of-good-pairs.js)|Easy|
