@@ -1,4 +1,4 @@
-# 1,323 LeetCode solutions in JavaScript
+# 1,324 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1133,6 +1133,7 @@
 1478|[Allocate Mailboxes](./solutions/1478-allocate-mailboxes.js)|Hard|
 1480|[Running Sum of 1d Array](./solutions/1480-running-sum-of-1d-array.js)|Easy|
 1481|[Least Number of Unique Integers after K Removals](./solutions/1481-least-number-of-unique-integers-after-k-removals.js)|Medium|
+1482|[Minimum Number of Days to Make m Bouquets](./solutions/1482-minimum-number-of-days-to-make-m-bouquets.js)|Medium|
 1486|[XOR Operation in an Array](./solutions/1486-xor-operation-in-an-array.js)|Easy|
 1491|[Average Salary Excluding the Minimum and Maximum Salary](./solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary.js)|Easy|
 1492|[The kth Factor of n](./solutions/1492-the-kth-factor-of-n.js)|Medium|
