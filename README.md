@@ -1,4 +1,4 @@
-# 1,332 LeetCode solutions in JavaScript
+# 1,333 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1148,6 +1148,7 @@
 1498|[Number of Subsequences That Satisfy the Given Sum Condition](./solutions/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.js)|Medium|
 1499|[Max Value of Equation](./solutions/1499-max-value-of-equation.js)|Hard|
 1502|[Can Make Arithmetic Progression From Sequence](./solutions/1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
+1503|[Last Moment Before All Ants Fall Out of a Plank](./solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank.js)|Medium|
 1507|[Reformat Date](./solutions/1507-reformat-date.js)|Easy|
 1512|[Number of Good Pairs](./solutions/1512-number-of-good-pairs.js)|Easy|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
