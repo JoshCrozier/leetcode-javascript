@@ -1,4 +1,4 @@
-# 1,344 LeetCode solutions in JavaScript
+# 1,345 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1162,6 +1162,7 @@
 1518|[Water Bottles](./solutions/1518-water-bottles.js)|Easy|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1520|[Maximum Number of Non-Overlapping Substrings](./solutions/1520-maximum-number-of-non-overlapping-substrings.js)|Hard|
+1521|[Find a Value of a Mysterious Function Closest to Target](./solutions/1521-find-a-value-of-a-mysterious-function-closest-to-target.js)|Hard|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1528|[Shuffle String](./solutions/1528-shuffle-string.js)|Easy|
 1534|[Count Good Triplets](./solutions/1534-count-good-triplets.js)|Easy|
