@@ -1,4 +1,4 @@
-# 1,341 LeetCode solutions in JavaScript
+# 1,342 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1158,6 +1158,7 @@
 1512|[Number of Good Pairs](./solutions/1512-number-of-good-pairs.js)|Easy|
 1513|[Number of Substrings With Only 1s](./solutions/1513-number-of-substrings-with-only-1s.js)|Medium|
 1514|[Path with Maximum Probability](./solutions/1514-path-with-maximum-probability.js)|Medium|
+1515|[Best Position for a Service Centre](./solutions/1515-best-position-for-a-service-centre.js)|Hard|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1528|[Shuffle String](./solutions/1528-shuffle-string.js)|Easy|
