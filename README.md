@@ -1,4 +1,4 @@
-# 1,339 LeetCode solutions in JavaScript
+# 1,340 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1156,6 +1156,7 @@
 1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](./solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.js)|Medium|
 1510|[Stone Game IV](./solutions/1510-stone-game-iv.js)|Hard|
 1512|[Number of Good Pairs](./solutions/1512-number-of-good-pairs.js)|Easy|
+1513|[Number of Substrings With Only 1s](./solutions/1513-number-of-substrings-with-only-1s.js)|Medium|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1528|[Shuffle String](./solutions/1528-shuffle-string.js)|Easy|
