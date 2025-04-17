@@ -1,4 +1,4 @@
-# 1,336 LeetCode solutions in JavaScript
+# 1,337 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1152,6 +1152,7 @@
 1504|[Count Submatrices With All Ones](./solutions/1504-count-submatrices-with-all-ones.js)|Medium|
 1505|[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./solutions/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.js)|Hard|
 1507|[Reformat Date](./solutions/1507-reformat-date.js)|Easy|
+1508|[Range Sum of Sorted Subarray Sums](./solutions/1508-range-sum-of-sorted-subarray-sums.js)|Medium|
 1512|[Number of Good Pairs](./solutions/1512-number-of-good-pairs.js)|Easy|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
