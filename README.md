@@ -1,4 +1,4 @@
-# 1,349 LeetCode solutions in JavaScript
+# 1,350 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1169,6 +1169,7 @@
 1526|[Minimum Number of Increments on Subarrays to Form a Target Array](./solutions/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.js)|Hard|
 1528|[Shuffle String](./solutions/1528-shuffle-string.js)|Easy|
 1529|[Minimum Suffix Flips](./solutions/1529-minimum-suffix-flips.js)|Medium|
+1530|[Number of Good Leaf Nodes Pairs](./solutions/1530-number-of-good-leaf-nodes-pairs.js)|Medium|
 1534|[Count Good Triplets](./solutions/1534-count-good-triplets.js)|Easy|
 1535|[Find the Winner of an Array Game](./solutions/1535-find-the-winner-of-an-array-game.js)|Medium|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
