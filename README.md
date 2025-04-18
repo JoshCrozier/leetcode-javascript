@@ -1,4 +1,4 @@
-# 1,347 LeetCode solutions in JavaScript
+# 1,348 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1166,6 +1166,7 @@
 1523|[Count Odd Numbers in an Interval Range](./solutions/1523-count-odd-numbers-in-an-interval-range.js)|Easy|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1525|[Number of Good Ways to Split a String](./solutions/1525-number-of-good-ways-to-split-a-string.js)|Medium|
+1526|[Minimum Number of Increments on Subarrays to Form a Target Array](./solutions/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.js)|Hard|
 1528|[Shuffle String](./solutions/1528-shuffle-string.js)|Easy|
 1534|[Count Good Triplets](./solutions/1534-count-good-triplets.js)|Easy|
 1535|[Find the Winner of an Array Game](./solutions/1535-find-the-winner-of-an-array-game.js)|Medium|
