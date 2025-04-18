@@ -1,4 +1,4 @@
-# 1,352 LeetCode solutions in JavaScript
+# 1,353 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1174,6 +1174,7 @@
 1534|[Count Good Triplets](./solutions/1534-count-good-triplets.js)|Easy|
 1535|[Find the Winner of an Array Game](./solutions/1535-find-the-winner-of-an-array-game.js)|Medium|
 1536|[Minimum Swaps to Arrange a Binary Grid](./solutions/1536-minimum-swaps-to-arrange-a-binary-grid.js)|Medium|
+1537|[Get the Maximum Score](./solutions/1537-get-the-maximum-score.js)|Hard|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
