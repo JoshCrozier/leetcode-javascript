@@ -1,4 +1,4 @@
-# 1,355 LeetCode solutions in JavaScript
+# 1,356 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1177,6 +1177,7 @@
 1537|[Get the Maximum Score](./solutions/1537-get-the-maximum-score.js)|Hard|
 1539|[Kth Missing Positive Number](./solutions/1539-kth-missing-positive-number.js)|Easy|
 1540|[Can Convert String in K Moves](./solutions/1540-can-convert-string-in-k-moves.js)|Medium|
+1541|[Minimum Insertions to Balance a Parentheses String](./solutions/1541-minimum-insertions-to-balance-a-parentheses-string.js)|Medium|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
