@@ -1,4 +1,4 @@
-# 1,358 LeetCode solutions in JavaScript
+# 1,359 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1180,6 +1180,7 @@
 1541|[Minimum Insertions to Balance a Parentheses String](./solutions/1541-minimum-insertions-to-balance-a-parentheses-string.js)|Medium|
 1542|[Find Longest Awesome Substring](./solutions/1542-find-longest-awesome-substring.js)|Hard|
 1544|[Make The String Great](./solutions/1544-make-the-string-great.js)|Easy|
+1545|[Find Kth Bit in Nth Binary String](./solutions/1545-find-kth-bit-in-nth-binary-string.js)|Medium|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
