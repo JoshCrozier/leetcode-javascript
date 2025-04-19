@@ -1,4 +1,4 @@
-# 1,362 LeetCode solutions in JavaScript
+# 1,363 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1185,6 +1185,7 @@
 1547|[Minimum Cost to Cut a Stick](./solutions/1547-minimum-cost-to-cut-a-stick.js)|Hard|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
+1552|[Magnetic Force Between Two Balls](./solutions/1552-magnetic-force-between-two-balls.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
