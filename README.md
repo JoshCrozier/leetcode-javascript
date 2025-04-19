@@ -1,4 +1,4 @@
-# 1,360 LeetCode solutions in JavaScript
+# 1,361 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1287,6 +1287,7 @@
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
+2563|[Count the Number of Fair Pairs](./solutions/2563-count-the-number-of-fair-pairs.js)|Medium|
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
