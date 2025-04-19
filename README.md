@@ -1,4 +1,4 @@
-# 1,361 LeetCode solutions in JavaScript
+# 1,362 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1182,6 +1182,7 @@
 1544|[Make The String Great](./solutions/1544-make-the-string-great.js)|Easy|
 1545|[Find Kth Bit in Nth Binary String](./solutions/1545-find-kth-bit-in-nth-binary-string.js)|Medium|
 1546|[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](./solutions/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.js)|Medium|
+1547|[Minimum Cost to Cut a Stick](./solutions/1547-minimum-cost-to-cut-a-stick.js)|Hard|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
