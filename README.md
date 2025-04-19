@@ -1,4 +1,4 @@
-# 1,366 LeetCode solutions in JavaScript
+# 1,367 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1189,6 +1189,7 @@
 1553|[Minimum Number of Days to Eat N Oranges](./solutions/1553-minimum-number-of-days-to-eat-n-oranges.js)|Hard|
 1556|[Thousand Separator](./solutions/1556-thousand-separator.js)|Easy|
 1557|[Minimum Number of Vertices to Reach All Nodes](./solutions/1557-minimum-number-of-vertices-to-reach-all-nodes.js)|Medium|
+1558|[Minimum Numbers of Function Calls to Make Target Array](./solutions/1558-minimum-numbers-of-function-calls-to-make-target-array.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
