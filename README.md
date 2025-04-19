@@ -1,4 +1,4 @@
-# 1,368 LeetCode solutions in JavaScript
+# 1,369 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1191,6 +1191,7 @@
 1557|[Minimum Number of Vertices to Reach All Nodes](./solutions/1557-minimum-number-of-vertices-to-reach-all-nodes.js)|Medium|
 1558|[Minimum Numbers of Function Calls to Make Target Array](./solutions/1558-minimum-numbers-of-function-calls-to-make-target-array.js)|Medium|
 1559|[Detect Cycles in 2D Grid](./solutions/1559-detect-cycles-in-2d-grid.js)|Medium|
+1560|[Most Visited Sector in a Circular Track](./solutions/1560-most-visited-sector-in-a-circular-track.js)|Easy|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
