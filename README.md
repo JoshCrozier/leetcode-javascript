@@ -1,4 +1,4 @@
-# 1,373 LeetCode solutions in JavaScript
+# 1,374 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1197,6 +1197,7 @@
 1563|[Stone Game V](./solutions/1563-stone-game-v.js)|Hard|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1567|[Maximum Length of Subarray With Positive Product](./solutions/1567-maximum-length-of-subarray-with-positive-product.js)|Medium|
+1568|[Minimum Number of Days to Disconnect Island](./solutions/1568-minimum-number-of-days-to-disconnect-island.js)|Hard|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
