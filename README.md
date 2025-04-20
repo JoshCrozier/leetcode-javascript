@@ -1,4 +1,4 @@
-# 1,400 LeetCode solutions in JavaScript
+# 1,401 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -733,6 +733,7 @@
 914|[X of a Kind in a Deck of Cards](./solutions/0914-x-of-a-kind-in-a-deck-of-cards.js)|Medium|
 915|[Partition Array into Disjoint Intervals](./solutions/0915-partition-array-into-disjoint-intervals.js)|Medium|
 916|[Word Subsets](./solutions/0916-word-subsets.js)|Medium|
+917|[Reverse Only Letters](./solutions/0917-reverse-only-letters.js)|Easy|
 918|[Maximum Sum Circular Subarray](./solutions/0918-maximum-sum-circular-subarray.js)|Medium|
 919|[Complete Binary Tree Inserter](./solutions/0919-complete-binary-tree-inserter.js)|Medium|
 920|[Number of Music Playlists](./solutions/0920-number-of-music-playlists.js)|Hard|
