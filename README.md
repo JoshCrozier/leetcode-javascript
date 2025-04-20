@@ -1,4 +1,4 @@
-# 1,392 LeetCode solutions in JavaScript
+# 1,393 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -645,6 +645,7 @@
 829|[Consecutive Numbers Sum](./solutions/0829-consecutive-numbers-sum.js)|Hard|
 830|[Positions of Large Groups](./solutions/0830-positions-of-large-groups.js)|Easy|
 831|[Masking Personal Information](./solutions/0831-masking-personal-information.js)|Medium|
+832|[Flipping an Image](./solutions/0832-flipping-an-image.js)|Easy|
 833|[Find And Replace in String](./solutions/0833-find-and-replace-in-string.js)|Medium|
 834|[Sum of Distances in Tree](./solutions/0834-sum-of-distances-in-tree.js)|Hard|
 835|[Image Overlap](./solutions/0835-image-overlap.js)|Medium|
