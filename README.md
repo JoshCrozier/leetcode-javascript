@@ -1,4 +1,4 @@
-# 1,377 LeetCode solutions in JavaScript
+# 1,378 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1201,6 +1201,7 @@
 1569|[Number of Ways to Reorder Array to Get Same BST](./solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.js)|Hard|
 1572|[Matrix Diagonal Sum](./solutions/1572-matrix-diagonal-sum.js)|Easy|
 1573|[Number of Ways to Split a String](./solutions/1573-number-of-ways-to-split-a-string.js)|Medium|
+1574|[Shortest Subarray to be Removed to Make Array Sorted](./solutions/1574-shortest-subarray-to-be-removed-to-make-array-sorted.js)|Medium|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
