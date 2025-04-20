@@ -1,4 +1,4 @@
-# 1,382 LeetCode solutions in JavaScript
+# 1,383 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1207,6 +1207,7 @@
 1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./solutions/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.js)|Medium|
 1578|[Minimum Time to Make Rope Colorful](./solutions/1578-minimum-time-to-make-rope-colorful.js)|Medium|
 1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](./solutions/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.js)|Hard|
+1582|[Special Positions in a Binary Matrix](./solutions/1582-special-positions-in-a-binary-matrix.js)|Easy|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
