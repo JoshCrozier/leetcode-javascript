@@ -1,4 +1,4 @@
-# 1,402 LeetCode solutions in JavaScript
+# 1,403 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -947,6 +947,7 @@
 1218|[Longest Arithmetic Subsequence of Given Difference](./solutions/1218-longest-arithmetic-subsequence-of-given-difference.js)|Medium|
 1219|[Path with Maximum Gold](./solutions/1219-path-with-maximum-gold.js)|Medium|
 1220|[Count Vowels Permutation](./solutions/1220-count-vowels-permutation.js)|Hard|
+1221|[Split a String in Balanced Strings](./solutions/1221-split-a-string-in-balanced-strings.js)|Easy|
 1222|[Queens That Can Attack the King](./solutions/1222-queens-that-can-attack-the-king.js)|Medium|
 1223|[Dice Roll Simulation](./solutions/1223-dice-roll-simulation.js)|Hard|
 1224|[Maximum Equal Frequency](./solutions/1224-maximum-equal-frequency.js)|Hard|
