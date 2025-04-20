@@ -1,4 +1,4 @@
-# 1,386 LeetCode solutions in JavaScript
+# 1,387 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1211,6 +1211,7 @@
 1583|[Count Unhappy Friends](./solutions/1583-count-unhappy-friends.js)|Medium|
 1584|[Min Cost to Connect All Points](./solutions/1584-min-cost-to-connect-all-points.js)|Medium|
 1585|[Check If String Is Transformable With Substring Sort Operations](./solutions/1585-check-if-string-is-transformable-with-substring-sort-operations.js)|Hard|
+1588|[Sum of All Odd Length Subarrays](./solutions/1588-sum-of-all-odd-length-subarrays.js)|Easy|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
