@@ -1,4 +1,4 @@
-# 1,391 LeetCode solutions in JavaScript
+# 1,392 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -620,6 +620,7 @@
 804|[Unique Morse Code Words](./solutions/0804-unique-morse-code-words.js)|Easy|
 805|[Split Array With Same Average](./solutions/0805-split-array-with-same-average.js)|Hard|
 806|[Number of Lines To Write String](./solutions/0806-number-of-lines-to-write-string.js)|Easy|
+807|[Max Increase to Keep City Skyline](./solutions/0807-max-increase-to-keep-city-skyline.js)|Medium|
 808|[Soup Servings](./solutions/0808-soup-servings.js)|Medium|
 809|[Expressive Words](./solutions/0809-expressive-words.js)|Medium|
 810|[Chalkboard XOR Game](./solutions/0810-chalkboard-xor-game.js)|Hard|
