@@ -1,4 +1,4 @@
-# 1,388 LeetCode solutions in JavaScript
+# 1,389 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1213,6 +1213,7 @@
 1585|[Check If String Is Transformable With Substring Sort Operations](./solutions/1585-check-if-string-is-transformable-with-substring-sort-operations.js)|Hard|
 1588|[Sum of All Odd Length Subarrays](./solutions/1588-sum-of-all-odd-length-subarrays.js)|Easy|
 1589|[Maximum Sum Obtained of Any Permutation](./solutions/1589-maximum-sum-obtained-of-any-permutation.js)|Medium|
+1590|[Make Sum Divisible by P](./solutions/1590-make-sum-divisible-by-p.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
