@@ -1,4 +1,4 @@
-# 1,390 LeetCode solutions in JavaScript
+# 1,391 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -445,6 +445,7 @@
 558|[Logical OR of Two Binary Grids Represented as Quad-Trees](./solutions/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.js)|Medium|
 559|[Maximum Depth of N-ary Tree](./solutions/0559-maximum-depth-of-n-ary-tree.js)|Easy|
 560|[Subarray Sum Equals K](./solutions/0560-subarray-sum-equals-k.js)|Medium|
+561|[Array Partition](./solutions/0561-array-partition.js)|Easy|
 563|[Binary Tree Tilt](./solutions/0563-binary-tree-tilt.js)|Easy|
 564|[Find the Closest Palindrome](./solutions/0564-find-the-closest-palindrome.js)|Hard|
 565|[Array Nesting](./solutions/0565-array-nesting.js)|Medium|
