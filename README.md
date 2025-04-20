@@ -1,4 +1,4 @@
-# 1,401 LeetCode solutions in JavaScript
+# 1,402 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -837,6 +837,7 @@
 1018|[Binary Prefix Divisible By 5](./solutions/1018-binary-prefix-divisible-by-5.js)|Easy|
 1019|[Next Greater Node In Linked List](./solutions/1019-next-greater-node-in-linked-list.js)|Medium|
 1020|[Number of Enclaves](./solutions/1020-number-of-enclaves.js)|Medium|
+1021|[Remove Outermost Parentheses](./solutions/1021-remove-outermost-parentheses.js)|Easy|
 1022|[Sum of Root To Leaf Binary Numbers](./solutions/1022-sum-of-root-to-leaf-binary-numbers.js)|Easy|
 1023|[Camelcase Matching](./solutions/1023-camelcase-matching.js)|Medium|
 1024|[Video Stitching](./solutions/1024-video-stitching.js)|Medium|
