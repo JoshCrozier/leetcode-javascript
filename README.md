@@ -1,4 +1,4 @@
-# 1,399 LeetCode solutions in JavaScript
+# 1,400 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -591,6 +591,7 @@
 768|[Max Chunks To Make Sorted II](./solutions/0768-max-chunks-to-make-sorted-ii.js)|Hard|
 769|[Max Chunks To Make Sorted](./solutions/0769-max-chunks-to-make-sorted.js)|Medium|
 770|[Basic Calculator IV](./solutions/0770-basic-calculator-iv.js)|Hard|
+771|[Jewels and Stones](./solutions/0771-jewels-and-stones.js)|Easy|
 773|[Sliding Puzzle](./solutions/0773-sliding-puzzle.js)|Hard|
 775|[Global and Local Inversions](./solutions/0775-global-and-local-inversions.js)|Medium|
 777|[Swap Adjacent in LR String](./solutions/0777-swap-adjacent-in-lr-string.js)|Medium|
