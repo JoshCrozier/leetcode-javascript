@@ -1,4 +1,4 @@
-# 1,393 LeetCode solutions in JavaScript
+# 1,394 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -773,6 +773,7 @@
 958|[Check Completeness of a Binary Tree](./solutions/0958-check-completeness-of-a-binary-tree.js)|Medium|
 959|[Regions Cut By Slashes](./solutions/0959-regions-cut-by-slashes.js)|Medium|
 960|[Delete Columns to Make Sorted III](./solutions/0960-delete-columns-to-make-sorted-iii.js)|Hard|
+961|[N-Repeated Element in Size 2N Array](./solutions/0961-n-repeated-element-in-size-2n-array.js)|Easy|
 962|[Maximum Width Ramp](./solutions/0962-maximum-width-ramp.js)|Medium|
 963|[Minimum Area Rectangle II](./solutions/0963-minimum-area-rectangle-ii.js)|Medium|
 964|[Least Operators to Express Number](./solutions/0964-least-operators-to-express-number.js)|Hard|
