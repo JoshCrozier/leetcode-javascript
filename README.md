@@ -1,4 +1,4 @@
-# 1,396 LeetCode solutions in JavaScript
+# 1,397 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -975,6 +975,7 @@
 1277|[Count Square Submatrices with All Ones](./solutions/1277-count-square-submatrices-with-all-ones.js)|Medium|
 1278|[Palindrome Partitioning III](./solutions/1278-palindrome-partitioning-iii.js)|Hard|
 1282|[Group the People Given the Group Size They Belong To](./solutions/1282-group-the-people-given-the-group-size-they-belong-to.js)|Medium|
+1283|[Find the Smallest Divisor Given a Threshold](./solutions/1283-find-the-smallest-divisor-given-a-threshold.js)|Medium|
 1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./solutions/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.js)|Hard|
 1286|[Iterator for Combination](./solutions/1286-iterator-for-combination.js)|Medium|
 1287|[Element Appearing More Than 25% In Sorted Array](./solutions/1287-element-appearing-more-than-25-in-sorted-array.js)|Easy|
