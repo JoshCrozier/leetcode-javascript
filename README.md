@@ -1,4 +1,4 @@
-# 1,375 LeetCode solutions in JavaScript
+# 1,376 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1199,6 +1199,7 @@
 1567|[Maximum Length of Subarray With Positive Product](./solutions/1567-maximum-length-of-subarray-with-positive-product.js)|Medium|
 1568|[Minimum Number of Days to Disconnect Island](./solutions/1568-minimum-number-of-days-to-disconnect-island.js)|Hard|
 1569|[Number of Ways to Reorder Array to Get Same BST](./solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.js)|Hard|
+1572|[Matrix Diagonal Sum](./solutions/1572-matrix-diagonal-sum.js)|Easy|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
