@@ -1,4 +1,4 @@
-# 1,371 LeetCode solutions in JavaScript
+# 1,372 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1194,6 +1194,7 @@
 1560|[Most Visited Sector in a Circular Track](./solutions/1560-most-visited-sector-in-a-circular-track.js)|Easy|
 1561|[Maximum Number of Coins You Can Get](./solutions/1561-maximum-number-of-coins-you-can-get.js)|Medium|
 1562|[Find Latest Group of Size M](./solutions/1562-find-latest-group-of-size-m.js)|Medium|
+1563|[Stone Game V](./solutions/1563-stone-game-v.js)|Hard|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](./solutions/1576-replace-all-s-to-avoid-consecutive-repeating-characters.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
