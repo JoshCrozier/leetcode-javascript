@@ -1,4 +1,4 @@
-# 1,394 LeetCode solutions in JavaScript
+# 1,395 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -966,6 +966,7 @@
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
 1262|[Greatest Sum Divisible by Three](./solutions/1262-greatest-sum-divisible-by-three.js)|Medium|
 1263|[Minimum Moves to Move a Box to Their Target Location](./solutions/1263-minimum-moves-to-move-a-box-to-their-target-location.js)|Hard|
+1266|[Minimum Time Visiting All Points](./solutions/1266-minimum-time-visiting-all-points.js)|Easy|
 1267|[Count Servers that Communicate](./solutions/1267-count-servers-that-communicate.js)|Medium|
 1268|[Search Suggestions System](./solutions/1268-search-suggestions-system.js)|Medium|
 1269|[Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.js)|Hard|
