@@ -1,4 +1,4 @@
-# 1,406 LeetCode solutions in JavaScript
+# 1,407 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1230,6 +1230,7 @@
 1590|[Make Sum Divisible by P](./solutions/1590-make-sum-divisible-by-p.js)|Medium|
 1591|[Strange Printer II](./solutions/1591-strange-printer-ii.js)|Hard|
 1592|[Rearrange Spaces Between Words](./solutions/1592-rearrange-spaces-between-words.js)|Easy|
+1593|[Split a String Into the Max Number of Unique Substrings](./solutions/1593-split-a-string-into-the-max-number-of-unique-substrings.js)|Medium|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
