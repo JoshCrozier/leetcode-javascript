@@ -1,4 +1,4 @@
-# 1,412 LeetCode solutions in JavaScript
+# 1,413 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1237,6 +1237,7 @@
 1599|[Maximum Profit of Operating a Centennial Wheel](./solutions/1599-maximum-profit-of-operating-a-centennial-wheel.js)|Medium|
 1600|[Throne Inheritance](./solutions/1600-throne-inheritance.js)|Medium|
 1601|[Maximum Number of Achievable Transfer Requests](./solutions/1601-maximum-number-of-achievable-transfer-requests.js)|Hard|
+1603|[Design Parking System](./solutions/1603-design-parking-system.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
