@@ -1,4 +1,4 @@
-# 1,409 LeetCode solutions in JavaScript
+# 1,410 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1234,6 +1234,7 @@
 1594|[Maximum Non Negative Product in a Matrix](./solutions/1594-maximum-non-negative-product-in-a-matrix.js)|Medium|
 1595|[Minimum Cost to Connect Two Groups of Points](./solutions/1595-minimum-cost-to-connect-two-groups-of-points.js)|Hard|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
+1599|[Maximum Profit of Operating a Centennial Wheel](./solutions/1599-maximum-profit-of-operating-a-centennial-wheel.js)|Medium|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
