@@ -1,4 +1,4 @@
-# 1,405 LeetCode solutions in JavaScript
+# 1,406 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1288,6 +1288,7 @@
 2129|[Capitalize the Title](./solutions/2129-capitalize-the-title.js)|Easy|
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
 2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
+2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
