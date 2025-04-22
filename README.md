@@ -1,4 +1,4 @@
-# 1,419 LeetCode solutions in JavaScript
+# 1,420 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1243,6 +1243,7 @@
 1608|[Special Array With X Elements Greater Than or Equal X](./solutions/1608-special-array-with-x-elements-greater-than-or-equal-x.js)|Easy|
 1609|[Even Odd Tree](./solutions/1609-even-odd-tree.js)|Medium|
 1610|[Maximum Number of Visible Points](./solutions/1610-maximum-number-of-visible-points.js)|Hard|
+1611|[Minimum One Bit Operations to Make Integers Zero](./solutions/1611-minimum-one-bit-operations-to-make-integers-zero.js)|Hard|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
