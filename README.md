@@ -1,4 +1,4 @@
-# 1,434 LeetCode solutions in JavaScript
+# 1,435 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1258,6 +1258,7 @@
 1627|[Graph Connectivity With Threshold](./solutions/1627-graph-connectivity-with-threshold.js)|Hard|
 1629|[Slowest Key](./solutions/1629-slowest-key.js)|Easy|
 1630|[Arithmetic Subarrays](./solutions/1630-arithmetic-subarrays.js)|Medium|
+1631|[Path With Minimum Effort](./solutions/1631-path-with-minimum-effort.js)|Medium|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
