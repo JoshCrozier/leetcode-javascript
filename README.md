@@ -1,4 +1,4 @@
-# 1,429 LeetCode solutions in JavaScript
+# 1,430 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1253,6 +1253,7 @@
 1621|[Number of Sets of K Non-Overlapping Line Segments](./solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.js)|Medium|
 1622|[Fancy Sequence](./solutions/1622-fancy-sequence.js)|Hard|
 1624|[Largest Substring Between Two Equal Characters](./solutions/1624-largest-substring-between-two-equal-characters.js)|Easy|
+1625|[Lexicographically Smallest String After Applying Operations](./solutions/1625-lexicographically-smallest-string-after-applying-operations.js)|Medium|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
