@@ -1,4 +1,4 @@
-# 1,423 LeetCode solutions in JavaScript
+# 1,424 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1247,6 +1247,7 @@
 1614|[Maximum Nesting Depth of the Parentheses](./solutions/1614-maximum-nesting-depth-of-the-parentheses.js)|Easy|
 1615|[Maximal Network Rank](./solutions/1615-maximal-network-rank.js)|Medium|
 1616|[Split Two Strings to Make Palindrome](./solutions/1616-split-two-strings-to-make-palindrome.js)|Medium|
+1617|[Count Subtrees With Max Distance Between Cities](./solutions/1617-count-subtrees-with-max-distance-between-cities.js)|Hard|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
