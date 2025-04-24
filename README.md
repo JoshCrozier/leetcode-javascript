@@ -1,4 +1,4 @@
-# 1,435 LeetCode solutions in JavaScript
+# 1,436 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1408,6 +1408,7 @@
 2726|[Calculator with Method Chaining](./solutions/2726-calculator-with-method-chaining.js)|Easy|
 2727|[Is Object Empty](./solutions/2727-is-object-empty.js)|Easy|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
+2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
