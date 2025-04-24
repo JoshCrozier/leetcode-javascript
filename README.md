@@ -1,4 +1,4 @@
-# 1,439 LeetCode solutions in JavaScript
+# 1,440 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1262,6 +1262,7 @@
 1632|[Rank Transform of a Matrix](./solutions/1632-rank-transform-of-a-matrix.js)|Hard|
 1636|[Sort Array by Increasing Frequency](./solutions/1636-sort-array-by-increasing-frequency.js)|Easy|
 1637|[Widest Vertical Area Between Two Points Containing No Points](./solutions/1637-widest-vertical-area-between-two-points-containing-no-points.js)|Easy|
+1638|[Count Substrings That Differ by One Character](./solutions/1638-count-substrings-that-differ-by-one-character.js)|Medium|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
