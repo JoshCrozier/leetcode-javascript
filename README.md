@@ -1,4 +1,4 @@
-# 1,442 LeetCode solutions in JavaScript
+# 1,443 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1265,6 +1265,7 @@
 1638|[Count Substrings That Differ by One Character](./solutions/1638-count-substrings-that-differ-by-one-character.js)|Medium|
 1639|[Number of Ways to Form a Target String Given a Dictionary](./solutions/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.js)|Hard|
 1640|[Check Array Formation Through Concatenation](./solutions/1640-check-array-formation-through-concatenation.js)|Easy|
+1641|[Count Sorted Vowel Strings](./solutions/1641-count-sorted-vowel-strings.js)|Medium|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
