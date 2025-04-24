@@ -1,4 +1,4 @@
-# 1,444 LeetCode solutions in JavaScript
+# 1,445 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1267,6 +1267,7 @@
 1640|[Check Array Formation Through Concatenation](./solutions/1640-check-array-formation-through-concatenation.js)|Easy|
 1641|[Count Sorted Vowel Strings](./solutions/1641-count-sorted-vowel-strings.js)|Medium|
 1642|[Furthest Building You Can Reach](./solutions/1642-furthest-building-you-can-reach.js)|Medium|
+1643|[Kth Smallest Instructions](./solutions/1643-kth-smallest-instructions.js)|Hard|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
