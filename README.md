@@ -1,4 +1,4 @@
-# 1,448 LeetCode solutions in JavaScript
+# 1,449 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1271,6 +1271,7 @@
 1646|[Get Maximum in Generated Array](./solutions/1646-get-maximum-in-generated-array.js)|Easy|
 1647|[Minimum Deletions to Make Character Frequencies Unique](./solutions/1647-minimum-deletions-to-make-character-frequencies-unique.js)|Medium|
 1648|[Sell Diminishing-Valued Colored Balls](./solutions/1648-sell-diminishing-valued-colored-balls.js)|Medium|
+1649|[Create Sorted Array through Instructions](./solutions/1649-create-sorted-array-through-instructions.js)|Hard|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
