@@ -1,4 +1,4 @@
-# 1,453 LeetCode solutions in JavaScript
+# 1,454 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1275,6 +1275,7 @@
 1652|[Defuse the Bomb](./solutions/1652-defuse-the-bomb.js)|Easy|
 1653|[Minimum Deletions to Make String Balanced](./solutions/1653-minimum-deletions-to-make-string-balanced.js)|Medium|
 1654|[Minimum Jumps to Reach Home](./solutions/1654-minimum-jumps-to-reach-home.js)|Medium|
+1655|[Distribute Repeating Integers](./solutions/1655-distribute-repeating-integers.js)|Hard|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
