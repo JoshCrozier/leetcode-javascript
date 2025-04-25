@@ -1,4 +1,4 @@
-# 1,457 LeetCode solutions in JavaScript
+# 1,458 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1280,6 +1280,7 @@
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1658|[Minimum Operations to Reduce X to Zero](./solutions/1658-minimum-operations-to-reduce-x-to-zero.js)|Medium|
 1659|[Maximize Grid Happiness](./solutions/1659-maximize-grid-happiness.js)|Hard|
+1662|[Check If Two String Arrays are Equivalent](./solutions/1662-check-if-two-string-arrays-are-equivalent.js)|Easy|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
 1672|[Richest Customer Wealth](./solutions/1672-richest-customer-wealth.js)|Easy|
