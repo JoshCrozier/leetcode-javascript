@@ -1,4 +1,4 @@
-# 1,455 LeetCode solutions in JavaScript
+# 1,456 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1278,6 +1278,7 @@
 1655|[Distribute Repeating Integers](./solutions/1655-distribute-repeating-integers.js)|Hard|
 1656|[Design an Ordered Stream](./solutions/1656-design-an-ordered-stream.js)|Easy|
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
+1658|[Minimum Operations to Reduce X to Zero](./solutions/1658-minimum-operations-to-reduce-x-to-zero.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
 1672|[Richest Customer Wealth](./solutions/1672-richest-customer-wealth.js)|Easy|
