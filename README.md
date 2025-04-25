@@ -1,4 +1,4 @@
-# 1,460 LeetCode solutions in JavaScript
+# 1,461 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1394,6 +1394,7 @@
 2621|[Sleep](./solutions/2621-sleep.js)|Easy|
 2622|[Cache With Time Limit](./solutions/2622-cache-with-time-limit.js)|Medium|
 2623|[Memoize](./solutions/2623-memoize.js)|Medium|
+2624|[Snail Traversal](./solutions/2624-snail-traversal.js)|Medium|
 2625|[Flatten Deeply Nested Array](./solutions/2625-flatten-deeply-nested-array.js)|Medium|
 2626|[Array Reduce Transformation](./solutions/2626-array-reduce-transformation.js)|Easy|
 2627|[Debounce](./solutions/2627-debounce.js)|Medium|
