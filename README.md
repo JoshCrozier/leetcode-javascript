@@ -1,4 +1,4 @@
-# 1,462 LeetCode solutions in JavaScript
+# 1,463 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1286,6 +1286,7 @@
 1665|[Minimum Initial Energy to Finish Tasks](./solutions/1665-minimum-initial-energy-to-finish-tasks.js)|Hard|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
+1670|[Design Front Middle Back Queue](./solutions/1670-design-front-middle-back-queue.js)|Medium|
 1672|[Richest Customer Wealth](./solutions/1672-richest-customer-wealth.js)|Easy|
 1679|[Max Number of K-Sum Pairs](./solutions/1679-max-number-of-k-sum-pairs.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
