@@ -1,4 +1,4 @@
-# 1,450 LeetCode solutions in JavaScript
+# 1,451 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1425,6 +1425,7 @@
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
+2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
