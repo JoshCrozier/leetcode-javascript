@@ -1,4 +1,4 @@
-# 1,471 LeetCode solutions in JavaScript
+# 1,472 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1296,6 +1296,7 @@
 1679|[Max Number of K-Sum Pairs](./solutions/1679-max-number-of-k-sum-pairs.js)|Medium|
 1680|[Concatenation of Consecutive Binary Numbers](./solutions/1680-concatenation-of-consecutive-binary-numbers.js)|Medium|
 1681|[Minimum Incompatibility](./solutions/1681-minimum-incompatibility.js)|Hard|
+1684|[Count the Number of Consistent Strings](./solutions/1684-count-the-number-of-consistent-strings.js)|Easy|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
