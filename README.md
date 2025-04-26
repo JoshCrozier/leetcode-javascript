@@ -1,4 +1,4 @@
-# 1,481 LeetCode solutions in JavaScript
+# 1,482 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1306,6 +1306,7 @@
 1690|[Stone Game VII](./solutions/1690-stone-game-vii.js)|Medium|
 1691|[Maximum Height by Stacking Cuboids](./solutions/1691-maximum-height-by-stacking-cuboids.js)|Hard|
 1694|[Reformat Phone Number](./solutions/1694-reformat-phone-number.js)|Easy|
+1695|[Maximum Erasure Value](./solutions/1695-maximum-erasure-value.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
