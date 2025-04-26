@@ -1,4 +1,4 @@
-# 1,476 LeetCode solutions in JavaScript
+# 1,477 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1301,6 +1301,7 @@
 1686|[Stone Game VI](./solutions/1686-stone-game-vi.js)|Medium|
 1687|[Delivering Boxes from Storage to Ports](./solutions/1687-delivering-boxes-from-storage-to-ports.js)|Hard|
 1688|[Count of Matches in Tournament](./solutions/1688-count-of-matches-in-tournament.js)|Easy|
+1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](./solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
