@@ -1,4 +1,4 @@
-# 1,465 LeetCode solutions in JavaScript
+# 1,466 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1372,6 +1372,7 @@
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
 2429|[Minimize XOR](./solutions/2429-minimize-xor.js)|Medium|
+2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
