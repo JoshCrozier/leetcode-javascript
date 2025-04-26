@@ -1,4 +1,4 @@
-# 1,483 LeetCode solutions in JavaScript
+# 1,484 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1308,6 +1308,7 @@
 1694|[Reformat Phone Number](./solutions/1694-reformat-phone-number.js)|Easy|
 1695|[Maximum Erasure Value](./solutions/1695-maximum-erasure-value.js)|Medium|
 1696|[Jump Game VI](./solutions/1696-jump-game-vi.js)|Medium|
+1697|[Checking Existence of Edge Length Limited Paths](./solutions/1697-checking-existence-of-edge-length-limited-paths.js)|Hard|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
