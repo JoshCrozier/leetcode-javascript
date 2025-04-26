@@ -1,4 +1,4 @@
-# 1,469 LeetCode solutions in JavaScript
+# 1,470 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1294,6 +1294,7 @@
 1675|[Minimize Deviation in Array](./solutions/1675-minimize-deviation-in-array.js)|Hard|
 1678|[Goal Parser Interpretation](./solutions/1678-goal-parser-interpretation.js)|Easy|
 1679|[Max Number of K-Sum Pairs](./solutions/1679-max-number-of-k-sum-pairs.js)|Medium|
+1680|[Concatenation of Consecutive Binary Numbers](./solutions/1680-concatenation-of-consecutive-binary-numbers.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
