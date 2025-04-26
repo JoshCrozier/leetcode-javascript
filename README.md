@@ -1,4 +1,4 @@
-# 1,475 LeetCode solutions in JavaScript
+# 1,476 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1300,6 +1300,7 @@
 1685|[Sum of Absolute Differences in a Sorted Array](./solutions/1685-sum-of-absolute-differences-in-a-sorted-array.js)|Medium|
 1686|[Stone Game VI](./solutions/1686-stone-game-vi.js)|Medium|
 1687|[Delivering Boxes from Storage to Ports](./solutions/1687-delivering-boxes-from-storage-to-ports.js)|Hard|
+1688|[Count of Matches in Tournament](./solutions/1688-count-of-matches-in-tournament.js)|Easy|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
