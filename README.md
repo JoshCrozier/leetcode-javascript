@@ -1,4 +1,4 @@
-# 1,466 LeetCode solutions in JavaScript
+# 1,467 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1290,6 +1290,7 @@
 1671|[Minimum Number of Removals to Make Mountain Array](./solutions/1671-minimum-number-of-removals-to-make-mountain-array.js)|Hard|
 1672|[Richest Customer Wealth](./solutions/1672-richest-customer-wealth.js)|Easy|
 1673|[Find the Most Competitive Subsequence](./solutions/1673-find-the-most-competitive-subsequence.js)|Medium|
+1674|[Minimum Moves to Make Array Complementary](./solutions/1674-minimum-moves-to-make-array-complementary.js)|Medium|
 1679|[Max Number of K-Sum Pairs](./solutions/1679-max-number-of-k-sum-pairs.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
