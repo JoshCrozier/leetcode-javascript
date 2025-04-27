@@ -1,4 +1,4 @@
-# 1,504 LeetCode solutions in JavaScript
+# 1,505 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1332,6 +1332,7 @@
 1725|[Number Of Rectangles That Can Form The Largest Square](./solutions/1725-number-of-rectangles-that-can-form-the-largest-square.js)|Easy|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
 1727|[Largest Submatrix With Rearrangements](./solutions/1727-largest-submatrix-with-rearrangements.js)|Medium|
+1728|[Cat and Mouse II](./solutions/1728-cat-and-mouse-ii.js)|Hard|
 1732|[Find the Highest Altitude](./solutions/1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
