@@ -1,4 +1,4 @@
-# 1,498 LeetCode solutions in JavaScript
+# 1,499 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1325,6 +1325,7 @@
 1717|[Maximum Score From Removing Substrings](./solutions/1717-maximum-score-from-removing-substrings.js)|Medium|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1719|[Number Of Ways To Reconstruct A Tree](./solutions/1719-number-of-ways-to-reconstruct-a-tree.js)|Hard|
+1720|[Decode XORed Array](./solutions/1720-decode-xored-array.js)|Easy|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
 1732|[Find the Highest Altitude](./solutions/1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
