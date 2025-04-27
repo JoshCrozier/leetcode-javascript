@@ -1,4 +1,4 @@
-# 1,488 LeetCode solutions in JavaScript
+# 1,489 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1313,6 +1313,7 @@
 1701|[Average Waiting Time](./solutions/1701-average-waiting-time.js)|Medium|
 1702|[Maximum Binary String After Change](./solutions/1702-maximum-binary-string-after-change.js)|Medium|
 1703|[Minimum Adjacent Swaps for K Consecutive Ones](./solutions/1703-minimum-adjacent-swaps-for-k-consecutive-ones.js)|Hard|
+1704|[Determine if String Halves Are Alike](./solutions/1704-determine-if-string-halves-are-alike.js)|Easy|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
