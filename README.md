@@ -1,4 +1,4 @@
-# 1,492 LeetCode solutions in JavaScript
+# 1,493 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1317,6 +1317,7 @@
 1705|[Maximum Number of Eaten Apples](./solutions/1705-maximum-number-of-eaten-apples.js)|Medium|
 1706|[Where Will the Ball Fall](./solutions/1706-where-will-the-ball-fall.js)|Medium|
 1707|[Maximum XOR With an Element From Array](./solutions/1707-maximum-xor-with-an-element-from-array.js)|Hard|
+1710|[Maximum Units on a Truck](./solutions/1710-maximum-units-on-a-truck.js)|Easy|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
