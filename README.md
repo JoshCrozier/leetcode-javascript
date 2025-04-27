@@ -1,4 +1,4 @@
-# 1,500 LeetCode solutions in JavaScript
+# 1,501 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1327,6 +1327,7 @@
 1719|[Number Of Ways To Reconstruct A Tree](./solutions/1719-number-of-ways-to-reconstruct-a-tree.js)|Hard|
 1720|[Decode XORed Array](./solutions/1720-decode-xored-array.js)|Easy|
 1721|[Swapping Nodes in a Linked List](./solutions/1721-swapping-nodes-in-a-linked-list.js)|Medium|
+1722|[Minimize Hamming Distance After Swap Operations](./solutions/1722-minimize-hamming-distance-after-swap-operations.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
 1732|[Find the Highest Altitude](./solutions/1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
