@@ -1,4 +1,4 @@
-# 1,485 LeetCode solutions in JavaScript
+# 1,486 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1310,6 +1310,7 @@
 1696|[Jump Game VI](./solutions/1696-jump-game-vi.js)|Medium|
 1697|[Checking Existence of Edge Length Limited Paths](./solutions/1697-checking-existence-of-edge-length-limited-paths.js)|Hard|
 1700|[Number of Students Unable to Eat Lunch](./solutions/1700-number-of-students-unable-to-eat-lunch.js)|Easy|
+1701|[Average Waiting Time](./solutions/1701-average-waiting-time.js)|Medium|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
