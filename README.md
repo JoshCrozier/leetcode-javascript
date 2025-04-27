@@ -1,4 +1,4 @@
-# 1,502 LeetCode solutions in JavaScript
+# 1,503 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1329,6 +1329,7 @@
 1721|[Swapping Nodes in a Linked List](./solutions/1721-swapping-nodes-in-a-linked-list.js)|Medium|
 1722|[Minimize Hamming Distance After Swap Operations](./solutions/1722-minimize-hamming-distance-after-swap-operations.js)|Medium|
 1723|[Find Minimum Time to Finish All Jobs](./solutions/1723-find-minimum-time-to-finish-all-jobs.js)|Hard|
+1725|[Number Of Rectangles That Can Form The Largest Square](./solutions/1725-number-of-rectangles-that-can-form-the-largest-square.js)|Easy|
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
 1732|[Find the Highest Altitude](./solutions/1732-find-the-highest-altitude.js)|Easy|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
