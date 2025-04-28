@@ -1,4 +1,4 @@
-# 1,506 LeetCode solutions in JavaScript
+# 1,507 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1334,6 +1334,7 @@
 1727|[Largest Submatrix With Rearrangements](./solutions/1727-largest-submatrix-with-rearrangements.js)|Medium|
 1728|[Cat and Mouse II](./solutions/1728-cat-and-mouse-ii.js)|Hard|
 1732|[Find the Highest Altitude](./solutions/1732-find-the-highest-altitude.js)|Easy|
+1733|[Minimum Number of People to Teach](./solutions/1733-minimum-number-of-people-to-teach.js)|Medium|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1752|[Check if Array Is Sorted and Rotated](./solutions/1752-check-if-array-is-sorted-and-rotated.js)|Easy|
