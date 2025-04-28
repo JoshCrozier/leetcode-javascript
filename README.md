@@ -1,4 +1,4 @@
-# 1,505 LeetCode solutions in JavaScript
+# 1,506 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1395,6 +1395,7 @@
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
+2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
