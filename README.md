@@ -1,4 +1,4 @@
-# 1,511 LeetCode solutions in JavaScript
+# 1,512 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1339,6 +1339,7 @@
 1735|[Count Ways to Make Array With Product](./solutions/1735-count-ways-to-make-array-with-product.js)|Hard|
 1736|[Latest Time by Replacing Hidden Digits](./solutions/1736-latest-time-by-replacing-hidden-digits.js)|Easy|
 1737|[Change Minimum Characters to Satisfy One of Three Conditions](./solutions/1737-change-minimum-characters-to-satisfy-one-of-three-conditions.js)|Medium|
+1738|[Find Kth Largest XOR Coordinate Value](./solutions/1738-find-kth-largest-xor-coordinate-value.js)|Medium|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1752|[Check if Array Is Sorted and Rotated](./solutions/1752-check-if-array-is-sorted-and-rotated.js)|Easy|
