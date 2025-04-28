@@ -1,4 +1,4 @@
-# 1,509 LeetCode solutions in JavaScript
+# 1,510 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1337,6 +1337,7 @@
 1733|[Minimum Number of People to Teach](./solutions/1733-minimum-number-of-people-to-teach.js)|Medium|
 1734|[Decode XORed Permutation](./solutions/1734-decode-xored-permutation.js)|Medium|
 1735|[Count Ways to Make Array With Product](./solutions/1735-count-ways-to-make-array-with-product.js)|Hard|
+1736|[Latest Time by Replacing Hidden Digits](./solutions/1736-latest-time-by-replacing-hidden-digits.js)|Easy|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1752|[Check if Array Is Sorted and Rotated](./solutions/1752-check-if-array-is-sorted-and-rotated.js)|Easy|
