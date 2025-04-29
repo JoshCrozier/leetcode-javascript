@@ -1,4 +1,4 @@
-# 1,517 LeetCode solutions in JavaScript
+# 1,518 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1344,6 +1344,7 @@
 1742|[Maximum Number of Balls in a Box](./solutions/1742-maximum-number-of-balls-in-a-box.js)|Easy|
 1743|[Restore the Array From Adjacent Pairs](./solutions/1743-restore-the-array-from-adjacent-pairs.js)|Medium|
 1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](./solutions/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.js)|Medium|
+1745|[Palindrome Partitioning IV](./solutions/1745-palindrome-partitioning-iv.js)|Hard|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1752|[Check if Array Is Sorted and Rotated](./solutions/1752-check-if-array-is-sorted-and-rotated.js)|Easy|
