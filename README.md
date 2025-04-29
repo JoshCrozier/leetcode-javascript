@@ -1,4 +1,4 @@
-# 1,525 LeetCode solutions in JavaScript
+# 1,526 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1355,6 +1355,7 @@
 1755|[Closest Subsequence Sum](./solutions/1755-closest-subsequence-sum.js)|Hard|
 1758|[Minimum Changes To Make Alternating Binary String](./solutions/1758-minimum-changes-to-make-alternating-binary-string.js)|Easy|
 1759|[Count Number of Homogenous Substrings](./solutions/1759-count-number-of-homogenous-substrings.js)|Medium|
+1760|[Minimum Limit of Balls in a Bag](./solutions/1760-minimum-limit-of-balls-in-a-bag.js)|Medium|
 1764|[Form Array by Concatenating Subarrays of Another Array](./solutions/1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./solutions/1765-map-of-highest-peak.js)|Medium|
 1768|[Merge Strings Alternately](./solutions/1768-merge-strings-alternately.js)|Easy|
