@@ -1,4 +1,4 @@
-# 1,522 LeetCode solutions in JavaScript
+# 1,523 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1352,6 +1352,7 @@
 1752|[Check if Array Is Sorted and Rotated](./solutions/1752-check-if-array-is-sorted-and-rotated.js)|Easy|
 1753|[Maximum Score From Removing Stones](./solutions/1753-maximum-score-from-removing-stones.js)|Medium|
 1754|[Largest Merge Of Two Strings](./solutions/1754-largest-merge-of-two-strings.js)|Medium|
+1755|[Closest Subsequence Sum](./solutions/1755-closest-subsequence-sum.js)|Hard|
 1764|[Form Array by Concatenating Subarrays of Another Array](./solutions/1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./solutions/1765-map-of-highest-peak.js)|Medium|
 1768|[Merge Strings Alternately](./solutions/1768-merge-strings-alternately.js)|Easy|
