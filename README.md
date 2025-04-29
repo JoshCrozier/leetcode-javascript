@@ -1,4 +1,4 @@
-# 1,528 LeetCode solutions in JavaScript
+# 1,529 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1360,6 +1360,7 @@
 1763|[Longest Nice Substring](./solutions/1763-longest-nice-substring.js)|Easy|
 1764|[Form Array by Concatenating Subarrays of Another Array](./solutions/1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./solutions/1765-map-of-highest-peak.js)|Medium|
+1766|[Tree of Coprimes](./solutions/1766-tree-of-coprimes.js)|Hard|
 1768|[Merge Strings Alternately](./solutions/1768-merge-strings-alternately.js)|Easy|
 1769|[Minimum Number of Operations to Move All Balls to Each Box](./solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.js)|Medium|
 1780|[Check if Number is a Sum of Powers of Three](./solutions/1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
