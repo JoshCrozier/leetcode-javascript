@@ -1,4 +1,4 @@
-# 1,519 LeetCode solutions in JavaScript
+# 1,520 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1348,6 +1348,7 @@
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1750|[Minimum Length of String After Deleting Similar Ends](./solutions/1750-minimum-length-of-string-after-deleting-similar-ends.js)|Medium|
+1751|[Maximum Number of Events That Can Be Attended II](./solutions/1751-maximum-number-of-events-that-can-be-attended-ii.js)|Hard|
 1752|[Check if Array Is Sorted and Rotated](./solutions/1752-check-if-array-is-sorted-and-rotated.js)|Easy|
 1764|[Form Array by Concatenating Subarrays of Another Array](./solutions/1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./solutions/1765-map-of-highest-peak.js)|Medium|
