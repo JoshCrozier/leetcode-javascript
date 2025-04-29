@@ -1,4 +1,4 @@
-# 1,527 LeetCode solutions in JavaScript
+# 1,528 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1357,6 +1357,7 @@
 1759|[Count Number of Homogenous Substrings](./solutions/1759-count-number-of-homogenous-substrings.js)|Medium|
 1760|[Minimum Limit of Balls in a Bag](./solutions/1760-minimum-limit-of-balls-in-a-bag.js)|Medium|
 1761|[Minimum Degree of a Connected Trio in a Graph](./solutions/1761-minimum-degree-of-a-connected-trio-in-a-graph.js)|Hard|
+1763|[Longest Nice Substring](./solutions/1763-longest-nice-substring.js)|Easy|
 1764|[Form Array by Concatenating Subarrays of Another Array](./solutions/1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./solutions/1765-map-of-highest-peak.js)|Medium|
 1768|[Merge Strings Alternately](./solutions/1768-merge-strings-alternately.js)|Easy|
