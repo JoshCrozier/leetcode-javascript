@@ -1,4 +1,4 @@
-# 1,540 LeetCode solutions in JavaScript
+# 1,541 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1375,6 +1375,7 @@
 1782|[Count Pairs Of Nodes](./solutions/1782-count-pairs-of-nodes.js)|Hard|
 1784|[Check if Binary String Has at Most One Segment of Ones](./solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones.js)|Easy|
 1785|[Minimum Elements to Add to Form a Given Sum](./solutions/1785-minimum-elements-to-add-to-form-a-given-sum.js)|Medium|
+1786|[Number of Restricted Paths From First to Last Node](./solutions/1786-number-of-restricted-paths-from-first-to-last-node.js)|Medium|
 1790|[Check if One String Swap Can Make Strings Equal](./solutions/1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./solutions/1791-find-center-of-star-graph.js)|Easy|
 1800|[Maximum Ascending Subarray Sum](./solutions/1800-maximum-ascending-subarray-sum.js)|Easy|
