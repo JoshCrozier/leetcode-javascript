@@ -1,4 +1,4 @@
-# 1,537 LeetCode solutions in JavaScript
+# 1,538 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1372,6 +1372,7 @@
 1779|[Find Nearest Point That Has the Same X or Y Coordinate](./solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./solutions/1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1781|[Sum of Beauty of All Substrings](./solutions/1781-sum-of-beauty-of-all-substrings.js)|Medium|
+1782|[Count Pairs Of Nodes](./solutions/1782-count-pairs-of-nodes.js)|Hard|
 1790|[Check if One String Swap Can Make Strings Equal](./solutions/1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./solutions/1791-find-center-of-star-graph.js)|Easy|
 1800|[Maximum Ascending Subarray Sum](./solutions/1800-maximum-ascending-subarray-sum.js)|Easy|
