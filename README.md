@@ -1,4 +1,4 @@
-# 1,530 LeetCode solutions in JavaScript
+# 1,531 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1364,6 +1364,7 @@
 1768|[Merge Strings Alternately](./solutions/1768-merge-strings-alternately.js)|Easy|
 1769|[Minimum Number of Operations to Move All Balls to Each Box](./solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.js)|Medium|
 1770|[Maximum Score from Performing Multiplication Operations](./solutions/1770-maximum-score-from-performing-multiplication-operations.js)|Hard|
+1771|[Maximize Palindrome Length From Subsequences](./solutions/1771-maximize-palindrome-length-from-subsequences.js)|Hard|
 1780|[Check if Number is a Sum of Powers of Three](./solutions/1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1790|[Check if One String Swap Can Make Strings Equal](./solutions/1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./solutions/1791-find-center-of-star-graph.js)|Easy|
