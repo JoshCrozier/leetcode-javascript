@@ -1,4 +1,4 @@
-# 1,558 LeetCode solutions in JavaScript
+# 1,559 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1396,6 +1396,7 @@
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1813|[Sentence Similarity III](./solutions/1813-sentence-similarity-iii.js)|Medium|
 1814|[Count Nice Pairs in an Array](./solutions/1814-count-nice-pairs-in-an-array.js)|Medium|
+1815|[Maximum Number of Groups Getting Fresh Donuts](./solutions/1815-maximum-number-of-groups-getting-fresh-donuts.js)|Hard|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
