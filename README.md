@@ -1,4 +1,4 @@
-# 1,571 LeetCode solutions in JavaScript
+# 1,572 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1412,6 +1412,7 @@
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
 1834|[Single-Threaded CPU](./solutions/1834-single-threaded-cpu.js)|Medium|
+1835|[Find XOR Sum of All Pairs Bitwise AND](./solutions/1835-find-xor-sum-of-all-pairs-bitwise-and.js)|Hard|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
