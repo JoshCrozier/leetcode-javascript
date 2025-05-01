@@ -1,4 +1,4 @@
-# 1,561 LeetCode solutions in JavaScript
+# 1,562 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1400,6 +1400,7 @@
 1816|[Truncate Sentence](./solutions/1816-truncate-sentence.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1818|[Minimum Absolute Sum Difference](./solutions/1818-minimum-absolute-sum-difference.js)|Medium|
+1819|[Number of Different Subsequences GCDs](./solutions/1819-number-of-different-subsequences-gcds.js)|Hard|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
