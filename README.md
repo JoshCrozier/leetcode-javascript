@@ -1,4 +1,4 @@
-# 1,581 LeetCode solutions in JavaScript
+# 1,582 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1422,6 +1422,7 @@
 1846|[Maximum Element After Decreasing and Rearranging](./solutions/1846-maximum-element-after-decreasing-and-rearranging.js)|Medium|
 1847|[Closest Room](./solutions/1847-closest-room.js)|Hard|
 1848|[Minimum Distance to the Target Element](./solutions/1848-minimum-distance-to-the-target-element.js)|Easy|
+1849|[Splitting a String Into Descending Consecutive Values](./solutions/1849-splitting-a-string-into-descending-consecutive-values.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
