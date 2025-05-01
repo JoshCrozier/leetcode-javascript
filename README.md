@@ -1,4 +1,4 @@
-# 1,568 LeetCode solutions in JavaScript
+# 1,569 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1407,6 +1407,7 @@
 1825|[Finding MK Average](./solutions/1825-finding-mk-average.js)|Hard|
 1827|[Minimum Operations to Make the Array Increasing](./solutions/1827-minimum-operations-to-make-the-array-increasing.js)|Easy|
 1828|[Queries on Number of Points Inside a Circle](./solutions/1828-queries-on-number-of-points-inside-a-circle.js)|Medium|
+1829|[Maximum XOR for Each Query](./solutions/1829-maximum-xor-for-each-query.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
