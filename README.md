@@ -1,4 +1,4 @@
-# 1,578 LeetCode solutions in JavaScript
+# 1,579 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1419,6 +1419,7 @@
 1840|[Maximum Building Height](./solutions/1840-maximum-building-height.js)|Hard|
 1844|[Replace All Digits with Characters](./solutions/1844-replace-all-digits-with-characters.js)|Easy|
 1845|[Seat Reservation Manager](./solutions/1845-seat-reservation-manager.js)|Medium|
+1846|[Maximum Element After Decreasing and Rearranging](./solutions/1846-maximum-element-after-decreasing-and-rearranging.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
