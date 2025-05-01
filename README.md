@@ -1,4 +1,4 @@
-# 1,546 LeetCode solutions in JavaScript
+# 1,547 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1382,6 +1382,7 @@
 1792|[Maximum Average Pass Ratio](./solutions/1792-maximum-average-pass-ratio.js)|Medium|
 1793|[Maximum Score of a Good Subarray](./solutions/1793-maximum-score-of-a-good-subarray.js)|Hard|
 1796|[Second Largest Digit in a String](./solutions/1796-second-largest-digit-in-a-string.js)|Easy|
+1797|[Design Authentication Manager](./solutions/1797-design-authentication-manager.js)|Medium|
 1800|[Maximum Ascending Subarray Sum](./solutions/1800-maximum-ascending-subarray-sum.js)|Easy|
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
