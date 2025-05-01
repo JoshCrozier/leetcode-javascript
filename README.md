@@ -1,4 +1,4 @@
-# 1,554 LeetCode solutions in JavaScript
+# 1,555 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1391,6 +1391,7 @@
 1803|[Count Pairs With XOR in a Range](./solutions/1803-count-pairs-with-xor-in-a-range.js)|Hard|
 1805|[Number of Different Integers in a String](./solutions/1805-number-of-different-integers-in-a-string.js)|Easy|
 1806|[Minimum Number of Operations to Reinitialize a Permutation](./solutions/1806-minimum-number-of-operations-to-reinitialize-a-permutation.js)|Medium|
+1807|[Evaluate the Bracket Pairs of a String](./solutions/1807-evaluate-the-bracket-pairs-of-a-string.js)|Medium|
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
