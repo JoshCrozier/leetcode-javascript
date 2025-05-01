@@ -1,4 +1,4 @@
-# 1,559 LeetCode solutions in JavaScript
+# 1,560 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1397,6 +1397,7 @@
 1813|[Sentence Similarity III](./solutions/1813-sentence-similarity-iii.js)|Medium|
 1814|[Count Nice Pairs in an Array](./solutions/1814-count-nice-pairs-in-an-array.js)|Medium|
 1815|[Maximum Number of Groups Getting Fresh Donuts](./solutions/1815-maximum-number-of-groups-getting-fresh-donuts.js)|Hard|
+1816|[Truncate Sentence](./solutions/1816-truncate-sentence.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
