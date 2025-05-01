@@ -1,4 +1,4 @@
-# 1,543 LeetCode solutions in JavaScript
+# 1,544 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1380,6 +1380,7 @@
 1790|[Check if One String Swap Can Make Strings Equal](./solutions/1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./solutions/1791-find-center-of-star-graph.js)|Easy|
 1792|[Maximum Average Pass Ratio](./solutions/1792-maximum-average-pass-ratio.js)|Medium|
+1793|[Maximum Score of a Good Subarray](./solutions/1793-maximum-score-of-a-good-subarray.js)|Hard|
 1800|[Maximum Ascending Subarray Sum](./solutions/1800-maximum-ascending-subarray-sum.js)|Easy|
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
