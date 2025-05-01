@@ -1,4 +1,4 @@
-# 1,565 LeetCode solutions in JavaScript
+# 1,566 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1404,6 +1404,7 @@
 1822|[Sign of the Product of an Array](./solutions/1822-sign-of-the-product-of-an-array.js)|Easy|
 1823|[Find the Winner of the Circular Game](./solutions/1823-find-the-winner-of-the-circular-game.js)|Medium|
 1824|[Minimum Sideway Jumps](./solutions/1824-minimum-sideway-jumps.js)|Medium|
+1825|[Finding MK Average](./solutions/1825-finding-mk-average.js)|Hard|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
