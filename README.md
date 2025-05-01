@@ -1,4 +1,4 @@
-# 1,549 LeetCode solutions in JavaScript
+# 1,550 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1386,6 +1386,7 @@
 1798|[Maximum Number of Consecutive Values You Can Make](./solutions/1798-maximum-number-of-consecutive-values-you-can-make.js)|Medium|
 1799|[Maximize Score After N Operations](./solutions/1799-maximize-score-after-n-operations.js)|Hard|
 1800|[Maximum Ascending Subarray Sum](./solutions/1800-maximum-ascending-subarray-sum.js)|Easy|
+1801|[Number of Orders in the Backlog](./solutions/1801-number-of-orders-in-the-backlog.js)|Medium|
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
