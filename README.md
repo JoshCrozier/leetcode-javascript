@@ -1,4 +1,4 @@
-# 1,551 LeetCode solutions in JavaScript
+# 1,552 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1388,6 +1388,7 @@
 1800|[Maximum Ascending Subarray Sum](./solutions/1800-maximum-ascending-subarray-sum.js)|Easy|
 1801|[Number of Orders in the Backlog](./solutions/1801-number-of-orders-in-the-backlog.js)|Medium|
 1802|[Maximum Value at a Given Index in a Bounded Array](./solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array.js)|Medium|
+1803|[Count Pairs With XOR in a Range](./solutions/1803-count-pairs-with-xor-in-a-range.js)|Hard|
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1832|[Check if the Sentence Is Pangram](./solutions/1832-check-if-the-sentence-is-pangram.js)|Easy|
