@@ -1,4 +1,4 @@
-# 1,545 LeetCode solutions in JavaScript
+# 1,546 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1410,6 +1410,7 @@
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
+2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
