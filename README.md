@@ -1,4 +1,4 @@
-# 1,574 LeetCode solutions in JavaScript
+# 1,575 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1415,6 +1415,7 @@
 1835|[Find XOR Sum of All Pairs Bitwise AND](./solutions/1835-find-xor-sum-of-all-pairs-bitwise-and.js)|Hard|
 1837|[Sum of Digits in Base K](./solutions/1837-sum-of-digits-in-base-k.js)|Easy|
 1838|[Frequency of the Most Frequent Element](./solutions/1838-frequency-of-the-most-frequent-element.js)|Medium|
+1839|[Longest Substring Of All Vowels in Order](./solutions/1839-longest-substring-of-all-vowels-in-order.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
