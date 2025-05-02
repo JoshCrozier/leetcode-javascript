@@ -1,4 +1,4 @@
-# 1,603 LeetCode solutions in JavaScript
+# 1,604 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1446,6 +1446,7 @@
 1878|[Get Biggest Three Rhombus Sums in a Grid](./solutions/1878-get-biggest-three-rhombus-sums-in-a-grid.js)|Medium|
 1879|[Minimum XOR Sum of Two Arrays](./solutions/1879-minimum-xor-sum-of-two-arrays.js)|Hard|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
+1881|[Maximum Value after Insertion](./solutions/1881-maximum-value-after-insertion.js)|Medium|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
