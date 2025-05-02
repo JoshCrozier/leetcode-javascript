@@ -1,4 +1,4 @@
-# 1,618 LeetCode solutions in JavaScript
+# 1,619 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1462,6 +1462,7 @@
 1898|[Maximum Number of Removable Characters](./solutions/1898-maximum-number-of-removable-characters.js)|Medium|
 1899|[Merge Triplets to Form Target Triplet](./solutions/1899-merge-triplets-to-form-target-triplet.js)|Medium|
 1900|[The Earliest and Latest Rounds Where Players Compete](./solutions/1900-the-earliest-and-latest-rounds-where-players-compete.js)|Hard|
+1901|[Find a Peak Element II](./solutions/1901-find-a-peak-element-ii.js)|Medium|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
