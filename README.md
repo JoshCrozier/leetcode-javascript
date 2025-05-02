@@ -1,4 +1,4 @@
-# 1,594 LeetCode solutions in JavaScript
+# 1,595 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1436,6 +1436,7 @@
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1864|[Minimum Number of Swaps to Make the Binary String Alternating](./solutions/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.js)|Medium|
 1865|[Finding Pairs With a Certain Sum](./solutions/1865-finding-pairs-with-a-certain-sum.js)|Medium|
+1866|[Number of Ways to Rearrange Sticks With K Sticks Visible](./solutions/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.js)|Hard|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
