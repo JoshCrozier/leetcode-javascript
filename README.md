@@ -1,4 +1,4 @@
-# 1,588 LeetCode solutions in JavaScript
+# 1,589 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1429,6 +1429,7 @@
 1855|[Maximum Distance Between a Pair of Values](./solutions/1855-maximum-distance-between-a-pair-of-values.js)|Medium|
 1856|[Maximum Subarray Min-Product](./solutions/1856-maximum-subarray-min-product.js)|Medium|
 1857|[Largest Color Value in a Directed Graph](./solutions/1857-largest-color-value-in-a-directed-graph.js)|Hard|
+1859|[Sorting the Sentence](./solutions/1859-sorting-the-sentence.js)|Easy|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
