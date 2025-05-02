@@ -1,4 +1,4 @@
-# 1,611 LeetCode solutions in JavaScript
+# 1,612 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1455,6 +1455,7 @@
 1888|[Minimum Number of Flips to Make the Binary String Alternating](./solutions/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.js)|Medium|
 1889|[Minimum Space Wasted From Packaging](./solutions/1889-minimum-space-wasted-from-packaging.js)|Hard|
 1893|[Check if All the Integers in a Range Are Covered](./solutions/1893-check-if-all-the-integers-in-a-range-are-covered.js)|Easy|
+1894|[Find the Student that Will Replace the Chalk](./solutions/1894-find-the-student-that-will-replace-the-chalk.js)|Medium|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
