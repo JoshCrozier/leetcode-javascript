@@ -1,4 +1,4 @@
-# 1,606 LeetCode solutions in JavaScript
+# 1,607 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1449,6 +1449,7 @@
 1881|[Maximum Value after Insertion](./solutions/1881-maximum-value-after-insertion.js)|Medium|
 1882|[Process Tasks Using Servers](./solutions/1882-process-tasks-using-servers.js)|Medium|
 1883|[Minimum Skips to Arrive at Meeting On Time](./solutions/1883-minimum-skips-to-arrive-at-meeting-on-time.js)|Hard|
+1884|[Egg Drop With 2 Eggs and N Floors](./solutions/1884-egg-drop-with-2-eggs-and-n-floors.js)|Medium|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
