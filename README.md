@@ -1,4 +1,4 @@
-# 1,608 LeetCode solutions in JavaScript
+# 1,609 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1452,6 +1452,7 @@
 1884|[Egg Drop With 2 Eggs and N Floors](./solutions/1884-egg-drop-with-2-eggs-and-n-floors.js)|Medium|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1887|[Reduction Operations to Make the Array Elements Equal](./solutions/1887-reduction-operations-to-make-the-array-elements-equal.js)|Medium|
+1888|[Minimum Number of Flips to Make the Binary String Alternating](./solutions/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.js)|Medium|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
