@@ -1,4 +1,4 @@
-# 1,601 LeetCode solutions in JavaScript
+# 1,602 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1443,6 +1443,7 @@
 1872|[Stone Game VIII](./solutions/1872-stone-game-viii.js)|Hard|
 1876|[Substrings of Size Three with Distinct Characters](./solutions/1876-substrings-of-size-three-with-distinct-characters.js)|Easy|
 1877|[Minimize Maximum Pair Sum in Array](./solutions/1877-minimize-maximum-pair-sum-in-array.js)|Medium|
+1878|[Get Biggest Three Rhombus Sums in a Grid](./solutions/1878-get-biggest-three-rhombus-sums-in-a-grid.js)|Medium|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
