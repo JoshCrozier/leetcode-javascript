@@ -1,4 +1,4 @@
-# 1,613 LeetCode solutions in JavaScript
+# 1,614 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1457,6 +1457,7 @@
 1893|[Check if All the Integers in a Range Are Covered](./solutions/1893-check-if-all-the-integers-in-a-range-are-covered.js)|Easy|
 1894|[Find the Student that Will Replace the Chalk](./solutions/1894-find-the-student-that-will-replace-the-chalk.js)|Medium|
 1895|[Largest Magic Square](./solutions/1895-largest-magic-square.js)|Medium|
+1896|[Minimum Cost to Change the Final Value of Expression](./solutions/1896-minimum-cost-to-change-the-final-value-of-expression.js)|Hard|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
