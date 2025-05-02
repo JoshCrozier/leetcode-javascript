@@ -1,4 +1,4 @@
-# 1,598 LeetCode solutions in JavaScript
+# 1,599 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1440,6 +1440,7 @@
 1869|[Longer Contiguous Segments of Ones than Zeros](./solutions/1869-longer-contiguous-segments-of-ones-than-zeros.js)|Easy|
 1870|[Minimum Speed to Arrive on Time](./solutions/1870-minimum-speed-to-arrive-on-time.js)|Medium|
 1871|[Jump Game VII](./solutions/1871-jump-game-vii.js)|Medium|
+1872|[Stone Game VIII](./solutions/1872-stone-game-viii.js)|Hard|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
