@@ -1,4 +1,4 @@
-# 1,585 LeetCode solutions in JavaScript
+# 1,586 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1426,6 +1426,7 @@
 1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](./solutions/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.js)|Medium|
 1851|[Minimum Interval to Include Each Query](./solutions/1851-minimum-interval-to-include-each-query.js)|Hard|
 1854|[Maximum Population Year](./solutions/1854-maximum-population-year.js)|Easy|
+1855|[Maximum Distance Between a Pair of Values](./solutions/1855-maximum-distance-between-a-pair-of-values.js)|Medium|
 1863|[Sum of All Subset XOR Totals](./solutions/1863-sum-of-all-subset-xor-totals.js)|Easy|
 1880|[Check if Word Equals Summation of Two Words](./solutions/1880-check-if-word-equals-summation-of-two-words.js)|Easy|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
