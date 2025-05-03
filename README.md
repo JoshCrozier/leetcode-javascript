@@ -1,4 +1,4 @@
-# 1,627 LeetCode solutions in JavaScript
+# 1,628 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1472,6 +1472,7 @@
 1911|[Maximum Alternating Subsequence Sum](./solutions/1911-maximum-alternating-subsequence-sum.js)|Medium|
 1912|[Design Movie Rental System](./solutions/1912-design-movie-rental-system.js)|Hard|
 1913|[Maximum Product Difference Between Two Pairs](./solutions/1913-maximum-product-difference-between-two-pairs.js)|Easy|
+1914|[Cyclically Rotating a Grid](./solutions/1914-cyclically-rotating-a-grid.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
 1926|[Nearest Exit from Entrance in Maze](./solutions/1926-nearest-exit-from-entrance-in-maze.js)|Medium|
