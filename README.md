@@ -1,4 +1,4 @@
-# 1,633 LeetCode solutions in JavaScript
+# 1,634 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1481,6 +1481,7 @@
 1923|[Longest Common Subpath](./solutions/1923-longest-common-subpath.js)|Hard|
 1925|[Count Square Sum Triples](./solutions/1925-count-square-sum-triples.js)|Easy|
 1926|[Nearest Exit from Entrance in Maze](./solutions/1926-nearest-exit-from-entrance-in-maze.js)|Medium|
+1927|[Sum Game](./solutions/1927-sum-game.js)|Medium|
 1929|[Concatenation of Array](./solutions/1929-concatenation-of-array.js)|Easy|
 1930|[Unique Length-3 Palindromic Subsequences](./solutions/1930-unique-length-3-palindromic-subsequences.js)|Medium|
 1935|[Maximum Number of Words You Can Type](./solutions/1935-maximum-number-of-words-you-can-type.js)|Easy|
