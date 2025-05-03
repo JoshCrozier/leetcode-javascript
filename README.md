@@ -1,4 +1,4 @@
-# 1,624 LeetCode solutions in JavaScript
+# 1,625 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1469,6 +1469,7 @@
 1906|[Minimum Absolute Difference Queries](./solutions/1906-minimum-absolute-difference-queries.js)|Medium|
 1909|[Remove One Element to Make the Array Strictly Increasing](./solutions/1909-remove-one-element-to-make-the-array-strictly-increasing.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
+1911|[Maximum Alternating Subsequence Sum](./solutions/1911-maximum-alternating-subsequence-sum.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
 1926|[Nearest Exit from Entrance in Maze](./solutions/1926-nearest-exit-from-entrance-in-maze.js)|Medium|
