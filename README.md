@@ -1,4 +1,4 @@
-# 1,635 LeetCode solutions in JavaScript
+# 1,636 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1485,6 +1485,7 @@
 1928|[Minimum Cost to Reach Destination in Time](./solutions/1928-minimum-cost-to-reach-destination-in-time.js)|Hard|
 1929|[Concatenation of Array](./solutions/1929-concatenation-of-array.js)|Easy|
 1930|[Unique Length-3 Palindromic Subsequences](./solutions/1930-unique-length-3-palindromic-subsequences.js)|Medium|
+1931|[Painting a Grid With Three Different Colors](./solutions/1931-painting-a-grid-with-three-different-colors.js)|Hard|
 1935|[Maximum Number of Words You Can Type](./solutions/1935-maximum-number-of-words-you-can-type.js)|Easy|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
