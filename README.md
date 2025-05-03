@@ -1,4 +1,4 @@
-# 1,639 LeetCode solutions in JavaScript
+# 1,640 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1490,6 +1490,7 @@
 1935|[Maximum Number of Words You Can Type](./solutions/1935-maximum-number-of-words-you-can-type.js)|Easy|
 1936|[Add Minimum Number of Rungs](./solutions/1936-add-minimum-number-of-rungs.js)|Medium|
 1937|[Maximum Number of Points with Cost](./solutions/1937-maximum-number-of-points-with-cost.js)|Medium|
+1938|[Maximum Genetic Difference Query](./solutions/1938-maximum-genetic-difference-query.js)|Hard|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
