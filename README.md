@@ -1,4 +1,4 @@
-# 1,631 LeetCode solutions in JavaScript
+# 1,632 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1478,6 +1478,7 @@
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1921|[Eliminate Maximum Number of Monsters](./solutions/1921-eliminate-maximum-number-of-monsters.js)|Medium|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
+1923|[Longest Common Subpath](./solutions/1923-longest-common-subpath.js)|Hard|
 1926|[Nearest Exit from Entrance in Maze](./solutions/1926-nearest-exit-from-entrance-in-maze.js)|Medium|
 1929|[Concatenation of Array](./solutions/1929-concatenation-of-array.js)|Easy|
 1930|[Unique Length-3 Palindromic Subsequences](./solutions/1930-unique-length-3-palindromic-subsequences.js)|Medium|
