@@ -1,4 +1,4 @@
-# 1,647 LeetCode solutions in JavaScript
+# 1,648 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1498,6 +1498,7 @@
 1946|[Largest Number After Mutating Substring](./solutions/1946-largest-number-after-mutating-substring.js)|Medium|
 1947|[Maximum Compatibility Score Sum](./solutions/1947-maximum-compatibility-score-sum.js)|Medium|
 1948|[Delete Duplicate Folders in System](./solutions/1948-delete-duplicate-folders-in-system.js)|Hard|
+1952|[Three Divisors](./solutions/1952-three-divisors.js)|Easy|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
