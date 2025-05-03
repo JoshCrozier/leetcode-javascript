@@ -1,4 +1,4 @@
-# 1,641 LeetCode solutions in JavaScript
+# 1,642 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1492,6 +1492,7 @@
 1937|[Maximum Number of Points with Cost](./solutions/1937-maximum-number-of-points-with-cost.js)|Medium|
 1938|[Maximum Genetic Difference Query](./solutions/1938-maximum-genetic-difference-query.js)|Hard|
 1941|[Check if All Characters Have Equal Number of Occurrences](./solutions/1941-check-if-all-characters-have-equal-number-of-occurrences.js)|Easy|
+1943|[Describe the Painting](./solutions/1943-describe-the-painting.js)|Medium|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
