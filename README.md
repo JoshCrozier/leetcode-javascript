@@ -1,4 +1,4 @@
-# 1,643 LeetCode solutions in JavaScript
+# 1,644 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1494,6 +1494,7 @@
 1941|[Check if All Characters Have Equal Number of Occurrences](./solutions/1941-check-if-all-characters-have-equal-number-of-occurrences.js)|Easy|
 1943|[Describe the Painting](./solutions/1943-describe-the-painting.js)|Medium|
 1944|[Number of Visible People in a Queue](./solutions/1944-number-of-visible-people-in-a-queue.js)|Hard|
+1945|[Sum of Digits of String After Convert](./solutions/1945-sum-of-digits-of-string-after-convert.js)|Easy|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
