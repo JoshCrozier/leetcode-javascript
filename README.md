@@ -1,4 +1,4 @@
-# 1,677 LeetCode solutions in JavaScript
+# 1,678 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1532,6 +1532,7 @@
 1994|[The Number of Good Subsets](./solutions/1994-the-number-of-good-subsets.js)|Hard|
 1995|[Count Special Quadruplets](./solutions/1995-count-special-quadruplets.js)|Easy|
 1996|[The Number of Weak Characters in the Game](./solutions/1996-the-number-of-weak-characters-in-the-game.js)|Medium|
+1997|[First Day Where You Have Been in All the Rooms](./solutions/1997-first-day-where-you-have-been-in-all-the-rooms.js)|Medium|
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
