@@ -1,4 +1,4 @@
-# 1,674 LeetCode solutions in JavaScript
+# 1,675 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1528,6 +1528,7 @@
 1987|[Number of Unique Good Subsequences](./solutions/1987-number-of-unique-good-subsequences.js)|Hard|
 1991|[Find the Middle Index in Array](./solutions/1991-find-the-middle-index-in-array.js)|Easy|
 1992|[Find All Groups of Farmland](./solutions/1992-find-all-groups-of-farmland.js)|Medium|
+1993|[Operations on Tree](./solutions/1993-operations-on-tree.js)|Medium|
 1996|[The Number of Weak Characters in the Game](./solutions/1996-the-number-of-weak-characters-in-the-game.js)|Medium|
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
