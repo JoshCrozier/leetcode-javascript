@@ -1,4 +1,4 @@
-# 1,665 LeetCode solutions in JavaScript
+# 1,666 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1517,6 +1517,7 @@
 1974|[Minimum Time to Type Word Using Special Typewriter](./solutions/1974-minimum-time-to-type-word-using-special-typewriter.js)|Easy|
 1975|[Maximum Matrix Sum](./solutions/1975-maximum-matrix-sum.js)|Medium|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
+1977|[Number of Ways to Separate Numbers](./solutions/1977-number-of-ways-to-separate-numbers.js)|Hard|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
 1996|[The Number of Weak Characters in the Game](./solutions/1996-the-number-of-weak-characters-in-the-game.js)|Medium|
