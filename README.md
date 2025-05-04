@@ -1,4 +1,4 @@
-# 1,659 LeetCode solutions in JavaScript
+# 1,660 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1510,6 +1510,7 @@
 1963|[Minimum Number of Swaps to Make the String Balanced](./solutions/1963-minimum-number-of-swaps-to-make-the-string-balanced.js)|Medium|
 1964|[Find the Longest Valid Obstacle Course at Each Position](./solutions/1964-find-the-longest-valid-obstacle-course-at-each-position.js)|Hard|
 1967|[Number of Strings That Appear as Substrings in Word](./solutions/1967-number-of-strings-that-appear-as-substrings-in-word.js)|Easy|
+1968|[Array With Elements Not Equal to Average of Neighbors](./solutions/1968-array-with-elements-not-equal-to-average-of-neighbors.js)|Medium|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
