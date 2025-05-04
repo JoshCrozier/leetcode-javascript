@@ -1,4 +1,4 @@
-# 1,678 LeetCode solutions in JavaScript
+# 1,679 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1533,6 +1533,7 @@
 1995|[Count Special Quadruplets](./solutions/1995-count-special-quadruplets.js)|Easy|
 1996|[The Number of Weak Characters in the Game](./solutions/1996-the-number-of-weak-characters-in-the-game.js)|Medium|
 1997|[First Day Where You Have Been in All the Rooms](./solutions/1997-first-day-where-you-have-been-in-all-the-rooms.js)|Medium|
+1998|[GCD Sort of an Array](./solutions/1998-gcd-sort-of-an-array.js)|Hard|
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
