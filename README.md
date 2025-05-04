@@ -1,4 +1,4 @@
-# 1,652 LeetCode solutions in JavaScript
+# 1,653 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1503,6 +1503,7 @@
 1954|[Minimum Garden Perimeter to Collect Enough Apples](./solutions/1954-minimum-garden-perimeter-to-collect-enough-apples.js)|Medium|
 1955|[Count Number of Special Subsequences](./solutions/1955-count-number-of-special-subsequences.js)|Hard|
 1957|[Delete Characters to Make Fancy String](./solutions/1957-delete-characters-to-make-fancy-string.js)|Easy|
+1958|[Check if Move is Legal](./solutions/1958-check-if-move-is-legal.js)|Medium|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
