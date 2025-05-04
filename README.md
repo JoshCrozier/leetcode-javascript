@@ -1,4 +1,4 @@
-# 1,662 LeetCode solutions in JavaScript
+# 1,663 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1513,6 +1513,7 @@
 1968|[Array With Elements Not Equal to Average of Neighbors](./solutions/1968-array-with-elements-not-equal-to-average-of-neighbors.js)|Medium|
 1969|[Minimum Non-Zero Product of the Array Elements](./solutions/1969-minimum-non-zero-product-of-the-array-elements.js)|Medium|
 1970|[Last Day Where You Can Still Cross](./solutions/1970-last-day-where-you-can-still-cross.js)|Hard|
+1971|[Find if Path Exists in Graph](./solutions/1971-find-if-path-exists-in-graph.js)|Easy|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
