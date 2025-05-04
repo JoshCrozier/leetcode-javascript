@@ -1,4 +1,4 @@
-# 1,679 LeetCode solutions in JavaScript
+# 1,680 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1535,6 +1535,7 @@
 1997|[First Day Where You Have Been in All the Rooms](./solutions/1997-first-day-where-you-have-been-in-all-the-rooms.js)|Medium|
 1998|[GCD Sort of an Array](./solutions/1998-gcd-sort-of-an-array.js)|Hard|
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
+2001|[Number of Pairs of Interchangeable Rectangles](./solutions/2001-number-of-pairs-of-interchangeable-rectangles.js)|Medium|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
