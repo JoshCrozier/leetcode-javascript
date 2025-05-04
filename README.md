@@ -1,4 +1,4 @@
-# 1,672 LeetCode solutions in JavaScript
+# 1,673 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1526,6 +1526,7 @@
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
 1986|[Minimum Number of Work Sessions to Finish the Tasks](./solutions/1986-minimum-number-of-work-sessions-to-finish-the-tasks.js)|Medium|
 1987|[Number of Unique Good Subsequences](./solutions/1987-number-of-unique-good-subsequences.js)|Hard|
+1991|[Find the Middle Index in Array](./solutions/1991-find-the-middle-index-in-array.js)|Easy|
 1996|[The Number of Weak Characters in the Game](./solutions/1996-the-number-of-weak-characters-in-the-game.js)|Medium|
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
