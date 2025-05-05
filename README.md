@@ -1,4 +1,4 @@
-# 1,686 LeetCode solutions in JavaScript
+# 1,687 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1543,6 +1543,7 @@
 2008|[Maximum Earnings From Taxi](./solutions/2008-maximum-earnings-from-taxi.js)|Medium|
 2009|[Minimum Number of Operations to Make Array Continuous](./solutions/2009-minimum-number-of-operations-to-make-array-continuous.js)|Hard|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
+2012|[Sum of Beauty in the Array](./solutions/2012-sum-of-beauty-in-the-array.js)|Medium|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
 2027|[Minimum Moves to Convert String](./solutions/2027-minimum-moves-to-convert-string.js)|Easy|
