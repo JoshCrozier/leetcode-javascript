@@ -1,4 +1,4 @@
-# 1,683 LeetCode solutions in JavaScript
+# 1,684 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1539,6 +1539,7 @@
 2002|[Maximum Product of the Length of Two Palindromic Subsequences](./solutions/2002-maximum-product-of-the-length-of-two-palindromic-subsequences.js)|Medium|
 2003|[Smallest Missing Genetic Value in Each Subtree](./solutions/2003-smallest-missing-genetic-value-in-each-subtree.js)|Hard|
 2006|[Count Number of Pairs With Absolute Difference K](./solutions/2006-count-number-of-pairs-with-absolute-difference-k.js)|Easy|
+2007|[Find Original Array From Doubled Array](./solutions/2007-find-original-array-from-doubled-array.js)|Medium|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
