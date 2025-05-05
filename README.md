@@ -1,4 +1,4 @@
-# 1,685 LeetCode solutions in JavaScript
+# 1,686 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1541,6 +1541,7 @@
 2006|[Count Number of Pairs With Absolute Difference K](./solutions/2006-count-number-of-pairs-with-absolute-difference-k.js)|Easy|
 2007|[Find Original Array From Doubled Array](./solutions/2007-find-original-array-from-doubled-array.js)|Medium|
 2008|[Maximum Earnings From Taxi](./solutions/2008-maximum-earnings-from-taxi.js)|Medium|
+2009|[Minimum Number of Operations to Make Array Continuous](./solutions/2009-minimum-number-of-operations-to-make-array-continuous.js)|Hard|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
