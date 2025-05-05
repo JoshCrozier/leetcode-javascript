@@ -1,4 +1,4 @@
-# 1,681 LeetCode solutions in JavaScript
+# 1,682 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1537,6 +1537,7 @@
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
 2001|[Number of Pairs of Interchangeable Rectangles](./solutions/2001-number-of-pairs-of-interchangeable-rectangles.js)|Medium|
 2002|[Maximum Product of the Length of Two Palindromic Subsequences](./solutions/2002-maximum-product-of-the-length-of-two-palindromic-subsequences.js)|Medium|
+2003|[Smallest Missing Genetic Value in Each Subtree](./solutions/2003-smallest-missing-genetic-value-in-each-subtree.js)|Hard|
 2011|[Final Value of Variable After Performing Operations](./solutions/2011-final-value-of-variable-after-performing-operations.js)|Easy|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
