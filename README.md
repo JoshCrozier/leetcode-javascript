@@ -1,4 +1,4 @@
-# 1,689 LeetCode solutions in JavaScript
+# 1,690 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1548,6 +1548,7 @@
 2014|[Longest Subsequence Repeated k Times](./solutions/2014-longest-subsequence-repeated-k-times.js)|Hard|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
+2018|[Check if Word Can Be Placed In Crossword](./solutions/2018-check-if-word-can-be-placed-in-crossword.js)|Medium|
 2027|[Minimum Moves to Convert String](./solutions/2027-minimum-moves-to-convert-string.js)|Easy|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
