@@ -1,4 +1,4 @@
-# 1,691 LeetCode solutions in JavaScript
+# 1,692 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1550,6 +1550,7 @@
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
 2018|[Check if Word Can Be Placed In Crossword](./solutions/2018-check-if-word-can-be-placed-in-crossword.js)|Medium|
 2019|[The Score of Students Solving Math Expression](./solutions/2019-the-score-of-students-solving-math-expression.js)|Hard|
+2022|[Convert 1D Array Into 2D Array](./solutions/2022-convert-1d-array-into-2d-array.js)|Easy|
 2027|[Minimum Moves to Convert String](./solutions/2027-minimum-moves-to-convert-string.js)|Easy|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
