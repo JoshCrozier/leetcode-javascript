@@ -1,4 +1,4 @@
-# 1,697 LeetCode solutions in JavaScript
+# 1,698 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1557,6 +1557,7 @@
 2027|[Minimum Moves to Convert String](./solutions/2027-minimum-moves-to-convert-string.js)|Easy|
 2028|[Find Missing Observations](./solutions/2028-find-missing-observations.js)|Medium|
 2029|[Stone Game IX](./solutions/2029-stone-game-ix.js)|Medium|
+2030|[Smallest K-Length Subsequence With Occurrences of a Letter](./solutions/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.js)|Hard|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
