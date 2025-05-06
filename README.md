@@ -1,4 +1,4 @@
-# 1,695 LeetCode solutions in JavaScript
+# 1,696 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1555,6 +1555,7 @@
 2024|[Maximize the Confusion of an Exam](./solutions/2024-maximize-the-confusion-of-an-exam.js)|Medium|
 2025|[Maximum Number of Ways to Partition an Array](./solutions/2025-maximum-number-of-ways-to-partition-an-array.js)|Hard|
 2027|[Minimum Moves to Convert String](./solutions/2027-minimum-moves-to-convert-string.js)|Easy|
+2028|[Find Missing Observations](./solutions/2028-find-missing-observations.js)|Medium|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
