@@ -1,4 +1,4 @@
-# 1,704 LeetCode solutions in JavaScript
+# 1,705 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1566,6 +1566,7 @@
 2039|[The Time When the Network Becomes Idle](./solutions/2039-the-time-when-the-network-becomes-idle.js)|Medium|
 2040|[Kth Smallest Product of Two Sorted Arrays](./solutions/2040-kth-smallest-product-of-two-sorted-arrays.js)|Hard|
 2042|[Check if Numbers Are Ascending in a Sentence](./solutions/2042-check-if-numbers-are-ascending-in-a-sentence.js)|Easy|
+2043|[Simple Bank System](./solutions/2043-simple-bank-system.js)|Medium|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
