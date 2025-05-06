@@ -1,4 +1,4 @@
-# 1,699 LeetCode solutions in JavaScript
+# 1,700 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1560,6 +1560,7 @@
 2030|[Smallest K-Length Subsequence With Occurrences of a Letter](./solutions/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.js)|Hard|
 2032|[Two Out of Three](./solutions/2032-two-out-of-three.js)|Easy|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
+2035|[Partition Array Into Two Arrays to Minimize Sum Difference](./solutions/2035-partition-array-into-two-arrays-to-minimize-sum-difference.js)|Hard|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
