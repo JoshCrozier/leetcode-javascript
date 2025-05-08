@@ -1,4 +1,4 @@
-# 1,705 LeetCode solutions in JavaScript
+# 1,706 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1699,6 +1699,7 @@
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
+3342|[Find Minimum Time to Reach Last Room II](./solutions/3342-find-minimum-time-to-reach-last-room-ii.js)|Medium|
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./solutions/3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
