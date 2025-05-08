@@ -1,4 +1,4 @@
-# 1,708 LeetCode solutions in JavaScript
+# 1,709 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1570,6 +1570,7 @@
 2044|[Count Number of Maximum Bitwise-OR Subsets](./solutions/2044-count-number-of-maximum-bitwise-or-subsets.js)|Medium|
 2045|[Second Minimum Time to Reach Destination](./solutions/2045-second-minimum-time-to-reach-destination.js)|Hard|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
+2048|[Next Greater Numerically Balanced Number](./solutions/2048-next-greater-numerically-balanced-number.js)|Medium|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
