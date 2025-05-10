@@ -1,4 +1,4 @@
-# 1,715 LeetCode solutions in JavaScript
+# 1,716 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1575,6 +1575,7 @@
 2050|[Parallel Courses III](./solutions/2050-parallel-courses-iii.js)|Hard|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
 2055|[Plates Between Candles](./solutions/2055-plates-between-candles.js)|Medium|
+2056|[Number of Valid Move Combinations On Chessboard](./solutions/2056-number-of-valid-move-combinations-on-chessboard.js)|Hard|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
