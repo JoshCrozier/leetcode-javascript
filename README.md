@@ -1,4 +1,4 @@
-# 1,724 LeetCode solutions in JavaScript
+# 1,725 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1584,6 +1584,7 @@
 2063|[Vowels of All Substrings](./solutions/2063-vowels-of-all-substrings.js)|Medium|
 2064|[Minimized Maximum of Products Distributed to Any Store](./solutions/2064-minimized-maximum-of-products-distributed-to-any-store.js)|Medium|
 2065|[Maximum Path Quality of a Graph](./solutions/2065-maximum-path-quality-of-a-graph.js)|Hard|
+2068|[Check Whether Two Strings are Almost Equivalent](./solutions/2068-check-whether-two-strings-are-almost-equivalent.js)|Easy|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
