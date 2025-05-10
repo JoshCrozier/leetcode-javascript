@@ -1,4 +1,4 @@
-# 1,718 LeetCode solutions in JavaScript
+# 1,719 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1578,6 +1578,7 @@
 2056|[Number of Valid Move Combinations On Chessboard](./solutions/2056-number-of-valid-move-combinations-on-chessboard.js)|Hard|
 2057|[Smallest Index With Equal Value](./solutions/2057-smallest-index-with-equal-value.js)|Easy|
 2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](./solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.js)|Medium|
+2059|[Minimum Operations to Convert Number](./solutions/2059-minimum-operations-to-convert-number.js)|Medium|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
