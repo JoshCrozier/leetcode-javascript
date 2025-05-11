@@ -1,4 +1,4 @@
-# 1,738 LeetCode solutions in JavaScript
+# 1,739 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1600,6 +1600,7 @@
 2087|[Minimum Cost Homecoming of a Robot in a Grid](./solutions/2087-minimum-cost-homecoming-of-a-robot-in-a-grid.js)|Medium|
 2088|[Count Fertile Pyramids in a Land](./solutions/2088-count-fertile-pyramids-in-a-land.js)|Hard|
 2089|[Find Target Indices After Sorting Array](./solutions/2089-find-target-indices-after-sorting-array.js)|Easy|
+2090|[K Radius Subarray Averages](./solutions/2090-k-radius-subarray-averages.js)|Medium|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
