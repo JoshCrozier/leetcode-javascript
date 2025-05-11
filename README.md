@@ -1,4 +1,4 @@
-# 1,734 LeetCode solutions in JavaScript
+# 1,735 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1596,6 +1596,7 @@
 2080|[Range Frequency Queries](./solutions/2080-range-frequency-queries.js)|Medium|
 2081|[Sum of k-Mirror Numbers](./solutions/2081-sum-of-k-mirror-numbers.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
+2086|[Minimum Number of Food Buckets to Feed the Hamsters](./solutions/2086-minimum-number-of-food-buckets-to-feed-the-hamsters.js)|Medium|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
