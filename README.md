@@ -1,4 +1,4 @@
-# 1,730 LeetCode solutions in JavaScript
+# 1,731 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1591,6 +1591,7 @@
 2074|[Reverse Nodes in Even Length Groups](./solutions/2074-reverse-nodes-in-even-length-groups.js)|Medium|
 2075|[Decode the Slanted Ciphertext](./solutions/2075-decode-the-slanted-ciphertext.js)|Medium|
 2076|[Process Restricted Friend Requests](./solutions/2076-process-restricted-friend-requests.js)|Hard|
+2078|[Two Furthest Houses With Different Colors](./solutions/2078-two-furthest-houses-with-different-colors.js)|Easy|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
