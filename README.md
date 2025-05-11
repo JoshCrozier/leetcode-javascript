@@ -1,4 +1,4 @@
-# 1,726 LeetCode solutions in JavaScript
+# 1,727 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1586,6 +1586,7 @@
 2065|[Maximum Path Quality of a Graph](./solutions/2065-maximum-path-quality-of-a-graph.js)|Hard|
 2068|[Check Whether Two Strings are Almost Equivalent](./solutions/2068-check-whether-two-strings-are-almost-equivalent.js)|Easy|
 2069|[Walking Robot Simulation II](./solutions/2069-walking-robot-simulation-ii.js)|Medium|
+2070|[Most Beautiful Item for Each Query](./solutions/2070-most-beautiful-item-for-each-query.js)|Medium|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
