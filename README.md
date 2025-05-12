@@ -1,4 +1,4 @@
-# 1,742 LeetCode solutions in JavaScript
+# 1,743 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1605,6 +1605,7 @@
 2092|[Find All People With Secret](./solutions/2092-find-all-people-with-secret.js)|Hard|
 2094|[Finding 3-Digit Even Numbers](./solutions/2094-finding-3-digit-even-numbers.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
+2096|[Step-By-Step Directions From a Binary Tree Node to Another](./solutions/2096-step-by-step-directions-from-a-binary-tree-node-to-another.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 2115|[Find All Possible Recipes from Given Supplies](./solutions/2115-find-all-possible-recipes-from-given-supplies.js)|Medium|
