@@ -1,4 +1,4 @@
-# 1,747 LeetCode solutions in JavaScript
+# 1,748 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1611,6 +1611,7 @@
 2100|[Find Good Days to Rob the Bank](./solutions/2100-find-good-days-to-rob-the-bank.js)|Medium|
 2101|[Detonate the Maximum Bombs](./solutions/2101-detonate-the-maximum-bombs.js)|Medium|
 2103|[Rings and Rods](./solutions/2103-rings-and-rods.js)|Easy|
+2104|[Sum of Subarray Ranges](./solutions/2104-sum-of-subarray-ranges.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 2115|[Find All Possible Recipes from Given Supplies](./solutions/2115-find-all-possible-recipes-from-given-supplies.js)|Medium|
 2116|[Check if a Parentheses String Can Be Valid](./solutions/2116-check-if-a-parentheses-string-can-be-valid.js)|Medium|
