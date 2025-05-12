@@ -1,4 +1,4 @@
-# 1,745 LeetCode solutions in JavaScript
+# 1,746 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1609,6 +1609,7 @@
 2097|[Valid Arrangement of Pairs](./solutions/2097-valid-arrangement-of-pairs.js)|Hard|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2100|[Find Good Days to Rob the Bank](./solutions/2100-find-good-days-to-rob-the-bank.js)|Medium|
+2101|[Detonate the Maximum Bombs](./solutions/2101-detonate-the-maximum-bombs.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 2115|[Find All Possible Recipes from Given Supplies](./solutions/2115-find-all-possible-recipes-from-given-supplies.js)|Medium|
 2116|[Check if a Parentheses String Can Be Valid](./solutions/2116-check-if-a-parentheses-string-can-be-valid.js)|Medium|
