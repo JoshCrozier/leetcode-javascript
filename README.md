@@ -1,4 +1,4 @@
-# 1,740 LeetCode solutions in JavaScript
+# 1,741 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1602,6 +1602,7 @@
 2089|[Find Target Indices After Sorting Array](./solutions/2089-find-target-indices-after-sorting-array.js)|Easy|
 2090|[K Radius Subarray Averages](./solutions/2090-k-radius-subarray-averages.js)|Medium|
 2091|[Removing Minimum and Maximum From Array](./solutions/2091-removing-minimum-and-maximum-from-array.js)|Medium|
+2092|[Find All People With Secret](./solutions/2092-find-all-people-with-secret.js)|Hard|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
