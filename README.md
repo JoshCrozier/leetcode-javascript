@@ -1,4 +1,4 @@
-# 1,763 LeetCode solutions in JavaScript
+# 1,764 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1628,6 +1628,7 @@
 2122|[Recover the Original Array](./solutions/2122-recover-the-original-array.js)|Hard|
 2124|[Check if All A's Appears Before All B's](./solutions/2124-check-if-all-as-appears-before-all-bs.js)|Easy|
 2125|[Number of Laser Beams in a Bank](./solutions/2125-number-of-laser-beams-in-a-bank.js)|Medium|
+2126|[Destroying Asteroids](./solutions/2126-destroying-asteroids.js)|Medium|
 2127|[Maximum Employees to Be Invited to a Meeting](./solutions/2127-maximum-employees-to-be-invited-to-a-meeting.js)|Hard|
 2129|[Capitalize the Title](./solutions/2129-capitalize-the-title.js)|Easy|
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
