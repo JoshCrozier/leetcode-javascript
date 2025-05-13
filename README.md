@@ -1,4 +1,4 @@
-# 1,754 LeetCode solutions in JavaScript
+# 1,755 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1617,6 +1617,7 @@
 2108|[Find First Palindromic String in the Array](./solutions/2108-find-first-palindromic-string-in-the-array.js)|Easy|
 2109|[Adding Spaces to a String](./solutions/2109-adding-spaces-to-a-string.js)|Medium|
 2110|[Number of Smooth Descent Periods of a Stock](./solutions/2110-number-of-smooth-descent-periods-of-a-stock.js)|Medium|
+2111|[Minimum Operations to Make the Array K-Increasing](./solutions/2111-minimum-operations-to-make-the-array-k-increasing.js)|Hard|
 2114|[Maximum Number of Words Found in Sentences](./solutions/2114-maximum-number-of-words-found-in-sentences.js)|Easy|
 2115|[Find All Possible Recipes from Given Supplies](./solutions/2115-find-all-possible-recipes-from-given-supplies.js)|Medium|
 2116|[Check if a Parentheses String Can Be Valid](./solutions/2116-check-if-a-parentheses-string-can-be-valid.js)|Medium|
