@@ -1,4 +1,4 @@
-# 1,756 LeetCode solutions in JavaScript
+# 1,757 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1622,6 +1622,7 @@
 2115|[Find All Possible Recipes from Given Supplies](./solutions/2115-find-all-possible-recipes-from-given-supplies.js)|Medium|
 2116|[Check if a Parentheses String Can Be Valid](./solutions/2116-check-if-a-parentheses-string-can-be-valid.js)|Medium|
 2117|[Abbreviating the Product of a Range](./solutions/2117-abbreviating-the-product-of-a-range.js)|Hard|
+2119|[A Number After a Double Reversal](./solutions/2119-a-number-after-a-double-reversal.js)|Easy|
 2127|[Maximum Employees to Be Invited to a Meeting](./solutions/2127-maximum-employees-to-be-invited-to-a-meeting.js)|Hard|
 2129|[Capitalize the Title](./solutions/2129-capitalize-the-title.js)|Easy|
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
