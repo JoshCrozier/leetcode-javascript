@@ -1,4 +1,4 @@
-# 1,760 LeetCode solutions in JavaScript
+# 1,761 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1625,6 +1625,7 @@
 2119|[A Number After a Double Reversal](./solutions/2119-a-number-after-a-double-reversal.js)|Easy|
 2120|[Execution of All Suffix Instructions Staying in a Grid](./solutions/2120-execution-of-all-suffix-instructions-staying-in-a-grid.js)|Medium|
 2121|[Intervals Between Identical Elements](./solutions/2121-intervals-between-identical-elements.js)|Medium|
+2122|[Recover the Original Array](./solutions/2122-recover-the-original-array.js)|Hard|
 2127|[Maximum Employees to Be Invited to a Meeting](./solutions/2127-maximum-employees-to-be-invited-to-a-meeting.js)|Hard|
 2129|[Capitalize the Title](./solutions/2129-capitalize-the-title.js)|Easy|
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
