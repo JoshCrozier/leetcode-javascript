@@ -1,4 +1,4 @@
-# 1,759 LeetCode solutions in JavaScript
+# 1,760 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1680,6 +1680,7 @@
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
+2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
 2619|[Array Prototype Last](./solutions/2619-array-prototype-last.js)|Easy|
 2620|[Counter](./solutions/2620-counter.js)|Easy|
