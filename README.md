@@ -1,4 +1,4 @@
-# 1,770 LeetCode solutions in JavaScript
+# 1,771 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1637,6 +1637,7 @@
 2133|[Check if Every Row and Column Contains All Numbers](./solutions/2133-check-if-every-row-and-column-contains-all-numbers.js)|Easy|
 2134|[Minimum Swaps to Group All 1's Together II](./solutions/2134-minimum-swaps-to-group-all-1s-together-ii.js)|Medium|
 2135|[Count Words Obtained After Adding a Letter](./solutions/2135-count-words-obtained-after-adding-a-letter.js)|Medium|
+2136|[Earliest Possible Day of Full Bloom](./solutions/2136-earliest-possible-day-of-full-bloom.js)|Hard|
 2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
