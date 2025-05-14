@@ -1,4 +1,4 @@
-# 1,774 LeetCode solutions in JavaScript
+# 1,775 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1642,6 +1642,7 @@
 2139|[Minimum Moves to Reach Target Score](./solutions/2139-minimum-moves-to-reach-target-score.js)|Medium|
 2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
 2141|[Maximum Running Time of N Computers](./solutions/2141-maximum-running-time-of-n-computers.js)|Hard|
+2144|[Minimum Cost of Buying Candies With Discount](./solutions/2144-minimum-cost-of-buying-candies-with-discount.js)|Easy|
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
