@@ -1,4 +1,4 @@
-# 1,777 LeetCode solutions in JavaScript
+# 1,778 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1646,6 +1646,7 @@
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2147|[Number of Ways to Divide a Long Corridor](./solutions/2147-number-of-ways-to-divide-a-long-corridor.js)|Hard|
 2148|[Count Elements With Strictly Smaller and Greater Elements](./solutions/2148-count-elements-with-strictly-smaller-and-greater-elements.js)|Easy|
+2149|[Rearrange Array Elements by Sign](./solutions/2149-rearrange-array-elements-by-sign.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
