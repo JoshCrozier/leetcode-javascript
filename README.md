@@ -1,4 +1,4 @@
-# 1,780 LeetCode solutions in JavaScript
+# 1,781 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1650,6 +1650,7 @@
 2150|[Find All Lonely Numbers in the Array](./solutions/2150-find-all-lonely-numbers-in-the-array.js)|Medium|
 2151|[Maximum Good People Based on Statements](./solutions/2151-maximum-good-people-based-on-statements.js)|Hard|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
+2155|[All Divisions With the Highest Score of a Binary Array](./solutions/2155-all-divisions-with-the-highest-score-of-a-binary-array.js)|Medium|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
 2179|[Count Good Triplets in an Array](./solutions/2179-count-good-triplets-in-an-array.js)|Hard|
