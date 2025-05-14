@@ -1,4 +1,4 @@
-# 1,767 LeetCode solutions in JavaScript
+# 1,768 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1634,6 +1634,7 @@
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
 2131|[Longest Palindrome by Concatenating Two Letter Words](./solutions/2131-longest-palindrome-by-concatenating-two-letter-words.js)|Medium|
 2132|[Stamping the Grid](./solutions/2132-stamping-the-grid.js)|Hard|
+2133|[Check if Every Row and Column Contains All Numbers](./solutions/2133-check-if-every-row-and-column-contains-all-numbers.js)|Easy|
 2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
