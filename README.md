@@ -1,4 +1,4 @@
-# 1,768 LeetCode solutions in JavaScript
+# 1,769 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1635,6 +1635,7 @@
 2131|[Longest Palindrome by Concatenating Two Letter Words](./solutions/2131-longest-palindrome-by-concatenating-two-letter-words.js)|Medium|
 2132|[Stamping the Grid](./solutions/2132-stamping-the-grid.js)|Hard|
 2133|[Check if Every Row and Column Contains All Numbers](./solutions/2133-check-if-every-row-and-column-contains-all-numbers.js)|Easy|
+2134|[Minimum Swaps to Group All 1's Together II](./solutions/2134-minimum-swaps-to-group-all-1s-together-ii.js)|Medium|
 2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
