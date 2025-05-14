@@ -1,4 +1,4 @@
-# 1,783 LeetCode solutions in JavaScript
+# 1,784 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1653,6 +1653,7 @@
 2155|[All Divisions With the Highest Score of a Binary Array](./solutions/2155-all-divisions-with-the-highest-score-of-a-binary-array.js)|Medium|
 2156|[Find Substring With Given Hash Value](./solutions/2156-find-substring-with-given-hash-value.js)|Hard|
 2157|[Groups of Strings](./solutions/2157-groups-of-strings.js)|Hard|
+2160|[Minimum Sum of Four Digit Number After Splitting Digits](./solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
 2179|[Count Good Triplets in an Array](./solutions/2179-count-good-triplets-in-an-array.js)|Hard|
