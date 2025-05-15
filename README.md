@@ -1,4 +1,4 @@
-# 1,808 LeetCode solutions in JavaScript
+# 1,809 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1681,6 +1681,7 @@
 2193|[Minimum Number of Moves to Make Palindrome](./solutions/2193-minimum-number-of-moves-to-make-palindrome.js)|Hard|
 2194|[Cells in a Range on an Excel Sheet](./solutions/2194-cells-in-a-range-on-an-excel-sheet.js)|Easy|
 2195|[Append K Integers With Minimal Sum](./solutions/2195-append-k-integers-with-minimal-sum.js)|Medium|
+2196|[Create Binary Tree From Descriptions](./solutions/2196-create-binary-tree-from-descriptions.js)|Medium|
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
