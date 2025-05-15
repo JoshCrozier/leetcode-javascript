@@ -1,4 +1,4 @@
-# 1,793 LeetCode solutions in JavaScript
+# 1,794 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1663,6 +1663,7 @@
 2169|[Count Operations to Obtain Zero](./solutions/2169-count-operations-to-obtain-zero.js)|Easy|
 2170|[Minimum Operations to Make the Array Alternating](./solutions/2170-minimum-operations-to-make-the-array-alternating.js)|Medium|
 2171|[Removing Minimum Number of Magic Beans](./solutions/2171-removing-minimum-number-of-magic-beans.js)|Medium|
+2172|[Maximum AND Sum of Array](./solutions/2172-maximum-and-sum-of-array.js)|Hard|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
 2179|[Count Good Triplets in an Array](./solutions/2179-count-good-triplets-in-an-array.js)|Hard|
 2185|[Counting Words With a Given Prefix](./solutions/2185-counting-words-with-a-given-prefix.js)|Easy|
