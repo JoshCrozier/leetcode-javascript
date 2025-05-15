@@ -1,4 +1,4 @@
-# 1,802 LeetCode solutions in JavaScript
+# 1,803 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1675,6 +1675,7 @@
 2186|[Minimum Number of Steps to Make Two Strings Anagram II](./solutions/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.js)|Medium|
 2187|[Minimum Time to Complete Trips](./solutions/2187-minimum-time-to-complete-trips.js)|Medium|
 2188|[Minimum Time to Finish the Race](./solutions/2188-minimum-time-to-finish-the-race.js)|Hard|
+2190|[Most Frequent Number Following Key In an Array](./solutions/2190-most-frequent-number-following-key-in-an-array.js)|Easy|
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
