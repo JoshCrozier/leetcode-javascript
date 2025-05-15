@@ -1,4 +1,4 @@
-# 1,785 LeetCode solutions in JavaScript
+# 1,786 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1755,6 +1755,7 @@
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
+2900|[Longest Unequal Adjacent Groups Subsequence I](./solutions/2900-longest-unequal-adjacent-groups-subsequence-i.js)|Easy|
 2918|[Minimum Equal Sum of Two Arrays After Replacing Zeros](./solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.js)|Medium|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
