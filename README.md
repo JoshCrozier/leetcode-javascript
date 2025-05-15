@@ -1,4 +1,4 @@
-# 1,796 LeetCode solutions in JavaScript
+# 1,797 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1668,6 +1668,7 @@
 2177|[Find Three Consecutive Integers That Sum to a Given Number](./solutions/2177-find-three-consecutive-integers-that-sum-to-a-given-number.js)|Medium|
 2178|[Maximum Split of Positive Even Integers](./solutions/2178-maximum-split-of-positive-even-integers.js)|Medium|
 2179|[Count Good Triplets in an Array](./solutions/2179-count-good-triplets-in-an-array.js)|Hard|
+2180|[Count Integers With Even Digit Sum](./solutions/2180-count-integers-with-even-digit-sum.js)|Easy|
 2185|[Counting Words With a Given Prefix](./solutions/2185-counting-words-with-a-given-prefix.js)|Easy|
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
