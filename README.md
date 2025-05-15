@@ -1,4 +1,4 @@
-# 1,786 LeetCode solutions in JavaScript
+# 1,787 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1656,6 +1656,7 @@
 2160|[Minimum Sum of Four Digit Number After Splitting Digits](./solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2162|[Minimum Cost to Set Cooking Time](./solutions/2162-minimum-cost-to-set-cooking-time.js)|Medium|
+2164|[Sort Even and Odd Indices Independently](./solutions/2164-sort-even-and-odd-indices-independently.js)|Easy|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
 2179|[Count Good Triplets in an Array](./solutions/2179-count-good-triplets-in-an-array.js)|Hard|
 2185|[Counting Words With a Given Prefix](./solutions/2185-counting-words-with-a-given-prefix.js)|Easy|
