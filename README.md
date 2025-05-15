@@ -1,4 +1,4 @@
-# 1,790 LeetCode solutions in JavaScript
+# 1,791 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1660,6 +1660,7 @@
 2165|[Smallest Value of the Rearranged Number](./solutions/2165-smallest-value-of-the-rearranged-number.js)|Medium|
 2166|[Design Bitset](./solutions/2166-design-bitset.js)|Medium|
 2167|[Minimum Time to Remove All Cars Containing Illegal Goods](./solutions/2167-minimum-time-to-remove-all-cars-containing-illegal-goods.js)|Hard|
+2169|[Count Operations to Obtain Zero](./solutions/2169-count-operations-to-obtain-zero.js)|Easy|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
 2179|[Count Good Triplets in an Array](./solutions/2179-count-good-triplets-in-an-array.js)|Hard|
 2185|[Counting Words With a Given Prefix](./solutions/2185-counting-words-with-a-given-prefix.js)|Easy|
