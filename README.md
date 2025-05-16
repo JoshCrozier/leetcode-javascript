@@ -1,4 +1,4 @@
-# 1,811 LeetCode solutions in JavaScript
+# 1,812 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1683,6 +1683,7 @@
 2195|[Append K Integers With Minimal Sum](./solutions/2195-append-k-integers-with-minimal-sum.js)|Medium|
 2196|[Create Binary Tree From Descriptions](./solutions/2196-create-binary-tree-from-descriptions.js)|Medium|
 2197|[Replace Non-Coprime Numbers in Array](./solutions/2197-replace-non-coprime-numbers-in-array.js)|Hard|
+2200|[Find All K-Distant Indices in an Array](./solutions/2200-find-all-k-distant-indices-in-an-array.js)|Easy|
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
