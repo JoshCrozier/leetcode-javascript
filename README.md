@@ -1,4 +1,4 @@
-# 1,817 LeetCode solutions in JavaScript
+# 1,818 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1690,6 +1690,7 @@
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2207|[Maximize Number of Subsequences in a String](./solutions/2207-maximize-number-of-subsequences-in-a-string.js)|Medium|
 2209|[Minimum White Tiles After Covering With Carpets](./solutions/2209-minimum-white-tiles-after-covering-with-carpets.js)|Hard|
+2210|[Count Hills and Valleys in an Array](./solutions/2210-count-hills-and-valleys-in-an-array.js)|Easy|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
