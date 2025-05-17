@@ -1,4 +1,4 @@
-# 1,820 LeetCode solutions in JavaScript
+# 1,821 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1694,6 +1694,7 @@
 2211|[Count Collisions on a Road](./solutions/2211-count-collisions-on-a-road.js)|Medium|
 2212|[Maximum Points in an Archery Competition](./solutions/2212-maximum-points-in-an-archery-competition.js)|Medium|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
+2216|[Minimum Deletions to Make Array Beautiful](./solutions/2216-minimum-deletions-to-make-array-beautiful.js)|Medium|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
