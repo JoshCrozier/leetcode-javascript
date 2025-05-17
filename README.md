@@ -1,4 +1,4 @@
-# 1,837 LeetCode solutions in JavaScript
+# 1,838 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1714,6 +1714,7 @@
 2243|[Calculate Digit Sum of a String](./solutions/2243-calculate-digit-sum-of-a-string.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2246|[Longest Path With Different Adjacent Characters](./solutions/2246-longest-path-with-different-adjacent-characters.js)|Hard|
+2248|[Intersection of Multiple Arrays](./solutions/2248-intersection-of-multiple-arrays.js)|Easy|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
