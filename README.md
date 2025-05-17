@@ -1,4 +1,4 @@
-# 1,824 LeetCode solutions in JavaScript
+# 1,825 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1698,6 +1698,7 @@
 2217|[Find Palindrome With Fixed Length](./solutions/2217-find-palindrome-with-fixed-length.js)|Medium|
 2220|[Minimum Bit Flips to Convert Number](./solutions/2220-minimum-bit-flips-to-convert-number.js)|Easy|
 2221|[Find Triangular Sum of an Array](./solutions/2221-find-triangular-sum-of-an-array.js)|Medium|
+2222|[Number of Ways to Select Buildings](./solutions/2222-number-of-ways-to-select-buildings.js)|Medium|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
