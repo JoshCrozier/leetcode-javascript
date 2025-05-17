@@ -1,4 +1,4 @@
-# 1,833 LeetCode solutions in JavaScript
+# 1,834 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1709,6 +1709,7 @@
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2236|[Root Equals Sum of Children](./solutions/2236-root-equals-sum-of-children.js)|Easy|
 2239|[Find Closest Number to Zero](./solutions/2239-find-closest-number-to-zero.js)|Easy|
+2240|[Number of Ways to Buy Pens and Pencils](./solutions/2240-number-of-ways-to-buy-pens-and-pencils.js)|Medium|
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
