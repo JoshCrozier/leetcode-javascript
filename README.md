@@ -1,4 +1,4 @@
-# 1,828 LeetCode solutions in JavaScript
+# 1,829 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1702,6 +1702,7 @@
 2221|[Find Triangular Sum of an Array](./solutions/2221-find-triangular-sum-of-an-array.js)|Medium|
 2222|[Number of Ways to Select Buildings](./solutions/2222-number-of-ways-to-select-buildings.js)|Medium|
 2223|[Sum of Scores of Built Strings](./solutions/2223-sum-of-scores-of-built-strings.js)|Hard|
+2224|[Minimum Number of Operations to Convert Time](./solutions/2224-minimum-number-of-operations-to-convert-time.js)|Easy|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
