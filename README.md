@@ -1,4 +1,4 @@
-# 1,841 LeetCode solutions in JavaScript
+# 1,842 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1707,6 +1707,7 @@
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
 2227|[Encrypt and Decrypt Strings](./solutions/2227-encrypt-and-decrypt-strings.js)|Hard|
 2232|[Minimize Result by Adding Parentheses to Expression](./solutions/2232-minimize-result-by-adding-parentheses-to-expression.js)|Medium|
+2234|[Maximum Total Beauty of the Gardens](./solutions/2234-maximum-total-beauty-of-the-gardens.js)|Hard|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2236|[Root Equals Sum of Children](./solutions/2236-root-equals-sum-of-children.js)|Easy|
 2239|[Find Closest Number to Zero](./solutions/2239-find-closest-number-to-zero.js)|Easy|
