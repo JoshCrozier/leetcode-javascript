@@ -1,4 +1,4 @@
-# 1,842 LeetCode solutions in JavaScript
+# 1,843 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1713,6 +1713,7 @@
 2239|[Find Closest Number to Zero](./solutions/2239-find-closest-number-to-zero.js)|Easy|
 2240|[Number of Ways to Buy Pens and Pencils](./solutions/2240-number-of-ways-to-buy-pens-and-pencils.js)|Medium|
 2241|[Design an ATM Machine](./solutions/2241-design-an-atm-machine.js)|Medium|
+2242|[Maximum Score of a Node Sequence](./solutions/2242-maximum-score-of-a-node-sequence.js)|Hard|
 2243|[Calculate Digit Sum of a String](./solutions/2243-calculate-digit-sum-of-a-string.js)|Easy|
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2246|[Longest Path With Different Adjacent Characters](./solutions/2246-longest-path-with-different-adjacent-characters.js)|Hard|
