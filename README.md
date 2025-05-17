@@ -1,4 +1,4 @@
-# 1,825 LeetCode solutions in JavaScript
+# 1,826 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1693,6 +1693,7 @@
 2210|[Count Hills and Valleys in an Array](./solutions/2210-count-hills-and-valleys-in-an-array.js)|Easy|
 2211|[Count Collisions on a Road](./solutions/2211-count-collisions-on-a-road.js)|Medium|
 2212|[Maximum Points in an Archery Competition](./solutions/2212-maximum-points-in-an-archery-competition.js)|Medium|
+2213|[Longest Substring of One Repeating Character](./solutions/2213-longest-substring-of-one-repeating-character.js)|Hard|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
 2216|[Minimum Deletions to Make Array Beautiful](./solutions/2216-minimum-deletions-to-make-array-beautiful.js)|Medium|
 2217|[Find Palindrome With Fixed Length](./solutions/2217-find-palindrome-with-fixed-length.js)|Medium|
