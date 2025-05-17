@@ -1,4 +1,4 @@
-# 1,850 LeetCode solutions in JavaScript
+# 1,851 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1727,6 +1727,7 @@
 2257|[Count Unguarded Cells in the Grid](./solutions/2257-count-unguarded-cells-in-the-grid.js)|Medium|
 2259|[Remove Digit From Number to Maximize Result](./solutions/2259-remove-digit-from-number-to-maximize-result.js)|Easy|
 2260|[Minimum Consecutive Cards to Pick Up](./solutions/2260-minimum-consecutive-cards-to-pick-up.js)|Medium|
+2261|[K Divisible Elements Subarrays](./solutions/2261-k-divisible-elements-subarrays.js)|Medium|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
