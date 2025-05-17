@@ -1,4 +1,4 @@
-# 1,855 LeetCode solutions in JavaScript
+# 1,856 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1732,6 +1732,7 @@
 2264|[Largest 3-Same-Digit Number in String](./solutions/2264-largest-3-same-digit-number-in-string.js)|Easy|
 2265|[Count Nodes Equal to Average of Subtree](./solutions/2265-count-nodes-equal-to-average-of-subtree.js)|Medium|
 2266|[Count Number of Texts](./solutions/2266-count-number-of-texts.js)|Medium|
+2269|[Find the K-Beauty of a Number](./solutions/2269-find-the-k-beauty-of-a-number.js)|Easy|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
