@@ -1,4 +1,4 @@
-# 1,840 LeetCode solutions in JavaScript
+# 1,841 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1705,6 +1705,7 @@
 2224|[Minimum Number of Operations to Convert Time](./solutions/2224-minimum-number-of-operations-to-convert-time.js)|Easy|
 2225|[Find Players With Zero or One Losses](./solutions/2225-find-players-with-zero-or-one-losses.js)|Medium|
 2226|[Maximum Candies Allocated to K Children](./solutions/2226-maximum-candies-allocated-to-k-children.js)|Medium|
+2227|[Encrypt and Decrypt Strings](./solutions/2227-encrypt-and-decrypt-strings.js)|Hard|
 2232|[Minimize Result by Adding Parentheses to Expression](./solutions/2232-minimize-result-by-adding-parentheses-to-expression.js)|Medium|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2236|[Root Equals Sum of Children](./solutions/2236-root-equals-sum-of-children.js)|Easy|
