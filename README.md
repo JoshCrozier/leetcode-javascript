@@ -1,4 +1,4 @@
-# 1,846 LeetCode solutions in JavaScript
+# 1,847 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1723,6 +1723,7 @@
 2250|[Count Number of Rectangles Containing Each Point](./solutions/2250-count-number-of-rectangles-containing-each-point.js)|Medium|
 2251|[Number of Flowers in Full Bloom](./solutions/2251-number-of-flowers-in-full-bloom.js)|Hard|
 2255|[Count Prefixes of a Given String](./solutions/2255-count-prefixes-of-a-given-string.js)|Easy|
+2256|[Minimum Average Difference](./solutions/2256-minimum-average-difference.js)|Medium|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
