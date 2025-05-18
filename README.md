@@ -1,4 +1,4 @@
-# 1,879 LeetCode solutions in JavaScript
+# 1,880 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1759,6 +1759,7 @@
 2312|[Selling Pieces of Wood](./solutions/2312-selling-pieces-of-wood.js)|Hard|
 2315|[Count Asterisks](./solutions/2315-count-asterisks.js)|Easy|
 2316|[Count Unreachable Pairs of Nodes in an Undirected Graph](./solutions/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.js)|Medium|
+2317|[Maximum XOR After Operations](./solutions/2317-maximum-xor-after-operations.js)|Medium|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
