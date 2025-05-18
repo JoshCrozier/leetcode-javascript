@@ -1,4 +1,4 @@
-# 1,870 LeetCode solutions in JavaScript
+# 1,871 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1749,6 +1749,7 @@
 2296|[Design a Text Editor](./solutions/2296-design-a-text-editor.js)|Hard|
 2299|[Strong Password Checker II](./solutions/2299-strong-password-checker-ii.js)|Easy|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
+2301|[Match Substring After Replacement](./solutions/2301-match-substring-after-replacement.js)|Hard|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
