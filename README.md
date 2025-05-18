@@ -1,4 +1,4 @@
-# 1,871 LeetCode solutions in JavaScript
+# 1,872 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1751,6 +1751,7 @@
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2301|[Match Substring After Replacement](./solutions/2301-match-substring-after-replacement.js)|Hard|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
+2303|[Calculate Amount Paid in Taxes](./solutions/2303-calculate-amount-paid-in-taxes.js)|Easy|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
