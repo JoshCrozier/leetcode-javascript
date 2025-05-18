@@ -1,4 +1,4 @@
-# 1,875 LeetCode solutions in JavaScript
+# 1,876 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1755,6 +1755,7 @@
 2304|[Minimum Path Cost in a Grid](./solutions/2304-minimum-path-cost-in-a-grid.js)|Medium|
 2305|[Fair Distribution of Cookies](./solutions/2305-fair-distribution-of-cookies.js)|Medium|
 2306|[Naming a Company](./solutions/2306-naming-a-company.js)|Hard|
+2309|[Greatest English Letter in Upper and Lower Case](./solutions/2309-greatest-english-letter-in-upper-and-lower-case.js)|Easy|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
