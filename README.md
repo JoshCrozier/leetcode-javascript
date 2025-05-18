@@ -1,4 +1,4 @@
-# 1,864 LeetCode solutions in JavaScript
+# 1,865 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1742,6 +1742,7 @@
 2279|[Maximum Bags With Full Capacity of Rocks](./solutions/2279-maximum-bags-with-full-capacity-of-rocks.js)|Medium|
 2283|[Check if Number Has Equal Digit Count and Digit Value](./solutions/2283-check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
 2284|[Sender With Largest Word Count](./solutions/2284-sender-with-largest-word-count.js)|Medium|
+2287|[Rearrange Characters to Make Target String](./solutions/2287-rearrange-characters-to-make-target-string.js)|Easy|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
