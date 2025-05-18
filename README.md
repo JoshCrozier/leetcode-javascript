@@ -1,4 +1,4 @@
-# 1,866 LeetCode solutions in JavaScript
+# 1,867 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1744,6 +1744,7 @@
 2284|[Sender With Largest Word Count](./solutions/2284-sender-with-largest-word-count.js)|Medium|
 2287|[Rearrange Characters to Make Target String](./solutions/2287-rearrange-characters-to-make-target-string.js)|Easy|
 2293|[Min Max Game](./solutions/2293-min-max-game.js)|Easy|
+2294|[Partition Array Such That Maximum Difference Is K](./solutions/2294-partition-array-such-that-maximum-difference-is-k.js)|Medium|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2302|[Count Subarrays With Score Less Than K](./solutions/2302-count-subarrays-with-score-less-than-k.js)|Hard|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
