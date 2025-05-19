@@ -1,4 +1,4 @@
-# 1,880 LeetCode solutions in JavaScript
+# 1,881 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1855,6 +1855,7 @@
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
+3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
