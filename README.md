@@ -1,4 +1,4 @@
-# 1,893 LeetCode solutions in JavaScript
+# 1,894 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1773,6 +1773,7 @@
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2337|[Move Pieces to Obtain a String](./solutions/2337-move-pieces-to-obtain-a-string.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
+2341|[Maximum Number of Pairs in Array](./solutions/2341-maximum-number-of-pairs-in-array.js)|Easy|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
 2349|[Design a Number Container System](./solutions/2349-design-a-number-container-system.js)|Medium|
 2352|[Equal Row and Column Pairs](./solutions/2352-equal-row-and-column-pairs.js)|Medium|
