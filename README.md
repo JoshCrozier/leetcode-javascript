@@ -1,4 +1,4 @@
-# 1,899 LeetCode solutions in JavaScript
+# 1,900 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1747,6 +1747,7 @@
 2283|[Check if Number Has Equal Digit Count and Digit Value](./solutions/2283-check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
 2284|[Sender With Largest Word Count](./solutions/2284-sender-with-largest-word-count.js)|Medium|
 2287|[Rearrange Characters to Make Target String](./solutions/2287-rearrange-characters-to-make-target-string.js)|Easy|
+2288|[Apply Discount to Prices](./solutions/2288-apply-discount-to-prices.js)|Medium|
 2293|[Min Max Game](./solutions/2293-min-max-game.js)|Easy|
 2294|[Partition Array Such That Maximum Difference Is K](./solutions/2294-partition-array-such-that-maximum-difference-is-k.js)|Medium|
 2295|[Replace Elements in an Array](./solutions/2295-replace-elements-in-an-array.js)|Medium|
