@@ -1,4 +1,4 @@
-# 1,896 LeetCode solutions in JavaScript
+# 1,897 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1733,6 +1733,7 @@
 2264|[Largest 3-Same-Digit Number in String](./solutions/2264-largest-3-same-digit-number-in-string.js)|Easy|
 2265|[Count Nodes Equal to Average of Subtree](./solutions/2265-count-nodes-equal-to-average-of-subtree.js)|Medium|
 2266|[Count Number of Texts](./solutions/2266-count-number-of-texts.js)|Medium|
+2267|[Check if There Is a Valid Parentheses String Path](./solutions/2267-check-if-there-is-a-valid-parentheses-string-path.js)|Hard|
 2269|[Find the K-Beauty of a Number](./solutions/2269-find-the-k-beauty-of-a-number.js)|Easy|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
 2272|[Substring With Largest Variance](./solutions/2272-substring-with-largest-variance.js)|Hard|
