@@ -1,4 +1,4 @@
-# 1,897 LeetCode solutions in JavaScript
+# 1,898 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1736,6 +1736,7 @@
 2267|[Check if There Is a Valid Parentheses String Path](./solutions/2267-check-if-there-is-a-valid-parentheses-string-path.js)|Hard|
 2269|[Find the K-Beauty of a Number](./solutions/2269-find-the-k-beauty-of-a-number.js)|Easy|
 2270|[Number of Ways to Split Array](./solutions/2270-number-of-ways-to-split-array.js)|Medium|
+2271|[Maximum White Tiles Covered by a Carpet](./solutions/2271-maximum-white-tiles-covered-by-a-carpet.js)|Medium|
 2272|[Substring With Largest Variance](./solutions/2272-substring-with-largest-variance.js)|Hard|
 2273|[Find Resultant Array After Removing Anagrams](./solutions/2273-find-resultant-array-after-removing-anagrams.js)|Easy|
 2274|[Maximum Consecutive Floors Without Special Floors](./solutions/2274-maximum-consecutive-floors-without-special-floors.js)|Medium|
