@@ -1,4 +1,4 @@
-# 1,892 LeetCode solutions in JavaScript
+# 1,893 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1771,6 +1771,7 @@
 2331|[Evaluate Boolean Binary Tree](./solutions/2331-evaluate-boolean-binary-tree.js)|Easy|
 2334|[Subarray With Elements Greater Than Varying Threshold](./solutions/2334-subarray-with-elements-greater-than-varying-threshold.js)|Hard|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
+2337|[Move Pieces to Obtain a String](./solutions/2337-move-pieces-to-obtain-a-string.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
 2349|[Design a Number Container System](./solutions/2349-design-a-number-container-system.js)|Medium|
