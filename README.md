@@ -1,4 +1,4 @@
-# 1,884 LeetCode solutions in JavaScript
+# 1,885 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1760,6 +1760,7 @@
 2315|[Count Asterisks](./solutions/2315-count-asterisks.js)|Easy|
 2316|[Count Unreachable Pairs of Nodes in an Undirected Graph](./solutions/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.js)|Medium|
 2317|[Maximum XOR After Operations](./solutions/2317-maximum-xor-after-operations.js)|Medium|
+2318|[Number of Distinct Roll Sequences](./solutions/2318-number-of-distinct-roll-sequences.js)|Hard|
 2319|[Check if Matrix Is X-Matrix](./solutions/2319-check-if-matrix-is-x-matrix.js)|Easy|
 2320|[Count Number of Ways to Place Houses](./solutions/2320-count-number-of-ways-to-place-houses.js)|Medium|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
