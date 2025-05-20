@@ -1,4 +1,4 @@
-# 1,895 LeetCode solutions in JavaScript
+# 1,896 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1725,6 +1725,7 @@
 2255|[Count Prefixes of a Given String](./solutions/2255-count-prefixes-of-a-given-string.js)|Easy|
 2256|[Minimum Average Difference](./solutions/2256-minimum-average-difference.js)|Medium|
 2257|[Count Unguarded Cells in the Grid](./solutions/2257-count-unguarded-cells-in-the-grid.js)|Medium|
+2258|[Escape the Spreading Fire](./solutions/2258-escape-the-spreading-fire.js)|Hard|
 2259|[Remove Digit From Number to Maximize Result](./solutions/2259-remove-digit-from-number-to-maximize-result.js)|Easy|
 2260|[Minimum Consecutive Cards to Pick Up](./solutions/2260-minimum-consecutive-cards-to-pick-up.js)|Medium|
 2261|[K Divisible Elements Subarrays](./solutions/2261-k-divisible-elements-subarrays.js)|Medium|
