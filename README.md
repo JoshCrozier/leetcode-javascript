@@ -1,4 +1,4 @@
-# 1,883 LeetCode solutions in JavaScript
+# 1,884 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1877,6 +1877,7 @@
 3341|[Find Minimum Time to Reach Last Room I](./solutions/3341-find-minimum-time-to-reach-last-room-i.js)|Medium|
 3342|[Find Minimum Time to Reach Last Room II](./solutions/3342-find-minimum-time-to-reach-last-room-ii.js)|Medium|
 3343|[Count Number of Balanced Permutations](./solutions/3343-count-number-of-balanced-permutations.js)|Hard|
+3355|[Zero Array Transformation I](./solutions/3355-zero-array-transformation-i.js)|Medium|
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./solutions/3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
