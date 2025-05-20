@@ -1,4 +1,4 @@
-# 1,886 LeetCode solutions in JavaScript
+# 1,887 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1764,6 +1764,7 @@
 2319|[Check if Matrix Is X-Matrix](./solutions/2319-check-if-matrix-is-x-matrix.js)|Easy|
 2320|[Count Number of Ways to Place Houses](./solutions/2320-count-number-of-ways-to-place-houses.js)|Medium|
 2321|[Maximum Score Of Spliced Array](./solutions/2321-maximum-score-of-spliced-array.js)|Hard|
+2322|[Minimum Score After Removals on a Tree](./solutions/2322-minimum-score-after-removals-on-a-tree.js)|Hard|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
