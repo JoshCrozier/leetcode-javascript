@@ -1,4 +1,4 @@
-# 1,908 LeetCode solutions in JavaScript
+# 1,909 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1792,6 +1792,7 @@
 2360|[Longest Cycle in a Graph](./solutions/2360-longest-cycle-in-a-graph.js)|Hard|
 2363|[Merge Similar Items](./solutions/2363-merge-similar-items.js)|Easy|
 2364|[Count Number of Bad Pairs](./solutions/2364-count-number-of-bad-pairs.js)|Medium|
+2365|[Task Scheduler II](./solutions/2365-task-scheduler-ii.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
 2381|[Shifting Letters II](./solutions/2381-shifting-letters-ii.js)|Medium|
