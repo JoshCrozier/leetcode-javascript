@@ -1,4 +1,4 @@
-# 1,917 LeetCode solutions in JavaScript
+# 1,918 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1804,6 +1804,7 @@
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
 2380|[Time Needed to Rearrange a Binary String](./solutions/2380-time-needed-to-rearrange-a-binary-string.js)|Medium|
 2381|[Shifting Letters II](./solutions/2381-shifting-letters-ii.js)|Medium|
+2382|[Maximum Segment Sum After Removals](./solutions/2382-maximum-segment-sum-after-removals.js)|Hard|
 2390|[Removing Stars From a String](./solutions/2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
