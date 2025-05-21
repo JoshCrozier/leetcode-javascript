@@ -1,4 +1,4 @@
-# 1,913 LeetCode solutions in JavaScript
+# 1,914 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1797,6 +1797,7 @@
 2367|[Number of Arithmetic Triplets](./solutions/2367-number-of-arithmetic-triplets.js)|Easy|
 2368|[Reachable Nodes With Restrictions](./solutions/2368-reachable-nodes-with-restrictions.js)|Medium|
 2369|[Check if There is a Valid Partition For The Array](./solutions/2369-check-if-there-is-a-valid-partition-for-the-array.js)|Medium|
+2370|[Longest Ideal Subsequence](./solutions/2370-longest-ideal-subsequence.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
 2381|[Shifting Letters II](./solutions/2381-shifting-letters-ii.js)|Medium|
