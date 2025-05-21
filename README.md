@@ -1,4 +1,4 @@
-# 1,903 LeetCode solutions in JavaScript
+# 1,904 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1786,6 +1786,7 @@
 2350|[Shortest Impossible Sequence of Rolls](./solutions/2350-shortest-impossible-sequence-of-rolls.js)|Hard|
 2351|[First Letter to Appear Twice](./solutions/2351-first-letter-to-appear-twice.js)|Easy|
 2352|[Equal Row and Column Pairs](./solutions/2352-equal-row-and-column-pairs.js)|Medium|
+2354|[Number of Excellent Pairs](./solutions/2354-number-of-excellent-pairs.js)|Hard|
 2364|[Count Number of Bad Pairs](./solutions/2364-count-number-of-bad-pairs.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
