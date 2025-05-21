@@ -1,4 +1,4 @@
-# 1,902 LeetCode solutions in JavaScript
+# 1,903 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1784,6 +1784,7 @@
 2348|[Number of Zero-Filled Subarrays](./solutions/2348-number-of-zero-filled-subarrays.js)|Medium|
 2349|[Design a Number Container System](./solutions/2349-design-a-number-container-system.js)|Medium|
 2350|[Shortest Impossible Sequence of Rolls](./solutions/2350-shortest-impossible-sequence-of-rolls.js)|Hard|
+2351|[First Letter to Appear Twice](./solutions/2351-first-letter-to-appear-twice.js)|Easy|
 2352|[Equal Row and Column Pairs](./solutions/2352-equal-row-and-column-pairs.js)|Medium|
 2364|[Count Number of Bad Pairs](./solutions/2364-count-number-of-bad-pairs.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
