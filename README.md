@@ -1,4 +1,4 @@
-# 1,916 LeetCode solutions in JavaScript
+# 1,917 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1802,6 +1802,7 @@
 2374|[Node With Highest Edge Score](./solutions/2374-node-with-highest-edge-score.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
+2380|[Time Needed to Rearrange a Binary String](./solutions/2380-time-needed-to-rearrange-a-binary-string.js)|Medium|
 2381|[Shifting Letters II](./solutions/2381-shifting-letters-ii.js)|Medium|
 2390|[Removing Stars From a String](./solutions/2390-removing-stars-from-a-string.js)|Medium|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
