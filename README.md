@@ -1,4 +1,4 @@
-# 1,905 LeetCode solutions in JavaScript
+# 1,906 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1788,6 +1788,7 @@
 2352|[Equal Row and Column Pairs](./solutions/2352-equal-row-and-column-pairs.js)|Medium|
 2354|[Number of Excellent Pairs](./solutions/2354-number-of-excellent-pairs.js)|Hard|
 2358|[Maximum Number of Groups Entering a Competition](./solutions/2358-maximum-number-of-groups-entering-a-competition.js)|Medium|
+2359|[Find Closest Node to Given Two Nodes](./solutions/2359-find-closest-node-to-given-two-nodes.js)|Medium|
 2364|[Count Number of Bad Pairs](./solutions/2364-count-number-of-bad-pairs.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
