@@ -1,4 +1,4 @@
-# 1,936 LeetCode solutions in JavaScript
+# 1,937 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1826,6 +1826,7 @@
 2414|[Length of the Longest Alphabetical Continuous Substring](./solutions/2414-length-of-the-longest-alphabetical-continuous-substring.js)|Medium|
 2415|[Reverse Odd Levels of Binary Tree](./solutions/2415-reverse-odd-levels-of-binary-tree.js)|Medium|
 2416|[Sum of Prefix Scores of Strings](./solutions/2416-sum-of-prefix-scores-of-strings.js)|Hard|
+2418|[Sort the People](./solutions/2418-sort-the-people.js)|Easy|
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
 2429|[Minimize XOR](./solutions/2429-minimize-xor.js)|Medium|
