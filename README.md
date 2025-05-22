@@ -1,4 +1,4 @@
-# 1,921 LeetCode solutions in JavaScript
+# 1,922 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1809,6 +1809,7 @@
 2385|[Amount of Time for Binary Tree to Be Infected](./solutions/2385-amount-of-time-for-binary-tree-to-be-infected.js)|Medium|
 2389|[Longest Subsequence With Limited Sum](./solutions/2389-longest-subsequence-with-limited-sum.js)|Easy|
 2390|[Removing Stars From a String](./solutions/2390-removing-stars-from-a-string.js)|Medium|
+2391|[Minimum Amount of Time to Collect Garbage](./solutions/2391-minimum-amount-of-time-to-collect-garbage.js)|Medium|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2413|[Smallest Even Multiple](./solutions/2413-smallest-even-multiple.js)|Easy|
