@@ -1,4 +1,4 @@
-# 1,932 LeetCode solutions in JavaScript
+# 1,933 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1821,6 +1821,7 @@
 2409|[Count Days Spent Together](./solutions/2409-count-days-spent-together.js)|Easy|
 2410|[Maximum Matching of Players With Trainers](./solutions/2410-maximum-matching-of-players-with-trainers.js)|Medium|
 2411|[Smallest Subarrays With Maximum Bitwise OR](./solutions/2411-smallest-subarrays-with-maximum-bitwise-or.js)|Medium|
+2412|[Minimum Money Required Before Transactions](./solutions/2412-minimum-money-required-before-transactions.js)|Hard|
 2413|[Smallest Even Multiple](./solutions/2413-smallest-even-multiple.js)|Easy|
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
