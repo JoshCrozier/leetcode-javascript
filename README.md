@@ -1,4 +1,4 @@
-# 1,930 LeetCode solutions in JavaScript
+# 1,931 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1925,6 +1925,7 @@
 3343|[Count Number of Balanced Permutations](./solutions/3343-count-number-of-balanced-permutations.js)|Hard|
 3355|[Zero Array Transformation I](./solutions/3355-zero-array-transformation-i.js)|Medium|
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
+3362|[Zero Array Transformation III](./solutions/3362-zero-array-transformation-iii.js)|Medium|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./solutions/3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3394|[Check if Grid can be Cut into Sections](./solutions/3394-check-if-grid-can-be-cut-into-sections.js)|Medium|
