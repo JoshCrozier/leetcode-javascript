@@ -1,4 +1,4 @@
-# 1,928 LeetCode solutions in JavaScript
+# 1,929 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1818,6 +1818,7 @@
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2404|[Most Frequent Even Element](./solutions/2404-most-frequent-even-element.js)|Easy|
 2405|[Optimal Partition of String](./solutions/2405-optimal-partition-of-string.js)|Medium|
+2409|[Count Days Spent Together](./solutions/2409-count-days-spent-together.js)|Easy|
 2413|[Smallest Even Multiple](./solutions/2413-smallest-even-multiple.js)|Easy|
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
