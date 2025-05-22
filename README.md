@@ -1,4 +1,4 @@
-# 1,927 LeetCode solutions in JavaScript
+# 1,928 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1817,6 +1817,7 @@
 2399|[Check Distances Between Same Letters](./solutions/2399-check-distances-between-same-letters.js)|Easy|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2404|[Most Frequent Even Element](./solutions/2404-most-frequent-even-element.js)|Easy|
+2405|[Optimal Partition of String](./solutions/2405-optimal-partition-of-string.js)|Medium|
 2413|[Smallest Even Multiple](./solutions/2413-smallest-even-multiple.js)|Easy|
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
