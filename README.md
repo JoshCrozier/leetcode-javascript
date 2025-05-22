@@ -1,4 +1,4 @@
-# 1,939 LeetCode solutions in JavaScript
+# 1,940 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1830,6 +1830,7 @@
 2419|[Longest Subarray With Maximum Bitwise AND](./solutions/2419-longest-subarray-with-maximum-bitwise-and.js)|Medium|
 2421|[Number of Good Paths](./solutions/2421-number-of-good-paths.js)|Hard|
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
+2426|[Number of Pairs Satisfying Inequality](./solutions/2426-number-of-pairs-satisfying-inequality.js)|Hard|
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
 2429|[Minimize XOR](./solutions/2429-minimize-xor.js)|Medium|
 2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
