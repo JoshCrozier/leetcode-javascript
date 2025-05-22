@@ -1,4 +1,4 @@
-# 1,925 LeetCode solutions in JavaScript
+# 1,926 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1814,6 +1814,7 @@
 2395|[Find Subarrays With Equal Sum](./solutions/2395-find-subarrays-with-equal-sum.js)|Easy|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
 2397|[Maximum Rows Covered by Columns](./solutions/2397-maximum-rows-covered-by-columns.js)|Medium|
+2399|[Check Distances Between Same Letters](./solutions/2399-check-distances-between-same-letters.js)|Easy|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2413|[Smallest Even Multiple](./solutions/2413-smallest-even-multiple.js)|Easy|
 2425|[Bitwise XOR of All Pairings](./solutions/2425-bitwise-xor-of-all-pairings.js)|Medium|
