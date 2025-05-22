@@ -1,4 +1,4 @@
-# 1,923 LeetCode solutions in JavaScript
+# 1,924 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1811,6 +1811,7 @@
 2390|[Removing Stars From a String](./solutions/2390-removing-stars-from-a-string.js)|Medium|
 2391|[Minimum Amount of Time to Collect Garbage](./solutions/2391-minimum-amount-of-time-to-collect-garbage.js)|Medium|
 2392|[Build a Matrix With Conditions](./solutions/2392-build-a-matrix-with-conditions.js)|Hard|
+2395|[Find Subarrays With Equal Sum](./solutions/2395-find-subarrays-with-equal-sum.js)|Easy|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2413|[Smallest Even Multiple](./solutions/2413-smallest-even-multiple.js)|Easy|
