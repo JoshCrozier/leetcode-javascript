@@ -1,4 +1,4 @@
-# 1,961 LeetCode solutions in JavaScript
+# 1,962 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1854,6 +1854,7 @@
 2452|[Words Within Two Edits of Dictionary](./solutions/2452-words-within-two-edits-of-dictionary.js)|Medium|
 2453|[Destroy Sequential Targets](./solutions/2453-destroy-sequential-targets.js)|Medium|
 2455|[Average Value of Even Numbers That Are Divisible by Three](./solutions/2455-average-value-of-even-numbers-that-are-divisible-by-three.js)|Easy|
+2458|[Height of Binary Tree After Subtree Removal Queries](./solutions/2458-height-of-binary-tree-after-subtree-removal-queries.js)|Hard|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
