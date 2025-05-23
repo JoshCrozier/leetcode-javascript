@@ -1,4 +1,4 @@
-# 1,947 LeetCode solutions in JavaScript
+# 1,948 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1839,6 +1839,7 @@
 2434|[Using a Robot to Print the Lexicographically Smallest String](./solutions/2434-using-a-robot-to-print-the-lexicographically-smallest-string.js)|Medium|
 2435|[Paths in Matrix Whose Sum Is Divisible by K](./solutions/2435-paths-in-matrix-whose-sum-is-divisible-by-k.js)|Hard|
 2437|[Number of Valid Clock Times](./solutions/2437-number-of-valid-clock-times.js)|Easy|
+2438|[Range Product Queries of Powers](./solutions/2438-range-product-queries-of-powers.js)|Medium|
 2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
