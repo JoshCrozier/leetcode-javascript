@@ -1,4 +1,4 @@
-# 1,963 LeetCode solutions in JavaScript
+# 1,964 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1858,6 +1858,7 @@
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2461|[Maximum Sum of Distinct Subarrays With Length K](./solutions/2461-maximum-sum-of-distinct-subarrays-with-length-k.js)|Medium|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
+2463|[Minimum Total Distance Traveled](./solutions/2463-minimum-total-distance-traveled.js)|Hard|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
 2469|[Convert the Temperature](./solutions/2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
