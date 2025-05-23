@@ -1,4 +1,4 @@
-# 1,949 LeetCode solutions in JavaScript
+# 1,950 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1841,6 +1841,7 @@
 2437|[Number of Valid Clock Times](./solutions/2437-number-of-valid-clock-times.js)|Easy|
 2438|[Range Product Queries of Powers](./solutions/2438-range-product-queries-of-powers.js)|Medium|
 2439|[Minimize Maximum of Array](./solutions/2439-minimize-maximum-of-array.js)|Medium|
+2440|[Create Components With Same Value](./solutions/2440-create-components-with-same-value.js)|Hard|
 2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
