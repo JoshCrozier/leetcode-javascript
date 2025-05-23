@@ -1,4 +1,4 @@
-# 1,943 LeetCode solutions in JavaScript
+# 1,944 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1835,6 +1835,7 @@
 2428|[Maximum Sum of an Hourglass](./solutions/2428-maximum-sum-of-an-hourglass.js)|Medium|
 2429|[Minimize XOR](./solutions/2429-minimize-xor.js)|Medium|
 2432|[The Employee That Worked on the Longest Task](./solutions/2432-the-employee-that-worked-on-the-longest-task.js)|Easy|
+2433|[Find The Original Array of Prefix Xor](./solutions/2433-find-the-original-array-of-prefix-xor.js)|Medium|
 2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
