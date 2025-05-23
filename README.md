@@ -1,4 +1,4 @@
-# 1,956 LeetCode solutions in JavaScript
+# 1,957 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1849,6 +1849,7 @@
 2446|[Determine if Two Events Have Conflict](./solutions/2446-determine-if-two-events-have-conflict.js)|Easy|
 2447|[Number of Subarrays With GCD Equal to K](./solutions/2447-number-of-subarrays-with-gcd-equal-to-k.js)|Medium|
 2448|[Minimum Cost to Make Array Equal](./solutions/2448-minimum-cost-to-make-array-equal.js)|Hard|
+2449|[Minimum Number of Operations to Make Arrays Similar](./solutions/2449-minimum-number-of-operations-to-make-arrays-similar.js)|Hard|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
