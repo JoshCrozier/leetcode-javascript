@@ -1,4 +1,4 @@
-# 1,953 LeetCode solutions in JavaScript
+# 1,954 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1846,6 +1846,7 @@
 2442|[Count Number of Distinct Integers After Reverse Operations](./solutions/2442-count-number-of-distinct-integers-after-reverse-operations.js)|Medium|
 2443|[Sum of Number and Its Reverse](./solutions/2443-sum-of-number-and-its-reverse.js)|Medium|
 2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
+2446|[Determine if Two Events Have Conflict](./solutions/2446-determine-if-two-events-have-conflict.js)|Easy|
 2460|[Apply Operations to an Array](./solutions/2460-apply-operations-to-an-array.js)|Easy|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
