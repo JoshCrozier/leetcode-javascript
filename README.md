@@ -1,4 +1,4 @@
-# 1,979 LeetCode solutions in JavaScript
+# 1,980 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1877,6 +1877,7 @@
 2487|[Remove Nodes From Linked List](./solutions/2487-remove-nodes-from-linked-list.js)|Medium|
 2488|[Count Subarrays With Median K](./solutions/2488-count-subarrays-with-median-k.js)|Hard|
 2490|[Circular Sentence](./solutions/2490-circular-sentence.js)|Easy|
+2491|[Divide Players Into Teams of Equal Skill](./solutions/2491-divide-players-into-teams-of-equal-skill.js)|Medium|
 2493|[Divide Nodes Into the Maximum Number of Groups](./solutions/2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
 2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
