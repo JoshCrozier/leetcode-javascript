@@ -1,4 +1,4 @@
-# 1,986 LeetCode solutions in JavaScript
+# 1,987 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1886,6 +1886,7 @@
 2501|[Longest Square Streak in an Array](./solutions/2501-longest-square-streak-in-an-array.js)|Medium|
 2502|[Design Memory Allocator](./solutions/2502-design-memory-allocator.js)|Medium|
 2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
+2506|[Count Pairs Of Similar Strings](./solutions/2506-count-pairs-of-similar-strings.js)|Easy|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
