@@ -1,4 +1,4 @@
-# 1,976 LeetCode solutions in JavaScript
+# 1,977 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1873,6 +1873,7 @@
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2483|[Minimum Penalty for a Shop](./solutions/2483-minimum-penalty-for-a-shop.js)|Medium|
 2485|[Find the Pivot Integer](./solutions/2485-find-the-pivot-integer.js)|Easy|
+2486|[Append Characters to String to Make Subsequence](./solutions/2486-append-characters-to-string-to-make-subsequence.js)|Medium|
 2490|[Circular Sentence](./solutions/2490-circular-sentence.js)|Easy|
 2493|[Divide Nodes Into the Maximum Number of Groups](./solutions/2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
 2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
