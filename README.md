@@ -1,4 +1,4 @@
-# 1,994 LeetCode solutions in JavaScript
+# 1,995 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1894,6 +1894,7 @@
 2517|[Maximum Tastiness of Candy Basket](./solutions/2517-maximum-tastiness-of-candy-basket.js)|Medium|
 2520|[Count the Digits That Divide a Number](./solutions/2520-count-the-digits-that-divide-a-number.js)|Easy|
 2521|[Distinct Prime Factors of Product of Array](./solutions/2521-distinct-prime-factors-of-product-of-array.js)|Medium|
+2522|[Partition String Into Substrings With Values at Most K](./solutions/2522-partition-string-into-substrings-with-values-at-most-k.js)|Medium|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
