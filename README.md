@@ -1,4 +1,4 @@
-# 1,991 LeetCode solutions in JavaScript
+# 1,992 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1891,6 +1891,7 @@
 2509|[Cycle Length Queries in a Tree](./solutions/2509-cycle-length-queries-in-a-tree.js)|Hard|
 2515|[Shortest Distance to Target String in a Circular Array](./solutions/2515-shortest-distance-to-target-string-in-a-circular-array.js)|Easy|
 2516|[Take K of Each Character From Left and Right](./solutions/2516-take-k-of-each-character-from-left-and-right.js)|Medium|
+2517|[Maximum Tastiness of Candy Basket](./solutions/2517-maximum-tastiness-of-candy-basket.js)|Medium|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
