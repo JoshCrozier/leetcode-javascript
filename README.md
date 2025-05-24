@@ -1,4 +1,4 @@
-# 1,998 LeetCode solutions in JavaScript
+# 1,999 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1903,6 +1903,7 @@
 2537|[Count the Number of Good Subarrays](./solutions/2537-count-the-number-of-good-subarrays.js)|Medium|
 2540|[Minimum Common Value](./solutions/2540-minimum-common-value.js)|Easy|
 2542|[Maximum Subsequence Score](./solutions/2542-maximum-subsequence-score.js)|Medium|
+2543|[Check if Point Is Reachable](./solutions/2543-check-if-point-is-reachable.js)|Hard|
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
