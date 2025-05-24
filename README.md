@@ -1,4 +1,4 @@
-# 1,973 LeetCode solutions in JavaScript
+# 1,974 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1869,6 +1869,7 @@
 2475|[Number of Unequal Triplets in Array](./solutions/2475-number-of-unequal-triplets-in-array.js)|Easy|
 2476|[Closest Nodes Queries in a Binary Search Tree](./solutions/2476-closest-nodes-queries-in-a-binary-search-tree.js)|Medium|
 2477|[Minimum Fuel Cost to Report to the Capital](./solutions/2477-minimum-fuel-cost-to-report-to-the-capital.js)|Medium|
+2481|[Minimum Cuts to Divide a Circle](./solutions/2481-minimum-cuts-to-divide-a-circle.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./solutions/2490-circular-sentence.js)|Easy|
 2493|[Divide Nodes Into the Maximum Number of Groups](./solutions/2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
