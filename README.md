@@ -1,4 +1,4 @@
-# 1,967 LeetCode solutions in JavaScript
+# 1,968 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1862,6 +1862,7 @@
 2465|[Number of Distinct Averages](./solutions/2465-number-of-distinct-averages.js)|Easy|
 2466|[Count Ways To Build Good Strings](./solutions/2466-count-ways-to-build-good-strings.js)|Medium|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
+2468|[Split Message Based on Limit](./solutions/2468-split-message-based-on-limit.js)|Hard|
 2469|[Convert the Temperature](./solutions/2469-convert-the-temperature.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2490|[Circular Sentence](./solutions/2490-circular-sentence.js)|Easy|
