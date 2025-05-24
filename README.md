@@ -1,4 +1,4 @@
-# 1,996 LeetCode solutions in JavaScript
+# 1,997 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1899,6 +1899,7 @@
 2527|[Find Xor-Beauty of Array](./solutions/2527-find-xor-beauty-of-array.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
+2536|[Increment Submatrices by One](./solutions/2536-increment-submatrices-by-one.js)|Medium|
 2537|[Count the Number of Good Subarrays](./solutions/2537-count-the-number-of-good-subarrays.js)|Medium|
 2542|[Maximum Subsequence Score](./solutions/2542-maximum-subsequence-score.js)|Medium|
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
