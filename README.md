@@ -1,4 +1,4 @@
-# 1,982 LeetCode solutions in JavaScript
+# 1,983 LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1881,6 +1881,7 @@
 2492|[Minimum Score of a Path Between Two Cities](./solutions/2492-minimum-score-of-a-path-between-two-cities.js)|Medium|
 2493|[Divide Nodes Into the Maximum Number of Groups](./solutions/2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
 2496|[Maximum Value of a String in an Array](./solutions/2496-maximum-value-of-a-string-in-an-array.js)|Easy|
+2498|[Frog Jump II](./solutions/2498-frog-jump-ii.js)|Medium|
 2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
