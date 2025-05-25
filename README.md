@@ -1924,6 +1924,7 @@
 2574|[Left and Right Sum Differences](./solutions/2574-left-and-right-sum-differences.js)|Easy|
 2578|[Split With Minimum Sum](./solutions/2578-split-with-minimum-sum.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
+2581|[Count Number of Possible Root Nodes](./solutions/2581-count-number-of-possible-root-nodes.js)|Hard|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
