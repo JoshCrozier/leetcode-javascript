@@ -1921,6 +1921,7 @@
 2568|[Minimum Impossible OR](./solutions/2568-minimum-impossible-or.js)|Medium|
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2571|[Minimum Operations to Reduce an Integer to 0](./solutions/2571-minimum-operations-to-reduce-an-integer-to-0.js)|Medium|
+2574|[Left and Right Sum Differences](./solutions/2574-left-and-right-sum-differences.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
