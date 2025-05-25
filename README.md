@@ -1918,6 +1918,7 @@
 2563|[Count the Number of Fair Pairs](./solutions/2563-count-the-number-of-fair-pairs.js)|Medium|
 2566|[Maximum Difference by Remapping a Digit](./solutions/2566-maximum-difference-by-remapping-a-digit.js)|Easy|
 2567|[Minimum Score by Changing Two Elements](./solutions/2567-minimum-score-by-changing-two-elements.js)|Medium|
+2568|[Minimum Impossible OR](./solutions/2568-minimum-impossible-or.js)|Medium|
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
