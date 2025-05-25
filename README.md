@@ -1910,6 +1910,7 @@
 2547|[Minimum Cost to Split an Array](./solutions/2547-minimum-cost-to-split-an-array.js)|Hard|
 2549|[Count Distinct Numbers on Board](./solutions/2549-count-distinct-numbers-on-board.js)|Easy|
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
+2553|[Separate the Digits in an Array](./solutions/2553-separate-the-digits-in-an-array.js)|Easy|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
 2563|[Count the Number of Fair Pairs](./solutions/2563-count-the-number-of-fair-pairs.js)|Medium|
