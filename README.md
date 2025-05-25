@@ -1916,6 +1916,7 @@
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
 2562|[Find the Array Concatenation Value](./solutions/2562-find-the-array-concatenation-value.js)|Easy|
 2563|[Count the Number of Fair Pairs](./solutions/2563-count-the-number-of-fair-pairs.js)|Medium|
+2566|[Maximum Difference by Remapping a Digit](./solutions/2566-maximum-difference-by-remapping-a-digit.js)|Easy|
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
