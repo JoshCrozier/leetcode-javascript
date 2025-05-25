@@ -1,4 +1,4 @@
-# 2,000 LeetCode solutions in JavaScript
+# 2,000+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1905,6 +1905,7 @@
 2542|[Maximum Subsequence Score](./solutions/2542-maximum-subsequence-score.js)|Medium|
 2543|[Check if Point Is Reachable](./solutions/2543-check-if-point-is-reachable.js)|Hard|
 2544|[Alternating Digit Sum](./solutions/2544-alternating-digit-sum.js)|Easy|
+2545|[Sort the Students by Their Kth Score](./solutions/2545-sort-the-students-by-their-kth-score.js)|Medium|
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
