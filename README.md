@@ -1935,6 +1935,7 @@
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
 2595|[Number of Even and Odd Bits](./solutions/2595-number-of-even-and-odd-bits.js)|Easy|
 2596|[Check Knight Tour Configuration](./solutions/2596-check-knight-tour-configuration.js)|Medium|
+2597|[The Number of Beautiful Subsets](./solutions/2597-the-number-of-beautiful-subsets.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
 2619|[Array Prototype Last](./solutions/2619-array-prototype-last.js)|Easy|
