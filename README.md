@@ -1929,6 +1929,7 @@
 2583|[Kth Largest Sum in a Binary Tree](./solutions/2583-kth-largest-sum-in-a-binary-tree.js)|Medium|
 2585|[Number of Ways to Earn Points](./solutions/2585-number-of-ways-to-earn-points.js)|Hard|
 2586|[Count the Number of Vowel Strings in Range](./solutions/2586-count-the-number-of-vowel-strings-in-range.js)|Easy|
+2587|[Rearrange Array to Maximize Prefix Score](./solutions/2587-rearrange-array-to-maximize-prefix-score.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
