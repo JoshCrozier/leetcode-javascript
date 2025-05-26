@@ -1931,6 +1931,7 @@
 2586|[Count the Number of Vowel Strings in Range](./solutions/2586-count-the-number-of-vowel-strings-in-range.js)|Easy|
 2587|[Rearrange Array to Maximize Prefix Score](./solutions/2587-rearrange-array-to-maximize-prefix-score.js)|Medium|
 2588|[Count the Number of Beautiful Subarrays](./solutions/2588-count-the-number-of-beautiful-subarrays.js)|Medium|
+2592|[Maximize Greatness of an Array](./solutions/2592-maximize-greatness-of-an-array.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
