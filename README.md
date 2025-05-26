@@ -1926,6 +1926,7 @@
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2581|[Count Number of Possible Root Nodes](./solutions/2581-count-number-of-possible-root-nodes.js)|Hard|
 2582|[Pass the Pillow](./solutions/2582-pass-the-pillow.js)|Easy|
+2583|[Kth Largest Sum in a Binary Tree](./solutions/2583-kth-largest-sum-in-a-binary-tree.js)|Medium|
 2594|[Minimum Time to Repair Cars](./solutions/2594-minimum-time-to-repair-cars.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
