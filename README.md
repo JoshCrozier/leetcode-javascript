@@ -1938,6 +1938,7 @@
 2597|[The Number of Beautiful Subsets](./solutions/2597-the-number-of-beautiful-subsets.js)|Medium|
 2600|[K Items With the Maximum Sum](./solutions/2600-k-items-with-the-maximum-sum.js)|Easy|
 2601|[Prime Subtraction Operation](./solutions/2601-prime-subtraction-operation.js)|Medium|
+2605|[Form Smallest Number From Two Digit Arrays](./solutions/2605-form-smallest-number-from-two-digit-arrays.js)|Easy|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
 2619|[Array Prototype Last](./solutions/2619-array-prototype-last.js)|Easy|
