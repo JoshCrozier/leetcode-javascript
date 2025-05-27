@@ -1988,6 +1988,7 @@
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
+2894|[Divisible and Non-divisible Sums Difference](./solutions/2894-divisible-and-non-divisible-sums-difference.js)|Easy|
 2900|[Longest Unequal Adjacent Groups Subsequence I](./solutions/2900-longest-unequal-adjacent-groups-subsequence-i.js)|Easy|
 2901|[Longest Unequal Adjacent Groups Subsequence II](./solutions/2901-longest-unequal-adjacent-groups-subsequence-ii.js)|Medium|
 2918|[Minimum Equal Sum of Two Arrays After Replacing Zeros](./solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.js)|Medium|
