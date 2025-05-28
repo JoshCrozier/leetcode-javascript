@@ -1961,6 +1961,7 @@
 2635|[Apply Transform Over Each Element in Array](./solutions/2635-apply-transform-over-each-element-in-array.js)|Easy|
 2637|[Promise Time Limit](./solutions/2637-promise-time-limit.js)|Medium|
 2639|[Find the Width of Columns of a Grid](./solutions/2639-find-the-width-of-columns-of-a-grid.js)|Easy|
+2640|[Find the Score of All Prefixes of an Array](./solutions/2640-find-the-score-of-all-prefixes-of-an-array.js)|Medium|
 2648|[Generate Fibonacci Sequence](./solutions/2648-generate-fibonacci-sequence.js)|Easy|
 2649|[Nested Array Generator](./solutions/2649-nested-array-generator.js)|Medium|
 2650|[Design Cancellable Function](./solutions/2650-design-cancellable-function.js)|Hard|
