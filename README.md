@@ -1970,6 +1970,7 @@
 2649|[Nested Array Generator](./solutions/2649-nested-array-generator.js)|Medium|
 2650|[Design Cancellable Function](./solutions/2650-design-cancellable-function.js)|Hard|
 2651|[Calculate Delayed Arrival Time](./solutions/2651-calculate-delayed-arrival-time.js)|Easy|
+2652|[Sum Multiples](./solutions/2652-sum-multiples.js)|Easy|
 2657|[Find the Prefix Common Array of Two Arrays](./solutions/2657-find-the-prefix-common-array-of-two-arrays.js)|Medium|
 2658|[Maximum Number of Fish in a Grid](./solutions/2658-maximum-number-of-fish-in-a-grid.js)|Medium|
 2661|[First Completely Painted Row or Column](./solutions/2661-first-completely-painted-row-or-column.js)|Medium|
