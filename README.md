@@ -1941,6 +1941,7 @@
 2605|[Form Smallest Number From Two Digit Arrays](./solutions/2605-form-smallest-number-from-two-digit-arrays.js)|Easy|
 2606|[Find the Substring With Maximum Cost](./solutions/2606-find-the-substring-with-maximum-cost.js)|Medium|
 2609|[Find the Longest Balanced Substring of a Binary String](./solutions/2609-find-the-longest-balanced-substring-of-a-binary-string.js)|Easy|
+2610|[Convert an Array Into a 2D Array With Conditions](./solutions/2610-convert-an-array-into-a-2d-array-with-conditions.js)|Medium|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
 2619|[Array Prototype Last](./solutions/2619-array-prototype-last.js)|Easy|
