@@ -1978,6 +1978,7 @@
 2665|[Counter II](./solutions/2665-counter-ii.js)|Easy|
 2666|[Allow One Function Call](./solutions/2666-allow-one-function-call.js)|Easy|
 2667|[Create Hello World Function](./solutions/2667-create-hello-world-function.js)|Easy|
+2670|[Find the Distinct Difference Array](./solutions/2670-find-the-distinct-difference-array.js)|Easy|
 2677|[Chunk Array](./solutions/2677-chunk-array.js)|Easy|
 2683|[Neighboring Bitwise XOR](./solutions/2683-neighboring-bitwise-xor.js)|Medium|
 2685|[Count the Number of Complete Components](./solutions/2685-count-the-number-of-complete-components.js)|Medium|
