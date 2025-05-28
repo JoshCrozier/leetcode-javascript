@@ -1964,6 +1964,7 @@
 2640|[Find the Score of All Prefixes of an Array](./solutions/2640-find-the-score-of-all-prefixes-of-an-array.js)|Medium|
 2641|[Cousins in Binary Tree II](./solutions/2641-cousins-in-binary-tree-ii.js)|Medium|
 2643|[Row With Maximum Ones](./solutions/2643-row-with-maximum-ones.js)|Easy|
+2644|[Find the Maximum Divisibility Score](./solutions/2644-find-the-maximum-divisibility-score.js)|Easy|
 2648|[Generate Fibonacci Sequence](./solutions/2648-generate-fibonacci-sequence.js)|Easy|
 2649|[Nested Array Generator](./solutions/2649-nested-array-generator.js)|Medium|
 2650|[Design Cancellable Function](./solutions/2650-design-cancellable-function.js)|Hard|
