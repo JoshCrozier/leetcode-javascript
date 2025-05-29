@@ -1997,6 +1997,7 @@
 2703|[Return Length of Arguments Passed](./solutions/2703-return-length-of-arguments-passed.js)|Easy|
 2704|[To Be Or Not To Be](./solutions/2704-to-be-or-not-to-be.js)|Easy|
 2705|[Compact Object](./solutions/2705-compact-object.js)|Medium|
+2706|[Buy Two Chocolates](./solutions/2706-buy-two-chocolates.js)|Easy|
 2715|[Timeout Cancellation](./solutions/2715-timeout-cancellation.js)|Easy|
 2721|[Execute Asynchronous Functions in Parallel](./solutions/2721-execute-asynchronous-functions-in-parallel.js)|Medium|
 2722|[Join Two Arrays by ID](./solutions/2722-join-two-arrays-by-id.js)|Medium|
