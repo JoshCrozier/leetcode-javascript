@@ -2044,6 +2044,7 @@
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
 3362|[Zero Array Transformation III](./solutions/3362-zero-array-transformation-iii.js)|Medium|
 3372|[Maximize the Number of Target Nodes After Connecting Trees I](./solutions/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i.js)|Medium|
+3373|[Maximize the Number of Target Nodes After Connecting Trees II](./solutions/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii.js)|Hard|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
 3392|[Count Subarrays of Length Three With a Condition](./solutions/3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3394|[Check if Grid can be Cut into Sections](./solutions/3394-check-if-grid-can-be-cut-into-sections.js)|Medium|
