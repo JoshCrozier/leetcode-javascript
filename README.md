@@ -1986,6 +1986,7 @@
 2680|[Maximum OR](./solutions/2680-maximum-or.js)|Medium|
 2682|[Find the Losers of the Circular Game](./solutions/2682-find-the-losers-of-the-circular-game.js)|Easy|
 2683|[Neighboring Bitwise XOR](./solutions/2683-neighboring-bitwise-xor.js)|Medium|
+2684|[Maximum Number of Moves in a Grid](./solutions/2684-maximum-number-of-moves-in-a-grid.js)|Medium|
 2685|[Count the Number of Complete Components](./solutions/2685-count-the-number-of-complete-components.js)|Medium|
 2693|[Call Function with Custom Context](./solutions/2693-call-function-with-custom-context.js)|Medium|
 2694|[Event Emitter](./solutions/2694-event-emitter.js)|Medium|
