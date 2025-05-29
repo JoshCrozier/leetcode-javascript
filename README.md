@@ -1980,6 +1980,7 @@
 2667|[Create Hello World Function](./solutions/2667-create-hello-world-function.js)|Easy|
 2670|[Find the Distinct Difference Array](./solutions/2670-find-the-distinct-difference-array.js)|Easy|
 2672|[Number of Adjacent Elements With the Same Color](./solutions/2672-number-of-adjacent-elements-with-the-same-color.js)|Medium|
+2673|[Make Costs of Paths Equal in a Binary Tree](./solutions/2673-make-costs-of-paths-equal-in-a-binary-tree.js)|Medium|
 2677|[Chunk Array](./solutions/2677-chunk-array.js)|Easy|
 2683|[Neighboring Bitwise XOR](./solutions/2683-neighboring-bitwise-xor.js)|Medium|
 2685|[Count the Number of Complete Components](./solutions/2685-count-the-number-of-complete-components.js)|Medium|
