@@ -1999,6 +1999,7 @@
 2705|[Compact Object](./solutions/2705-compact-object.js)|Medium|
 2706|[Buy Two Chocolates](./solutions/2706-buy-two-chocolates.js)|Easy|
 2707|[Extra Characters in a String](./solutions/2707-extra-characters-in-a-string.js)|Medium|
+2710|[Remove Trailing Zeros From a String](./solutions/2710-remove-trailing-zeros-from-a-string.js)|Easy|
 2715|[Timeout Cancellation](./solutions/2715-timeout-cancellation.js)|Easy|
 2721|[Execute Asynchronous Functions in Parallel](./solutions/2721-execute-asynchronous-functions-in-parallel.js)|Medium|
 2722|[Join Two Arrays by ID](./solutions/2722-join-two-arrays-by-id.js)|Medium|
