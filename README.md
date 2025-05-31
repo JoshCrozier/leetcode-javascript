@@ -2000,6 +2000,7 @@
 2706|[Buy Two Chocolates](./solutions/2706-buy-two-chocolates.js)|Easy|
 2707|[Extra Characters in a String](./solutions/2707-extra-characters-in-a-string.js)|Medium|
 2710|[Remove Trailing Zeros From a String](./solutions/2710-remove-trailing-zeros-from-a-string.js)|Easy|
+2711|[Difference of Number of Distinct Values on Diagonals](./solutions/2711-difference-of-number-of-distinct-values-on-diagonals.js)|Medium|
 2715|[Timeout Cancellation](./solutions/2715-timeout-cancellation.js)|Easy|
 2716|[Minimize String Length](./solutions/2716-minimize-string-length.js)|Easy|
 2721|[Execute Asynchronous Functions in Parallel](./solutions/2721-execute-asynchronous-functions-in-parallel.js)|Medium|
