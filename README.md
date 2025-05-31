@@ -2004,6 +2004,7 @@
 2712|[Minimum Cost to Make All Characters Equal](./solutions/2712-minimum-cost-to-make-all-characters-equal.js)|Medium|
 2715|[Timeout Cancellation](./solutions/2715-timeout-cancellation.js)|Easy|
 2716|[Minimize String Length](./solutions/2716-minimize-string-length.js)|Easy|
+2717|[Semi-Ordered Permutation](./solutions/2717-semi-ordered-permutation.js)|Easy|
 2721|[Execute Asynchronous Functions in Parallel](./solutions/2721-execute-asynchronous-functions-in-parallel.js)|Medium|
 2722|[Join Two Arrays by ID](./solutions/2722-join-two-arrays-by-id.js)|Medium|
 2723|[Add Two Promises](./solutions/2723-add-two-promises.js)|Easy|
