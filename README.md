@@ -2030,6 +2030,7 @@
 2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
 2769|[Find the Maximum Achievable Number](./solutions/2769-find-the-maximum-achievable-number.js)|Easy|
 2778|[Sum of Squares of Special Elements](./solutions/2778-sum-of-squares-of-special-elements.js)|Easy|
+2779|[Maximum Beauty of an Array After Applying Operation](./solutions/2779-maximum-beauty-of-an-array-after-applying-operation.js)|Medium|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
