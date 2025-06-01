@@ -2022,6 +2022,7 @@
 2744|[Find Maximum Number of String Pairs](./solutions/2744-find-maximum-number-of-string-pairs.js)|Easy|
 2745|[Construct the Longest New String](./solutions/2745-construct-the-longest-new-string.js)|Medium|
 2748|[Number of Beautiful Pairs](./solutions/2748-number-of-beautiful-pairs.js)|Easy|
+2751|[Robot Collisions](./solutions/2751-robot-collisions.js)|Hard|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
