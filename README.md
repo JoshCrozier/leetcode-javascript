@@ -2029,6 +2029,7 @@
 2766|[Relocate Marbles](./solutions/2766-relocate-marbles.js)|Medium|
 2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
 2769|[Find the Maximum Achievable Number](./solutions/2769-find-the-maximum-achievable-number.js)|Easy|
+2778|[Sum of Squares of Special Elements](./solutions/2778-sum-of-squares-of-special-elements.js)|Easy|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
