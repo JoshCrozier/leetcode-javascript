@@ -2013,6 +2013,7 @@
 2725|[Interval Cancellation](./solutions/2725-interval-cancellation.js)|Easy|
 2726|[Calculator with Method Chaining](./solutions/2726-calculator-with-method-chaining.js)|Easy|
 2727|[Is Object Empty](./solutions/2727-is-object-empty.js)|Easy|
+2729|[Check if The Number is Fascinating](./solutions/2729-check-if-the-number-is-fascinating.js)|Easy|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
