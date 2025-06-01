@@ -1999,6 +1999,7 @@
 2705|[Compact Object](./solutions/2705-compact-object.js)|Medium|
 2706|[Buy Two Chocolates](./solutions/2706-buy-two-chocolates.js)|Easy|
 2707|[Extra Characters in a String](./solutions/2707-extra-characters-in-a-string.js)|Medium|
+2709|[Greatest Common Divisor Traversal](./solutions/2709-greatest-common-divisor-traversal.js)|Hard|
 2710|[Remove Trailing Zeros From a String](./solutions/2710-remove-trailing-zeros-from-a-string.js)|Easy|
 2711|[Difference of Number of Distinct Values on Diagonals](./solutions/2711-difference-of-number-of-distinct-values-on-diagonals.js)|Medium|
 2712|[Minimum Cost to Make All Characters Equal](./solutions/2712-minimum-cost-to-make-all-characters-equal.js)|Medium|
