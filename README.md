@@ -2018,6 +2018,7 @@
 2733|[Neither Minimum nor Maximum](./solutions/2733-neither-minimum-nor-maximum.js)|Easy|
 2739|[Total Distance Traveled](./solutions/2739-total-distance-traveled.js)|Easy|
 2740|[Find the Value of the Partition](./solutions/2740-find-the-value-of-the-partition.js)|Medium|
+2742|[Painting the Walls](./solutions/2742-painting-the-walls.js)|Hard|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
