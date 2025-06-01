@@ -2025,6 +2025,7 @@
 2751|[Robot Collisions](./solutions/2751-robot-collisions.js)|Hard|
 2763|[Sum of Imbalance Numbers of All Subarrays](./solutions/2763-sum-of-imbalance-numbers-of-all-subarrays.js)|Hard|
 2766|[Relocate Marbles](./solutions/2766-relocate-marbles.js)|Medium|
+2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
