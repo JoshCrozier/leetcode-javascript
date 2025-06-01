@@ -1967,6 +1967,7 @@
 2643|[Row With Maximum Ones](./solutions/2643-row-with-maximum-ones.js)|Easy|
 2644|[Find the Maximum Divisibility Score](./solutions/2644-find-the-maximum-divisibility-score.js)|Easy|
 2645|[Minimum Additions to Make Valid String](./solutions/2645-minimum-additions-to-make-valid-string.js)|Medium|
+2646|[Minimize the Total Price of the Trips](./solutions/2646-minimize-the-total-price-of-the-trips.js)|Hard|
 2648|[Generate Fibonacci Sequence](./solutions/2648-generate-fibonacci-sequence.js)|Easy|
 2649|[Nested Array Generator](./solutions/2649-nested-array-generator.js)|Medium|
 2650|[Design Cancellable Function](./solutions/2650-design-cancellable-function.js)|Hard|
