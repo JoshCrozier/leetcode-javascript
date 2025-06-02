@@ -2040,6 +2040,7 @@
 2791|[Count Paths That Can Form a Palindrome in a Tree](./solutions/2791-count-paths-that-can-form-a-palindrome-in-a-tree.js)|Hard|
 2798|[Number of Employees Who Met the Target](./solutions/2798-number-of-employees-who-met-the-target.js)|Easy|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
+2806|[Account Balance After Rounded Purchase](./solutions/2806-account-balance-after-rounded-purchase.js)|Easy|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
