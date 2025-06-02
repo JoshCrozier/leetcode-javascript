@@ -1864,6 +1864,7 @@
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
 2468|[Split Message Based on Limit](./solutions/2468-split-message-based-on-limit.js)|Hard|
 2469|[Convert the Temperature](./solutions/2469-convert-the-temperature.js)|Easy|
+2470|[Number of Subarrays With LCM Equal to K](./solutions/2470-number-of-subarrays-with-lcm-equal-to-k.js)|Medium|
 2471|[Minimum Number of Operations to Sort a Binary Tree by Level](./solutions/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level.js)|Medium|
 2472|[Maximum Number of Non-overlapping Palindrome Substrings](./solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.js)|Hard|
 2475|[Number of Unequal Triplets in Array](./solutions/2475-number-of-unequal-triplets-in-array.js)|Easy|
