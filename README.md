@@ -2048,6 +2048,7 @@
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2824|[Count Pairs Whose Sum is Less than Target](./solutions/2824-count-pairs-whose-sum-is-less-than-target.js)|Easy|
 2825|[Make String a Subsequence Using Cyclic Increments](./solutions/2825-make-string-a-subsequence-using-cyclic-increments.js)|Medium|
+2826|[Sorting Three Groups](./solutions/2826-sorting-three-groups.js)|Medium|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
