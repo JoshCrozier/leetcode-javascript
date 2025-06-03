@@ -2046,6 +2046,7 @@
 2815|[Max Pair Sum in an Array](./solutions/2815-max-pair-sum-in-an-array.js)|Easy|
 2816|[Double a Number Represented as a Linked List](./solutions/2816-double-a-number-represented-as-a-linked-list.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
+2824|[Count Pairs Whose Sum is Less than Target](./solutions/2824-count-pairs-whose-sum-is-less-than-target.js)|Easy|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
