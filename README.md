@@ -2078,6 +2078,7 @@
 2899|[Last Visited Integers](./solutions/2899-last-visited-integers.js)|Easy|
 2900|[Longest Unequal Adjacent Groups Subsequence I](./solutions/2900-longest-unequal-adjacent-groups-subsequence-i.js)|Easy|
 2901|[Longest Unequal Adjacent Groups Subsequence II](./solutions/2901-longest-unequal-adjacent-groups-subsequence-ii.js)|Medium|
+2903|[Find Indices With Index and Value Difference I](./solutions/2903-find-indices-with-index-and-value-difference-i.js)|Easy|
 2918|[Minimum Equal Sum of Two Arrays After Replacing Zeros](./solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.js)|Medium|
 2929|[Distribute Candies Among Children II](./solutions/2929-distribute-candies-among-children-ii.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
