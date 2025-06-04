@@ -2064,6 +2064,7 @@
 2859|[Sum of Values at Indices With K Set Bits](./solutions/2859-sum-of-values-at-indices-with-k-set-bits.js)|Easy|
 2860|[Happy Students](./solutions/2860-happy-students.js)|Medium|
 2862|[Maximum Element-Sum of a Complete Subset of Indices](./solutions/2862-maximum-element-sum-of-a-complete-subset-of-indices.js)|Hard|
+2864|[Maximum Odd Binary Number](./solutions/2864-maximum-odd-binary-number.js)|Easy|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2894|[Divisible and Non-divisible Sums Difference](./solutions/2894-divisible-and-non-divisible-sums-difference.js)|Easy|
