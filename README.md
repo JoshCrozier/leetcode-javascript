@@ -2053,6 +2053,7 @@
 2829|[Determine the Minimum Sum of a k-avoiding Array](./solutions/2829-determine-the-minimum-sum-of-a-k-avoiding-array.js)|Medium|
 2833|[Furthest Point From Origin](./solutions/2833-furthest-point-from-origin.js)|Easy|
 2839|[Check if Strings Can be Made Equal With Operations I](./solutions/2839-check-if-strings-can-be-made-equal-with-operations-i.js)|Easy|
+2840|[Check if Strings Can be Made Equal With Operations II](./solutions/2840-check-if-strings-can-be-made-equal-with-operations-ii.js)|Medium|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
