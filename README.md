@@ -2059,6 +2059,7 @@
 2846|[Minimum Edge Weight Equilibrium Queries in a Tree](./solutions/2846-minimum-edge-weight-equilibrium-queries-in-a-tree.js)|Hard|
 2848|[Points That Intersect With Cars](./solutions/2848-points-that-intersect-with-cars.js)|Easy|
 2850|[Minimum Moves to Spread Stones Over Grid](./solutions/2850-minimum-moves-to-spread-stones-over-grid.js)|Medium|
+2855|[Minimum Right Shifts to Sort the Array](./solutions/2855-minimum-right-shifts-to-sort-the-array.js)|Easy|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2894|[Divisible and Non-divisible Sums Difference](./solutions/2894-divisible-and-non-divisible-sums-difference.js)|Easy|
