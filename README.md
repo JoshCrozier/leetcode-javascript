@@ -2067,6 +2067,7 @@
 2864|[Maximum Odd Binary Number](./solutions/2864-maximum-odd-binary-number.js)|Easy|
 2865|[Beautiful Towers I](./solutions/2865-beautiful-towers-i.js)|Medium|
 2869|[Minimum Operations to Collect Elements](./solutions/2869-minimum-operations-to-collect-elements.js)|Easy|
+2870|[Minimum Number of Operations to Make Array Empty](./solutions/2870-minimum-number-of-operations-to-make-array-empty.js)|Medium|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
 2894|[Divisible and Non-divisible Sums Difference](./solutions/2894-divisible-and-non-divisible-sums-difference.js)|Easy|
