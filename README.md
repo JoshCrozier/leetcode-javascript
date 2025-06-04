@@ -2096,6 +2096,7 @@
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./solutions/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./solutions/3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
 3402|[Minimum Operations to Make Columns Strictly Increasing](./solutions/3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
+3403|[Find the Lexicographically Largest String From the Box I](./solutions/3403-find-the-lexicographically-largest-string-from-the-box-i.js)|Medium|
 3452|[Sum of Good Numbers](./solutions/3452-sum-of-good-numbers.js)|Easy|
 3461|[Check If Digits Are Equal in String After Operations I](./solutions/3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
 3462|[Maximum Sum With at Most K Elements](./solutions/3462-maximum-sum-with-at-most-k-elements.js)|Medium|
