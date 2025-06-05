@@ -2085,6 +2085,7 @@
 2914|[Minimum Number of Changes to Make Binary String Beautiful](./solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful.js)|Medium|
 2917|[Find the K-or of an Array](./solutions/2917-find-the-k-or-of-an-array.js)|Easy|
 2918|[Minimum Equal Sum of Two Arrays After Replacing Zeros](./solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.js)|Medium|
+2923|[Find Champion I](./solutions/2923-find-champion-i.js)|Easy|
 2929|[Distribute Candies Among Children II](./solutions/2929-distribute-candies-among-children-ii.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
