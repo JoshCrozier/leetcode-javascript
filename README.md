@@ -2080,6 +2080,7 @@
 2901|[Longest Unequal Adjacent Groups Subsequence II](./solutions/2901-longest-unequal-adjacent-groups-subsequence-ii.js)|Medium|
 2903|[Find Indices With Index and Value Difference I](./solutions/2903-find-indices-with-index-and-value-difference-i.js)|Easy|
 2908|[Minimum Sum of Mountain Triplets I](./solutions/2908-minimum-sum-of-mountain-triplets-i.js)|Easy|
+2909|[Minimum Sum of Mountain Triplets II](./solutions/2909-minimum-sum-of-mountain-triplets-ii.js)|Medium|
 2918|[Minimum Equal Sum of Two Arrays After Replacing Zeros](./solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.js)|Medium|
 2929|[Distribute Candies Among Children II](./solutions/2929-distribute-candies-among-children-ii.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
