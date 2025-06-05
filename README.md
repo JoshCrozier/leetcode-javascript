@@ -2096,6 +2096,7 @@
 2937|[Make Three Strings Equal](./solutions/2937-make-three-strings-equal.js)|Easy|
 2938|[Separate Black and White Balls](./solutions/2938-separate-black-and-white-balls.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
+2946|[Matrix Similarity After Cyclic Shifts](./solutions/2946-matrix-similarity-after-cyclic-shifts.js)|Easy|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
