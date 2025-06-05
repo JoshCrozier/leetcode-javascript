@@ -2102,6 +2102,7 @@
 2951|[Find the Peaks](./solutions/2951-find-the-peaks.js)|Easy|
 2952|[Minimum Number of Coins to be Added](./solutions/2952-minimum-number-of-coins-to-be-added.js)|Medium|
 2956|[Find Common Elements Between Two Arrays](./solutions/2956-find-common-elements-between-two-arrays.js)|Easy|
+2957|[Remove Adjacent Almost-Equal Characters](./solutions/2957-remove-adjacent-almost-equal-characters.js)|Medium|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
