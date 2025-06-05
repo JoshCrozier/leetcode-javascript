@@ -2091,6 +2091,7 @@
 2928|[Distribute Candies Among Children I](./solutions/2928-distribute-candies-among-children-i.js)|Easy|
 2929|[Distribute Candies Among Children II](./solutions/2929-distribute-candies-among-children-ii.js)|Medium|
 2932|[Maximum Strong Pair XOR I](./solutions/2932-maximum-strong-pair-xor-i.js)|Easy|
+2933|[High-Access Employees](./solutions/2933-high-access-employees.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
