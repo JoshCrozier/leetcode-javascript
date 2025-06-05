@@ -2088,6 +2088,7 @@
 2923|[Find Champion I](./solutions/2923-find-champion-i.js)|Easy|
 2924|[Find Champion II](./solutions/2924-find-champion-ii.js)|Medium|
 2925|[Maximum Score After Applying Operations on a Tree](./solutions/2925-maximum-score-after-applying-operations-on-a-tree.js)|Medium|
+2928|[Distribute Candies Among Children I](./solutions/2928-distribute-candies-among-children-i.js)|Easy|
 2929|[Distribute Candies Among Children II](./solutions/2929-distribute-candies-among-children-ii.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
