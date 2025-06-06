@@ -2085,6 +2085,7 @@
 2900|[Longest Unequal Adjacent Groups Subsequence I](./solutions/2900-longest-unequal-adjacent-groups-subsequence-i.js)|Easy|
 2901|[Longest Unequal Adjacent Groups Subsequence II](./solutions/2901-longest-unequal-adjacent-groups-subsequence-ii.js)|Medium|
 2903|[Find Indices With Index and Value Difference I](./solutions/2903-find-indices-with-index-and-value-difference-i.js)|Easy|
+2904|[Shortest and Lexicographically Smallest Beautiful String](./solutions/2904-shortest-and-lexicographically-smallest-beautiful-string.js)|Medium|
 2908|[Minimum Sum of Mountain Triplets I](./solutions/2908-minimum-sum-of-mountain-triplets-i.js)|Easy|
 2909|[Minimum Sum of Mountain Triplets II](./solutions/2909-minimum-sum-of-mountain-triplets-ii.js)|Medium|
 2913|[Subarrays Distinct Element Sum of Squares I](./solutions/2913-subarrays-distinct-element-sum-of-squares-i.js)|Easy|
