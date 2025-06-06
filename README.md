@@ -1942,6 +1942,7 @@
 2595|[Number of Even and Odd Bits](./solutions/2595-number-of-even-and-odd-bits.js)|Easy|
 2596|[Check Knight Tour Configuration](./solutions/2596-check-knight-tour-configuration.js)|Medium|
 2597|[The Number of Beautiful Subsets](./solutions/2597-the-number-of-beautiful-subsets.js)|Medium|
+2598|[Smallest Missing Non-negative Integer After Operations](./solutions/2598-smallest-missing-non-negative-integer-after-operations.js)|Medium|
 2600|[K Items With the Maximum Sum](./solutions/2600-k-items-with-the-maximum-sum.js)|Easy|
 2601|[Prime Subtraction Operation](./solutions/2601-prime-subtraction-operation.js)|Medium|
 2605|[Form Smallest Number From Two Digit Arrays](./solutions/2605-form-smallest-number-from-two-digit-arrays.js)|Easy|
