@@ -2059,6 +2059,7 @@
 2833|[Furthest Point From Origin](./solutions/2833-furthest-point-from-origin.js)|Easy|
 2839|[Check if Strings Can be Made Equal With Operations I](./solutions/2839-check-if-strings-can-be-made-equal-with-operations-i.js)|Easy|
 2840|[Check if Strings Can be Made Equal With Operations II](./solutions/2840-check-if-strings-can-be-made-equal-with-operations-ii.js)|Medium|
+2841|[Maximum Sum of Almost Unique Subarray](./solutions/2841-maximum-sum-of-almost-unique-subarray.js)|Medium|
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2846|[Minimum Edge Weight Equilibrium Queries in a Tree](./solutions/2846-minimum-edge-weight-equilibrium-queries-in-a-tree.js)|Hard|
