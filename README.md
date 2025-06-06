@@ -2123,6 +2123,7 @@
 2980|[Check if Bitwise OR Has Trailing Zeros](./solutions/2980-check-if-bitwise-or-has-trailing-zeros.js)|Easy|
 2981|[Find Longest Special Substring That Occurs Thrice I](./solutions/2981-find-longest-special-substring-that-occurs-thrice-i.js)|Medium|
 2997|[Minimum Number of Operations to Make Array XOR Equal to K](./solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.js)|Medium|
+2998|[Minimum Number of Operations to Make X and Y Equal](./solutions/2998-minimum-number-of-operations-to-make-x-and-y-equal.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
