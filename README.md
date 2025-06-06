@@ -2107,6 +2107,7 @@
 2960|[Count Tested Devices After Test Operations](./solutions/2960-count-tested-devices-after-test-operations.js)|Easy|
 2961|[Double Modular Exponentiation](./solutions/2961-double-modular-exponentiation.js)|Medium|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
+2963|[Count the Number of Good Partitions](./solutions/2963-count-the-number-of-good-partitions.js)|Hard|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
