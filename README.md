@@ -2109,6 +2109,7 @@
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
 2963|[Count the Number of Good Partitions](./solutions/2963-count-the-number-of-good-partitions.js)|Hard|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
+2966|[Divide Array Into Arrays With Max Difference](./solutions/2966-divide-array-into-arrays-with-max-difference.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
