@@ -1927,6 +1927,7 @@
 2570|[Merge Two 2D Arrays by Summing Values](./solutions/2570-merge-two-2d-arrays-by-summing-values.js)|Easy|
 2571|[Minimum Operations to Reduce an Integer to 0](./solutions/2571-minimum-operations-to-reduce-an-integer-to-0.js)|Medium|
 2574|[Left and Right Sum Differences](./solutions/2574-left-and-right-sum-differences.js)|Easy|
+2576|[Find the Maximum Number of Marked Indices](./solutions/2576-find-the-maximum-number-of-marked-indices.js)|Medium|
 2578|[Split With Minimum Sum](./solutions/2578-split-with-minimum-sum.js)|Easy|
 2579|[Count Total Number of Colored Cells](./solutions/2579-count-total-number-of-colored-cells.js)|Medium|
 2581|[Count Number of Possible Root Nodes](./solutions/2581-count-number-of-possible-root-nodes.js)|Hard|
