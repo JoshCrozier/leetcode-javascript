@@ -2104,6 +2104,7 @@
 2956|[Find Common Elements Between Two Arrays](./solutions/2956-find-common-elements-between-two-arrays.js)|Easy|
 2957|[Remove Adjacent Almost-Equal Characters](./solutions/2957-remove-adjacent-almost-equal-characters.js)|Medium|
 2958|[Length of Longest Subarray With at Most K Frequency](./solutions/2958-length-of-longest-subarray-with-at-most-k-frequency.js)|Medium|
+2960|[Count Tested Devices After Test Operations](./solutions/2960-count-tested-devices-after-test-operations.js)|Easy|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
