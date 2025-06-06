@@ -1801,6 +1801,7 @@
 2373|[Largest Local Values in a Matrix](./solutions/2373-largest-local-values-in-a-matrix.js)|Easy|
 2374|[Node With Highest Edge Score](./solutions/2374-node-with-highest-edge-score.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
+2376|[Count Special Integers](./solutions/2376-count-special-integers.js)|Hard|
 2379|[Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks.js)|Easy|
 2380|[Time Needed to Rearrange a Binary String](./solutions/2380-time-needed-to-rearrange-a-binary-string.js)|Medium|
 2381|[Shifting Letters II](./solutions/2381-shifting-letters-ii.js)|Medium|
