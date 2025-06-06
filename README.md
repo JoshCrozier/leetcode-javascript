@@ -2113,6 +2113,7 @@
 2970|[Count the Number of Incremovable Subarrays I](./solutions/2970-count-the-number-of-incremovable-subarrays-i.js)|Easy|
 2971|[Find Polygon With the Largest Perimeter](./solutions/2971-find-polygon-with-the-largest-perimeter.js)|Medium|
 2976|[Minimum Cost to Convert String I](./solutions/2976-minimum-cost-to-convert-string-i.js)|Medium|
+2980|[Check if Bitwise OR Has Trailing Zeros](./solutions/2980-check-if-bitwise-or-has-trailing-zeros.js)|Easy|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
