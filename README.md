@@ -2125,6 +2125,7 @@
 2997|[Minimum Number of Operations to Make Array XOR Equal to K](./solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.js)|Medium|
 2998|[Minimum Number of Operations to Make X and Y Equal](./solutions/2998-minimum-number-of-operations-to-make-x-and-y-equal.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
+3002|[Maximum Size of a Set After Removals](./solutions/3002-maximum-size-of-a-set-after-removals.js)|Medium|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
