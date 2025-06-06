@@ -2127,6 +2127,7 @@
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3002|[Maximum Size of a Set After Removals](./solutions/3002-maximum-size-of-a-set-after-removals.js)|Medium|
 3005|[Count Elements With Maximum Frequency](./solutions/3005-count-elements-with-maximum-frequency.js)|Easy|
+3010|[Divide an Array Into Subarrays With Minimum Cost I](./solutions/3010-divide-an-array-into-subarrays-with-minimum-cost-i.js)|Easy|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
