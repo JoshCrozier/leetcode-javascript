@@ -1875,6 +1875,7 @@
 2481|[Minimum Cuts to Divide a Circle](./solutions/2481-minimum-cuts-to-divide-a-circle.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2483|[Minimum Penalty for a Shop](./solutions/2483-minimum-penalty-for-a-shop.js)|Medium|
+2484|[Count Palindromic Subsequences](./solutions/2484-count-palindromic-subsequences.js)|Hard|
 2485|[Find the Pivot Integer](./solutions/2485-find-the-pivot-integer.js)|Easy|
 2486|[Append Characters to String to Make Subsequence](./solutions/2486-append-characters-to-string-to-make-subsequence.js)|Medium|
 2487|[Remove Nodes From Linked List](./solutions/2487-remove-nodes-from-linked-list.js)|Medium|
