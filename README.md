@@ -2111,6 +2111,7 @@
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2966|[Divide Array Into Arrays With Max Difference](./solutions/2966-divide-array-into-arrays-with-max-difference.js)|Medium|
 2970|[Count the Number of Incremovable Subarrays I](./solutions/2970-count-the-number-of-incremovable-subarrays-i.js)|Easy|
+2971|[Find Polygon With the Largest Perimeter](./solutions/2971-find-polygon-with-the-largest-perimeter.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
