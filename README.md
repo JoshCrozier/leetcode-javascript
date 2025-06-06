@@ -2131,6 +2131,7 @@
 3011|[Find if Array Can Be Sorted](./solutions/3011-find-if-array-can-be-sorted.js)|Medium|
 3014|[Minimum Number of Pushes to Type Word I](./solutions/3014-minimum-number-of-pushes-to-type-word-i.js)|Easy|
 3015|[Count the Number of Houses at a Certain Distance I](./solutions/3015-count-the-number-of-houses-at-a-certain-distance-i.js)|Medium|
+3016|[Minimum Number of Pushes to Type Word II](./solutions/3016-minimum-number-of-pushes-to-type-word-ii.js)|Medium|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
