@@ -2137,6 +2137,7 @@
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3025|[Find the Number of Ways to Place People I](./solutions/3025-find-the-number-of-ways-to-place-people-i.js)|Medium|
 3027|[Find the Number of Ways to Place People II](./solutions/3027-find-the-number-of-ways-to-place-people-ii.js)|Hard|
+3028|[Ant on the Boundary](./solutions/3028-ant-on-the-boundary.js)|Easy|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3068|[Find the Maximum Sum of Node Values](./solutions/3068-find-the-maximum-sum-of-node-values.js)|Hard|
