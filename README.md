@@ -2142,6 +2142,7 @@
 3151|[Special Array I](./solutions/3151-special-array-i.js)|Easy|
 3160|[Find the Number of Distinct Colors Among the Balls](./solutions/3160-find-the-number-of-distinct-colors-among-the-balls.js)|Medium|
 3169|[Count Days Without Meetings](./solutions/3169-count-days-without-meetings.js)|Medium|
+3170|[Lexicographically Minimum String After Removing Stars](./solutions/3170-lexicographically-minimum-string-after-removing-stars.js)|Medium|
 3174|[Clear Digits](./solutions/3174-clear-digits.js)|Easy|
 3178|[Find the Child Who Has the Ball After K Seconds](./solutions/3178-find-the-child-who-has-the-ball-after-k-seconds.js)|Easy|
 3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./solutions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
