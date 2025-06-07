@@ -2146,6 +2146,7 @@
 3038|[Maximum Number of Operations With the Same Score I](./solutions/3038-maximum-number-of-operations-with-the-same-score-i.js)|Easy|
 3039|[Apply Operations to Make String Empty](./solutions/3039-apply-operations-to-make-string-empty.js)|Medium|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
+3043|[Find the Length of the Longest Common Prefix](./solutions/3043-find-the-length-of-the-longest-common-prefix.js)|Medium|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3068|[Find the Maximum Sum of Node Values](./solutions/3068-find-the-maximum-sum-of-node-values.js)|Hard|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
