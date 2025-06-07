@@ -2141,6 +2141,7 @@
 3029|[Minimum Time to Revert Word to Initial State I](./solutions/3029-minimum-time-to-revert-word-to-initial-state-i.js)|Medium|
 3030|[Find the Grid of Region Average](./solutions/3030-find-the-grid-of-region-average.js)|Medium|
 3033|[Modify the Matrix](./solutions/3033-modify-the-matrix.js)|Easy|
+3034|[Number of Subarrays That Match a Pattern I](./solutions/3034-number-of-subarrays-that-match-a-pattern-i.js)|Medium|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3068|[Find the Maximum Sum of Node Values](./solutions/3068-find-the-maximum-sum-of-node-values.js)|Hard|
