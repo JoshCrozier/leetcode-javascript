@@ -175,6 +175,7 @@
 167|[Two Sum II - Input Array Is Sorted](./solutions/0167-two-sum-ii-input-array-is-sorted.js)|Easy|
 168|[Excel Sheet Column Title](./solutions/0168-excel-sheet-column-title.js)|Easy|
 169|[Majority Element](./solutions/0169-majority-element.js)|Easy|
+170|[Two Sum III - Data structure design](./solutions/0170-two-sum-iii-data-structure-design.js)|Easy|
 171|[Excel Sheet Column Number](./solutions/0171-excel-sheet-column-number.js)|Easy|
 172|[Factorial Trailing Zeroes](./solutions/0172-factorial-trailing-zeroes.js)|Medium|
 173|[Binary Search Tree Iterator](./solutions/0173-binary-search-tree-iterator.js)|Medium|
