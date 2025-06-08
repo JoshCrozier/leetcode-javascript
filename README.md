@@ -2150,6 +2150,7 @@
 3044|[Most Frequent Prime](./solutions/3044-most-frequent-prime.js)|Medium|
 3046|[Split the Array](./solutions/3046-split-the-array.js)|Easy|
 3047|[Find the Largest Area of Square Inside Two Rectangles](./solutions/3047-find-the-largest-area-of-square-inside-two-rectangles.js)|Medium|
+3065|[Minimum Operations to Exceed Threshold Value I](./solutions/3065-minimum-operations-to-exceed-threshold-value-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3068|[Find the Maximum Sum of Node Values](./solutions/3068-find-the-maximum-sum-of-node-values.js)|Hard|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
