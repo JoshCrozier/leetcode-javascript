@@ -168,6 +168,7 @@
 160|[Intersection of Two Linked Lists](./solutions/0160-intersection-of-two-linked-lists.js)|Medium|
 161|[One Edit Distance](./solutions/0161-one-edit-distance.js)|Medium|
 162|[Find Peak Element](./solutions/0162-find-peak-element.js)|Medium|
+163|[Missing Ranges](./solutions/0163-missing-ranges.js)|Easy|
 164|[Maximum Gap](./solutions/0164-maximum-gap.js)|Medium|
 165|[Compare Version Numbers](./solutions/0165-compare-version-numbers.js)|Medium|
 166|[Fraction to Recurring Decimal](./solutions/0166-fraction-to-recurring-decimal.js)|Medium|
