@@ -2161,6 +2161,7 @@
 3075|[Maximize Happiness of Selected Children](./solutions/3075-maximize-happiness-of-selected-children.js)|Medium|
 3076|[Shortest Uncommon Substring in an Array](./solutions/3076-shortest-uncommon-substring-in-an-array.js)|Medium|
 3079|[Find the Sum of Encrypted Integers](./solutions/3079-find-the-sum-of-encrypted-integers.js)|Easy|
+3083|[Existence of a Substring in a String and Its Reverse](./solutions/3083-existence-of-a-substring-in-a-string-and-its-reverse.js)|Easy|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
