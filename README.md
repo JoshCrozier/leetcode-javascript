@@ -2155,6 +2155,7 @@
 3067|[Count Pairs of Connectable Servers in a Weighted Tree Network](./solutions/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network.js)|Medium|
 3068|[Find the Maximum Sum of Node Values](./solutions/3068-find-the-maximum-sum-of-node-values.js)|Hard|
 3069|[Distribute Elements Into Two Arrays I](./solutions/3069-distribute-elements-into-two-arrays-i.js)|Easy|
+3070|[Count Submatrices with Top-Left Element and Sum Less Than k](./solutions/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.js)|Medium|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
