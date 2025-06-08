@@ -232,6 +232,7 @@
 240|[Search a 2D Matrix II](./solutions/0240-search-a-2d-matrix-ii.js)|Medium|
 241|[Different Ways to Add Parentheses](./solutions/0241-different-ways-to-add-parentheses.js)|Medium|
 242|[Valid Anagram](./solutions/0242-valid-anagram.js)|Easy|
+243|[Shortest Word Distance](./solutions/0243-shortest-word-distance.js)|Easy|
 257|[Binary Tree Paths](./solutions/0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./solutions/0258-add-digits.js)|Easy|
 260|[Single Number III](./solutions/0260-single-number-iii.js)|Medium|
