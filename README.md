@@ -2165,6 +2165,7 @@
 3084|[Count Substrings Starting and Ending with Given Character](./solutions/3084-count-substrings-starting-and-ending-with-given-character.js)|Medium|
 3085|[Minimum Deletions to Make String K-Special](./solutions/3085-minimum-deletions-to-make-string-k-special.js)|Medium|
 3090|[Maximum Length Substring With Two Occurrences](./solutions/3090-maximum-length-substring-with-two-occurrences.js)|Easy|
+3091|[Apply Operations to Make Sum of Array Greater Than or Equal to k](./solutions/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k.js)|Medium|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
