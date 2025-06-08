@@ -162,6 +162,7 @@
 154|[Find Minimum in Rotated Sorted Array II](./solutions/0154-find-minimum-in-rotated-sorted-array-ii.js)|Hard|
 155|[Min Stack](./solutions/0155-min-stack.js)|Medium|
 156|[Binary Tree Upside Down](./solutions/0156-binary-tree-upside-down.js)|Medium|
+157|[Read N Characters Given Read4](./solutions/0157-read-n-characters-given-read4.js)|Easy|
 160|[Intersection of Two Linked Lists](./solutions/0160-intersection-of-two-linked-lists.js)|Medium|
 162|[Find Peak Element](./solutions/0162-find-peak-element.js)|Medium|
 164|[Maximum Gap](./solutions/0164-maximum-gap.js)|Medium|
