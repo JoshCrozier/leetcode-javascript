@@ -166,6 +166,7 @@
 158|[Read N Characters Given read4 II - Call Multiple Times](./solutions/0158-read-n-characters-given-read4-ii-call-multiple-times.js)|Hard|
 159|[Longest Substring with At Most Two Distinct Characters](./solutions/0159-longest-substring-with-at-most-two-distinct-characters.js)|Medium|
 160|[Intersection of Two Linked Lists](./solutions/0160-intersection-of-two-linked-lists.js)|Medium|
+161|[One Edit Distance](./solutions/0161-one-edit-distance.js)|Medium|
 162|[Find Peak Element](./solutions/0162-find-peak-element.js)|Medium|
 164|[Maximum Gap](./solutions/0164-maximum-gap.js)|Medium|
 165|[Compare Version Numbers](./solutions/0165-compare-version-numbers.js)|Medium|
