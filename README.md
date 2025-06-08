@@ -2163,6 +2163,7 @@
 3079|[Find the Sum of Encrypted Integers](./solutions/3079-find-the-sum-of-encrypted-integers.js)|Easy|
 3083|[Existence of a Substring in a String and Its Reverse](./solutions/3083-existence-of-a-substring-in-a-string-and-its-reverse.js)|Easy|
 3084|[Count Substrings Starting and Ending with Given Character](./solutions/3084-count-substrings-starting-and-ending-with-given-character.js)|Medium|
+3085|[Minimum Deletions to Make String K-Special](./solutions/3085-minimum-deletions-to-make-string-k-special.js)|Medium|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
