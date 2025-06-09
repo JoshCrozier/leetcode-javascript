@@ -1971,6 +1971,7 @@
 2625|[Flatten Deeply Nested Array](./solutions/2625-flatten-deeply-nested-array.js)|Medium|
 2626|[Array Reduce Transformation](./solutions/2626-array-reduce-transformation.js)|Easy|
 2627|[Debounce](./solutions/2627-debounce.js)|Medium|
+2628|[JSON Deep Equal](./solutions/2628-json-deep-equal.js)|Medium|
 2629|[Function Composition](./solutions/2629-function-composition.js)|Easy|
 2630|[Memoize II](./solutions/2630-memoize-ii.js)|Hard|
 2631|[Group By](./solutions/2631-group-by.js)|Medium|
