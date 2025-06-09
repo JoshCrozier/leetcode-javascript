@@ -237,6 +237,7 @@
 245|[Shortest Word Distance III](./solutions/0245-shortest-word-distance-iii.js)|Medium|
 246|[Strobogrammatic Number](./solutions/0246-strobogrammatic-number.js)|Easy|
 247|[Strobogrammatic Number II](./solutions/0247-strobogrammatic-number-ii.js)|Medium|
+248|[Strobogrammatic Number III](./solutions/0248-strobogrammatic-number-iii.js)|Hard|
 257|[Binary Tree Paths](./solutions/0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./solutions/0258-add-digits.js)|Easy|
 260|[Single Number III](./solutions/0260-single-number-iii.js)|Medium|
