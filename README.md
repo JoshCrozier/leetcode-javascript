@@ -1974,6 +1974,7 @@
 2629|[Function Composition](./solutions/2629-function-composition.js)|Easy|
 2630|[Memoize II](./solutions/2630-memoize-ii.js)|Hard|
 2631|[Group By](./solutions/2631-group-by.js)|Medium|
+2632|[Curry](./solutions/2632-curry.js)|Medium|
 2634|[Filter Elements from Array](./solutions/2634-filter-elements-from-array.js)|Easy|
 2635|[Apply Transform Over Each Element in Array](./solutions/2635-apply-transform-over-each-element-in-array.js)|Easy|
 2636|[Promise Pool](./solutions/2636-promise-pool.js)|Medium|
