@@ -2226,6 +2226,7 @@
 3402|[Minimum Operations to Make Columns Strictly Increasing](./solutions/3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 3403|[Find the Lexicographically Largest String From the Box I](./solutions/3403-find-the-lexicographically-largest-string-from-the-box-i.js)|Medium|
 3442|[Maximum Difference Between Even and Odd Frequency I](./solutions/3442-maximum-difference-between-even-and-odd-frequency-i.js)|Easy|
+3445|[Maximum Difference Between Even and Odd Frequency II](./solutions/3445-maximum-difference-between-even-and-odd-frequency-ii.js)|Hard|
 3452|[Sum of Good Numbers](./solutions/3452-sum-of-good-numbers.js)|Easy|
 3461|[Check If Digits Are Equal in String After Operations I](./solutions/3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
 3462|[Maximum Sum With at Most K Elements](./solutions/3462-maximum-sum-with-at-most-k-elements.js)|Medium|
