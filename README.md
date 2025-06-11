@@ -248,6 +248,7 @@
 256|[Paint House](./solutions/0256-paint-house.js)|Medium|
 257|[Binary Tree Paths](./solutions/0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./solutions/0258-add-digits.js)|Easy|
+259|[3Sum Smaller](./solutions/0259-3sum-smaller.js)|Medium|
 260|[Single Number III](./solutions/0260-single-number-iii.js)|Medium|
 263|[Ugly Number](./solutions/0263-ugly-number.js)|Easy|
 264|[Ugly Number II](./solutions/0264-ugly-number-ii.js)|Medium|
