@@ -245,6 +245,7 @@
 253|[Meeting Rooms II](./solutions/0253-meeting-rooms-ii.js)|Medium|
 254|[Factor Combinations](./solutions/0254-factor-combinations.js)|Medium|
 255|[Verify Preorder Sequence in Binary Search Tree](./solutions/0255-verify-preorder-sequence-in-binary-search-tree.js)|Medium|
+256|[Paint House](./solutions/0256-paint-house.js)|Medium|
 257|[Binary Tree Paths](./solutions/0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./solutions/0258-add-digits.js)|Easy|
 260|[Single Number III](./solutions/0260-single-number-iii.js)|Medium|
