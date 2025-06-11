@@ -241,6 +241,7 @@
 249|[Group Shifted Strings](./solutions/0249-group-shifted-strings.js)|Medium|
 250|[Count Univalue Subtrees](./solutions/0250-count-univalue-subtrees.js)|Medium|
 251|[Flatten 2D Vector](./solutions/0251-flatten-2d-vector.js)|Medium|
+252|[Meeting Rooms](./solutions/0252-meeting-rooms.js)|Easy|
 257|[Binary Tree Paths](./solutions/0257-binary-tree-paths.js)|Easy|
 258|[Add Digits](./solutions/0258-add-digits.js)|Easy|
 260|[Single Number III](./solutions/0260-single-number-iii.js)|Medium|
