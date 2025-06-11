@@ -254,6 +254,7 @@
 263|[Ugly Number](./solutions/0263-ugly-number.js)|Easy|
 264|[Ugly Number II](./solutions/0264-ugly-number-ii.js)|Medium|
 265|[Paint House II](./solutions/0265-paint-house-ii.js)|Hard|
+266|[Palindrome Permutation](./solutions/0266-palindrome-permutation.js)|Easy|
 268|[Missing Number](./solutions/0268-missing-number.js)|Easy|
 273|[Integer to English Words](./solutions/0273-integer-to-english-words.js)|Hard|
 274|[H-Index](./solutions/0274-h-index.js)|Medium|
