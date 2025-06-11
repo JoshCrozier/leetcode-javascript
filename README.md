@@ -250,6 +250,7 @@
 258|[Add Digits](./solutions/0258-add-digits.js)|Easy|
 259|[3Sum Smaller](./solutions/0259-3sum-smaller.js)|Medium|
 260|[Single Number III](./solutions/0260-single-number-iii.js)|Medium|
+261|[Graph Valid Tree](./solutions/0261-graph-valid-tree.js)|Medium|
 263|[Ugly Number](./solutions/0263-ugly-number.js)|Easy|
 264|[Ugly Number II](./solutions/0264-ugly-number-ii.js)|Medium|
 268|[Missing Number](./solutions/0268-missing-number.js)|Easy|
