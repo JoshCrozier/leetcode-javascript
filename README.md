@@ -1,4 +1,4 @@
-# 2,000+ LeetCode solutions in JavaScript
+# 2,250+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -284,6 +284,7 @@
 293|[Flip Game](./solutions/0293-flip-game.js)|Easy|
 294|[Flip Game II](./solutions/0294-flip-game-ii.js)|Medium|
 295|[Find Median from Data Stream](./solutions/0295-find-median-from-data-stream.js)|Hard|
+296|[Best Meeting Point](./solutions/0296-best-meeting-point.js)|Hard|
 297|[Serialize and Deserialize Binary Tree](./solutions/0297-serialize-and-deserialize-binary-tree.js)|Hard|
 299|[Bulls and Cows](./solutions/0299-bulls-and-cows.js)|Medium|
 300|[Longest Increasing Subsequence](./solutions/0300-longest-increasing-subsequence.js)|Medium|
