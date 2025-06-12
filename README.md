@@ -273,6 +273,7 @@
 282|[Expression Add Operators](./solutions/0282-expression-add-operators.js)|Hard|
 283|[Move Zeroes](./solutions/0283-move-zeroes.js)|Easy|
 284|[Peeking Iterator](./solutions/0284-peeking-iterator.js)|Medium|
+285|[Inorder Successor in BST](./solutions/0285-inorder-successor-in-bst.js)|Medium|
 287|[Find the Duplicate Number](./solutions/0287-find-the-duplicate-number.js)|Medium|
 289|[Game of Life](./solutions/0289-game-of-life.js)|Medium|
 290|[Word Pattern](./solutions/0290-word-pattern.js)|Easy|
