@@ -279,6 +279,7 @@
 288|[Unique Word Abbreviation](./solutions/0288-unique-word-abbreviation.js)|Medium|
 289|[Game of Life](./solutions/0289-game-of-life.js)|Medium|
 290|[Word Pattern](./solutions/0290-word-pattern.js)|Easy|
+291|[Word Pattern II](./solutions/0291-word-pattern-ii.js)|Medium|
 292|[Nim Game](./solutions/0292-nim-game.js)|Easy|
 295|[Find Median from Data Stream](./solutions/0295-find-median-from-data-stream.js)|Hard|
 297|[Serialize and Deserialize Binary Tree](./solutions/0297-serialize-and-deserialize-binary-tree.js)|Hard|
