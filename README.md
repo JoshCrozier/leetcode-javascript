@@ -258,6 +258,7 @@
 267|[Palindrome Permutation II](./solutions/0267-palindrome-permutation-ii.js)|Medium|
 268|[Missing Number](./solutions/0268-missing-number.js)|Easy|
 269|[Alien Dictionary](./solutions/0269-alien-dictionary.js)|Hard|
+270|[Closest Binary Search Tree Value](./solutions/0270-closest-binary-search-tree-value.js)|Easy|
 273|[Integer to English Words](./solutions/0273-integer-to-english-words.js)|Hard|
 274|[H-Index](./solutions/0274-h-index.js)|Medium|
 275|[H-Index II](./solutions/0275-h-index-ii.js)|Medium|
