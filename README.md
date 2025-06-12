@@ -269,6 +269,7 @@
 278|[First Bad Version](./solutions/0278-first-bad-version.js)|Medium|
 279|[Perfect Squares](./solutions/0279-perfect-squares.js)|Medium|
 280|[Wiggle Sort](./solutions/0280-wiggle-sort.js)|Medium|
+281|[Zigzag Iterator](./solutions/0281-zigzag-iterator.js)|Medium|
 282|[Expression Add Operators](./solutions/0282-expression-add-operators.js)|Hard|
 283|[Move Zeroes](./solutions/0283-move-zeroes.js)|Easy|
 284|[Peeking Iterator](./solutions/0284-peeking-iterator.js)|Medium|
