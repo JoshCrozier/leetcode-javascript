@@ -276,6 +276,7 @@
 285|[Inorder Successor in BST](./solutions/0285-inorder-successor-in-bst.js)|Medium|
 286|[Walls and Gates](./solutions/0286-walls-and-gates.js)|Medium|
 287|[Find the Duplicate Number](./solutions/0287-find-the-duplicate-number.js)|Medium|
+288|[Unique Word Abbreviation](./solutions/0288-unique-word-abbreviation.js)|Medium|
 289|[Game of Life](./solutions/0289-game-of-life.js)|Medium|
 290|[Word Pattern](./solutions/0290-word-pattern.js)|Easy|
 292|[Nim Game](./solutions/0292-nim-game.js)|Easy|
