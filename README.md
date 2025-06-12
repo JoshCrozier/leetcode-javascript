@@ -2234,6 +2234,7 @@
 3397|[Maximum Number of Distinct Elements After Operations](./solutions/3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
 3402|[Minimum Operations to Make Columns Strictly Increasing](./solutions/3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 3403|[Find the Lexicographically Largest String From the Box I](./solutions/3403-find-the-lexicographically-largest-string-from-the-box-i.js)|Medium|
+3423|[Maximum Difference Between Adjacent Elements in a Circular Array](./solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.js)|Easy|
 3442|[Maximum Difference Between Even and Odd Frequency I](./solutions/3442-maximum-difference-between-even-and-odd-frequency-i.js)|Easy|
 3445|[Maximum Difference Between Even and Odd Frequency II](./solutions/3445-maximum-difference-between-even-and-odd-frequency-ii.js)|Hard|
 3452|[Sum of Good Numbers](./solutions/3452-sum-of-good-numbers.js)|Easy|
