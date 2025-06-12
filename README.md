@@ -281,6 +281,7 @@
 290|[Word Pattern](./solutions/0290-word-pattern.js)|Easy|
 291|[Word Pattern II](./solutions/0291-word-pattern-ii.js)|Medium|
 292|[Nim Game](./solutions/0292-nim-game.js)|Easy|
+293|[Flip Game](./solutions/0293-flip-game.js)|Easy|
 295|[Find Median from Data Stream](./solutions/0295-find-median-from-data-stream.js)|Hard|
 297|[Serialize and Deserialize Binary Tree](./solutions/0297-serialize-and-deserialize-binary-tree.js)|Hard|
 299|[Bulls and Cows](./solutions/0299-bulls-and-cows.js)|Medium|
