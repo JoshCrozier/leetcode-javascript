@@ -265,6 +265,7 @@
 274|[H-Index](./solutions/0274-h-index.js)|Medium|
 275|[H-Index II](./solutions/0275-h-index-ii.js)|Medium|
 276|[Paint Fence](./solutions/0276-paint-fence.js)|Medium|
+277|[Find the Celebrity](./solutions/0277-find-the-celebrity.js)|Medium|
 278|[First Bad Version](./solutions/0278-first-bad-version.js)|Medium|
 279|[Perfect Squares](./solutions/0279-perfect-squares.js)|Medium|
 282|[Expression Add Operators](./solutions/0282-expression-add-operators.js)|Hard|
