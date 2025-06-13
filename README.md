@@ -302,6 +302,7 @@
 311|[Sparse Matrix Multiplication](./solutions/0311-sparse-matrix-multiplication.js)|Medium|
 312|[Burst Balloons](./solutions/0312-burst-balloons.js)|Hard|
 313|[Super Ugly Number](./solutions/0313-super-ugly-number.js)|Medium|
+314|[Binary Tree Vertical Order Traversal](./solutions/0314-binary-tree-vertical-order-traversal.js)|Medium|
 315|[Count of Smaller Numbers After Self](./solutions/0315-count-of-smaller-numbers-after-self.js)|Hard|
 316|[Remove Duplicate Letters](./solutions/0316-remove-duplicate-letters.js)|Medium|
 318|[Maximum Product of Word Lengths](./solutions/0318-maximum-product-of-word-lengths.js)|Medium|
