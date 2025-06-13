@@ -286,6 +286,7 @@
 295|[Find Median from Data Stream](./solutions/0295-find-median-from-data-stream.js)|Hard|
 296|[Best Meeting Point](./solutions/0296-best-meeting-point.js)|Hard|
 297|[Serialize and Deserialize Binary Tree](./solutions/0297-serialize-and-deserialize-binary-tree.js)|Hard|
+298|[Binary Tree Longest Consecutive Sequence](./solutions/0298-binary-tree-longest-consecutive-sequence.js)|Medium|
 299|[Bulls and Cows](./solutions/0299-bulls-and-cows.js)|Medium|
 300|[Longest Increasing Subsequence](./solutions/0300-longest-increasing-subsequence.js)|Medium|
 301|[Remove Invalid Parentheses](./solutions/0301-remove-invalid-parentheses.js)|Hard|
