@@ -308,6 +308,7 @@
 317|[Shortest Distance from All Buildings](./solutions/0317-shortest-distance-from-all-buildings.js)|Hard|
 318|[Maximum Product of Word Lengths](./solutions/0318-maximum-product-of-word-lengths.js)|Medium|
 319|[Bulb Switcher](./solutions/0319-bulb-switcher.js)|Medium|
+320|[Generalized Abbreviation](./solutions/0320-generalized-abbreviation.js)|Medium|
 321|[Create Maximum Number](./solutions/0321-create-maximum-number.js)|Hard|
 322|[Coin Change](./solutions/0322-coin-change.js)|Medium|
 324|[Wiggle Sort II](./solutions/0324-wiggle-sort-ii.js)|Medium|
