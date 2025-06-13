@@ -296,6 +296,7 @@
 305|[Number of Islands II](./solutions/0305-number-of-islands-ii.js)|Hard|
 306|[Additive Number](./solutions/0306-additive-number.js)|Medium|
 307|[Range Sum Query - Mutable](./solutions/0307-range-sum-query-mutable.js)|Medium|
+308|[Range Sum Query 2D - Mutable](./solutions/0308-range-sum-query-2d-mutable.js)|Medium|
 309|[Best Time to Buy and Sell Stock with Cooldown](./solutions/0309-best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
 310|[Minimum Height Trees](./solutions/0310-minimum-height-trees.js)|Medium|
 312|[Burst Balloons](./solutions/0312-burst-balloons.js)|Hard|
