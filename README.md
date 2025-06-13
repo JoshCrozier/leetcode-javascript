@@ -311,6 +311,7 @@
 320|[Generalized Abbreviation](./solutions/0320-generalized-abbreviation.js)|Medium|
 321|[Create Maximum Number](./solutions/0321-create-maximum-number.js)|Hard|
 322|[Coin Change](./solutions/0322-coin-change.js)|Medium|
+323|[Number of Connected Components in an Undirected Graph](./solutions/0323-number-of-connected-components-in-an-undirected-graph.js)|Medium|
 324|[Wiggle Sort II](./solutions/0324-wiggle-sort-ii.js)|Medium|
 326|[Power of Three](./solutions/0326-power-of-three.js)|Easy|
 327|[Count of Range Sum](./solutions/0327-count-of-range-sum.js)|Hard|
