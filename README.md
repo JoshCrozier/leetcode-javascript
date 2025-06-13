@@ -290,6 +290,7 @@
 299|[Bulls and Cows](./solutions/0299-bulls-and-cows.js)|Medium|
 300|[Longest Increasing Subsequence](./solutions/0300-longest-increasing-subsequence.js)|Medium|
 301|[Remove Invalid Parentheses](./solutions/0301-remove-invalid-parentheses.js)|Hard|
+302|[Smallest Rectangle Enclosing Black Pixels](./solutions/0302-smallest-rectangle-enclosing-black-pixels.js)|Hard|
 303|[Range Sum Query - Immutable](./solutions/0303-range-sum-query-immutable.js)|Easy|
 304|[Range Sum Query 2D - Immutable](./solutions/0304-range-sum-query-2d-immutable.js)|Medium|
 306|[Additive Number](./solutions/0306-additive-number.js)|Medium|
