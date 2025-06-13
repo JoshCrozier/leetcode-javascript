@@ -313,6 +313,7 @@
 322|[Coin Change](./solutions/0322-coin-change.js)|Medium|
 323|[Number of Connected Components in an Undirected Graph](./solutions/0323-number-of-connected-components-in-an-undirected-graph.js)|Medium|
 324|[Wiggle Sort II](./solutions/0324-wiggle-sort-ii.js)|Medium|
+325|[Maximum Size Subarray Sum Equals k](./solutions/0325-maximum-size-subarray-sum-equals-k.js)|Medium|
 326|[Power of Three](./solutions/0326-power-of-three.js)|Easy|
 327|[Count of Range Sum](./solutions/0327-count-of-range-sum.js)|Hard|
 328|[Odd Even Linked List](./solutions/0328-odd-even-linked-list.js)|Medium|
