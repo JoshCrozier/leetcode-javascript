@@ -350,6 +350,7 @@
 359|[Logger Rate Limiter](./solutions/0359-logger-rate-limiter.js)|Easy|
 360|[Sort Transformed Array](./solutions/0360-sort-transformed-array.js)|Medium|
 361|[Bomb Enemy](./solutions/0361-bomb-enemy.js)|Medium|
+362|[Design Hit Counter](./solutions/0362-design-hit-counter.js)|Medium|
 363|[Max Sum of Rectangle No Larger Than K](./solutions/0363-max-sum-of-rectangle-no-larger-than-k.js)|Hard|
 365|[Water and Jug Problem](./solutions/0365-water-and-jug-problem.js)|Medium|
 367|[Valid Perfect Square](./solutions/0367-valid-perfect-square.js)|Easy|
