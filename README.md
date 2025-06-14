@@ -344,6 +344,7 @@
 353|[Design Snake Game](./solutions/0353-design-snake-game.js)|Medium|
 354|[Russian Doll Envelopes](./solutions/0354-russian-doll-envelopes.js)|Hard|
 355|[Design Twitter](./solutions/0355-design-twitter.js)|Medium|
+356|[Line Reflection](./solutions/0356-line-reflection.js)|Medium|
 357|[Count Numbers with Unique Digits](./solutions/0357-count-numbers-with-unique-digits.js)|Medium|
 363|[Max Sum of Rectangle No Larger Than K](./solutions/0363-max-sum-of-rectangle-no-larger-than-k.js)|Hard|
 365|[Water and Jug Problem](./solutions/0365-water-and-jug-problem.js)|Medium|
