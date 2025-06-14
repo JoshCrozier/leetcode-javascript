@@ -348,6 +348,7 @@
 357|[Count Numbers with Unique Digits](./solutions/0357-count-numbers-with-unique-digits.js)|Medium|
 358|[Rearrange String k Distance Apart](./solutions/0358-rearrange-string-k-distance-apart.js)|Hard|
 359|[Logger Rate Limiter](./solutions/0359-logger-rate-limiter.js)|Easy|
+360|[Sort Transformed Array](./solutions/0360-sort-transformed-array.js)|Medium|
 363|[Max Sum of Rectangle No Larger Than K](./solutions/0363-max-sum-of-rectangle-no-larger-than-k.js)|Hard|
 365|[Water and Jug Problem](./solutions/0365-water-and-jug-problem.js)|Medium|
 367|[Valid Perfect Square](./solutions/0367-valid-perfect-square.js)|Easy|
