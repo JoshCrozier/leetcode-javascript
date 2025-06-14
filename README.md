@@ -336,6 +336,7 @@
 345|[Reverse Vowels of a String](./solutions/0345-reverse-vowels-of-a-string.js)|Easy|
 346|[Moving Average from Data Stream](./solutions/0346-moving-average-from-data-stream.js)|Easy|
 347|[Top K Frequent Elements](./solutions/0347-top-k-frequent-elements.js)|Medium|
+348|[Design Tic-Tac-Toe](./solutions/0348-design-tic-tac-toe.js)|Medium|
 349|[Intersection of Two Arrays](./solutions/0349-intersection-of-two-arrays.js)|Easy|
 350|[Intersection of Two Arrays II](./solutions/0350-intersection-of-two-arrays-ii.js)|Easy|
 352|[Data Stream as Disjoint Intervals](./solutions/0352-data-stream-as-disjoint-intervals.js)|Hard|
