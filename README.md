@@ -341,6 +341,7 @@
 350|[Intersection of Two Arrays II](./solutions/0350-intersection-of-two-arrays-ii.js)|Easy|
 351|[Android Unlock Patterns](./solutions/0351-android-unlock-patterns.js)|Medium|
 352|[Data Stream as Disjoint Intervals](./solutions/0352-data-stream-as-disjoint-intervals.js)|Hard|
+353|[Design Snake Game](./solutions/0353-design-snake-game.js)|Medium|
 354|[Russian Doll Envelopes](./solutions/0354-russian-doll-envelopes.js)|Hard|
 355|[Design Twitter](./solutions/0355-design-twitter.js)|Medium|
 357|[Count Numbers with Unique Digits](./solutions/0357-count-numbers-with-unique-digits.js)|Medium|
