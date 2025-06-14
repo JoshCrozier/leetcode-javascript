@@ -321,6 +321,7 @@
 330|[Patching Array](./solutions/0330-patching-array.js)|Hard|
 331|[Verify Preorder Serialization of a Binary Tree](./solutions/0331-verify-preorder-serialization-of-a-binary-tree.js)|Medium|
 332|[Reconstruct Itinerary](./solutions/0332-reconstruct-itinerary.js)|Hard|
+333|[Largest BST Subtree](./solutions/0333-largest-bst-subtree.js)|Medium|
 334|[Increasing Triplet Subsequence](./solutions/0334-increasing-triplet-subsequence.js)|Medium|
 335|[Self Crossing](./solutions/0335-self-crossing.js)|Hard|
 336|[Palindrome Pairs](./solutions/0336-palindrome-pairs.js)|Hard|
