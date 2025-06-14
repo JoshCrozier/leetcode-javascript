@@ -339,6 +339,7 @@
 348|[Design Tic-Tac-Toe](./solutions/0348-design-tic-tac-toe.js)|Medium|
 349|[Intersection of Two Arrays](./solutions/0349-intersection-of-two-arrays.js)|Easy|
 350|[Intersection of Two Arrays II](./solutions/0350-intersection-of-two-arrays-ii.js)|Easy|
+351|[Android Unlock Patterns](./solutions/0351-android-unlock-patterns.js)|Medium|
 352|[Data Stream as Disjoint Intervals](./solutions/0352-data-stream-as-disjoint-intervals.js)|Hard|
 354|[Russian Doll Envelopes](./solutions/0354-russian-doll-envelopes.js)|Hard|
 355|[Design Twitter](./solutions/0355-design-twitter.js)|Medium|
