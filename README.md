@@ -328,6 +328,7 @@
 337|[House Robber III](./solutions/0337-house-robber-iii.js)|Medium|
 338|[Counting Bits](./solutions/0338-counting-bits.js)|Easy|
 339|[Nested List Weight Sum](./solutions/0339-nested-list-weight-sum.js)|Medium|
+340|[Longest Substring with At Most K Distinct Characters](./solutions/0340-longest-substring-with-at-most-k-distinct-characters.js)|Medium|
 341|[Flatten Nested List Iterator](./solutions/0341-flatten-nested-list-iterator.js)|Medium|
 342|[Power of Four](./solutions/0342-power-of-four.js)|Easy|
 343|[Integer Break](./solutions/0343-integer-break.js)|Medium|
