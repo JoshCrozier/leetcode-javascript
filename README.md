@@ -334,6 +334,7 @@
 343|[Integer Break](./solutions/0343-integer-break.js)|Medium|
 344|[Reverse String](./solutions/0344-reverse-string.js)|Easy|
 345|[Reverse Vowels of a String](./solutions/0345-reverse-vowels-of-a-string.js)|Easy|
+346|[Moving Average from Data Stream](./solutions/0346-moving-average-from-data-stream.js)|Easy|
 347|[Top K Frequent Elements](./solutions/0347-top-k-frequent-elements.js)|Medium|
 349|[Intersection of Two Arrays](./solutions/0349-intersection-of-two-arrays.js)|Easy|
 350|[Intersection of Two Arrays II](./solutions/0350-intersection-of-two-arrays-ii.js)|Easy|
