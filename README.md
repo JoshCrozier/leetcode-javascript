@@ -399,6 +399,7 @@
 408|[Valid Word Abbreviation](./solutions/0408-valid-word-abbreviation.js)|Easy|
 409|[Longest Palindrome](./solutions/0409-longest-palindrome.js)|Easy|
 410|[Split Array Largest Sum](./solutions/0410-split-array-largest-sum.js)|Hard|
+411|[Minimum Unique Word Abbreviation](./solutions/0411-minimum-unique-word-abbreviation.js)|Hard|
 412|[Fizz Buzz](./solutions/0412-fizz-buzz.js)|Easy|
 413|[Arithmetic Slices](./solutions/0413-arithmetic-slices.js)|Medium|
 414|[Third Maximum Number](./solutions/0414-third-maximum-number.js)|Easy|
