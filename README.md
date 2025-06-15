@@ -367,6 +367,7 @@
 376|[Wiggle Subsequence](./solutions/0376-wiggle-subsequence.js)|Medium|
 377|[Combination Sum IV](./solutions/0377-combination-sum-iv.js)|Medium|
 378|[Kth Smallest Element in a Sorted Matrix](./solutions/0378-kth-smallest-element-in-a-sorted-matrix.js)|Medium|
+379|[Design Phone Directory](./solutions/0379-design-phone-directory.js)|Medium|
 380|[Insert Delete GetRandom O(1)](./solutions/0380-insert-delete-getrandom-o1.js)|Medium|
 381|[Insert Delete GetRandom O(1) - Duplicates allowed](./solutions/0381-insert-delete-getrandom-o1-duplicates-allowed.js)|Hard|
 382|[Linked List Random Node](./solutions/0382-linked-list-random-node.js)|Medium|
