@@ -396,6 +396,7 @@
 405|[Convert a Number to Hexadecimal](./solutions/0405-convert-a-number-to-hexadecimal.js)|Easy|
 406|[Queue Reconstruction by Height](./solutions/0406-queue-reconstruction-by-height.js)|Medium|
 407|[Trapping Rain Water II](./solutions/0407-trapping-rain-water-ii.js)|Hard|
+408|[Valid Word Abbreviation](./solutions/0408-valid-word-abbreviation.js)|Easy|
 409|[Longest Palindrome](./solutions/0409-longest-palindrome.js)|Easy|
 410|[Split Array Largest Sum](./solutions/0410-split-array-largest-sum.js)|Hard|
 412|[Fizz Buzz](./solutions/0412-fizz-buzz.js)|Easy|
