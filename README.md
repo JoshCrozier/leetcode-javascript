@@ -358,6 +358,7 @@
 367|[Valid Perfect Square](./solutions/0367-valid-perfect-square.js)|Easy|
 368|[Largest Divisible Subset](./solutions/0368-largest-divisible-subset.js)|Medium|
 369|[Plus One Linked List](./solutions/0369-plus-one-linked-list.js)|Medium|
+370|[Range Addition](./solutions/0370-range-addition.js)|Medium|
 371|[Sum of Two Integers](./solutions/0371-sum-of-two-integers.js)|Medium|
 372|[Super Pow](./solutions/0372-super-pow.js)|Medium|
 373|[Find K Pairs with Smallest Sums](./solutions/0373-find-k-pairs-with-smallest-sums.js)|Medium|
