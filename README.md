@@ -354,6 +354,7 @@
 363|[Max Sum of Rectangle No Larger Than K](./solutions/0363-max-sum-of-rectangle-no-larger-than-k.js)|Hard|
 364|[Nested List Weight Sum II](./solutions/0364-nested-list-weight-sum-ii.js)|Medium|
 365|[Water and Jug Problem](./solutions/0365-water-and-jug-problem.js)|Medium|
+366|[Find Leaves of Binary Tree](./solutions/0366-find-leaves-of-binary-tree.js)|Medium|
 367|[Valid Perfect Square](./solutions/0367-valid-perfect-square.js)|Easy|
 368|[Largest Divisible Subset](./solutions/0368-largest-divisible-subset.js)|Medium|
 371|[Sum of Two Integers](./solutions/0371-sum-of-two-integers.js)|Medium|
