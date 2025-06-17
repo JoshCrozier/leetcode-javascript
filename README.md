@@ -410,6 +410,7 @@
 419|[Battleships in a Board](./solutions/0419-battleships-in-a-board.js)|Medium|
 420|[Strong Password Checker](./solutions/0420-strong-password-checker.js)|Hard|
 421|[Maximum XOR of Two Numbers in an Array](./solutions/0421-maximum-xor-of-two-numbers-in-an-array.js)|Medium|
+422|[Valid Word Square](./solutions/0422-valid-word-square.js)|Easy|
 423|[Reconstruct Original Digits from English](./solutions/0423-reconstruct-original-digits-from-english.js)|Medium|
 424|[Longest Repeating Character Replacement](./solutions/0424-longest-repeating-character-replacement.js)|Medium|
 427|[Construct Quad Tree](./solutions/0427-construct-quad-tree.js)|Medium|
