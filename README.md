@@ -406,6 +406,7 @@
 415|[Add Strings](./solutions/0415-add-strings.js)|Easy|
 416|[Partition Equal Subset Sum](./solutions/0416-partition-equal-subset-sum.js)|Medium|
 417|[Pacific Atlantic Water Flow](./solutions/0417-pacific-atlantic-water-flow.js)|Medium|
+418|[Sentence Screen Fitting](./solutions/0418-sentence-screen-fitting.js)|Medium|
 419|[Battleships in a Board](./solutions/0419-battleships-in-a-board.js)|Medium|
 420|[Strong Password Checker](./solutions/0420-strong-password-checker.js)|Hard|
 421|[Maximum XOR of Two Numbers in an Array](./solutions/0421-maximum-xor-of-two-numbers-in-an-array.js)|Medium|
