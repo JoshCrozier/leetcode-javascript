@@ -414,6 +414,7 @@
 423|[Reconstruct Original Digits from English](./solutions/0423-reconstruct-original-digits-from-english.js)|Medium|
 424|[Longest Repeating Character Replacement](./solutions/0424-longest-repeating-character-replacement.js)|Medium|
 425|[Word Squares](./solutions/0425-word-squares.js)|Hard|
+426|[Convert Binary Search Tree to Sorted Doubly Linked List](./solutions/0426-convert-binary-search-tree-to-sorted-doubly-linked-list.js)|Medium|
 427|[Construct Quad Tree](./solutions/0427-construct-quad-tree.js)|Medium|
 429|[N-ary Tree Level Order Traversal](./solutions/0429-n-ary-tree-level-order-traversal.js)|Medium|
 430|[Flatten a Multilevel Doubly Linked List](./solutions/0430-flatten-a-multilevel-doubly-linked-list.js)|Medium|
