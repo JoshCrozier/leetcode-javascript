@@ -419,6 +419,7 @@
 428|[Serialize and Deserialize N-ary Tree](./solutions/0428-serialize-and-deserialize-n-ary-tree.js)|Hard|
 429|[N-ary Tree Level Order Traversal](./solutions/0429-n-ary-tree-level-order-traversal.js)|Medium|
 430|[Flatten a Multilevel Doubly Linked List](./solutions/0430-flatten-a-multilevel-doubly-linked-list.js)|Medium|
+431|[Encode N-ary Tree to Binary Tree](./solutions/0431-encode-n-ary-tree-to-binary-tree.js)|Hard|
 432|[All O`one Data Structure](./solutions/0432-all-oone-data-structure.js)|Hard|
 433|[Minimum Genetic Mutation](./solutions/0433-minimum-genetic-mutation.js)|Medium|
 434|[Number of Segments in a String](./solutions/0434-number-of-segments-in-a-string.js)|Easy|
