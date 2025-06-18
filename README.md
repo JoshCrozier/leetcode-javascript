@@ -475,6 +475,7 @@
 484|[Find Permutation](./solutions/0484-find-permutation.js)|Medium|
 485|[Max Consecutive Ones](./solutions/0485-max-consecutive-ones.js)|Easy|
 486|[Predict the Winner](./solutions/0486-predict-the-winner.js)|Medium|
+487|[Max Consecutive Ones II](./solutions/0487-max-consecutive-ones-ii.js)|Medium|
 488|[Zuma Game](./solutions/0488-zuma-game.js)|Hard|
 491|[Non-decreasing Subsequences](./solutions/0491-non-decreasing-subsequences.js)|Medium|
 492|[Construct the Rectangle](./solutions/0492-construct-the-rectangle.js)|Easy|
