@@ -427,6 +427,7 @@
 436|[Find Right Interval](./solutions/0436-find-right-interval.js)|Medium|
 437|[Path Sum III](./solutions/0437-path-sum-iii.js)|Medium|
 438|[Find All Anagrams in a String](./solutions/0438-find-all-anagrams-in-a-string.js)|Medium|
+439|[Ternary Expression Parser](./solutions/0439-ternary-expression-parser.js)|Medium|
 440|[K-th Smallest in Lexicographical Order](./solutions/0440-k-th-smallest-in-lexicographical-order.js)|Hard|
 441|[Arranging Coins](./solutions/0441-arranging-coins.js)|Easy|
 442|[Find All Duplicates in an Array](./solutions/0442-find-all-duplicates-in-an-array.js)|Medium|
