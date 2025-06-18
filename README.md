@@ -472,6 +472,7 @@
 481|[Magical String](./solutions/0481-magical-string.js)|Medium|
 482|[License Key Formatting](./solutions/0482-license-key-formatting.js)|Easy|
 483|[Smallest Good Base](./solutions/0483-smallest-good-base.js)|Hard|
+484|[Find Permutation](./solutions/0484-find-permutation.js)|Medium|
 485|[Max Consecutive Ones](./solutions/0485-max-consecutive-ones.js)|Easy|
 486|[Predict the Winner](./solutions/0486-predict-the-winner.js)|Medium|
 488|[Zuma Game](./solutions/0488-zuma-game.js)|Hard|
