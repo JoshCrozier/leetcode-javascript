@@ -459,6 +459,7 @@
 468|[Validate IP Address](./solutions/0468-validate-ip-address.js)|Medium|
 469|[Convex Polygon](./solutions/0469-convex-polygon.js)|Medium|
 470|[Implement Rand10() Using Rand7()](./solutions/0470-implement-rand10-using-rand7.js)|Medium|
+471|[Encode String with Shortest Length](./solutions/0471-encode-string-with-shortest-length.js)|Hard|
 472|[Concatenated Words](./solutions/0472-concatenated-words.js)|Hard|
 473|[Matchsticks to Square](./solutions/0473-matchsticks-to-square.js)|Medium|
 474|[Ones and Zeroes](./solutions/0474-ones-and-zeroes.js)|Medium|
