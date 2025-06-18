@@ -457,6 +457,7 @@
 466|[Count The Repetitions](./solutions/0466-count-the-repetitions.js)|Hard|
 467|[Unique Substrings in Wraparound String](./solutions/0467-unique-substrings-in-wraparound-string.js)|Medium|
 468|[Validate IP Address](./solutions/0468-validate-ip-address.js)|Medium|
+469|[Convex Polygon](./solutions/0469-convex-polygon.js)|Medium|
 470|[Implement Rand10() Using Rand7()](./solutions/0470-implement-rand10-using-rand7.js)|Medium|
 472|[Concatenated Words](./solutions/0472-concatenated-words.js)|Hard|
 473|[Matchsticks to Square](./solutions/0473-matchsticks-to-square.js)|Medium|
