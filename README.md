@@ -416,6 +416,7 @@
 425|[Word Squares](./solutions/0425-word-squares.js)|Hard|
 426|[Convert Binary Search Tree to Sorted Doubly Linked List](./solutions/0426-convert-binary-search-tree-to-sorted-doubly-linked-list.js)|Medium|
 427|[Construct Quad Tree](./solutions/0427-construct-quad-tree.js)|Medium|
+428|[Serialize and Deserialize N-ary Tree](./solutions/0428-serialize-and-deserialize-n-ary-tree.js)|Hard|
 429|[N-ary Tree Level Order Traversal](./solutions/0429-n-ary-tree-level-order-traversal.js)|Medium|
 430|[Flatten a Multilevel Doubly Linked List](./solutions/0430-flatten-a-multilevel-doubly-linked-list.js)|Medium|
 432|[All O`one Data Structure](./solutions/0432-all-oone-data-structure.js)|Hard|
