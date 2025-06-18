@@ -432,6 +432,7 @@
 441|[Arranging Coins](./solutions/0441-arranging-coins.js)|Easy|
 442|[Find All Duplicates in an Array](./solutions/0442-find-all-duplicates-in-an-array.js)|Medium|
 443|[String Compression](./solutions/0443-string-compression.js)|Medium|
+444|[Sequence Reconstruction](./solutions/0444-sequence-reconstruction.js)|Medium|
 445|[Add Two Numbers II](./solutions/0445-add-two-numbers-ii.js)|Medium|
 446|[Arithmetic Slices II - Subsequence](./solutions/0446-arithmetic-slices-ii-subsequence.js)|Hard|
 447|[Number of Boomerangs](./solutions/0447-number-of-boomerangs.js)|Medium|
