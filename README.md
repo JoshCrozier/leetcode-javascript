@@ -513,6 +513,7 @@
 524|[Longest Word in Dictionary through Deleting](./solutions/0524-longest-word-in-dictionary-through-deleting.js)|Medium|
 525|[Contiguous Array](./solutions/0525-contiguous-array.js)|Medium|
 526|[Beautiful Arrangement](./solutions/0526-beautiful-arrangement.js)|Medium|
+527|[Word Abbreviation](./solutions/0527-word-abbreviation.js)|Hard|
 528|[Random Pick with Weight](./solutions/0528-random-pick-with-weight.js)|Medium|
 529|[Minesweeper](./solutions/0529-minesweeper.js)|Medium|
 530|[Minimum Absolute Difference in BST](./solutions/0530-minimum-absolute-difference-in-bst.js)|Easy|
