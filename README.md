@@ -493,6 +493,7 @@
 502|[IPO](./solutions/0502-ipo.js)|Hard|
 503|[Next Greater Element II](./solutions/0503-next-greater-element-ii.js)|Medium|
 504|[Base 7](./solutions/0504-base-7.js)|Easy|
+505|[The Maze II](./solutions/0505-the-maze-ii.js)|Medium|
 506|[Relative Ranks](./solutions/0506-relative-ranks.js)|Easy|
 507|[Perfect Number](./solutions/0507-perfect-number.js)|Easy|
 508|[Most Frequent Subtree Sum](./solutions/0508-most-frequent-subtree-sum.js)|Medium|
