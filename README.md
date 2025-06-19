@@ -487,6 +487,7 @@
 496|[Next Greater Element I](./solutions/0496-next-greater-element-i.js)|Easy|
 497|[Random Point in Non-overlapping Rectangles](./solutions/0497-random-point-in-non-overlapping-rectangles.js)|Medium|
 498|[Diagonal Traverse](./solutions/0498-diagonal-traverse.js)|Medium|
+499|[The Maze III](./solutions/0499-the-maze-iii.js)|Hard|
 500|[Keyboard Row](./solutions/0500-keyboard-row.js)|Easy|
 501|[Find Mode in Binary Search Tree](./solutions/0501-find-mode-in-binary-search-tree.js)|Easy|
 502|[IPO](./solutions/0502-ipo.js)|Hard|
