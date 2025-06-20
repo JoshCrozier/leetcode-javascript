@@ -546,6 +546,7 @@
 559|[Maximum Depth of N-ary Tree](./solutions/0559-maximum-depth-of-n-ary-tree.js)|Easy|
 560|[Subarray Sum Equals K](./solutions/0560-subarray-sum-equals-k.js)|Medium|
 561|[Array Partition](./solutions/0561-array-partition.js)|Easy|
+562|[Longest Line of Consecutive One in Matrix](./solutions/0562-longest-line-of-consecutive-one-in-matrix.js)|Medium|
 563|[Binary Tree Tilt](./solutions/0563-binary-tree-tilt.js)|Easy|
 564|[Find the Closest Palindrome](./solutions/0564-find-the-closest-palindrome.js)|Hard|
 565|[Array Nesting](./solutions/0565-array-nesting.js)|Medium|
