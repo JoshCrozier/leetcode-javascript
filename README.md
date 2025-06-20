@@ -539,6 +539,7 @@
 552|[Student Attendance Record II](./solutions/0552-student-attendance-record-ii.js)|Hard|
 553|[Optimal Division](./solutions/0553-optimal-division.js)|Medium|
 554|[Brick Wall](./solutions/0554-brick-wall.js)|Medium|
+555|[Split Concatenated Strings](./solutions/0555-split-concatenated-strings.js)|Medium|
 556|[Next Greater Element III](./solutions/0556-next-greater-element-iii.js)|Medium|
 557|[Reverse Words in a String III](./solutions/0557-reverse-words-in-a-string-iii.js)|Easy|
 558|[Logical OR of Two Binary Grids Represented as Quad-Trees](./solutions/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.js)|Medium|
