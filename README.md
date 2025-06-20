@@ -1,4 +1,4 @@
-# 2,250+ LeetCode solutions in JavaScript
+# 2,300+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -2300,6 +2300,7 @@
 3405|[Count the Number of Arrays with K Matching Adjacent Elements](./solutions/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements.js)|Hard|
 3423|[Maximum Difference Between Adjacent Elements in a Circular Array](./solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.js)|Easy|
 3442|[Maximum Difference Between Even and Odd Frequency I](./solutions/3442-maximum-difference-between-even-and-odd-frequency-i.js)|Easy|
+3443|[Maximum Manhattan Distance After K Changes](./solutions/3443-maximum-manhattan-distance-after-k-changes.js)|Medium|
 3445|[Maximum Difference Between Even and Odd Frequency II](./solutions/3445-maximum-difference-between-even-and-odd-frequency-ii.js)|Hard|
 3452|[Sum of Good Numbers](./solutions/3452-sum-of-good-numbers.js)|Easy|
 3461|[Check If Digits Are Equal in String After Operations I](./solutions/3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
