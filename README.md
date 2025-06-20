@@ -530,6 +530,7 @@
 542|[01 Matrix](./solutions/0542-01-matrix.js)|Medium|
 543|[Diameter of Binary Tree](./solutions/0543-diameter-of-binary-tree.js)|Easy|
 544|[Output Contest Matches](./solutions/0544-output-contest-matches.js)|Medium|
+545|[Boundary of Binary Tree](./solutions/0545-boundary-of-binary-tree.js)|Medium|
 546|[Remove Boxes](./solutions/0546-remove-boxes.js)|Hard|
 547|[Number of Provinces](./solutions/0547-number-of-provinces.js)|Medium|
 551|[Student Attendance Record I](./solutions/0551-student-attendance-record-i.js)|Easy|
