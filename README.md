@@ -521,6 +521,7 @@
 532|[K-diff Pairs in an Array](./solutions/0532-k-diff-pairs-in-an-array.js)|Medium|
 533|[Lonely Pixel II](./solutions/0533-lonely-pixel-ii.js)|Medium|
 535|[Encode and Decode TinyURL](./solutions/0535-encode-and-decode-tinyurl.js)|Medium|
+536|[Construct Binary Tree from String](./solutions/0536-construct-binary-tree-from-string.js)|Medium|
 537|[Complex Number Multiplication](./solutions/0537-complex-number-multiplication.js)|Medium|
 538|[Convert BST to Greater Tree](./solutions/0538-convert-bst-to-greater-tree.js)|Medium|
 539|[Minimum Time Difference](./solutions/0539-minimum-time-difference.js)|Medium|
