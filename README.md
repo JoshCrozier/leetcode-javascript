@@ -534,6 +534,7 @@
 546|[Remove Boxes](./solutions/0546-remove-boxes.js)|Hard|
 547|[Number of Provinces](./solutions/0547-number-of-provinces.js)|Medium|
 548|[Split Array with Equal Sum](./solutions/0548-split-array-with-equal-sum.js)|Hard|
+549|[Binary Tree Longest Consecutive Sequence II](./solutions/0549-binary-tree-longest-consecutive-sequence-ii.js)|Medium|
 551|[Student Attendance Record I](./solutions/0551-student-attendance-record-i.js)|Easy|
 552|[Student Attendance Record II](./solutions/0552-student-attendance-record-ii.js)|Hard|
 553|[Optimal Division](./solutions/0553-optimal-division.js)|Medium|
