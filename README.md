@@ -552,6 +552,7 @@
 565|[Array Nesting](./solutions/0565-array-nesting.js)|Medium|
 566|[Reshape the Matrix](./solutions/0566-reshape-the-matrix.js)|Easy|
 567|[Permutation in String](./solutions/0567-permutation-in-string.js)|Medium|
+568|[Maximum Vacation Days](./solutions/0568-maximum-vacation-days.js)|Hard|
 572|[Subtree of Another Tree](./solutions/0572-subtree-of-another-tree.js)|Easy|
 575|[Distribute Candies](./solutions/0575-distribute-candies.js)|Easy|
 576|[Out of Boundary Paths](./solutions/0576-out-of-boundary-paths.js)|Medium|
