@@ -517,6 +517,7 @@
 528|[Random Pick with Weight](./solutions/0528-random-pick-with-weight.js)|Medium|
 529|[Minesweeper](./solutions/0529-minesweeper.js)|Medium|
 530|[Minimum Absolute Difference in BST](./solutions/0530-minimum-absolute-difference-in-bst.js)|Easy|
+531|[Lonely Pixel I](./solutions/0531-lonely-pixel-i.js)|Medium|
 532|[K-diff Pairs in an Array](./solutions/0532-k-diff-pairs-in-an-array.js)|Medium|
 535|[Encode and Decode TinyURL](./solutions/0535-encode-and-decode-tinyurl.js)|Medium|
 537|[Complex Number Multiplication](./solutions/0537-complex-number-multiplication.js)|Medium|
