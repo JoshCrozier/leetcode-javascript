@@ -636,6 +636,7 @@
 678|[Valid Parenthesis String](./solutions/0678-valid-parenthesis-string.js)|Medium|
 679|[24 Game](./solutions/0679-24-game.js)|Hard|
 680|[Valid Palindrome II](./solutions/0680-valid-palindrome-ii.js)|Easy|
+681|[Next Closest Time](./solutions/0681-next-closest-time.js)|Medium|
 682|[Baseball Game](./solutions/0682-baseball-game.js)|Easy|
 684|[Redundant Connection](./solutions/0684-redundant-connection.js)|Medium|
 685|[Redundant Connection II](./solutions/0685-redundant-connection-ii.js)|Hard|
