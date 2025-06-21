@@ -571,6 +571,7 @@
 598|[Range Addition II](./solutions/0598-range-addition-ii.js)|Easy|
 599|[Minimum Index Sum of Two Lists](./solutions/0599-minimum-index-sum-of-two-lists.js)|Easy|
 600|[Non-negative Integers without Consecutive Ones](./solutions/0600-non-negative-integers-without-consecutive-ones.js)|Hard|
+604|[Design Compressed String Iterator](./solutions/0604-design-compressed-string-iterator.js)|Easy|
 605|[Can Place Flowers](./solutions/0605-can-place-flowers.js)|Easy|
 606|[Construct String from Binary Tree](./solutions/0606-construct-string-from-binary-tree.js)|Easy|
 609|[Find Duplicate File in System](./solutions/0609-find-duplicate-file-in-system.js)|Medium|
