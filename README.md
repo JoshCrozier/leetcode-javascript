@@ -663,6 +663,7 @@
 705|[Design HashSet](./solutions/0705-design-hashset.js)|Easy|
 706|[Design HashMap](./solutions/0706-design-hashmap.js)|Easy|
 707|[Design Linked List](./solutions/0707-design-linked-list.js)|Medium|
+708|[Insert into a Sorted Circular Linked List](./solutions/0708-insert-into-a-sorted-circular-linked-list.js)|Medium|
 709|[To Lower Case](./solutions/0709-to-lower-case.js)|Easy|
 710|[Random Pick with Blacklist](./solutions/0710-random-pick-with-blacklist.js)|Hard|
 712|[Minimum ASCII Delete Sum for Two Strings](./solutions/0712-minimum-ascii-delete-sum-for-two-strings.js)|Medium|
