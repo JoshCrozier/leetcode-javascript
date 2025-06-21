@@ -666,6 +666,7 @@
 708|[Insert into a Sorted Circular Linked List](./solutions/0708-insert-into-a-sorted-circular-linked-list.js)|Medium|
 709|[To Lower Case](./solutions/0709-to-lower-case.js)|Easy|
 710|[Random Pick with Blacklist](./solutions/0710-random-pick-with-blacklist.js)|Hard|
+711|[Number of Distinct Islands II](./solutions/0711-number-of-distinct-islands-ii.js)|Hard|
 712|[Minimum ASCII Delete Sum for Two Strings](./solutions/0712-minimum-ascii-delete-sum-for-two-strings.js)|Medium|
 713|[Subarray Product Less Than K](./solutions/0713-subarray-product-less-than-k.js)|Medium|
 714|[Best Time to Buy and Sell Stock with Transaction Fee](./solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
