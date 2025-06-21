@@ -611,6 +611,7 @@
 653|[Two Sum IV - Input is a BST](./solutions/0653-two-sum-iv-input-is-a-bst.js)|Easy|
 654|[Maximum Binary Tree](./solutions/0654-maximum-binary-tree.js)|Medium|
 655|[Print Binary Tree](./solutions/0655-print-binary-tree.js)|Medium|
+656|[Coin Path](./solutions/0656-coin-path.js)|Hard|
 657|[Robot Return to Origin](./solutions/0657-robot-return-to-origin.js)|Easy|
 658|[Find K Closest Elements](./solutions/0658-find-k-closest-elements.js)|Medium|
 659|[Split Array into Consecutive Subsequences](./solutions/0659-split-array-into-consecutive-subsequences.js)|Medium|
