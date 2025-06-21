@@ -621,6 +621,7 @@
 663|[Equal Tree Partition](./solutions/0663-equal-tree-partition.js)|Medium|
 664|[Strange Printer](./solutions/0664-strange-printer.js)|Hard|
 665|[Non-decreasing Array](./solutions/0665-non-decreasing-array.js)|Medium|
+666|[Path Sum IV](./solutions/0666-path-sum-iv.js)|Medium|
 667|[Beautiful Arrangement II](./solutions/0667-beautiful-arrangement-ii.js)|Medium|
 668|[Kth Smallest Number in Multiplication Table](./solutions/0668-kth-smallest-number-in-multiplication-table.js)|Hard|
 669|[Trim a Binary Search Tree](./solutions/0669-trim-a-binary-search-tree.js)|Medium|
