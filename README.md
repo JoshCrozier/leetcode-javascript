@@ -657,6 +657,7 @@
 699|[Falling Squares](./solutions/0699-falling-squares.js)|Hard|
 700|[Search in a Binary Search Tree](./solutions/0700-search-in-a-binary-search-tree.js)|Easy|
 701|[Insert into a Binary Search Tree](./solutions/0701-insert-into-a-binary-search-tree.js)|Medium|
+702|[Search in a Sorted Array of Unknown Size](./solutions/0702-search-in-a-sorted-array-of-unknown-size.js)|Medium|
 703|[Kth Largest Element in a Stream](./solutions/0703-kth-largest-element-in-a-stream.js)|Easy|
 704|[Binary Search](./solutions/0704-binary-search.js)|Easy|
 705|[Design HashSet](./solutions/0705-design-hashset.js)|Easy|
