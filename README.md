@@ -561,6 +561,7 @@
 582|[Kill Process](./solutions/0582-kill-process.js)|Medium|
 583|[Delete Operation for Two Strings](./solutions/0583-delete-operation-for-two-strings.js)|Medium|
 587|[Erect the Fence](./solutions/0587-erect-the-fence.js)|Hard|
+588|[Design In-Memory File System](./solutions/0588-design-in-memory-file-system.js)|Hard|
 589|[N-ary Tree Preorder Traversal](./solutions/0589-n-ary-tree-preorder-traversal.js)|Easy|
 590|[N-ary Tree Postorder Traversal](./solutions/0590-n-ary-tree-postorder-traversal.js)|Easy|
 591|[Tag Validator](./solutions/0591-tag-validator.js)|Hard|
