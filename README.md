@@ -597,6 +597,7 @@
 639|[Decode Ways II](./solutions/0639-decode-ways-ii.js)|Hard|
 640|[Solve the Equation](./solutions/0640-solve-the-equation.js)|Medium|
 641|[Design Circular Deque](./solutions/0641-design-circular-deque.js)|Medium|
+642|[Design Search Autocomplete System](./solutions/0642-design-search-autocomplete-system.js)|Hard|
 643|[Maximum Average Subarray I](./solutions/0643-maximum-average-subarray-i.js)|Easy|
 645|[Set Mismatch](./solutions/0645-set-mismatch.js)|Medium|
 646|[Maximum Length of Pair Chain](./solutions/0646-maximum-length-of-pair-chain.js)|Medium|
