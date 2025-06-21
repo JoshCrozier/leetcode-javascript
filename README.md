@@ -590,6 +590,7 @@
 632|[Smallest Range Covering Elements from K Lists](./solutions/0632-smallest-range-covering-elements-from-k-lists.js)|Hard|
 633|[Sum of Square Numbers](./solutions/0633-sum-of-square-numbers.js)|Medium|
 634|[Find the Derangement of An Array](./solutions/0634-find-the-derangement-of-an-array.js)|Medium|
+635|[Design Log Storage System](./solutions/0635-design-log-storage-system.js)|Medium|
 636|[Exclusive Time of Functions](./solutions/0636-exclusive-time-of-functions.js)|Medium|
 637|[Average of Levels in Binary Tree](./solutions/0637-average-of-levels-in-binary-tree.js)|Easy|
 638|[Shopping Offers](./solutions/0638-shopping-offers.js)|Medium|
