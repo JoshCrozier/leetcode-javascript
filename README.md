@@ -586,6 +586,7 @@
 628|[Maximum Product of Three Numbers](./solutions/0628-maximum-product-of-three-numbers.js)|Easy|
 629|[K Inverse Pairs Array](./solutions/0629-k-inverse-pairs-array.js)|Hard|
 630|[Course Schedule III](./solutions/0630-course-schedule-iii.js)|Hard|
+631|[Design Excel Sum Formula](./solutions/0631-design-excel-sum-formula.js)|Hard|
 632|[Smallest Range Covering Elements from K Lists](./solutions/0632-smallest-range-covering-elements-from-k-lists.js)|Hard|
 633|[Sum of Square Numbers](./solutions/0633-sum-of-square-numbers.js)|Medium|
 636|[Exclusive Time of Functions](./solutions/0636-exclusive-time-of-functions.js)|Medium|
