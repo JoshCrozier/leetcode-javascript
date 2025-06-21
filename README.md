@@ -687,6 +687,7 @@
 754|[Reach a Number](./solutions/0754-reach-a-number.js)|Medium|
 756|[Pyramid Transition Matrix](./solutions/0756-pyramid-transition-matrix.js)|Medium|
 757|[Set Intersection Size At Least Two](./solutions/0757-set-intersection-size-at-least-two.js)|Hard|
+758|[Bold Words in String](./solutions/0758-bold-words-in-string.js)|Medium|
 761|[Special Binary String](./solutions/0761-special-binary-string.js)|Hard|
 762|[Prime Number of Set Bits in Binary Representation](./solutions/0762-prime-number-of-set-bits-in-binary-representation.js)|Easy|
 763|[Partition Labels](./solutions/0763-partition-labels.js)|Medium|
