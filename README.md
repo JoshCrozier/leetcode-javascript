@@ -615,6 +615,7 @@
 657|[Robot Return to Origin](./solutions/0657-robot-return-to-origin.js)|Easy|
 658|[Find K Closest Elements](./solutions/0658-find-k-closest-elements.js)|Medium|
 659|[Split Array into Consecutive Subsequences](./solutions/0659-split-array-into-consecutive-subsequences.js)|Medium|
+660|[Remove 9](./solutions/0660-remove-9.js)|Hard|
 661|[Image Smoother](./solutions/0661-image-smoother.js)|Easy|
 662|[Maximum Width of Binary Tree](./solutions/0662-maximum-width-of-binary-tree.js)|Medium|
 664|[Strange Printer](./solutions/0664-strange-printer.js)|Hard|
