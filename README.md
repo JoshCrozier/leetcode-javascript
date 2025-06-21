@@ -638,6 +638,7 @@
 680|[Valid Palindrome II](./solutions/0680-valid-palindrome-ii.js)|Easy|
 681|[Next Closest Time](./solutions/0681-next-closest-time.js)|Medium|
 682|[Baseball Game](./solutions/0682-baseball-game.js)|Easy|
+683|[K Empty Slots](./solutions/0683-k-empty-slots.js)|Hard|
 684|[Redundant Connection](./solutions/0684-redundant-connection.js)|Medium|
 685|[Redundant Connection II](./solutions/0685-redundant-connection-ii.js)|Hard|
 686|[Repeated String Match](./solutions/0686-repeated-string-match.js)|Easy|
