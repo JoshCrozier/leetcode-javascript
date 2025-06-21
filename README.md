@@ -606,6 +606,7 @@
 648|[Replace Words](./solutions/0648-replace-words.js)|Medium|
 649|[Dota2 Senate](./solutions/0649-dota2-senate.js)|Medium|
 650|[2 Keys Keyboard](./solutions/0650-2-keys-keyboard.js)|Medium|
+651|[4 Keys Keyboard](./solutions/0651-4-keys-keyboard.js)|Medium|
 652|[Find Duplicate Subtrees](./solutions/0652-find-duplicate-subtrees.js)|Medium|
 653|[Two Sum IV - Input is a BST](./solutions/0653-two-sum-iv-input-is-a-bst.js)|Easy|
 654|[Maximum Binary Tree](./solutions/0654-maximum-binary-tree.js)|Medium|
