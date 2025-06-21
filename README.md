@@ -554,6 +554,7 @@
 567|[Permutation in String](./solutions/0567-permutation-in-string.js)|Medium|
 568|[Maximum Vacation Days](./solutions/0568-maximum-vacation-days.js)|Hard|
 572|[Subtree of Another Tree](./solutions/0572-subtree-of-another-tree.js)|Easy|
+573|[Squirrel Simulation](./solutions/0573-squirrel-simulation.js)|Medium|
 575|[Distribute Candies](./solutions/0575-distribute-candies.js)|Easy|
 576|[Out of Boundary Paths](./solutions/0576-out-of-boundary-paths.js)|Medium|
 581|[Shortest Unsorted Continuous Subarray](./solutions/0581-shortest-unsorted-continuous-subarray.js)|Medium|
