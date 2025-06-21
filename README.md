@@ -576,6 +576,7 @@
 606|[Construct String from Binary Tree](./solutions/0606-construct-string-from-binary-tree.js)|Easy|
 609|[Find Duplicate File in System](./solutions/0609-find-duplicate-file-in-system.js)|Medium|
 611|[Valid Triangle Number](./solutions/0611-valid-triangle-number.js)|Medium|
+616|[Add Bold Tag in String](./solutions/0616-add-bold-tag-in-string.js)|Medium|
 617|[Merge Two Binary Trees](./solutions/0617-merge-two-binary-trees.js)|Easy|
 621|[Task Scheduler](./solutions/0621-task-scheduler.js)|Medium|
 622|[Design Circular Queue](./solutions/0622-design-circular-queue.js)|Medium|
