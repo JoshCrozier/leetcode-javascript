@@ -558,6 +558,7 @@
 575|[Distribute Candies](./solutions/0575-distribute-candies.js)|Easy|
 576|[Out of Boundary Paths](./solutions/0576-out-of-boundary-paths.js)|Medium|
 581|[Shortest Unsorted Continuous Subarray](./solutions/0581-shortest-unsorted-continuous-subarray.js)|Medium|
+582|[Kill Process](./solutions/0582-kill-process.js)|Medium|
 583|[Delete Operation for Two Strings](./solutions/0583-delete-operation-for-two-strings.js)|Medium|
 587|[Erect the Fence](./solutions/0587-erect-the-fence.js)|Hard|
 589|[N-ary Tree Preorder Traversal](./solutions/0589-n-ary-tree-preorder-traversal.js)|Easy|
