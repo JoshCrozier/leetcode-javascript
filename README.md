@@ -582,6 +582,7 @@
 622|[Design Circular Queue](./solutions/0622-design-circular-queue.js)|Medium|
 623|[Add One Row to Tree](./solutions/0623-add-one-row-to-tree.js)|Medium|
 624|[Maximum Distance in Arrays](./solutions/0624-maximum-distance-in-arrays.js)|Medium|
+625|[Minimum Factorization](./solutions/0625-minimum-factorization.js)|Medium|
 628|[Maximum Product of Three Numbers](./solutions/0628-maximum-product-of-three-numbers.js)|Easy|
 629|[K Inverse Pairs Array](./solutions/0629-k-inverse-pairs-array.js)|Hard|
 630|[Course Schedule III](./solutions/0630-course-schedule-iii.js)|Hard|
