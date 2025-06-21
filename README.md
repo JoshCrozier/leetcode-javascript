@@ -671,6 +671,7 @@
 713|[Subarray Product Less Than K](./solutions/0713-subarray-product-less-than-k.js)|Medium|
 714|[Best Time to Buy and Sell Stock with Transaction Fee](./solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
 715|[Range Module](./solutions/0715-range-module.js)|Hard|
+716|[Max Stack](./solutions/0716-max-stack.js)|Hard|
 717|[1-bit and 2-bit Characters](./solutions/0717-1-bit-and-2-bit-characters.js)|Easy|
 718|[Maximum Length of Repeated Subarray](./solutions/0718-maximum-length-of-repeated-subarray.js)|Medium|
 719|[Find K-th Smallest Pair Distance](./solutions/0719-find-k-th-smallest-pair-distance.js)|Hard|
