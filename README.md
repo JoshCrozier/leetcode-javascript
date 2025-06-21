@@ -649,6 +649,7 @@
 691|[Stickers to Spell Word](./solutions/0691-stickers-to-spell-word.js)|Hard|
 692|[Top K Frequent Words](./solutions/0692-top-k-frequent-words.js)|Medium|
 693|[Binary Number with Alternating Bits](./solutions/0693-binary-number-with-alternating-bits.js)|Easy|
+694|[Number of Distinct Islands](./solutions/0694-number-of-distinct-islands.js)|Medium|
 695|[Max Area of Island](./solutions/0695-max-area-of-island.js)|Medium|
 696|[Count Binary Substrings](./solutions/0696-count-binary-substrings.js)|Easy|
 697|[Degree of an Array](./solutions/0697-degree-of-an-array.js)|Easy|
