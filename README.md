@@ -618,6 +618,7 @@
 660|[Remove 9](./solutions/0660-remove-9.js)|Hard|
 661|[Image Smoother](./solutions/0661-image-smoother.js)|Easy|
 662|[Maximum Width of Binary Tree](./solutions/0662-maximum-width-of-binary-tree.js)|Medium|
+663|[Equal Tree Partition](./solutions/0663-equal-tree-partition.js)|Medium|
 664|[Strange Printer](./solutions/0664-strange-printer.js)|Hard|
 665|[Non-decreasing Array](./solutions/0665-non-decreasing-array.js)|Medium|
 667|[Beautiful Arrangement II](./solutions/0667-beautiful-arrangement-ii.js)|Medium|
