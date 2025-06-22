@@ -678,6 +678,7 @@
 720|[Longest Word in Dictionary](./solutions/0720-longest-word-in-dictionary.js)|Medium|
 721|[Accounts Merge](./solutions/0721-accounts-merge.js)|Medium|
 722|[Remove Comments](./solutions/0722-remove-comments.js)|Medium|
+723|[Candy Crush](./solutions/0723-candy-crush.js)|Medium|
 724|[Find Pivot Index](./solutions/0724-find-pivot-index.js)|Easy|
 725|[Split Linked List in Parts](./solutions/0725-split-linked-list-in-parts.js)|Medium|
 726|[Number of Atoms](./solutions/0726-number-of-atoms.js)|Hard|
