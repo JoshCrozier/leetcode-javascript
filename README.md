@@ -682,6 +682,7 @@
 724|[Find Pivot Index](./solutions/0724-find-pivot-index.js)|Easy|
 725|[Split Linked List in Parts](./solutions/0725-split-linked-list-in-parts.js)|Medium|
 726|[Number of Atoms](./solutions/0726-number-of-atoms.js)|Hard|
+727|[Minimum Window Subsequence](./solutions/0727-minimum-window-subsequence.js)|Hard|
 728|[Self Dividing Numbers](./solutions/0728-self-dividing-numbers.js)|Easy|
 729|[My Calendar I](./solutions/0729-my-calendar-i.js)|Medium|
 730|[Count Different Palindromic Subsequences](./solutions/0730-count-different-palindromic-subsequences.js)|Hard|
