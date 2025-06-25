@@ -689,6 +689,7 @@
 731|[My Calendar II](./solutions/0731-my-calendar-ii.js)|Medium|
 732|[My Calendar III](./solutions/0732-my-calendar-iii.js)|Hard|
 733|[Flood Fill](./solutions/0733-flood-fill.js)|Easy|
+734|[Sentence Similarity](./solutions/0734-sentence-similarity.js)|Easy|
 735|[Asteroid Collision](./solutions/0735-asteroid-collision.js)|Medium|
 736|[Parse Lisp Expression](./solutions/0736-parse-lisp-expression.js)|Hard|
 738|[Monotone Increasing Digits](./solutions/0738-monotone-increasing-digits.js)|Medium|
