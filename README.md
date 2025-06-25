@@ -697,6 +697,7 @@
 739|[Daily Temperatures](./solutions/0739-daily-temperatures.js)|Medium|
 740|[Delete and Earn](./solutions/0740-delete-and-earn.js)|Medium|
 741|[Cherry Pickup](./solutions/0741-cherry-pickup.js)|Hard|
+742|[Closest Leaf in a Binary Tree](./solutions/0742-closest-leaf-in-a-binary-tree.js)|Medium|
 743|[Network Delay Time](./solutions/0743-network-delay-time.js)|Medium|
 744|[Find Smallest Letter Greater Than Target](./solutions/0744-find-smallest-letter-greater-than-target.js)|Easy|
 745|[Prefix and Suffix Search](./solutions/0745-prefix-and-suffix-search.js)|Hard|
