@@ -692,6 +692,7 @@
 734|[Sentence Similarity](./solutions/0734-sentence-similarity.js)|Easy|
 735|[Asteroid Collision](./solutions/0735-asteroid-collision.js)|Medium|
 736|[Parse Lisp Expression](./solutions/0736-parse-lisp-expression.js)|Hard|
+737|[Sentence Similarity II](./solutions/0737-sentence-similarity-ii.js)|Medium|
 738|[Monotone Increasing Digits](./solutions/0738-monotone-increasing-digits.js)|Medium|
 739|[Daily Temperatures](./solutions/0739-daily-temperatures.js)|Medium|
 740|[Delete and Earn](./solutions/0740-delete-and-earn.js)|Medium|
