@@ -1891,6 +1891,7 @@
 2305|[Fair Distribution of Cookies](./solutions/2305-fair-distribution-of-cookies.js)|Medium|
 2306|[Naming a Company](./solutions/2306-naming-a-company.js)|Hard|
 2309|[Greatest English Letter in Upper and Lower Case](./solutions/2309-greatest-english-letter-in-upper-and-lower-case.js)|Easy|
+2311|[Longest Binary Subsequence Less Than or Equal to K](./solutions/2311-longest-binary-subsequence-less-than-or-equal-to-k.js)|Medium|
 2312|[Selling Pieces of Wood](./solutions/2312-selling-pieces-of-wood.js)|Hard|
 2315|[Count Asterisks](./solutions/2315-count-asterisks.js)|Easy|
 2316|[Count Unreachable Pairs of Nodes in an Undirected Graph](./solutions/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.js)|Medium|
