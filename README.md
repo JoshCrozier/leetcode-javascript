@@ -705,6 +705,7 @@
 747|[Largest Number At Least Twice of Others](./solutions/0747-largest-number-at-least-twice-of-others.js)|Easy|
 748|[Shortest Completing Word](./solutions/0748-shortest-completing-word.js)|Easy|
 749|[Contain Virus](./solutions/0749-contain-virus.js)|Hard|
+750|[Number Of Corner Rectangles](./solutions/0750-number-of-corner-rectangles.js)|Medium|
 752|[Open the Lock](./solutions/0752-open-the-lock.js)|Medium|
 753|[Cracking the Safe](./solutions/0753-cracking-the-safe.js)|Hard|
 754|[Reach a Number](./solutions/0754-reach-a-number.js)|Medium|
