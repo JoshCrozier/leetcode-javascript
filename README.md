@@ -710,6 +710,7 @@
 752|[Open the Lock](./solutions/0752-open-the-lock.js)|Medium|
 753|[Cracking the Safe](./solutions/0753-cracking-the-safe.js)|Hard|
 754|[Reach a Number](./solutions/0754-reach-a-number.js)|Medium|
+755|[Pour Water](./solutions/0755-pour-water.js)|Medium|
 756|[Pyramid Transition Matrix](./solutions/0756-pyramid-transition-matrix.js)|Medium|
 757|[Set Intersection Size At Least Two](./solutions/0757-set-intersection-size-at-least-two.js)|Hard|
 758|[Bold Words in String](./solutions/0758-bold-words-in-string.js)|Medium|
