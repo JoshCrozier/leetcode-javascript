@@ -1,4 +1,4 @@
-# 2,300+ LeetCode solutions in JavaScript
+# 2,350+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -755,6 +755,7 @@
 797|[All Paths From Source to Target](./solutions/0797-all-paths-from-source-to-target.js)|Medium|
 798|[Smallest Rotation with Highest Score](./solutions/0798-smallest-rotation-with-highest-score.js)|Hard|
 799|[Champagne Tower](./solutions/0799-champagne-tower.js)|Medium|
+800|[Similar RGB Color](./solutions/0800-similar-rgb-color.js)|Easy|
 801|[Minimum Swaps To Make Sequences Increasing](./solutions/0801-minimum-swaps-to-make-sequences-increasing.js)|Hard|
 802|[Find Eventual Safe States](./solutions/0802-find-eventual-safe-states.js)|Medium|
 803|[Bricks Falling When Hit](./solutions/0803-bricks-falling-when-hit.js)|Hard|
