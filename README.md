@@ -731,6 +731,7 @@
 773|[Sliding Puzzle](./solutions/0773-sliding-puzzle.js)|Hard|
 774|[Minimize Max Distance to Gas Station](./solutions/0774-minimize-max-distance-to-gas-station.js)|Hard|
 775|[Global and Local Inversions](./solutions/0775-global-and-local-inversions.js)|Medium|
+776|[Split BST](./solutions/0776-split-bst.js)|Medium|
 777|[Swap Adjacent in LR String](./solutions/0777-swap-adjacent-in-lr-string.js)|Medium|
 778|[Swim in Rising Water](./solutions/0778-swim-in-rising-water.js)|Hard|
 779|[K-th Symbol in Grammar](./solutions/0779-k-th-symbol-in-grammar.js)|Medium|
