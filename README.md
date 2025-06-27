@@ -1019,6 +1019,7 @@
 1063|[Number of Valid Subarrays](./solutions/1063-number-of-valid-subarrays.js)|Hard|
 1064|[Fixed Point](./solutions/1064-fixed-point.js)|Easy|
 1065|[Index Pairs of a String](./solutions/1065-index-pairs-of-a-string.js)|Easy|
+1066|[Campus Bikes II](./solutions/1066-campus-bikes-ii.js)|Medium|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
 1073|[Adding Two Negabinary Numbers](./solutions/1073-adding-two-negabinary-numbers.js)|Medium|
