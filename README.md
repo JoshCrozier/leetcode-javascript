@@ -1008,6 +1008,7 @@
 1052|[Grumpy Bookstore Owner](./solutions/1052-grumpy-bookstore-owner.js)|Medium|
 1053|[Previous Permutation With One Swap](./solutions/1053-previous-permutation-with-one-swap.js)|Medium|
 1054|[Distant Barcodes](./solutions/1054-distant-barcodes.js)|Medium|
+1055|[Shortest Way to Form String](./solutions/1055-shortest-way-to-form-string.js)|Medium|
 1061|[Lexicographically Smallest Equivalent String](./solutions/1061-lexicographically-smallest-equivalent-string.js)|Medium|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
