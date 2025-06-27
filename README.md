@@ -1015,6 +1015,7 @@
 1059|[All Paths from Source Lead to Destination](./solutions/1059-all-paths-from-source-lead-to-destination.js)|Medium|
 1060|[Missing Element in Sorted Array](./solutions/1060-missing-element-in-sorted-array.js)|Medium|
 1061|[Lexicographically Smallest Equivalent String](./solutions/1061-lexicographically-smallest-equivalent-string.js)|Medium|
+1062|[Longest Repeating Substring](./solutions/1062-longest-repeating-substring.js)|Medium|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
 1073|[Adding Two Negabinary Numbers](./solutions/1073-adding-two-negabinary-numbers.js)|Medium|
