@@ -1011,6 +1011,7 @@
 1055|[Shortest Way to Form String](./solutions/1055-shortest-way-to-form-string.js)|Medium|
 1056|[Confusing Number](./solutions/1056-confusing-number.js)|Easy|
 1057|[Campus Bikes](./solutions/1057-campus-bikes.js)|Medium|
+1058|[Minimize Rounding Error to Meet Target](./solutions/1058-minimize-rounding-error-to-meet-target.js)|Medium|
 1061|[Lexicographically Smallest Equivalent String](./solutions/1061-lexicographically-smallest-equivalent-string.js)|Medium|
 1071|[Greatest Common Divisor of Strings](./solutions/1071-greatest-common-divisor-of-strings.js)|Easy|
 1072|[Flip Columns For Maximum Number of Equal Rows](./solutions/1072-flip-columns-for-maximum-number-of-equal-rows.js)|Medium|
