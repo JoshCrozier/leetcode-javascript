@@ -1030,6 +1030,7 @@
 1080|[Insufficient Nodes in Root to Leaf Paths](./solutions/1080-insufficient-nodes-in-root-to-leaf-paths.js)|Medium|
 1081|[Smallest Subsequence of Distinct Characters](./solutions/1081-smallest-subsequence-of-distinct-characters.js)|Medium|
 1085|[Sum of Digits in the Minimum Number](./solutions/1085-sum-of-digits-in-the-minimum-number.js)|Easy|
+1086|[High Five](./solutions/1086-high-five.js)|Easy|
 1089|[Duplicate Zeros](./solutions/1089-duplicate-zeros.js)|Easy|
 1090|[Largest Values From Labels](./solutions/1090-largest-values-from-labels.js)|Medium|
 1091|[Shortest Path in Binary Matrix](./solutions/1091-shortest-path-in-binary-matrix.js)|Medium|
