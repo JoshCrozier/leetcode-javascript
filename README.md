@@ -1032,6 +1032,7 @@
 1085|[Sum of Digits in the Minimum Number](./solutions/1085-sum-of-digits-in-the-minimum-number.js)|Easy|
 1086|[High Five](./solutions/1086-high-five.js)|Easy|
 1087|[Brace Expansion](./solutions/1087-brace-expansion.js)|Medium|
+1088|[Confusing Number II](./solutions/1088-confusing-number-ii.js)|Hard|
 1089|[Duplicate Zeros](./solutions/1089-duplicate-zeros.js)|Easy|
 1090|[Largest Values From Labels](./solutions/1090-largest-values-from-labels.js)|Medium|
 1091|[Shortest Path in Binary Matrix](./solutions/1091-shortest-path-in-binary-matrix.js)|Medium|
