@@ -1081,6 +1081,7 @@
 1150|[Check If a Number Is Majority Element in a Sorted Array](./solutions/1150-check-if-a-number-is-majority-element-in-a-sorted-array.js)|Easy|
 1151|[Minimum Swaps to Group All 1's Together](./solutions/1151-minimum-swaps-to-group-all-1s-together.js)|Medium|
 1152|[Analyze User Website Visit Pattern](./solutions/1152-analyze-user-website-visit-pattern.js)|Medium|
+1153|[String Transforms Into Another String](./solutions/1153-string-transforms-into-another-string.js)|Hard|
 1154|[Day of the Year](./solutions/1154-day-of-the-year.js)|Easy|
 1155|[Number of Dice Rolls With Target Sum](./solutions/1155-number-of-dice-rolls-with-target-sum.js)|Medium|
 1156|[Swap For Longest Repeated Character Substring](./solutions/1156-swap-for-longest-repeated-character-substring.js)|Medium|
