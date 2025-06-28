@@ -1099,6 +1099,7 @@
 1171|[Remove Zero Sum Consecutive Nodes from Linked List](./solutions/1171-remove-zero-sum-consecutive-nodes-from-linked-list.js)|Medium|
 1172|[Dinner Plate Stacks](./solutions/1172-dinner-plate-stacks.js)|Hard|
 1175|[Prime Arrangements](./solutions/1175-prime-arrangements.js)|Easy|
+1176|[Diet Plan Performance](./solutions/1176-diet-plan-performance.js)|Easy|
 1177|[Can Make Palindrome from Substring](./solutions/1177-can-make-palindrome-from-substring.js)|Medium|
 1178|[Number of Valid Words for Each Puzzle](./solutions/1178-number-of-valid-words-for-each-puzzle.js)|Hard|
 1184|[Distance Between Bus Stops](./solutions/1184-distance-between-bus-stops.js)|Easy|
