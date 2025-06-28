@@ -1066,6 +1066,7 @@
 1130|[Minimum Cost Tree From Leaf Values](./solutions/1130-minimum-cost-tree-from-leaf-values.js)|Medium|
 1131|[Maximum of Absolute Value Expression](./solutions/1131-maximum-of-absolute-value-expression.js)|Medium|
 1133|[Largest Unique Number](./solutions/1133-largest-unique-number.js)|Easy|
+1134|[Armstrong Number](./solutions/1134-armstrong-number.js)|Easy|
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
 1138|[Alphabet Board Path](./solutions/1138-alphabet-board-path.js)|Medium|
 1139|[Largest 1-Bordered Square](./solutions/1139-largest-1-bordered-square.js)|Medium|
