@@ -1130,6 +1130,7 @@
 1213|[Intersection of Three Sorted Arrays](./solutions/1213-intersection-of-three-sorted-arrays.js)|Easy|
 1214|[Two Sum BSTs](./solutions/1214-two-sum-bsts.js)|Medium|
 1215|[Stepping Numbers](./solutions/1215-stepping-numbers.js)|Medium|
+1216|[Valid Palindrome III](./solutions/1216-valid-palindrome-iii.js)|Hard|
 1217|[Minimum Cost to Move Chips to The Same Position](./solutions/1217-minimum-cost-to-move-chips-to-the-same-position.js)|Easy|
 1218|[Longest Arithmetic Subsequence of Given Difference](./solutions/1218-longest-arithmetic-subsequence-of-given-difference.js)|Medium|
 1219|[Path with Maximum Gold](./solutions/1219-path-with-maximum-gold.js)|Medium|
