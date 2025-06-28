@@ -1092,6 +1092,7 @@
 1163|[Last Substring in Lexicographical Order](./solutions/1163-last-substring-in-lexicographical-order.js)|Hard|
 1165|[Single-Row Keyboard](./solutions/1165-single-row-keyboard.js)|Easy|
 1166|[Design File System](./solutions/1166-design-file-system.js)|Medium|
+1167|[Minimum Cost to Connect Sticks](./solutions/1167-minimum-cost-to-connect-sticks.js)|Medium|
 1169|[Invalid Transactions](./solutions/1169-invalid-transactions.js)|Medium|
 1170|[Compare Strings by Frequency of the Smallest Character](./solutions/1170-compare-strings-by-frequency-of-the-smallest-character.js)|Medium|
 1171|[Remove Zero Sum Consecutive Nodes from Linked List](./solutions/1171-remove-zero-sum-consecutive-nodes-from-linked-list.js)|Medium|
