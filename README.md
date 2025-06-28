@@ -1068,6 +1068,7 @@
 1133|[Largest Unique Number](./solutions/1133-largest-unique-number.js)|Easy|
 1134|[Armstrong Number](./solutions/1134-armstrong-number.js)|Easy|
 1135|[Connecting Cities With Minimum Cost](./solutions/1135-connecting-cities-with-minimum-cost.js)|Medium|
+1136|[Parallel Courses](./solutions/1136-parallel-courses.js)|Medium|
 1137|[N-th Tribonacci Number](./solutions/1137-n-th-tribonacci-number.js)|Easy|
 1138|[Alphabet Board Path](./solutions/1138-alphabet-board-path.js)|Medium|
 1139|[Largest 1-Bordered Square](./solutions/1139-largest-1-bordered-square.js)|Medium|
