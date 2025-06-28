@@ -1055,6 +1055,7 @@
 1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](./solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.js)|Medium|
 1118|[Number of Days in a Month](./solutions/1118-number-of-days-in-a-month.js)|Easy|
 1119|[Remove Vowels from a String](./solutions/1119-remove-vowels-from-a-string.js)|Easy|
+1120|[Maximum Average Subtree](./solutions/1120-maximum-average-subtree.js)|Medium|
 1122|[Relative Sort Array](./solutions/1122-relative-sort-array.js)|Easy|
 1123|[Lowest Common Ancestor of Deepest Leaves](./solutions/1123-lowest-common-ancestor-of-deepest-leaves.js)|Medium|
 1124|[Longest Well-Performing Interval](./solutions/1124-longest-well-performing-interval.js)|Medium|
