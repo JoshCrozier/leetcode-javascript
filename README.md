@@ -1078,6 +1078,7 @@
 1145|[Binary Tree Coloring Game](./solutions/1145-binary-tree-coloring-game.js)|Medium|
 1146|[Snapshot Array](./solutions/1146-snapshot-array.js)|Medium|
 1147|[Longest Chunked Palindrome Decomposition](./solutions/1147-longest-chunked-palindrome-decomposition.js)|Hard|
+1150|[Check If a Number Is Majority Element in a Sorted Array](./solutions/1150-check-if-a-number-is-majority-element-in-a-sorted-array.js)|Easy|
 1154|[Day of the Year](./solutions/1154-day-of-the-year.js)|Easy|
 1155|[Number of Dice Rolls With Target Sum](./solutions/1155-number-of-dice-rolls-with-target-sum.js)|Medium|
 1156|[Swap For Longest Repeated Character Substring](./solutions/1156-swap-for-longest-repeated-character-substring.js)|Medium|
