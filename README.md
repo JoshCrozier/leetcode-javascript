@@ -1104,6 +1104,7 @@
 1178|[Number of Valid Words for Each Puzzle](./solutions/1178-number-of-valid-words-for-each-puzzle.js)|Hard|
 1180|[Count Substrings with Only One Distinct Letter](./solutions/1180-count-substrings-with-only-one-distinct-letter.js)|Easy|
 1181|[Before and After Puzzle](./solutions/1181-before-and-after-puzzle.js)|Medium|
+1182|[Shortest Distance to Target Color](./solutions/1182-shortest-distance-to-target-color.js)|Medium|
 1184|[Distance Between Bus Stops](./solutions/1184-distance-between-bus-stops.js)|Easy|
 1185|[Day of the Week](./solutions/1185-day-of-the-week.js)|Easy|
 1186|[Maximum Subarray Sum with One Deletion](./solutions/1186-maximum-subarray-sum-with-one-deletion.js)|Medium|
