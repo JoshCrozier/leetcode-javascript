@@ -1117,6 +1117,7 @@
 1196|[How Many Apples Can You Put into the Basket](./solutions/1196-how-many-apples-can-you-put-into-the-basket.js)|Easy|
 1197|[Minimum Knight Moves](./solutions/1197-minimum-knight-moves.js)|Medium|
 1198|[Find Smallest Common Element in All Rows](./solutions/1198-find-smallest-common-element-in-all-rows.js)|Medium|
+1199|[Minimum Time to Build Blocks](./solutions/1199-minimum-time-to-build-blocks.js)|Hard|
 1200|[Minimum Absolute Difference](./solutions/1200-minimum-absolute-difference.js)|Easy|
 1201|[Ugly Number III](./solutions/1201-ugly-number-iii.js)|Medium|
 1202|[Smallest String With Swaps](./solutions/1202-smallest-string-with-swaps.js)|Medium|
