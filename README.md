@@ -1141,6 +1141,7 @@
 1224|[Maximum Equal Frequency](./solutions/1224-maximum-equal-frequency.js)|Hard|
 1227|[Airplane Seat Assignment Probability](./solutions/1227-airplane-seat-assignment-probability.js)|Medium|
 1228|[Missing Number In Arithmetic Progression](./solutions/1228-missing-number-in-arithmetic-progression.js)|Easy|
+1229|[Meeting Scheduler](./solutions/1229-meeting-scheduler.js)|Medium|
 1232|[Check If It Is a Straight Line](./solutions/1232-check-if-it-is-a-straight-line.js)|Easy|
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
 1234|[Replace the Substring for Balanced String](./solutions/1234-replace-the-substring-for-balanced-string.js)|Medium|
