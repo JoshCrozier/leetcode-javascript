@@ -1143,6 +1143,7 @@
 1228|[Missing Number In Arithmetic Progression](./solutions/1228-missing-number-in-arithmetic-progression.js)|Easy|
 1229|[Meeting Scheduler](./solutions/1229-meeting-scheduler.js)|Medium|
 1230|[Toss Strange Coins](./solutions/1230-toss-strange-coins.js)|Medium|
+1231|[Divide Chocolate](./solutions/1231-divide-chocolate.js)|Hard|
 1232|[Check If It Is a Straight Line](./solutions/1232-check-if-it-is-a-straight-line.js)|Easy|
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
 1234|[Replace the Substring for Balanced String](./solutions/1234-replace-the-substring-for-balanced-string.js)|Medium|
