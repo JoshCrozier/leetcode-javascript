@@ -1148,6 +1148,7 @@
 1233|[Remove Sub-Folders from the Filesystem](./solutions/1233-remove-sub-folders-from-the-filesystem.js)|Medium|
 1234|[Replace the Substring for Balanced String](./solutions/1234-replace-the-substring-for-balanced-string.js)|Medium|
 1235|[Maximum Profit in Job Scheduling](./solutions/1235-maximum-profit-in-job-scheduling.js)|Hard|
+1236|[Web Crawler](./solutions/1236-web-crawler.js)|Medium|
 1237|[Find Positive Integer Solution for a Given Equation](./solutions/1237-find-positive-integer-solution-for-a-given-equation.js)|Medium|
 1238|[Circular Permutation in Binary Representation](./solutions/1238-circular-permutation-in-binary-representation.js)|Medium|
 1239|[Maximum Length of a Concatenated String with Unique Characters](./solutions/1239-maximum-length-of-a-concatenated-string-with-unique-characters.js)|Medium|
