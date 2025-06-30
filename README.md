@@ -1155,6 +1155,7 @@
 1240|[Tiling a Rectangle with the Fewest Squares](./solutions/1240-tiling-a-rectangle-with-the-fewest-squares.js)|Hard|
 1243|[Array Transformation](./solutions/1243-array-transformation.js)|Easy|
 1244|[Design A Leaderboard](./solutions/1244-design-a-leaderboard.js)|Medium|
+1245|[Tree Diameter](./solutions/1245-tree-diameter.js)|Medium|
 1247|[Minimum Swaps to Make Strings Equal](./solutions/1247-minimum-swaps-to-make-strings-equal.js)|Medium|
 1248|[Count Number of Nice Subarrays](./solutions/1248-count-number-of-nice-subarrays.js)|Medium|
 1249|[Minimum Remove to Make Valid Parentheses](./solutions/1249-minimum-remove-to-make-valid-parentheses.js)|Medium|
