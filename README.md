@@ -1166,6 +1166,7 @@
 1254|[Number of Closed Islands](./solutions/1254-number-of-closed-islands.js)|Medium|
 1255|[Maximum Score Words Formed by Letters](./solutions/1255-maximum-score-words-formed-by-letters.js)|Hard|
 1256|[Encode Number](./solutions/1256-encode-number.js)|Medium|
+1257|[Smallest Common Region](./solutions/1257-smallest-common-region.js)|Medium|
 1260|[Shift 2D Grid](./solutions/1260-shift-2d-grid.js)|Easy|
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
 1262|[Greatest Sum Divisible by Three](./solutions/1262-greatest-sum-divisible-by-three.js)|Medium|
