@@ -1179,6 +1179,7 @@
 1268|[Search Suggestions System](./solutions/1268-search-suggestions-system.js)|Medium|
 1269|[Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.js)|Hard|
 1271|[Hexspeak](./solutions/1271-hexspeak.js)|Easy|
+1272|[Remove Interval](./solutions/1272-remove-interval.js)|Medium|
 1275|[Find Winner on a Tic Tac Toe Game](./solutions/1275-find-winner-on-a-tic-tac-toe-game.js)|Easy|
 1276|[Number of Burgers with No Waste of Ingredients](./solutions/1276-number-of-burgers-with-no-waste-of-ingredients.js)|Medium|
 1277|[Count Square Submatrices with All Ones](./solutions/1277-count-square-submatrices-with-all-ones.js)|Medium|
