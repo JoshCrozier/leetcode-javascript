@@ -1168,6 +1168,7 @@
 1256|[Encode Number](./solutions/1256-encode-number.js)|Medium|
 1257|[Smallest Common Region](./solutions/1257-smallest-common-region.js)|Medium|
 1258|[Synonymous Sentences](./solutions/1258-synonymous-sentences.js)|Medium|
+1259|[Handshakes That Don't Cross](./solutions/1259-handshakes-that-dont-cross.js)|Hard|
 1260|[Shift 2D Grid](./solutions/1260-shift-2d-grid.js)|Easy|
 1261|[Find Elements in a Contaminated Binary Tree](./solutions/1261-find-elements-in-a-contaminated-binary-tree.js)|Medium|
 1262|[Greatest Sum Divisible by Three](./solutions/1262-greatest-sum-divisible-by-three.js)|Medium|
