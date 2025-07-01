@@ -1312,6 +1312,7 @@
 1424|[Diagonal Traverse II](./solutions/1424-diagonal-traverse-ii.js)|Medium|
 1425|[Constrained Subsequence Sum](./solutions/1425-constrained-subsequence-sum.js)|Hard|
 1426|[Counting Elements](./solutions/1426-counting-elements.js)|Easy|
+1427|[Perform String Shifts](./solutions/1427-perform-string-shifts.js)|Easy|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1432|[Max Difference You Can Get From Changing an Integer](./solutions/1432-max-difference-you-can-get-from-changing-an-integer.js)|Medium|
 1433|[Check If a String Can Break Another String](./solutions/1433-check-if-a-string-can-break-another-string.js)|Medium|
