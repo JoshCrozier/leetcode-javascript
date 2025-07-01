@@ -2389,6 +2389,7 @@
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
+3330|[Find the Original Typed String I](./solutions/3330-find-the-original-typed-string-i.js)|Easy|
 3335|[Total Characters in String After Transformations I](./solutions/3335-total-characters-in-string-after-transformations-i.js)|Medium|
 3337|[Total Characters in String After Transformations II](./solutions/3337-total-characters-in-string-after-transformations-ii.js)|Hard|
 3341|[Find Minimum Time to Reach Last Room I](./solutions/3341-find-minimum-time-to-reach-last-room-i.js)|Medium|
