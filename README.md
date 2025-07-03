@@ -1404,6 +1404,7 @@
 1529|[Minimum Suffix Flips](./solutions/1529-minimum-suffix-flips.js)|Medium|
 1530|[Number of Good Leaf Nodes Pairs](./solutions/1530-number-of-good-leaf-nodes-pairs.js)|Medium|
 1531|[String Compression II](./solutions/1531-string-compression-ii.js)|Hard|
+1533|[Find the Index of the Large Integer](./solutions/1533-find-the-index-of-the-large-integer.js)|Medium|
 1534|[Count Good Triplets](./solutions/1534-count-good-triplets.js)|Easy|
 1535|[Find the Winner of an Array Game](./solutions/1535-find-the-winner-of-an-array-game.js)|Medium|
 1536|[Minimum Swaps to Arrange a Binary Grid](./solutions/1536-minimum-swaps-to-arrange-a-binary-grid.js)|Medium|
