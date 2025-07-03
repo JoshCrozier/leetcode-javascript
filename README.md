@@ -1348,6 +1348,7 @@
 1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./solutions/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.js)|Medium|
 1466|[Reorder Routes to Make All Paths Lead to the City Zero](./solutions/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.js)|Medium|
 1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](./solutions/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.js)|Hard|
+1469|[Find All The Lonely Nodes](./solutions/1469-find-all-the-lonely-nodes.js)|Easy|
 1470|[Shuffle the Array](./solutions/1470-shuffle-the-array.js)|Easy|
 1471|[The k Strongest Values in an Array](./solutions/1471-the-k-strongest-values-in-an-array.js)|Medium|
 1472|[Design Browser History](./solutions/1472-design-browser-history.js)|Medium|
