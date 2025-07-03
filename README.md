@@ -1409,6 +1409,7 @@
 1535|[Find the Winner of an Array Game](./solutions/1535-find-the-winner-of-an-array-game.js)|Medium|
 1536|[Minimum Swaps to Arrange a Binary Grid](./solutions/1536-minimum-swaps-to-arrange-a-binary-grid.js)|Medium|
 1537|[Get the Maximum Score](./solutions/1537-get-the-maximum-score.js)|Hard|
+1538|[Guess the Majority in a Hidden Array](./solutions/1538-guess-the-majority-in-a-hidden-array.js)|Medium|
 1539|[Kth Missing Positive Number](./solutions/1539-kth-missing-positive-number.js)|Easy|
 1540|[Can Convert String in K Moves](./solutions/1540-can-convert-string-in-k-moves.js)|Medium|
 1541|[Minimum Insertions to Balance a Parentheses String](./solutions/1541-minimum-insertions-to-balance-a-parentheses-string.js)|Medium|
