@@ -1362,6 +1362,7 @@
 1481|[Least Number of Unique Integers after K Removals](./solutions/1481-least-number-of-unique-integers-after-k-removals.js)|Medium|
 1482|[Minimum Number of Days to Make m Bouquets](./solutions/1482-minimum-number-of-days-to-make-m-bouquets.js)|Medium|
 1483|[Kth Ancestor of a Tree Node](./solutions/1483-kth-ancestor-of-a-tree-node.js)|Hard|
+1485|[Clone Binary Tree With Random Pointer](./solutions/1485-clone-binary-tree-with-random-pointer.js)|Medium|
 1486|[XOR Operation in an Array](./solutions/1486-xor-operation-in-an-array.js)|Easy|
 1487|[Making File Names Unique](./solutions/1487-making-file-names-unique.js)|Medium|
 1488|[Avoid Flood in The City](./solutions/1488-avoid-flood-in-the-city.js)|Medium|
