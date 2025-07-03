@@ -1353,6 +1353,7 @@
 1471|[The k Strongest Values in an Array](./solutions/1471-the-k-strongest-values-in-an-array.js)|Medium|
 1472|[Design Browser History](./solutions/1472-design-browser-history.js)|Medium|
 1473|[Paint House III](./solutions/1473-paint-house-iii.js)|Hard|
+1474|[Delete N Nodes After M Nodes of a Linked List](./solutions/1474-delete-n-nodes-after-m-nodes-of-a-linked-list.js)|Easy|
 1475|[Final Prices With a Special Discount in a Shop](./solutions/1475-final-prices-with-a-special-discount-in-a-shop.js)|Easy|
 1476|[Subrectangle Queries](./solutions/1476-subrectangle-queries.js)|Medium|
 1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](./solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.js)|Medium|
