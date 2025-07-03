@@ -1390,6 +1390,7 @@
 1513|[Number of Substrings With Only 1s](./solutions/1513-number-of-substrings-with-only-1s.js)|Medium|
 1514|[Path with Maximum Probability](./solutions/1514-path-with-maximum-probability.js)|Medium|
 1515|[Best Position for a Service Centre](./solutions/1515-best-position-for-a-service-centre.js)|Hard|
+1516|[Move Sub-Tree of N-Ary Tree](./solutions/1516-move-sub-tree-of-n-ary-tree.js)|Hard|
 1518|[Water Bottles](./solutions/1518-water-bottles.js)|Easy|
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1520|[Maximum Number of Non-Overlapping Substrings](./solutions/1520-maximum-number-of-non-overlapping-substrings.js)|Hard|
