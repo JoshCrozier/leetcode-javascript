@@ -1376,6 +1376,7 @@
 1497|[Check If Array Pairs Are Divisible by k](./solutions/1497-check-if-array-pairs-are-divisible-by-k.js)|Medium|
 1498|[Number of Subsequences That Satisfy the Given Sum Condition](./solutions/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.js)|Medium|
 1499|[Max Value of Equation](./solutions/1499-max-value-of-equation.js)|Hard|
+1500|[Design a File Sharing System](./solutions/1500-design-a-file-sharing-system.js)|Medium|
 1502|[Can Make Arithmetic Progression From Sequence](./solutions/1502-can-make-arithmetic-progression-from-sequence.js)|Easy|
 1503|[Last Moment Before All Ants Fall Out of a Plank](./solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank.js)|Medium|
 1504|[Count Submatrices With All Ones](./solutions/1504-count-submatrices-with-all-ones.js)|Medium|
