@@ -2397,6 +2397,7 @@
 3208|[Alternating Groups II](./solutions/3208-alternating-groups-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
+3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
 3330|[Find the Original Typed String I](./solutions/3330-find-the-original-typed-string-i.js)|Easy|
 3333|[Find the Original Typed String II](./solutions/3333-find-the-original-typed-string-ii.js)|Hard|
