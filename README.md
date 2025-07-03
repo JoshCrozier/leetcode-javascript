@@ -1395,6 +1395,7 @@
 1519|[Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.js)|Medium|
 1520|[Maximum Number of Non-Overlapping Substrings](./solutions/1520-maximum-number-of-non-overlapping-substrings.js)|Hard|
 1521|[Find a Value of a Mysterious Function Closest to Target](./solutions/1521-find-a-value-of-a-mysterious-function-closest-to-target.js)|Hard|
+1522|[Diameter of N-Ary Tree](./solutions/1522-diameter-of-n-ary-tree.js)|Medium|
 1523|[Count Odd Numbers in an Interval Range](./solutions/1523-count-odd-numbers-in-an-interval-range.js)|Easy|
 1524|[Number of Sub-arrays With Odd Sum](./solutions/1524-number-of-sub-arrays-with-odd-sum.js)|Medium|
 1525|[Number of Good Ways to Split a String](./solutions/1525-number-of-good-ways-to-split-a-string.js)|Medium|
