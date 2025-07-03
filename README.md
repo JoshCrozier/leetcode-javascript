@@ -1381,6 +1381,7 @@
 1503|[Last Moment Before All Ants Fall Out of a Plank](./solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank.js)|Medium|
 1504|[Count Submatrices With All Ones](./solutions/1504-count-submatrices-with-all-ones.js)|Medium|
 1505|[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./solutions/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.js)|Hard|
+1506|[Find Root of N-Ary Tree](./solutions/1506-find-root-of-n-ary-tree.js)|Medium|
 1507|[Reformat Date](./solutions/1507-reformat-date.js)|Easy|
 1508|[Range Sum of Sorted Subarray Sums](./solutions/1508-range-sum-of-sorted-subarray-sums.js)|Medium|
 1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](./solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.js)|Medium|
