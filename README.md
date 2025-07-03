@@ -1315,6 +1315,7 @@
 1427|[Perform String Shifts](./solutions/1427-perform-string-shifts.js)|Easy|
 1428|[Leftmost Column with at Least a One](./solutions/1428-leftmost-column-with-at-least-a-one.js)|Medium|
 1429|[First Unique Number](./solutions/1429-first-unique-number.js)|Medium|
+1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](./solutions/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree.js)|Medium|
 1431|[Kids With the Greatest Number of Candies](./solutions/1431-kids-with-the-greatest-number-of-candies.js)|Easy|
 1432|[Max Difference You Can Get From Changing an Integer](./solutions/1432-max-difference-you-can-get-from-changing-an-integer.js)|Medium|
 1433|[Check If a String Can Break Another String](./solutions/1433-check-if-a-string-can-break-another-string.js)|Medium|
