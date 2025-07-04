@@ -1418,6 +1418,7 @@
 1545|[Find Kth Bit in Nth Binary String](./solutions/1545-find-kth-bit-in-nth-binary-string.js)|Medium|
 1546|[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](./solutions/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.js)|Medium|
 1547|[Minimum Cost to Cut a Stick](./solutions/1547-minimum-cost-to-cut-a-stick.js)|Hard|
+1548|[The Most Similar Path in a Graph](./solutions/1548-the-most-similar-path-in-a-graph.js)|Hard|
 1550|[Three Consecutive Odds](./solutions/1550-three-consecutive-odds.js)|Easy|
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
 1552|[Magnetic Force Between Two Balls](./solutions/1552-magnetic-force-between-two-balls.js)|Medium|
