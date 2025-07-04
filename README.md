@@ -1423,6 +1423,7 @@
 1551|[Minimum Operations to Make Array Equal](./solutions/1551-minimum-operations-to-make-array-equal.js)|Medium|
 1552|[Magnetic Force Between Two Balls](./solutions/1552-magnetic-force-between-two-balls.js)|Medium|
 1553|[Minimum Number of Days to Eat N Oranges](./solutions/1553-minimum-number-of-days-to-eat-n-oranges.js)|Hard|
+1554|[Strings Differ by One Character](./solutions/1554-strings-differ-by-one-character.js)|Medium|
 1556|[Thousand Separator](./solutions/1556-thousand-separator.js)|Easy|
 1557|[Minimum Number of Vertices to Reach All Nodes](./solutions/1557-minimum-number-of-vertices-to-reach-all-nodes.js)|Medium|
 1558|[Minimum Numbers of Function Calls to Make Target Array](./solutions/1558-minimum-numbers-of-function-calls-to-make-target-array.js)|Medium|
