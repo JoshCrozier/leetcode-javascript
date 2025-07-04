@@ -2412,6 +2412,7 @@
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
+3307|[Find the K-th Character in String Game II](./solutions/3307-find-the-k-th-character-in-string-game-ii.js)|Hard|
 3330|[Find the Original Typed String I](./solutions/3330-find-the-original-typed-string-i.js)|Easy|
 3333|[Find the Original Typed String II](./solutions/3333-find-the-original-typed-string-ii.js)|Hard|
 3335|[Total Characters in String After Transformations I](./solutions/3335-total-characters-in-string-after-transformations-i.js)|Medium|
