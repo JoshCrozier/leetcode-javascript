@@ -1437,6 +1437,7 @@
 1567|[Maximum Length of Subarray With Positive Product](./solutions/1567-maximum-length-of-subarray-with-positive-product.js)|Medium|
 1568|[Minimum Number of Days to Disconnect Island](./solutions/1568-minimum-number-of-days-to-disconnect-island.js)|Hard|
 1569|[Number of Ways to Reorder Array to Get Same BST](./solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.js)|Hard|
+1570|[Dot Product of Two Sparse Vectors](./solutions/1570-dot-product-of-two-sparse-vectors.js)|Medium|
 1572|[Matrix Diagonal Sum](./solutions/1572-matrix-diagonal-sum.js)|Easy|
 1573|[Number of Ways to Split a String](./solutions/1573-number-of-ways-to-split-a-string.js)|Medium|
 1574|[Shortest Subarray to be Removed to Make Array Sorted](./solutions/1574-shortest-subarray-to-be-removed-to-make-array-sorted.js)|Medium|
