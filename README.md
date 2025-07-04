@@ -1432,6 +1432,7 @@
 1561|[Maximum Number of Coins You Can Get](./solutions/1561-maximum-number-of-coins-you-can-get.js)|Medium|
 1562|[Find Latest Group of Size M](./solutions/1562-find-latest-group-of-size-m.js)|Medium|
 1563|[Stone Game V](./solutions/1563-stone-game-v.js)|Hard|
+1564|[Put Boxes Into the Warehouse I](./solutions/1564-put-boxes-into-the-warehouse-i.js)|Medium|
 1566|[Detect Pattern of Length M Repeated K or More Times](./solutions/1566-detect-pattern-of-length-m-repeated-k-or-more-times.js)|Easy|
 1567|[Maximum Length of Subarray With Positive Product](./solutions/1567-maximum-length-of-subarray-with-positive-product.js)|Medium|
 1568|[Minimum Number of Days to Disconnect Island](./solutions/1568-minimum-number-of-days-to-disconnect-island.js)|Hard|
