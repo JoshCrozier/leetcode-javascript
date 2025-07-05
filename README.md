@@ -1586,6 +1586,7 @@
 1737|[Change Minimum Characters to Satisfy One of Three Conditions](./solutions/1737-change-minimum-characters-to-satisfy-one-of-three-conditions.js)|Medium|
 1738|[Find Kth Largest XOR Coordinate Value](./solutions/1738-find-kth-largest-xor-coordinate-value.js)|Medium|
 1739|[Building Boxes](./solutions/1739-building-boxes.js)|Hard|
+1740|[Find Distance in a Binary Tree](./solutions/1740-find-distance-in-a-binary-tree.js)|Medium|
 1742|[Maximum Number of Balls in a Box](./solutions/1742-maximum-number-of-balls-in-a-box.js)|Easy|
 1743|[Restore the Array From Adjacent Pairs](./solutions/1743-restore-the-array-from-adjacent-pairs.js)|Medium|
 1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](./solutions/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.js)|Medium|
