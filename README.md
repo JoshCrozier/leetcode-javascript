@@ -1614,6 +1614,7 @@
 1769|[Minimum Number of Operations to Move All Balls to Each Box](./solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.js)|Medium|
 1770|[Maximum Score from Performing Multiplication Operations](./solutions/1770-maximum-score-from-performing-multiplication-operations.js)|Hard|
 1771|[Maximize Palindrome Length From Subsequences](./solutions/1771-maximize-palindrome-length-from-subsequences.js)|Hard|
+1772|[Sort Features by Popularity](./solutions/1772-sort-features-by-popularity.js)|Medium|
 1773|[Count Items Matching a Rule](./solutions/1773-count-items-matching-a-rule.js)|Easy|
 1774|[Closest Dessert Cost](./solutions/1774-closest-dessert-cost.js)|Medium|
 1775|[Equal Sum Arrays With Minimum Number of Operations](./solutions/1775-equal-sum-arrays-with-minimum-number-of-operations.js)|Medium|
