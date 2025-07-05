@@ -1670,6 +1670,7 @@
 1833|[Maximum Ice Cream Bars](./solutions/1833-maximum-ice-cream-bars.js)|Medium|
 1834|[Single-Threaded CPU](./solutions/1834-single-threaded-cpu.js)|Medium|
 1835|[Find XOR Sum of All Pairs Bitwise AND](./solutions/1835-find-xor-sum-of-all-pairs-bitwise-and.js)|Hard|
+1836|[Remove Duplicates From an Unsorted Linked List](./solutions/1836-remove-duplicates-from-an-unsorted-linked-list.js)|Medium|
 1837|[Sum of Digits in Base K](./solutions/1837-sum-of-digits-in-base-k.js)|Easy|
 1838|[Frequency of the Most Frequent Element](./solutions/1838-frequency-of-the-most-frequent-element.js)|Medium|
 1839|[Longest Substring Of All Vowels in Order](./solutions/1839-longest-substring-of-all-vowels-in-order.js)|Medium|
