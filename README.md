@@ -1516,6 +1516,7 @@
 1657|[Determine if Two Strings Are Close](./solutions/1657-determine-if-two-strings-are-close.js)|Medium|
 1658|[Minimum Operations to Reduce X to Zero](./solutions/1658-minimum-operations-to-reduce-x-to-zero.js)|Medium|
 1659|[Maximize Grid Happiness](./solutions/1659-maximize-grid-happiness.js)|Hard|
+1660|[Correct a Binary Tree](./solutions/1660-correct-a-binary-tree.js)|Medium|
 1662|[Check If Two String Arrays are Equivalent](./solutions/1662-check-if-two-string-arrays-are-equivalent.js)|Easy|
 1663|[Smallest String With A Given Numeric Value](./solutions/1663-smallest-string-with-a-given-numeric-value.js)|Medium|
 1664|[Ways to Make a Fair Array](./solutions/1664-ways-to-make-a-fair-array.js)|Medium|
