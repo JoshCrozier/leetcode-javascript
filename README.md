@@ -1530,6 +1530,7 @@
 1673|[Find the Most Competitive Subsequence](./solutions/1673-find-the-most-competitive-subsequence.js)|Medium|
 1674|[Minimum Moves to Make Array Complementary](./solutions/1674-minimum-moves-to-make-array-complementary.js)|Medium|
 1675|[Minimize Deviation in Array](./solutions/1675-minimize-deviation-in-array.js)|Hard|
+1676|[Lowest Common Ancestor of a Binary Tree IV](./solutions/1676-lowest-common-ancestor-of-a-binary-tree-iv.js)|Medium|
 1678|[Goal Parser Interpretation](./solutions/1678-goal-parser-interpretation.js)|Easy|
 1679|[Max Number of K-Sum Pairs](./solutions/1679-max-number-of-k-sum-pairs.js)|Medium|
 1680|[Concatenation of Consecutive Binary Numbers](./solutions/1680-concatenation-of-consecutive-binary-numbers.js)|Medium|
