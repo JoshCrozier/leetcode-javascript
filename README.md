@@ -1591,6 +1591,7 @@
 1743|[Restore the Array From Adjacent Pairs](./solutions/1743-restore-the-array-from-adjacent-pairs.js)|Medium|
 1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](./solutions/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.js)|Medium|
 1745|[Palindrome Partitioning IV](./solutions/1745-palindrome-partitioning-iv.js)|Hard|
+1746|[Maximum Subarray Sum After One Operation](./solutions/1746-maximum-subarray-sum-after-one-operation.js)|Medium|
 1748|[Sum of Unique Elements](./solutions/1748-sum-of-unique-elements.js)|Easy|
 1749|[Maximum Absolute Sum of Any Subarray](./solutions/1749-maximum-absolute-sum-of-any-subarray.js)|Medium|
 1750|[Minimum Length of String After Deleting Similar Ends](./solutions/1750-minimum-length-of-string-after-deleting-similar-ends.js)|Medium|
