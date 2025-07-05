@@ -1619,6 +1619,7 @@
 1774|[Closest Dessert Cost](./solutions/1774-closest-dessert-cost.js)|Medium|
 1775|[Equal Sum Arrays With Minimum Number of Operations](./solutions/1775-equal-sum-arrays-with-minimum-number-of-operations.js)|Medium|
 1776|[Car Fleet II](./solutions/1776-car-fleet-ii.js)|Hard|
+1778|[Shortest Path in a Hidden Grid](./solutions/1778-shortest-path-in-a-hidden-grid.js)|Medium|
 1779|[Find Nearest Point That Has the Same X or Y Coordinate](./solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.js)|Easy|
 1780|[Check if Number is a Sum of Powers of Three](./solutions/1780-check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 1781|[Sum of Beauty of All Substrings](./solutions/1781-sum-of-beauty-of-all-substrings.js)|Medium|
