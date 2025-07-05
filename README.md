@@ -1656,6 +1656,7 @@
 1817|[Finding the Users Active Minutes](./solutions/1817-finding-the-users-active-minutes.js)|Medium|
 1818|[Minimum Absolute Sum Difference](./solutions/1818-minimum-absolute-sum-difference.js)|Medium|
 1819|[Number of Different Subsequences GCDs](./solutions/1819-number-of-different-subsequences-gcds.js)|Hard|
+1820|[Maximum Number of Accepted Invitations](./solutions/1820-maximum-number-of-accepted-invitations.js)|Medium|
 1822|[Sign of the Product of an Array](./solutions/1822-sign-of-the-product-of-an-array.js)|Easy|
 1823|[Find the Winner of the Circular Game](./solutions/1823-find-the-winner-of-the-circular-game.js)|Medium|
 1824|[Minimum Sideway Jumps](./solutions/1824-minimum-sideway-jumps.js)|Medium|
