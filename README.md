@@ -1558,6 +1558,7 @@
 1705|[Maximum Number of Eaten Apples](./solutions/1705-maximum-number-of-eaten-apples.js)|Medium|
 1706|[Where Will the Ball Fall](./solutions/1706-where-will-the-ball-fall.js)|Medium|
 1707|[Maximum XOR With an Element From Array](./solutions/1707-maximum-xor-with-an-element-from-array.js)|Hard|
+1708|[Largest Subarray Length K](./solutions/1708-largest-subarray-length-k.js)|Easy|
 1710|[Maximum Units on a Truck](./solutions/1710-maximum-units-on-a-truck.js)|Easy|
 1711|[Count Good Meals](./solutions/1711-count-good-meals.js)|Medium|
 1712|[Ways to Split Array Into Three Subarrays](./solutions/1712-ways-to-split-array-into-three-subarrays.js)|Medium|
