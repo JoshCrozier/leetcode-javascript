@@ -1605,6 +1605,7 @@
 1759|[Count Number of Homogenous Substrings](./solutions/1759-count-number-of-homogenous-substrings.js)|Medium|
 1760|[Minimum Limit of Balls in a Bag](./solutions/1760-minimum-limit-of-balls-in-a-bag.js)|Medium|
 1761|[Minimum Degree of a Connected Trio in a Graph](./solutions/1761-minimum-degree-of-a-connected-trio-in-a-graph.js)|Hard|
+1762|[Buildings With an Ocean View](./solutions/1762-buildings-with-an-ocean-view.js)|Medium|
 1763|[Longest Nice Substring](./solutions/1763-longest-nice-substring.js)|Easy|
 1764|[Form Array by Concatenating Subarrays of Another Array](./solutions/1764-form-array-by-concatenating-subarrays-of-another-array.js)|Medium|
 1765|[Map of Highest Peak](./solutions/1765-map-of-highest-peak.js)|Medium|
