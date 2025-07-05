@@ -1,4 +1,4 @@
-# 2,400+ LeetCode solutions in JavaScript
+# 2,450+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1507,6 +1507,7 @@
 1647|[Minimum Deletions to Make Character Frequencies Unique](./solutions/1647-minimum-deletions-to-make-character-frequencies-unique.js)|Medium|
 1648|[Sell Diminishing-Valued Colored Balls](./solutions/1648-sell-diminishing-valued-colored-balls.js)|Medium|
 1649|[Create Sorted Array through Instructions](./solutions/1649-create-sorted-array-through-instructions.js)|Hard|
+1650|[Lowest Common Ancestor of a Binary Tree III](./solutions/1650-lowest-common-ancestor-of-a-binary-tree-iii.js)|Medium|
 1652|[Defuse the Bomb](./solutions/1652-defuse-the-bomb.js)|Easy|
 1653|[Minimum Deletions to Make String Balanced](./solutions/1653-minimum-deletions-to-make-string-balanced.js)|Medium|
 1654|[Minimum Jumps to Reach Home](./solutions/1654-minimum-jumps-to-reach-home.js)|Medium|
