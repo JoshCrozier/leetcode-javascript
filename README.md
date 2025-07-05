@@ -1544,6 +1544,7 @@
 1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](./solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers.js)|Medium|
 1690|[Stone Game VII](./solutions/1690-stone-game-vii.js)|Medium|
 1691|[Maximum Height by Stacking Cuboids](./solutions/1691-maximum-height-by-stacking-cuboids.js)|Hard|
+1692|[Count Ways to Distribute Candies](./solutions/1692-count-ways-to-distribute-candies.js)|Hard|
 1694|[Reformat Phone Number](./solutions/1694-reformat-phone-number.js)|Easy|
 1695|[Maximum Erasure Value](./solutions/1695-maximum-erasure-value.js)|Medium|
 1696|[Jump Game VI](./solutions/1696-jump-game-vi.js)|Medium|
