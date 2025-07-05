@@ -1684,6 +1684,7 @@
 1849|[Splitting a String Into Descending Consecutive Values](./solutions/1849-splitting-a-string-into-descending-consecutive-values.js)|Medium|
 1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](./solutions/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.js)|Medium|
 1851|[Minimum Interval to Include Each Query](./solutions/1851-minimum-interval-to-include-each-query.js)|Hard|
+1852|[Distinct Numbers in Each Subarray](./solutions/1852-distinct-numbers-in-each-subarray.js)|Medium|
 1854|[Maximum Population Year](./solutions/1854-maximum-population-year.js)|Easy|
 1855|[Maximum Distance Between a Pair of Values](./solutions/1855-maximum-distance-between-a-pair-of-values.js)|Medium|
 1856|[Maximum Subarray Min-Product](./solutions/1856-maximum-subarray-min-product.js)|Medium|
