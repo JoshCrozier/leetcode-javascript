@@ -1675,6 +1675,7 @@
 1838|[Frequency of the Most Frequent Element](./solutions/1838-frequency-of-the-most-frequent-element.js)|Medium|
 1839|[Longest Substring Of All Vowels in Order](./solutions/1839-longest-substring-of-all-vowels-in-order.js)|Medium|
 1840|[Maximum Building Height](./solutions/1840-maximum-building-height.js)|Hard|
+1842|[Next Palindrome Using Same Digits](./solutions/1842-next-palindrome-using-same-digits.js)|Hard|
 1844|[Replace All Digits with Characters](./solutions/1844-replace-all-digits-with-characters.js)|Easy|
 1845|[Seat Reservation Manager](./solutions/1845-seat-reservation-manager.js)|Medium|
 1846|[Maximum Element After Decreasing and Rearranging](./solutions/1846-maximum-element-after-decreasing-and-rearranging.js)|Medium|
