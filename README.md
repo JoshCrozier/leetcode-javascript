@@ -1661,6 +1661,7 @@
 1823|[Find the Winner of the Circular Game](./solutions/1823-find-the-winner-of-the-circular-game.js)|Medium|
 1824|[Minimum Sideway Jumps](./solutions/1824-minimum-sideway-jumps.js)|Medium|
 1825|[Finding MK Average](./solutions/1825-finding-mk-average.js)|Hard|
+1826|[Faulty Sensor](./solutions/1826-faulty-sensor.js)|Easy|
 1827|[Minimum Operations to Make the Array Increasing](./solutions/1827-minimum-operations-to-make-the-array-increasing.js)|Easy|
 1828|[Queries on Number of Points Inside a Circle](./solutions/1828-queries-on-number-of-points-inside-a-circle.js)|Medium|
 1829|[Maximum XOR for Each Query](./solutions/1829-maximum-xor-for-each-query.js)|Medium|
