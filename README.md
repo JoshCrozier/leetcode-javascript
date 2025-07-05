@@ -1479,6 +1479,7 @@
 1615|[Maximal Network Rank](./solutions/1615-maximal-network-rank.js)|Medium|
 1616|[Split Two Strings to Make Palindrome](./solutions/1616-split-two-strings-to-make-palindrome.js)|Medium|
 1617|[Count Subtrees With Max Distance Between Cities](./solutions/1617-count-subtrees-with-max-distance-between-cities.js)|Hard|
+1618|[Maximum Font to Fit a Sentence in a Screen](./solutions/1618-maximum-font-to-fit-a-sentence-in-a-screen.js)|Medium|
 1619|[Mean of Array After Removing Some Elements](./solutions/1619-mean-of-array-after-removing-some-elements.js)|Easy|
 1620|[Coordinate With Maximum Network Quality](./solutions/1620-coordinate-with-maximum-network-quality.js)|Medium|
 1621|[Number of Sets of K Non-Overlapping Line Segments](./solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.js)|Medium|
