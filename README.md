@@ -1633,6 +1633,7 @@
 1791|[Find Center of Star Graph](./solutions/1791-find-center-of-star-graph.js)|Easy|
 1792|[Maximum Average Pass Ratio](./solutions/1792-maximum-average-pass-ratio.js)|Medium|
 1793|[Maximum Score of a Good Subarray](./solutions/1793-maximum-score-of-a-good-subarray.js)|Hard|
+1794|[Count Pairs of Equal Substrings With Minimum Difference](./solutions/1794-count-pairs-of-equal-substrings-with-minimum-difference.js)|Medium|
 1796|[Second Largest Digit in a String](./solutions/1796-second-largest-digit-in-a-string.js)|Easy|
 1797|[Design Authentication Manager](./solutions/1797-design-authentication-manager.js)|Medium|
 1798|[Maximum Number of Consecutive Values You Can Make](./solutions/1798-maximum-number-of-consecutive-values-you-can-make.js)|Medium|
