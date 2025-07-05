@@ -1549,6 +1549,7 @@
 1695|[Maximum Erasure Value](./solutions/1695-maximum-erasure-value.js)|Medium|
 1696|[Jump Game VI](./solutions/1696-jump-game-vi.js)|Medium|
 1697|[Checking Existence of Edge Length Limited Paths](./solutions/1697-checking-existence-of-edge-length-limited-paths.js)|Hard|
+1698|[Number of Distinct Substrings in a String](./solutions/1698-number-of-distinct-substrings-in-a-string.js)|Medium|
 1700|[Number of Students Unable to Eat Lunch](./solutions/1700-number-of-students-unable-to-eat-lunch.js)|Easy|
 1701|[Average Waiting Time](./solutions/1701-average-waiting-time.js)|Medium|
 1702|[Maximum Binary String After Change](./solutions/1702-maximum-binary-string-after-change.js)|Medium|
