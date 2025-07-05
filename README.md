@@ -1488,6 +1488,7 @@
 1625|[Lexicographically Smallest String After Applying Operations](./solutions/1625-lexicographically-smallest-string-after-applying-operations.js)|Medium|
 1626|[Best Team With No Conflicts](./solutions/1626-best-team-with-no-conflicts.js)|Medium|
 1627|[Graph Connectivity With Threshold](./solutions/1627-graph-connectivity-with-threshold.js)|Hard|
+1628|[Design an Expression Tree With Evaluate Function](./solutions/1628-design-an-expression-tree-with-evaluate-function.js)|Medium|
 1629|[Slowest Key](./solutions/1629-slowest-key.js)|Easy|
 1630|[Arithmetic Subarrays](./solutions/1630-arithmetic-subarrays.js)|Medium|
 1631|[Path With Minimum Effort](./solutions/1631-path-with-minimum-effort.js)|Medium|
