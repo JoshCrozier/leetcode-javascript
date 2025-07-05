@@ -1446,6 +1446,7 @@
 1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./solutions/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.js)|Medium|
 1578|[Minimum Time to Make Rope Colorful](./solutions/1578-minimum-time-to-make-rope-colorful.js)|Medium|
 1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](./solutions/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.js)|Hard|
+1580|[Put Boxes Into the Warehouse II](./solutions/1580-put-boxes-into-the-warehouse-ii.js)|Medium|
 1582|[Special Positions in a Binary Matrix](./solutions/1582-special-positions-in-a-binary-matrix.js)|Easy|
 1583|[Count Unhappy Friends](./solutions/1583-count-unhappy-friends.js)|Medium|
 1584|[Min Cost to Connect All Points](./solutions/1584-min-cost-to-connect-all-points.js)|Medium|
