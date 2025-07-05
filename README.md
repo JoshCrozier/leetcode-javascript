@@ -1493,6 +1493,7 @@
 1630|[Arithmetic Subarrays](./solutions/1630-arithmetic-subarrays.js)|Medium|
 1631|[Path With Minimum Effort](./solutions/1631-path-with-minimum-effort.js)|Medium|
 1632|[Rank Transform of a Matrix](./solutions/1632-rank-transform-of-a-matrix.js)|Hard|
+1634|[Add Two Polynomials Represented as Linked Lists](./solutions/1634-add-two-polynomials-represented-as-linked-lists.js)|Medium|
 1636|[Sort Array by Increasing Frequency](./solutions/1636-sort-array-by-increasing-frequency.js)|Easy|
 1637|[Widest Vertical Area Between Two Points Containing No Points](./solutions/1637-widest-vertical-area-between-two-points-containing-no-points.js)|Easy|
 1638|[Count Substrings That Differ by One Character](./solutions/1638-count-substrings-that-differ-by-one-character.js)|Medium|
