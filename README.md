@@ -1600,6 +1600,7 @@
 1753|[Maximum Score From Removing Stones](./solutions/1753-maximum-score-from-removing-stones.js)|Medium|
 1754|[Largest Merge Of Two Strings](./solutions/1754-largest-merge-of-two-strings.js)|Medium|
 1755|[Closest Subsequence Sum](./solutions/1755-closest-subsequence-sum.js)|Hard|
+1756|[Design Most Recently Used Queue](./solutions/1756-design-most-recently-used-queue.js)|Medium|
 1758|[Minimum Changes To Make Alternating Binary String](./solutions/1758-minimum-changes-to-make-alternating-binary-string.js)|Easy|
 1759|[Count Number of Homogenous Substrings](./solutions/1759-count-number-of-homogenous-substrings.js)|Medium|
 1760|[Minimum Limit of Balls in a Bag](./solutions/1760-minimum-limit-of-balls-in-a-bag.js)|Medium|
