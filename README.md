@@ -1465,6 +1465,7 @@
 1599|[Maximum Profit of Operating a Centennial Wheel](./solutions/1599-maximum-profit-of-operating-a-centennial-wheel.js)|Medium|
 1600|[Throne Inheritance](./solutions/1600-throne-inheritance.js)|Medium|
 1601|[Maximum Number of Achievable Transfer Requests](./solutions/1601-maximum-number-of-achievable-transfer-requests.js)|Hard|
+1602|[Find Nearest Right Node in Binary Tree](./solutions/1602-find-nearest-right-node-in-binary-tree.js)|Medium|
 1603|[Design Parking System](./solutions/1603-design-parking-system.js)|Easy|
 1604|[Alert Using Same Key-Card Three or More Times in a One Hour Period](./solutions/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.js)|Medium|
 1605|[Find Valid Matrix Given Row and Column Sums](./solutions/1605-find-valid-matrix-given-row-and-column-sums.js)|Medium|
