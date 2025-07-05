@@ -1474,6 +1474,7 @@
 1609|[Even Odd Tree](./solutions/1609-even-odd-tree.js)|Medium|
 1610|[Maximum Number of Visible Points](./solutions/1610-maximum-number-of-visible-points.js)|Hard|
 1611|[Minimum One Bit Operations to Make Integers Zero](./solutions/1611-minimum-one-bit-operations-to-make-integers-zero.js)|Hard|
+1612|[Check If Two Expression Trees are Equivalent](./solutions/1612-check-if-two-expression-trees-are-equivalent.js)|Medium|
 1614|[Maximum Nesting Depth of the Parentheses](./solutions/1614-maximum-nesting-depth-of-the-parentheses.js)|Easy|
 1615|[Maximal Network Rank](./solutions/1615-maximal-network-rank.js)|Medium|
 1616|[Split Two Strings to Make Palindrome](./solutions/1616-split-two-strings-to-make-palindrome.js)|Medium|
