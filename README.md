@@ -1628,6 +1628,7 @@
 1785|[Minimum Elements to Add to Form a Given Sum](./solutions/1785-minimum-elements-to-add-to-form-a-given-sum.js)|Medium|
 1786|[Number of Restricted Paths From First to Last Node](./solutions/1786-number-of-restricted-paths-from-first-to-last-node.js)|Medium|
 1787|[Make the XOR of All Segments Equal to Zero](./solutions/1787-make-the-xor-of-all-segments-equal-to-zero.js)|Hard|
+1788|[Maximize the Beauty of the Garden](./solutions/1788-maximize-the-beauty-of-the-garden.js)|Hard|
 1790|[Check if One String Swap Can Make Strings Equal](./solutions/1790-check-if-one-string-swap-can-make-strings-equal.js)|Easy|
 1791|[Find Center of Star Graph](./solutions/1791-find-center-of-star-graph.js)|Easy|
 1792|[Maximum Average Pass Ratio](./solutions/1792-maximum-average-pass-ratio.js)|Medium|
