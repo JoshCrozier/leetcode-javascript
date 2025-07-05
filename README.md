@@ -1521,6 +1521,7 @@
 1663|[Smallest String With A Given Numeric Value](./solutions/1663-smallest-string-with-a-given-numeric-value.js)|Medium|
 1664|[Ways to Make a Fair Array](./solutions/1664-ways-to-make-a-fair-array.js)|Medium|
 1665|[Minimum Initial Energy to Finish Tasks](./solutions/1665-minimum-initial-energy-to-finish-tasks.js)|Hard|
+1666|[Change the Root of a Binary Tree](./solutions/1666-change-the-root-of-a-binary-tree.js)|Medium|
 1668|[Maximum Repeating Substring](./solutions/1668-maximum-repeating-substring.js)|Easy|
 1669|[Merge In Between Linked Lists](./solutions/1669-merge-in-between-linked-lists.js)|Medium|
 1670|[Design Front Middle Back Queue](./solutions/1670-design-front-middle-back-queue.js)|Medium|
