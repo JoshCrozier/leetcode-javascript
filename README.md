@@ -1535,6 +1535,7 @@
 1679|[Max Number of K-Sum Pairs](./solutions/1679-max-number-of-k-sum-pairs.js)|Medium|
 1680|[Concatenation of Consecutive Binary Numbers](./solutions/1680-concatenation-of-consecutive-binary-numbers.js)|Medium|
 1681|[Minimum Incompatibility](./solutions/1681-minimum-incompatibility.js)|Hard|
+1682|[Longest Palindromic Subsequence II](./solutions/1682-longest-palindromic-subsequence-ii.js)|Medium|
 1684|[Count the Number of Consistent Strings](./solutions/1684-count-the-number-of-consistent-strings.js)|Easy|
 1685|[Sum of Absolute Differences in a Sorted Array](./solutions/1685-sum-of-absolute-differences-in-a-sorted-array.js)|Medium|
 1686|[Stone Game VI](./solutions/1686-stone-game-vi.js)|Medium|
