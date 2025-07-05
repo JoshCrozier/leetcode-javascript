@@ -1563,6 +1563,7 @@
 1711|[Count Good Meals](./solutions/1711-count-good-meals.js)|Medium|
 1712|[Ways to Split Array Into Three Subarrays](./solutions/1712-ways-to-split-array-into-three-subarrays.js)|Medium|
 1713|[Minimum Operations to Make a Subsequence](./solutions/1713-minimum-operations-to-make-a-subsequence.js)|Hard|
+1714|[Sum Of Special Evenly-Spaced Elements In Array](./solutions/1714-sum-of-special-evenly-spaced-elements-in-array.js)|Hard|
 1716|[Calculate Money in Leetcode Bank](./solutions/1716-calculate-money-in-leetcode-bank.js)|Easy|
 1717|[Maximum Score From Removing Substrings](./solutions/1717-maximum-score-from-removing-substrings.js)|Medium|
 1718|[Construct the Lexicographically Largest Valid Sequence](./solutions/1718-construct-the-lexicographically-largest-valid-sequence.js)|Medium|
