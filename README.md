@@ -1647,6 +1647,7 @@
 1806|[Minimum Number of Operations to Reinitialize a Permutation](./solutions/1806-minimum-number-of-operations-to-reinitialize-a-permutation.js)|Medium|
 1807|[Evaluate the Bracket Pairs of a String](./solutions/1807-evaluate-the-bracket-pairs-of-a-string.js)|Medium|
 1808|[Maximize Number of Nice Divisors](./solutions/1808-maximize-number-of-nice-divisors.js)|Hard|
+1810|[Minimum Path Cost in a Hidden Grid](./solutions/1810-minimum-path-cost-in-a-hidden-grid.js)|Medium|
 1812|[Determine Color of a Chessboard Square](./solutions/1812-determine-color-of-a-chessboard-square.js)|Easy|
 1813|[Sentence Similarity III](./solutions/1813-sentence-similarity-iii.js)|Medium|
 1814|[Count Nice Pairs in an Array](./solutions/1814-count-nice-pairs-in-an-array.js)|Medium|
