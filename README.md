@@ -1577,6 +1577,7 @@
 1726|[Tuple with Same Product](./solutions/1726-tuple-with-same-product.js)|Medium|
 1727|[Largest Submatrix With Rearrangements](./solutions/1727-largest-submatrix-with-rearrangements.js)|Medium|
 1728|[Cat and Mouse II](./solutions/1728-cat-and-mouse-ii.js)|Hard|
+1730|[Shortest Path to Get Food](./solutions/1730-shortest-path-to-get-food.js)|Medium|
 1732|[Find the Highest Altitude](./solutions/1732-find-the-highest-altitude.js)|Easy|
 1733|[Minimum Number of People to Teach](./solutions/1733-minimum-number-of-people-to-teach.js)|Medium|
 1734|[Decode XORed Permutation](./solutions/1734-decode-xored-permutation.js)|Medium|
