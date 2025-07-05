@@ -1451,6 +1451,7 @@
 1583|[Count Unhappy Friends](./solutions/1583-count-unhappy-friends.js)|Medium|
 1584|[Min Cost to Connect All Points](./solutions/1584-min-cost-to-connect-all-points.js)|Medium|
 1585|[Check If String Is Transformable With Substring Sort Operations](./solutions/1585-check-if-string-is-transformable-with-substring-sort-operations.js)|Hard|
+1586|[Binary Search Tree Iterator II](./solutions/1586-binary-search-tree-iterator-ii.js)|Medium|
 1588|[Sum of All Odd Length Subarrays](./solutions/1588-sum-of-all-odd-length-subarrays.js)|Easy|
 1589|[Maximum Sum Obtained of Any Permutation](./solutions/1589-maximum-sum-obtained-of-any-permutation.js)|Medium|
 1590|[Make Sum Divisible by P](./solutions/1590-make-sum-divisible-by-p.js)|Medium|
