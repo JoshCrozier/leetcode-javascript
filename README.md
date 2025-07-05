@@ -1460,6 +1460,7 @@
 1593|[Split a String Into the Max Number of Unique Substrings](./solutions/1593-split-a-string-into-the-max-number-of-unique-substrings.js)|Medium|
 1594|[Maximum Non Negative Product in a Matrix](./solutions/1594-maximum-non-negative-product-in-a-matrix.js)|Medium|
 1595|[Minimum Cost to Connect Two Groups of Points](./solutions/1595-minimum-cost-to-connect-two-groups-of-points.js)|Hard|
+1597|[Build Binary Expression Tree From Infix Expression](./solutions/1597-build-binary-expression-tree-from-infix-expression.js)|Hard|
 1598|[Crawler Log Folder](./solutions/1598-crawler-log-folder.js)|Easy|
 1599|[Maximum Profit of Operating a Centennial Wheel](./solutions/1599-maximum-profit-of-operating-a-centennial-wheel.js)|Medium|
 1600|[Throne Inheritance](./solutions/1600-throne-inheritance.js)|Medium|
