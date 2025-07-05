@@ -1642,6 +1642,7 @@
 1801|[Number of Orders in the Backlog](./solutions/1801-number-of-orders-in-the-backlog.js)|Medium|
 1802|[Maximum Value at a Given Index in a Bounded Array](./solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array.js)|Medium|
 1803|[Count Pairs With XOR in a Range](./solutions/1803-count-pairs-with-xor-in-a-range.js)|Hard|
+1804|[Implement Trie II (Prefix Tree)](./solutions/1804-implement-trie-ii-prefix-tree.js)|Medium|
 1805|[Number of Different Integers in a String](./solutions/1805-number-of-different-integers-in-a-string.js)|Easy|
 1806|[Minimum Number of Operations to Reinitialize a Permutation](./solutions/1806-minimum-number-of-operations-to-reinitialize-a-permutation.js)|Medium|
 1807|[Evaluate the Bracket Pairs of a String](./solutions/1807-evaluate-the-bracket-pairs-of-a-string.js)|Medium|
