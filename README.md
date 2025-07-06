@@ -1825,6 +1825,7 @@
 2012|[Sum of Beauty in the Array](./solutions/2012-sum-of-beauty-in-the-array.js)|Medium|
 2013|[Detect Squares](./solutions/2013-detect-squares.js)|Medium|
 2014|[Longest Subsequence Repeated k Times](./solutions/2014-longest-subsequence-repeated-k-times.js)|Hard|
+2015|[Average Height of Buildings in Each Segment](./solutions/2015-average-height-of-buildings-in-each-segment.js)|Medium|
 2016|[Maximum Difference Between Increasing Elements](./solutions/2016-maximum-difference-between-increasing-elements.js)|Easy|
 2017|[Grid Game](./solutions/2017-grid-game.js)|Medium|
 2018|[Check if Word Can Be Placed In Crossword](./solutions/2018-check-if-word-can-be-placed-in-crossword.js)|Medium|
