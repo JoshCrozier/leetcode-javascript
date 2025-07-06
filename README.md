@@ -1718,6 +1718,7 @@
 1887|[Reduction Operations to Make the Array Elements Equal](./solutions/1887-reduction-operations-to-make-the-array-elements-equal.js)|Medium|
 1888|[Minimum Number of Flips to Make the Binary String Alternating](./solutions/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.js)|Medium|
 1889|[Minimum Space Wasted From Packaging](./solutions/1889-minimum-space-wasted-from-packaging.js)|Hard|
+1891|[Cutting Ribbons](./solutions/1891-cutting-ribbons.js)|Medium|
 1893|[Check if All the Integers in a Range Are Covered](./solutions/1893-check-if-all-the-integers-in-a-range-are-covered.js)|Easy|
 1894|[Find the Student that Will Replace the Chalk](./solutions/1894-find-the-student-that-will-replace-the-chalk.js)|Medium|
 1895|[Largest Magic Square](./solutions/1895-largest-magic-square.js)|Medium|
