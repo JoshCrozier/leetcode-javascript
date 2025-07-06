@@ -1782,6 +1782,7 @@
 1961|[Check If String Is a Prefix of Array](./solutions/1961-check-if-string-is-a-prefix-of-array.js)|Easy|
 1963|[Minimum Number of Swaps to Make the String Balanced](./solutions/1963-minimum-number-of-swaps-to-make-the-string-balanced.js)|Medium|
 1964|[Find the Longest Valid Obstacle Course at Each Position](./solutions/1964-find-the-longest-valid-obstacle-course-at-each-position.js)|Hard|
+1966|[Binary Searchable Numbers in an Unsorted Array](./solutions/1966-binary-searchable-numbers-in-an-unsorted-array.js)|Medium|
 1967|[Number of Strings That Appear as Substrings in Word](./solutions/1967-number-of-strings-that-appear-as-substrings-in-word.js)|Easy|
 1968|[Array With Elements Not Equal to Average of Neighbors](./solutions/1968-array-with-elements-not-equal-to-average-of-neighbors.js)|Medium|
 1969|[Minimum Non-Zero Product of the Array Elements](./solutions/1969-minimum-non-zero-product-of-the-array-elements.js)|Medium|
