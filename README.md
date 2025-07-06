@@ -1839,6 +1839,7 @@
 2028|[Find Missing Observations](./solutions/2028-find-missing-observations.js)|Medium|
 2029|[Stone Game IX](./solutions/2029-stone-game-ix.js)|Medium|
 2030|[Smallest K-Length Subsequence With Occurrences of a Letter](./solutions/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.js)|Hard|
+2031|[Count Subarrays With More Ones Than Zeros](./solutions/2031-count-subarrays-with-more-ones-than-zeros.js)|Medium|
 2032|[Two Out of Three](./solutions/2032-two-out-of-three.js)|Easy|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
 2035|[Partition Array Into Two Arrays to Minimize Sum Difference](./solutions/2035-partition-array-into-two-arrays-to-minimize-sum-difference.js)|Hard|
