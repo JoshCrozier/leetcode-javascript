@@ -1703,6 +1703,7 @@
 1870|[Minimum Speed to Arrive on Time](./solutions/1870-minimum-speed-to-arrive-on-time.js)|Medium|
 1871|[Jump Game VII](./solutions/1871-jump-game-vii.js)|Medium|
 1872|[Stone Game VIII](./solutions/1872-stone-game-viii.js)|Hard|
+1874|[Minimize Product Sum of Two Arrays](./solutions/1874-minimize-product-sum-of-two-arrays.js)|Medium|
 1876|[Substrings of Size Three with Distinct Characters](./solutions/1876-substrings-of-size-three-with-distinct-characters.js)|Easy|
 1877|[Minimize Maximum Pair Sum in Array](./solutions/1877-minimize-maximum-pair-sum-in-array.js)|Medium|
 1878|[Get Biggest Three Rhombus Sums in a Grid](./solutions/1878-get-biggest-three-rhombus-sums-in-a-grid.js)|Medium|
