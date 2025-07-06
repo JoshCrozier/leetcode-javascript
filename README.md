@@ -1733,6 +1733,7 @@
 1904|[The Number of Full Rounds You Have Played](./solutions/1904-the-number-of-full-rounds-you-have-played.js)|Medium|
 1905|[Count Sub Islands](./solutions/1905-count-sub-islands.js)|Medium|
 1906|[Minimum Absolute Difference Queries](./solutions/1906-minimum-absolute-difference-queries.js)|Medium|
+1908|[Game of Nim](./solutions/1908-game-of-nim.js)|Medium|
 1909|[Remove One Element to Make the Array Strictly Increasing](./solutions/1909-remove-one-element-to-make-the-array-strictly-increasing.js)|Easy|
 1910|[Remove All Occurrences of a Substring](./solutions/1910-remove-all-occurrences-of-a-substring.js)|Medium|
 1911|[Maximum Alternating Subsequence Sum](./solutions/1911-maximum-alternating-subsequence-sum.js)|Medium|
