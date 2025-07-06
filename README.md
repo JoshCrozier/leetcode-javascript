@@ -1,4 +1,4 @@
-# 2,450+ LeetCode solutions in JavaScript
+# 2,500+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -1857,6 +1857,7 @@
 2048|[Next Greater Numerically Balanced Number](./solutions/2048-next-greater-numerically-balanced-number.js)|Medium|
 2049|[Count Nodes With the Highest Score](./solutions/2049-count-nodes-with-the-highest-score.js)|Medium|
 2050|[Parallel Courses III](./solutions/2050-parallel-courses-iii.js)|Hard|
+2052|[Minimum Cost to Separate Sentence Into Rows](./solutions/2052-minimum-cost-to-separate-sentence-into-rows.js)|Medium|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
 2055|[Plates Between Candles](./solutions/2055-plates-between-candles.js)|Medium|
 2056|[Number of Valid Move Combinations On Chessboard](./solutions/2056-number-of-valid-move-combinations-on-chessboard.js)|Hard|
