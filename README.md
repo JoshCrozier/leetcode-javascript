@@ -1843,6 +1843,7 @@
 2032|[Two Out of Three](./solutions/2032-two-out-of-three.js)|Easy|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
 2035|[Partition Array Into Two Arrays to Minimize Sum Difference](./solutions/2035-partition-array-into-two-arrays-to-minimize-sum-difference.js)|Hard|
+2036|[Maximum Alternating Subarray Sum](./solutions/2036-maximum-alternating-subarray-sum.js)|Medium|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
 2038|[Remove Colored Pieces if Both Neighbors are the Same Color](./solutions/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.js)|Medium|
 2039|[The Time When the Network Becomes Idle](./solutions/2039-the-time-when-the-network-becomes-idle.js)|Medium|
