@@ -1788,6 +1788,7 @@
 1969|[Minimum Non-Zero Product of the Array Elements](./solutions/1969-minimum-non-zero-product-of-the-array-elements.js)|Medium|
 1970|[Last Day Where You Can Still Cross](./solutions/1970-last-day-where-you-can-still-cross.js)|Hard|
 1971|[Find if Path Exists in Graph](./solutions/1971-find-if-path-exists-in-graph.js)|Easy|
+1973|[Count Nodes Equal to Sum of Descendants](./solutions/1973-count-nodes-equal-to-sum-of-descendants.js)|Medium|
 1974|[Minimum Time to Type Word Using Special Typewriter](./solutions/1974-minimum-time-to-type-word-using-special-typewriter.js)|Easy|
 1975|[Maximum Matrix Sum](./solutions/1975-maximum-matrix-sum.js)|Medium|
 1976|[Number of Ways to Arrive at Destination](./solutions/1976-number-of-ways-to-arrive-at-destination.js)|Medium|
