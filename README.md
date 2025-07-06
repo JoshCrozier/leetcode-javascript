@@ -1742,6 +1742,7 @@
 1914|[Cyclically Rotating a Grid](./solutions/1914-cyclically-rotating-a-grid.js)|Medium|
 1915|[Number of Wonderful Substrings](./solutions/1915-number-of-wonderful-substrings.js)|Medium|
 1916|[Count Ways to Build Rooms in an Ant Colony](./solutions/1916-count-ways-to-build-rooms-in-an-ant-colony.js)|Hard|
+1918|[Kth Smallest Subarray Sum](./solutions/1918-kth-smallest-subarray-sum.js)|Medium|
 1920|[Build Array from Permutation](./solutions/1920-build-array-from-permutation.js)|Easy|
 1921|[Eliminate Maximum Number of Monsters](./solutions/1921-eliminate-maximum-number-of-monsters.js)|Medium|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
