@@ -1816,6 +1816,7 @@
 2001|[Number of Pairs of Interchangeable Rectangles](./solutions/2001-number-of-pairs-of-interchangeable-rectangles.js)|Medium|
 2002|[Maximum Product of the Length of Two Palindromic Subsequences](./solutions/2002-maximum-product-of-the-length-of-two-palindromic-subsequences.js)|Medium|
 2003|[Smallest Missing Genetic Value in Each Subtree](./solutions/2003-smallest-missing-genetic-value-in-each-subtree.js)|Hard|
+2005|[Subtree Removal Game with Fibonacci Tree](./solutions/2005-subtree-removal-game-with-fibonacci-tree.js)|Hard|
 2006|[Count Number of Pairs With Absolute Difference K](./solutions/2006-count-number-of-pairs-with-absolute-difference-k.js)|Easy|
 2007|[Find Original Array From Doubled Array](./solutions/2007-find-original-array-from-doubled-array.js)|Medium|
 2008|[Maximum Earnings From Taxi](./solutions/2008-maximum-earnings-from-taxi.js)|Medium|
