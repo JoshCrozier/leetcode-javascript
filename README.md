@@ -1852,6 +1852,7 @@
 2043|[Simple Bank System](./solutions/2043-simple-bank-system.js)|Medium|
 2044|[Count Number of Maximum Bitwise-OR Subsets](./solutions/2044-count-number-of-maximum-bitwise-or-subsets.js)|Medium|
 2045|[Second Minimum Time to Reach Destination](./solutions/2045-second-minimum-time-to-reach-destination.js)|Hard|
+2046|[Sort Linked List Already Sorted Using Absolute Values](./solutions/2046-sort-linked-list-already-sorted-using-absolute-values.js)|Medium|
 2047|[Number of Valid Words in a Sentence](./solutions/2047-number-of-valid-words-in-a-sentence.js)|Easy|
 2048|[Next Greater Numerically Balanced Number](./solutions/2048-next-greater-numerically-balanced-number.js)|Medium|
 2049|[Count Nodes With the Highest Score](./solutions/2049-count-nodes-with-the-highest-score.js)|Medium|
