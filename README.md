@@ -1713,6 +1713,7 @@
 1882|[Process Tasks Using Servers](./solutions/1882-process-tasks-using-servers.js)|Medium|
 1883|[Minimum Skips to Arrive at Meeting On Time](./solutions/1883-minimum-skips-to-arrive-at-meeting-on-time.js)|Hard|
 1884|[Egg Drop With 2 Eggs and N Floors](./solutions/1884-egg-drop-with-2-eggs-and-n-floors.js)|Medium|
+1885|[Count Pairs in Two Arrays](./solutions/1885-count-pairs-in-two-arrays.js)|Medium|
 1886|[Determine Whether Matrix Can Be Obtained By Rotation](./solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation.js)|Easy|
 1887|[Reduction Operations to Make the Array Elements Equal](./solutions/1887-reduction-operations-to-make-the-array-elements-equal.js)|Medium|
 1888|[Minimum Number of Flips to Make the Binary String Alternating](./solutions/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.js)|Medium|
