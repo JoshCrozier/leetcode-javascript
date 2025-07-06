@@ -1689,6 +1689,7 @@
 1855|[Maximum Distance Between a Pair of Values](./solutions/1855-maximum-distance-between-a-pair-of-values.js)|Medium|
 1856|[Maximum Subarray Min-Product](./solutions/1856-maximum-subarray-min-product.js)|Medium|
 1857|[Largest Color Value in a Directed Graph](./solutions/1857-largest-color-value-in-a-directed-graph.js)|Hard|
+1858|[Longest Word With All Prefixes](./solutions/1858-longest-word-with-all-prefixes.js)|Medium|
 1859|[Sorting the Sentence](./solutions/1859-sorting-the-sentence.js)|Easy|
 1860|[Incremental Memory Leak](./solutions/1860-incremental-memory-leak.js)|Medium|
 1861|[Rotating the Box](./solutions/1861-rotating-the-box.js)|Medium|
