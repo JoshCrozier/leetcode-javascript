@@ -1747,6 +1747,7 @@
 1921|[Eliminate Maximum Number of Monsters](./solutions/1921-eliminate-maximum-number-of-monsters.js)|Medium|
 1922|[Count Good Numbers](./solutions/1922-count-good-numbers.js)|Medium|
 1923|[Longest Common Subpath](./solutions/1923-longest-common-subpath.js)|Hard|
+1924|[Erect the Fence II](./solutions/1924-erect-the-fence-ii.js)|Hard|
 1925|[Count Square Sum Triples](./solutions/1925-count-square-sum-triples.js)|Easy|
 1926|[Nearest Exit from Entrance in Maze](./solutions/1926-nearest-exit-from-entrance-in-maze.js)|Medium|
 1927|[Sum Game](./solutions/1927-sum-game.js)|Medium|
