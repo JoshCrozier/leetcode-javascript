@@ -1756,6 +1756,7 @@
 1930|[Unique Length-3 Palindromic Subsequences](./solutions/1930-unique-length-3-palindromic-subsequences.js)|Medium|
 1931|[Painting a Grid With Three Different Colors](./solutions/1931-painting-a-grid-with-three-different-colors.js)|Hard|
 1932|[Merge BSTs to Create Single BST](./solutions/1932-merge-bsts-to-create-single-bst.js)|Hard|
+1933|[Check if String Is Decomposable Into Value-Equal Substrings](./solutions/1933-check-if-string-is-decomposable-into-value-equal-substrings.js)|Easy|
 1935|[Maximum Number of Words You Can Type](./solutions/1935-maximum-number-of-words-you-can-type.js)|Easy|
 1936|[Add Minimum Number of Rungs](./solutions/1936-add-minimum-number-of-rungs.js)|Medium|
 1937|[Maximum Number of Points with Cost](./solutions/1937-maximum-number-of-points-with-cost.js)|Medium|
