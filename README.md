@@ -1797,6 +1797,7 @@
 1980|[Find Unique Binary String](./solutions/1980-find-unique-binary-string.js)|Medium|
 1981|[Minimize the Difference Between Target and Chosen Elements](./solutions/1981-minimize-the-difference-between-target-and-chosen-elements.js)|Medium|
 1982|[Find Array Given Subset Sums](./solutions/1982-find-array-given-subset-sums.js)|Hard|
+1983|[Widest Pair of Indices With Equal Range Sum](./solutions/1983-widest-pair-of-indices-with-equal-range-sum.js)|Medium|
 1984|[Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984-minimum-difference-between-highest-and-lowest-of-k-scores.js)|Easy|
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
 1986|[Minimum Number of Work Sessions to Finish the Tasks](./solutions/1986-minimum-number-of-work-sessions-to-finish-the-tasks.js)|Medium|
