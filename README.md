@@ -1728,6 +1728,7 @@
 1899|[Merge Triplets to Form Target Triplet](./solutions/1899-merge-triplets-to-form-target-triplet.js)|Medium|
 1900|[The Earliest and Latest Rounds Where Players Compete](./solutions/1900-the-earliest-and-latest-rounds-where-players-compete.js)|Hard|
 1901|[Find a Peak Element II](./solutions/1901-find-a-peak-element-ii.js)|Medium|
+1902|[Depth of BST Given Insertion Order](./solutions/1902-depth-of-bst-given-insertion-order.js)|Medium|
 1903|[Largest Odd Number in String](./solutions/1903-largest-odd-number-in-string.js)|Easy|
 1904|[The Number of Full Rounds You Have Played](./solutions/1904-the-number-of-full-rounds-you-have-played.js)|Medium|
 1905|[Count Sub Islands](./solutions/1905-count-sub-islands.js)|Medium|
