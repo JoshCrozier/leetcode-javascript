@@ -1761,6 +1761,7 @@
 1936|[Add Minimum Number of Rungs](./solutions/1936-add-minimum-number-of-rungs.js)|Medium|
 1937|[Maximum Number of Points with Cost](./solutions/1937-maximum-number-of-points-with-cost.js)|Medium|
 1938|[Maximum Genetic Difference Query](./solutions/1938-maximum-genetic-difference-query.js)|Hard|
+1940|[Longest Common Subsequence Between Sorted Arrays](./solutions/1940-longest-common-subsequence-between-sorted-arrays.js)|Medium|
 1941|[Check if All Characters Have Equal Number of Occurrences](./solutions/1941-check-if-all-characters-have-equal-number-of-occurrences.js)|Easy|
 1943|[Describe the Painting](./solutions/1943-describe-the-painting.js)|Medium|
 1944|[Number of Visible People in a Queue](./solutions/1944-number-of-visible-people-in-a-queue.js)|Hard|
