@@ -1811,6 +1811,7 @@
 1996|[The Number of Weak Characters in the Game](./solutions/1996-the-number-of-weak-characters-in-the-game.js)|Medium|
 1997|[First Day Where You Have Been in All the Rooms](./solutions/1997-first-day-where-you-have-been-in-all-the-rooms.js)|Medium|
 1998|[GCD Sort of an Array](./solutions/1998-gcd-sort-of-an-array.js)|Hard|
+1999|[Smallest Greater Multiple Made of Two Digits](./solutions/1999-smallest-greater-multiple-made-of-two-digits.js)|Medium|
 2000|[Reverse Prefix of Word](./solutions/2000-reverse-prefix-of-word.js)|Easy|
 2001|[Number of Pairs of Interchangeable Rectangles](./solutions/2001-number-of-pairs-of-interchangeable-rectangles.js)|Medium|
 2002|[Maximum Product of the Length of Two Palindromic Subsequences](./solutions/2002-maximum-product-of-the-length-of-two-palindromic-subsequences.js)|Medium|
