@@ -1769,6 +1769,7 @@
 1946|[Largest Number After Mutating Substring](./solutions/1946-largest-number-after-mutating-substring.js)|Medium|
 1947|[Maximum Compatibility Score Sum](./solutions/1947-maximum-compatibility-score-sum.js)|Medium|
 1948|[Delete Duplicate Folders in System](./solutions/1948-delete-duplicate-folders-in-system.js)|Hard|
+1950|[Maximum of Minimum Values in All Subarrays](./solutions/1950-maximum-of-minimum-values-in-all-subarrays.js)|Medium|
 1952|[Three Divisors](./solutions/1952-three-divisors.js)|Easy|
 1953|[Maximum Number of Weeks for Which You Can Work](./solutions/1953-maximum-number-of-weeks-for-which-you-can-work.js)|Medium|
 1954|[Minimum Garden Perimeter to Collect Enough Apples](./solutions/1954-minimum-garden-perimeter-to-collect-enough-apples.js)|Medium|
