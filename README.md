@@ -1774,6 +1774,7 @@
 1953|[Maximum Number of Weeks for Which You Can Work](./solutions/1953-maximum-number-of-weeks-for-which-you-can-work.js)|Medium|
 1954|[Minimum Garden Perimeter to Collect Enough Apples](./solutions/1954-minimum-garden-perimeter-to-collect-enough-apples.js)|Medium|
 1955|[Count Number of Special Subsequences](./solutions/1955-count-number-of-special-subsequences.js)|Hard|
+1956|[Minimum Time For K Virus Variants to Spread](./solutions/1956-minimum-time-for-k-virus-variants-to-spread.js)|Hard|
 1957|[Delete Characters to Make Fancy String](./solutions/1957-delete-characters-to-make-fancy-string.js)|Easy|
 1958|[Check if Move is Legal](./solutions/1958-check-if-move-is-legal.js)|Medium|
 1959|[Minimum Total Space Wasted With K Resizing Operations](./solutions/1959-minimum-total-space-wasted-with-k-resizing-operations.js)|Medium|
