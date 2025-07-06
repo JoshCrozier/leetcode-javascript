@@ -1698,6 +1698,7 @@
 1864|[Minimum Number of Swaps to Make the Binary String Alternating](./solutions/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.js)|Medium|
 1865|[Finding Pairs With a Certain Sum](./solutions/1865-finding-pairs-with-a-certain-sum.js)|Medium|
 1866|[Number of Ways to Rearrange Sticks With K Sticks Visible](./solutions/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.js)|Hard|
+1868|[Product of Two Run-Length Encoded Arrays](./solutions/1868-product-of-two-run-length-encoded-arrays.js)|Medium|
 1869|[Longer Contiguous Segments of Ones than Zeros](./solutions/1869-longer-contiguous-segments-of-ones-than-zeros.js)|Easy|
 1870|[Minimum Speed to Arrive on Time](./solutions/1870-minimum-speed-to-arrive-on-time.js)|Medium|
 1871|[Jump Game VII](./solutions/1871-jump-game-vii.js)|Medium|
