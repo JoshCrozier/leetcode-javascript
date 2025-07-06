@@ -1802,6 +1802,7 @@
 1985|[Find the Kth Largest Integer in the Array](./solutions/1985-find-the-kth-largest-integer-in-the-array.js)|Medium|
 1986|[Minimum Number of Work Sessions to Finish the Tasks](./solutions/1986-minimum-number-of-work-sessions-to-finish-the-tasks.js)|Medium|
 1987|[Number of Unique Good Subsequences](./solutions/1987-number-of-unique-good-subsequences.js)|Hard|
+1989|[Maximum Number of People That Can Be Caught in Tag](./solutions/1989-maximum-number-of-people-that-can-be-caught-in-tag.js)|Medium|
 1991|[Find the Middle Index in Array](./solutions/1991-find-the-middle-index-in-array.js)|Easy|
 1992|[Find All Groups of Farmland](./solutions/1992-find-all-groups-of-farmland.js)|Medium|
 1993|[Operations on Tree](./solutions/1993-operations-on-tree.js)|Medium|
