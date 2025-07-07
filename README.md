@@ -1946,6 +1946,7 @@
 2149|[Rearrange Array Elements by Sign](./solutions/2149-rearrange-array-elements-by-sign.js)|Medium|
 2150|[Find All Lonely Numbers in the Array](./solutions/2150-find-all-lonely-numbers-in-the-array.js)|Medium|
 2151|[Maximum Good People Based on Statements](./solutions/2151-maximum-good-people-based-on-statements.js)|Hard|
+2152|[Minimum Number of Lines to Cover Points](./solutions/2152-minimum-number-of-lines-to-cover-points.js)|Medium|
 2154|[Keep Multiplying Found Values by Two](./solutions/2154-keep-multiplying-found-values-by-two.js)|Easy|
 2155|[All Divisions With the Highest Score of a Binary Array](./solutions/2155-all-divisions-with-the-highest-score-of-a-binary-array.js)|Medium|
 2156|[Find Substring With Given Hash Value](./solutions/2156-find-substring-with-given-hash-value.js)|Hard|
