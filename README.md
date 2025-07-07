@@ -1865,6 +1865,7 @@
 2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](./solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.js)|Medium|
 2059|[Minimum Operations to Convert Number](./solutions/2059-minimum-operations-to-convert-number.js)|Medium|
 2060|[Check if an Original String Exists Given Two Encoded Strings](./solutions/2060-check-if-an-original-string-exists-given-two-encoded-strings.js)|Hard|
+2061|[Number of Spaces Cleaning Robot Cleaned](./solutions/2061-number-of-spaces-cleaning-robot-cleaned.js)|Medium|
 2062|[Count Vowel Substrings of a String](./solutions/2062-count-vowel-substrings-of-a-string.js)|Easy|
 2063|[Vowels of All Substrings](./solutions/2063-vowels-of-all-substrings.js)|Medium|
 2064|[Minimized Maximum of Products Distributed to Any Store](./solutions/2064-minimized-maximum-of-products-distributed-to-any-store.js)|Medium|
