@@ -1959,6 +1959,7 @@
 2165|[Smallest Value of the Rearranged Number](./solutions/2165-smallest-value-of-the-rearranged-number.js)|Medium|
 2166|[Design Bitset](./solutions/2166-design-bitset.js)|Medium|
 2167|[Minimum Time to Remove All Cars Containing Illegal Goods](./solutions/2167-minimum-time-to-remove-all-cars-containing-illegal-goods.js)|Hard|
+2168|[Unique Substrings With Equal Digit Frequency](./solutions/2168-unique-substrings-with-equal-digit-frequency.js)|Medium|
 2169|[Count Operations to Obtain Zero](./solutions/2169-count-operations-to-obtain-zero.js)|Easy|
 2170|[Minimum Operations to Make the Array Alternating](./solutions/2170-minimum-operations-to-make-the-array-alternating.js)|Medium|
 2171|[Removing Minimum Number of Magic Beans](./solutions/2171-removing-minimum-number-of-magic-beans.js)|Medium|
