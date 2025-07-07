@@ -1905,6 +1905,7 @@
 2104|[Sum of Subarray Ranges](./solutions/2104-sum-of-subarray-ranges.js)|Medium|
 2105|[Watering Plants II](./solutions/2105-watering-plants-ii.js)|Medium|
 2106|[Maximum Fruits Harvested After at Most K Steps](./solutions/2106-maximum-fruits-harvested-after-at-most-k-steps.js)|Hard|
+2107|[Number of Unique Flavors After Sharing K Candies](./solutions/2107-number-of-unique-flavors-after-sharing-k-candies.js)|Medium|
 2108|[Find First Palindromic String in the Array](./solutions/2108-find-first-palindromic-string-in-the-array.js)|Easy|
 2109|[Adding Spaces to a String](./solutions/2109-adding-spaces-to-a-string.js)|Medium|
 2110|[Number of Smooth Descent Periods of a Stock](./solutions/2110-number-of-smooth-descent-periods-of-a-stock.js)|Medium|
