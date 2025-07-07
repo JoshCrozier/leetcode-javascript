@@ -1938,6 +1938,7 @@
 2139|[Minimum Moves to Reach Target Score](./solutions/2139-minimum-moves-to-reach-target-score.js)|Medium|
 2140|[Solving Questions With Brainpower](./solutions/2140-solving-questions-with-brainpower.js)|Medium|
 2141|[Maximum Running Time of N Computers](./solutions/2141-maximum-running-time-of-n-computers.js)|Hard|
+2143|[Choose Numbers From Two Arrays in Range](./solutions/2143-choose-numbers-from-two-arrays-in-range.js)|Hard|
 2144|[Minimum Cost of Buying Candies With Discount](./solutions/2144-minimum-cost-of-buying-candies-with-discount.js)|Easy|
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
 2147|[Number of Ways to Divide a Long Corridor](./solutions/2147-number-of-ways-to-divide-a-long-corridor.js)|Hard|
