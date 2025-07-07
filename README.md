@@ -1892,6 +1892,7 @@
 2090|[K Radius Subarray Averages](./solutions/2090-k-radius-subarray-averages.js)|Medium|
 2091|[Removing Minimum and Maximum From Array](./solutions/2091-removing-minimum-and-maximum-from-array.js)|Medium|
 2092|[Find All People With Secret](./solutions/2092-find-all-people-with-secret.js)|Hard|
+2093|[Minimum Cost to Reach City With Discounts](./solutions/2093-minimum-cost-to-reach-city-with-discounts.js)|Medium|
 2094|[Finding 3-Digit Even Numbers](./solutions/2094-finding-3-digit-even-numbers.js)|Easy|
 2095|[Delete the Middle Node of a Linked List](./solutions/2095-delete-the-middle-node-of-a-linked-list.js)|Medium|
 2096|[Step-By-Step Directions From a Binary Tree Node to Another](./solutions/2096-step-by-step-directions-from-a-binary-tree-node-to-another.js)|Medium|
