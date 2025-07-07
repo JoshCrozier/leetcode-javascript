@@ -1878,6 +1878,7 @@
 2074|[Reverse Nodes in Even Length Groups](./solutions/2074-reverse-nodes-in-even-length-groups.js)|Medium|
 2075|[Decode the Slanted Ciphertext](./solutions/2075-decode-the-slanted-ciphertext.js)|Medium|
 2076|[Process Restricted Friend Requests](./solutions/2076-process-restricted-friend-requests.js)|Hard|
+2077|[Paths in Maze That Lead to Same Room](./solutions/2077-paths-in-maze-that-lead-to-same-room.js)|Medium|
 2078|[Two Furthest Houses With Different Colors](./solutions/2078-two-furthest-houses-with-different-colors.js)|Easy|
 2079|[Watering Plants](./solutions/2079-watering-plants.js)|Medium|
 2080|[Range Frequency Queries](./solutions/2080-range-frequency-queries.js)|Medium|
