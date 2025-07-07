@@ -1870,6 +1870,7 @@
 2063|[Vowels of All Substrings](./solutions/2063-vowels-of-all-substrings.js)|Medium|
 2064|[Minimized Maximum of Products Distributed to Any Store](./solutions/2064-minimized-maximum-of-products-distributed-to-any-store.js)|Medium|
 2065|[Maximum Path Quality of a Graph](./solutions/2065-maximum-path-quality-of-a-graph.js)|Hard|
+2067|[Number of Equal Count Substrings](./solutions/2067-number-of-equal-count-substrings.js)|Medium|
 2068|[Check Whether Two Strings are Almost Equivalent](./solutions/2068-check-whether-two-strings-are-almost-equivalent.js)|Easy|
 2069|[Walking Robot Simulation II](./solutions/2069-walking-robot-simulation-ii.js)|Medium|
 2070|[Most Beautiful Item for Each Query](./solutions/2070-most-beautiful-item-for-each-query.js)|Medium|
