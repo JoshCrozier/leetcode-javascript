@@ -1951,6 +1951,7 @@
 2155|[All Divisions With the Highest Score of a Binary Array](./solutions/2155-all-divisions-with-the-highest-score-of-a-binary-array.js)|Medium|
 2156|[Find Substring With Given Hash Value](./solutions/2156-find-substring-with-given-hash-value.js)|Hard|
 2157|[Groups of Strings](./solutions/2157-groups-of-strings.js)|Hard|
+2158|[Amount of New Area Painted Each Day](./solutions/2158-amount-of-new-area-painted-each-day.js)|Hard|
 2160|[Minimum Sum of Four Digit Number After Splitting Digits](./solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2162|[Minimum Cost to Set Cooking Time](./solutions/2162-minimum-cost-to-set-cooking-time.js)|Medium|
