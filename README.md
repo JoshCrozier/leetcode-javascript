@@ -1924,6 +1924,7 @@
 2125|[Number of Laser Beams in a Bank](./solutions/2125-number-of-laser-beams-in-a-bank.js)|Medium|
 2126|[Destroying Asteroids](./solutions/2126-destroying-asteroids.js)|Medium|
 2127|[Maximum Employees to Be Invited to a Meeting](./solutions/2127-maximum-employees-to-be-invited-to-a-meeting.js)|Hard|
+2128|[Remove All Ones With Row and Column Flips](./solutions/2128-remove-all-ones-with-row-and-column-flips.js)|Medium|
 2129|[Capitalize the Title](./solutions/2129-capitalize-the-title.js)|Easy|
 2130|[Maximum Twin Sum of a Linked List](./solutions/2130-maximum-twin-sum-of-a-linked-list.js)|Medium|
 2131|[Longest Palindrome by Concatenating Two Letter Words](./solutions/2131-longest-palindrome-by-concatenating-two-letter-words.js)|Medium|
