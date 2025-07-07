@@ -1883,6 +1883,7 @@
 2079|[Watering Plants](./solutions/2079-watering-plants.js)|Medium|
 2080|[Range Frequency Queries](./solutions/2080-range-frequency-queries.js)|Medium|
 2081|[Sum of k-Mirror Numbers](./solutions/2081-sum-of-k-mirror-numbers.js)|Hard|
+2083|[Substrings That Begin and End With the Same Letter](./solutions/2083-substrings-that-begin-and-end-with-the-same-letter.js)|Medium|
 2085|[Count Common Words With One Occurrence](./solutions/2085-count-common-words-with-one-occurrence.js)|Easy|
 2086|[Minimum Number of Food Buckets to Feed the Hamsters](./solutions/2086-minimum-number-of-food-buckets-to-feed-the-hamsters.js)|Medium|
 2087|[Minimum Cost Homecoming of a Robot in a Grid](./solutions/2087-minimum-cost-homecoming-of-a-robot-in-a-grid.js)|Medium|
