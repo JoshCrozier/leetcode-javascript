@@ -1919,6 +1919,7 @@
 2120|[Execution of All Suffix Instructions Staying in a Grid](./solutions/2120-execution-of-all-suffix-instructions-staying-in-a-grid.js)|Medium|
 2121|[Intervals Between Identical Elements](./solutions/2121-intervals-between-identical-elements.js)|Medium|
 2122|[Recover the Original Array](./solutions/2122-recover-the-original-array.js)|Hard|
+2123|[Minimum Operations to Remove Adjacent Ones in Matrix](./solutions/2123-minimum-operations-to-remove-adjacent-ones-in-matrix.js)|Hard|
 2124|[Check if All A's Appears Before All B's](./solutions/2124-check-if-all-as-appears-before-all-bs.js)|Easy|
 2125|[Number of Laser Beams in a Bank](./solutions/2125-number-of-laser-beams-in-a-bank.js)|Medium|
 2126|[Destroying Asteroids](./solutions/2126-destroying-asteroids.js)|Medium|
