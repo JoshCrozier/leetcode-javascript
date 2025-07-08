@@ -1986,6 +1986,7 @@
 2195|[Append K Integers With Minimal Sum](./solutions/2195-append-k-integers-with-minimal-sum.js)|Medium|
 2196|[Create Binary Tree From Descriptions](./solutions/2196-create-binary-tree-from-descriptions.js)|Medium|
 2197|[Replace Non-Coprime Numbers in Array](./solutions/2197-replace-non-coprime-numbers-in-array.js)|Hard|
+2198|[Number of Single Divisor Triplets](./solutions/2198-number-of-single-divisor-triplets.js)|Medium|
 2200|[Find All K-Distant Indices in an Array](./solutions/2200-find-all-k-distant-indices-in-an-array.js)|Easy|
 2201|[Count Artifacts That Can Be Extracted](./solutions/2201-count-artifacts-that-can-be-extracted.js)|Medium|
 2202|[Maximize the Topmost Element After K Moves](./solutions/2202-maximize-the-topmost-element-after-k-moves.js)|Medium|
