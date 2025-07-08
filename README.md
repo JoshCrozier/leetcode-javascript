@@ -1991,6 +1991,7 @@
 2201|[Count Artifacts That Can Be Extracted](./solutions/2201-count-artifacts-that-can-be-extracted.js)|Medium|
 2202|[Maximize the Topmost Element After K Moves](./solutions/2202-maximize-the-topmost-element-after-k-moves.js)|Medium|
 2203|[Minimum Weighted Subgraph With the Required Paths](./solutions/2203-minimum-weighted-subgraph-with-the-required-paths.js)|Hard|
+2204|[Distance to a Cycle in Undirected Graph](./solutions/2204-distance-to-a-cycle-in-undirected-graph.js)|Hard|
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2207|[Maximize Number of Subsequences in a String](./solutions/2207-maximize-number-of-subsequences-in-a-string.js)|Medium|
 2209|[Minimum White Tiles After Covering With Carpets](./solutions/2209-minimum-white-tiles-after-covering-with-carpets.js)|Hard|
