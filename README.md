@@ -1964,6 +1964,7 @@
 2170|[Minimum Operations to Make the Array Alternating](./solutions/2170-minimum-operations-to-make-the-array-alternating.js)|Medium|
 2171|[Removing Minimum Number of Magic Beans](./solutions/2171-removing-minimum-number-of-magic-beans.js)|Medium|
 2172|[Maximum AND Sum of Array](./solutions/2172-maximum-and-sum-of-array.js)|Hard|
+2174|[Remove All Ones With Row and Column Flips II](./solutions/2174-remove-all-ones-with-row-and-column-flips-ii.js)|Medium|
 2176|[Count Equal and Divisible Pairs in an Array](./solutions/2176-count-equal-and-divisible-pairs-in-an-array.js)|Easy|
 2177|[Find Three Consecutive Integers That Sum to a Given Number](./solutions/2177-find-three-consecutive-integers-that-sum-to-a-given-number.js)|Medium|
 2178|[Maximum Split of Positive Even Integers](./solutions/2178-maximum-split-of-positive-even-integers.js)|Medium|
