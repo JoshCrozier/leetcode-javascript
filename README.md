@@ -1977,6 +1977,7 @@
 2186|[Minimum Number of Steps to Make Two Strings Anagram II](./solutions/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.js)|Medium|
 2187|[Minimum Time to Complete Trips](./solutions/2187-minimum-time-to-complete-trips.js)|Medium|
 2188|[Minimum Time to Finish the Race](./solutions/2188-minimum-time-to-finish-the-race.js)|Hard|
+2189|[Number of Ways to Build House of Cards](./solutions/2189-number-of-ways-to-build-house-of-cards.js)|Medium|
 2190|[Most Frequent Number Following Key In an Array](./solutions/2190-most-frequent-number-following-key-in-an-array.js)|Easy|
 2191|[Sort the Jumbled Numbers](./solutions/2191-sort-the-jumbled-numbers.js)|Medium|
 2192|[All Ancestors of a Node in a Directed Acyclic Graph](./solutions/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph.js)|Medium|
