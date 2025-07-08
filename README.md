@@ -1972,6 +1972,7 @@
 2180|[Count Integers With Even Digit Sum](./solutions/2180-count-integers-with-even-digit-sum.js)|Easy|
 2181|[Merge Nodes in Between Zeros](./solutions/2181-merge-nodes-in-between-zeros.js)|Medium|
 2183|[Count Array Pairs Divisible by K](./solutions/2183-count-array-pairs-divisible-by-k.js)|Hard|
+2184|[Number of Ways to Build Sturdy Brick Wall](./solutions/2184-number-of-ways-to-build-sturdy-brick-wall.js)|Medium|
 2185|[Counting Words With a Given Prefix](./solutions/2185-counting-words-with-a-given-prefix.js)|Easy|
 2186|[Minimum Number of Steps to Make Two Strings Anagram II](./solutions/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.js)|Medium|
 2187|[Minimum Time to Complete Trips](./solutions/2187-minimum-time-to-complete-trips.js)|Medium|
