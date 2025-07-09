@@ -1999,6 +1999,7 @@
 2211|[Count Collisions on a Road](./solutions/2211-count-collisions-on-a-road.js)|Medium|
 2212|[Maximum Points in an Archery Competition](./solutions/2212-maximum-points-in-an-archery-competition.js)|Medium|
 2213|[Longest Substring of One Repeating Character](./solutions/2213-longest-substring-of-one-repeating-character.js)|Hard|
+2214|[Minimum Health to Beat Game](./solutions/2214-minimum-health-to-beat-game.js)|Medium|
 2215|[Find the Difference of Two Arrays](./solutions/2215-find-the-difference-of-two-arrays.js)|Easy|
 2216|[Minimum Deletions to Make Array Beautiful](./solutions/2216-minimum-deletions-to-make-array-beautiful.js)|Medium|
 2217|[Find Palindrome With Fixed Length](./solutions/2217-find-palindrome-with-fixed-length.js)|Medium|
