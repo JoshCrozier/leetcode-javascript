@@ -2004,6 +2004,7 @@
 2216|[Minimum Deletions to Make Array Beautiful](./solutions/2216-minimum-deletions-to-make-array-beautiful.js)|Medium|
 2217|[Find Palindrome With Fixed Length](./solutions/2217-find-palindrome-with-fixed-length.js)|Medium|
 2218|[Maximum Value of K Coins From Piles](./solutions/2218-maximum-value-of-k-coins-from-piles.js)|Hard|
+2219|[Maximum Sum Score of Array](./solutions/2219-maximum-sum-score-of-array.js)|Medium|
 2220|[Minimum Bit Flips to Convert Number](./solutions/2220-minimum-bit-flips-to-convert-number.js)|Easy|
 2221|[Find Triangular Sum of an Array](./solutions/2221-find-triangular-sum-of-an-array.js)|Medium|
 2222|[Number of Ways to Select Buildings](./solutions/2222-number-of-ways-to-select-buildings.js)|Medium|
