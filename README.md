@@ -2018,6 +2018,7 @@
 2234|[Maximum Total Beauty of the Gardens](./solutions/2234-maximum-total-beauty-of-the-gardens.js)|Hard|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2236|[Root Equals Sum of Children](./solutions/2236-root-equals-sum-of-children.js)|Easy|
+2237|[Count Positions on Street With Required Brightness](./solutions/2237-count-positions-on-street-with-required-brightness.js)|Medium|
 2239|[Find Closest Number to Zero](./solutions/2239-find-closest-number-to-zero.js)|Easy|
 2240|[Number of Ways to Buy Pens and Pencils](./solutions/2240-number-of-ways-to-buy-pens-and-pencils.js)|Medium|
 2241|[Design an ATM Machine](./solutions/2241-design-an-atm-machine.js)|Medium|
