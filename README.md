@@ -2032,6 +2032,7 @@
 2249|[Count Lattice Points Inside a Circle](./solutions/2249-count-lattice-points-inside-a-circle.js)|Medium|
 2250|[Count Number of Rectangles Containing Each Point](./solutions/2250-count-number-of-rectangles-containing-each-point.js)|Medium|
 2251|[Number of Flowers in Full Bloom](./solutions/2251-number-of-flowers-in-full-bloom.js)|Hard|
+2254|[Design Video Sharing Platform](./solutions/2254-design-video-sharing-platform.js)|Hard|
 2255|[Count Prefixes of a Given String](./solutions/2255-count-prefixes-of-a-given-string.js)|Easy|
 2256|[Minimum Average Difference](./solutions/2256-minimum-average-difference.js)|Medium|
 2257|[Count Unguarded Cells in the Grid](./solutions/2257-count-unguarded-cells-in-the-grid.js)|Medium|
