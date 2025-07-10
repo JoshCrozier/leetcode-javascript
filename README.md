@@ -2027,6 +2027,7 @@
 2244|[Minimum Rounds to Complete All Tasks](./solutions/2244-minimum-rounds-to-complete-all-tasks.js)|Medium|
 2245|[Maximum Trailing Zeros in a Cornered Path](./solutions/2245-maximum-trailing-zeros-in-a-cornered-path.js)|Medium|
 2246|[Longest Path With Different Adjacent Characters](./solutions/2246-longest-path-with-different-adjacent-characters.js)|Hard|
+2247|[Maximum Cost of Trip With K Highways](./solutions/2247-maximum-cost-of-trip-with-k-highways.js)|Hard|
 2248|[Intersection of Multiple Arrays](./solutions/2248-intersection-of-multiple-arrays.js)|Easy|
 2249|[Count Lattice Points Inside a Circle](./solutions/2249-count-lattice-points-inside-a-circle.js)|Medium|
 2250|[Count Number of Rectangles Containing Each Point](./solutions/2250-count-number-of-rectangles-containing-each-point.js)|Medium|
