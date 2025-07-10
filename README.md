@@ -2041,6 +2041,7 @@
 2260|[Minimum Consecutive Cards to Pick Up](./solutions/2260-minimum-consecutive-cards-to-pick-up.js)|Medium|
 2261|[K Divisible Elements Subarrays](./solutions/2261-k-divisible-elements-subarrays.js)|Medium|
 2262|[Total Appeal of A String](./solutions/2262-total-appeal-of-a-string.js)|Hard|
+2263|[Make Array Non-decreasing or Non-increasing](./solutions/2263-make-array-non-decreasing-or-non-increasing.js)|Hard|
 2264|[Largest 3-Same-Digit Number in String](./solutions/2264-largest-3-same-digit-number-in-string.js)|Easy|
 2265|[Count Nodes Equal to Average of Subtree](./solutions/2265-count-nodes-equal-to-average-of-subtree.js)|Medium|
 2266|[Count Number of Texts](./solutions/2266-count-number-of-texts.js)|Medium|
