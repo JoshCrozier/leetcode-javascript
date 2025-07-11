@@ -2115,6 +2115,7 @@
 2358|[Maximum Number of Groups Entering a Competition](./solutions/2358-maximum-number-of-groups-entering-a-competition.js)|Medium|
 2359|[Find Closest Node to Given Two Nodes](./solutions/2359-find-closest-node-to-given-two-nodes.js)|Medium|
 2360|[Longest Cycle in a Graph](./solutions/2360-longest-cycle-in-a-graph.js)|Hard|
+2361|[Minimum Costs Using the Train Line](./solutions/2361-minimum-costs-using-the-train-line.js)|Hard|
 2363|[Merge Similar Items](./solutions/2363-merge-similar-items.js)|Easy|
 2364|[Count Number of Bad Pairs](./solutions/2364-count-number-of-bad-pairs.js)|Medium|
 2365|[Task Scheduler II](./solutions/2365-task-scheduler-ii.js)|Medium|
