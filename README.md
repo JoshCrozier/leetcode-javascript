@@ -2068,6 +2068,7 @@
 2294|[Partition Array Such That Maximum Difference Is K](./solutions/2294-partition-array-such-that-maximum-difference-is-k.js)|Medium|
 2295|[Replace Elements in an Array](./solutions/2295-replace-elements-in-an-array.js)|Medium|
 2296|[Design a Text Editor](./solutions/2296-design-a-text-editor.js)|Hard|
+2297|[Jump Game VIII](./solutions/2297-jump-game-viii.js)|Medium|
 2299|[Strong Password Checker II](./solutions/2299-strong-password-checker-ii.js)|Easy|
 2300|[Successful Pairs of Spells and Potions](./solutions/2300-successful-pairs-of-spells-and-potions.js)|Medium|
 2301|[Match Substring After Replacement](./solutions/2301-match-substring-after-replacement.js)|Hard|
