@@ -2058,6 +2058,7 @@
 2278|[Percentage of Letter in String](./solutions/2278-percentage-of-letter-in-string.js)|Easy|
 2279|[Maximum Bags With Full Capacity of Rocks](./solutions/2279-maximum-bags-with-full-capacity-of-rocks.js)|Medium|
 2280|[Minimum Lines to Represent a Line Chart](./solutions/2280-minimum-lines-to-represent-a-line-chart.js)|Medium|
+2282|[Number of People That Can Be Seen in a Grid](./solutions/2282-number-of-people-that-can-be-seen-in-a-grid.js)|Medium|
 2283|[Check if Number Has Equal Digit Count and Digit Value](./solutions/2283-check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
 2284|[Sender With Largest Word Count](./solutions/2284-sender-with-largest-word-count.js)|Medium|
 2287|[Rearrange Characters to Make Target String](./solutions/2287-rearrange-characters-to-make-target-string.js)|Easy|
