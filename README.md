@@ -2103,6 +2103,7 @@
 2340|[Minimum Adjacent Swaps to Make a Valid Array](./solutions/2340-minimum-adjacent-swaps-to-make-a-valid-array.js)|Medium|
 2341|[Maximum Number of Pairs in Array](./solutions/2341-maximum-number-of-pairs-in-array.js)|Easy|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
+2345|[Finding the Number of Visible Mountains](./solutions/2345-finding-the-number-of-visible-mountains.js)|Medium|
 2347|[Best Poker Hand](./solutions/2347-best-poker-hand.js)|Easy|
 2348|[Number of Zero-Filled Subarrays](./solutions/2348-number-of-zero-filled-subarrays.js)|Medium|
 2349|[Design a Number Container System](./solutions/2349-design-a-number-container-system.js)|Medium|
