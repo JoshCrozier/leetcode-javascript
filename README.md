@@ -2141,6 +2141,7 @@
 2390|[Removing Stars From a String](./solutions/2390-removing-stars-from-a-string.js)|Medium|
 2391|[Minimum Amount of Time to Collect Garbage](./solutions/2391-minimum-amount-of-time-to-collect-garbage.js)|Medium|
 2392|[Build a Matrix With Conditions](./solutions/2392-build-a-matrix-with-conditions.js)|Hard|
+2393|[Count Strictly Increasing Subarrays](./solutions/2393-count-strictly-increasing-subarrays.js)|Medium|
 2395|[Find Subarrays With Equal Sum](./solutions/2395-find-subarrays-with-equal-sum.js)|Easy|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
 2397|[Maximum Rows Covered by Columns](./solutions/2397-maximum-rows-covered-by-columns.js)|Medium|
