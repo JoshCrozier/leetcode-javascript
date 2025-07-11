@@ -2090,6 +2090,7 @@
 2320|[Count Number of Ways to Place Houses](./solutions/2320-count-number-of-ways-to-place-houses.js)|Medium|
 2321|[Maximum Score Of Spliced Array](./solutions/2321-maximum-score-of-spliced-array.js)|Hard|
 2322|[Minimum Score After Removals on a Tree](./solutions/2322-minimum-score-after-removals-on-a-tree.js)|Hard|
+2323|[Find Minimum Time to Finish All Jobs II](./solutions/2323-find-minimum-time-to-finish-all-jobs-ii.js)|Medium|
 2325|[Decode the Message](./solutions/2325-decode-the-message.js)|Easy|
 2326|[Spiral Matrix IV](./solutions/2326-spiral-matrix-iv.js)|Medium|
 2328|[Number of Increasing Paths in a Grid](./solutions/2328-number-of-increasing-paths-in-a-grid.js)|Hard|
