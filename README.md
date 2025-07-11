@@ -2124,6 +2124,7 @@
 2368|[Reachable Nodes With Restrictions](./solutions/2368-reachable-nodes-with-restrictions.js)|Medium|
 2369|[Check if There is a Valid Partition For The Array](./solutions/2369-check-if-there-is-a-valid-partition-for-the-array.js)|Medium|
 2370|[Longest Ideal Subsequence](./solutions/2370-longest-ideal-subsequence.js)|Medium|
+2371|[Minimize Maximum Value in a Grid](./solutions/2371-minimize-maximum-value-in-a-grid.js)|Hard|
 2373|[Largest Local Values in a Matrix](./solutions/2373-largest-local-values-in-a-matrix.js)|Easy|
 2374|[Node With Highest Edge Score](./solutions/2374-node-with-highest-edge-score.js)|Medium|
 2375|[Construct Smallest Number From DI String](./solutions/2375-construct-smallest-number-from-di-string.js)|Medium|
