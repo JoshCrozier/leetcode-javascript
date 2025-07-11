@@ -2100,6 +2100,7 @@
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2337|[Move Pieces to Obtain a String](./solutions/2337-move-pieces-to-obtain-a-string.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
+2340|[Minimum Adjacent Swaps to Make a Valid Array](./solutions/2340-minimum-adjacent-swaps-to-make-a-valid-array.js)|Medium|
 2341|[Maximum Number of Pairs in Array](./solutions/2341-maximum-number-of-pairs-in-array.js)|Easy|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
 2347|[Best Poker Hand](./solutions/2347-best-poker-hand.js)|Easy|
