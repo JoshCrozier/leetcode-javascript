@@ -2077,6 +2077,7 @@
 2304|[Minimum Path Cost in a Grid](./solutions/2304-minimum-path-cost-in-a-grid.js)|Medium|
 2305|[Fair Distribution of Cookies](./solutions/2305-fair-distribution-of-cookies.js)|Medium|
 2306|[Naming a Company](./solutions/2306-naming-a-company.js)|Hard|
+2307|[Check for Contradictions in Equations](./solutions/2307-check-for-contradictions-in-equations.js)|Hard|
 2309|[Greatest English Letter in Upper and Lower Case](./solutions/2309-greatest-english-letter-in-upper-and-lower-case.js)|Easy|
 2311|[Longest Binary Subsequence Less Than or Equal to K](./solutions/2311-longest-binary-subsequence-less-than-or-equal-to-k.js)|Medium|
 2312|[Selling Pieces of Wood](./solutions/2312-selling-pieces-of-wood.js)|Hard|
