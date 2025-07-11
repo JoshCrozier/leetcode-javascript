@@ -2111,6 +2111,7 @@
 2351|[First Letter to Appear Twice](./solutions/2351-first-letter-to-appear-twice.js)|Easy|
 2352|[Equal Row and Column Pairs](./solutions/2352-equal-row-and-column-pairs.js)|Medium|
 2354|[Number of Excellent Pairs](./solutions/2354-number-of-excellent-pairs.js)|Hard|
+2355|[Maximum Number of Books You Can Take](./solutions/2355-maximum-number-of-books-you-can-take.js)|Hard|
 2358|[Maximum Number of Groups Entering a Competition](./solutions/2358-maximum-number-of-groups-entering-a-competition.js)|Medium|
 2359|[Find Closest Node to Given Two Nodes](./solutions/2359-find-closest-node-to-given-two-nodes.js)|Medium|
 2360|[Longest Cycle in a Graph](./solutions/2360-longest-cycle-in-a-graph.js)|Hard|
