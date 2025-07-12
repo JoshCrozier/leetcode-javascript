@@ -2389,6 +2389,7 @@
 2754|[Bind Function to Context](./solutions/2754-bind-function-to-context.js)|Medium|
 2755|[Deep Merge of Two Objects](./solutions/2755-deep-merge-of-two-objects.js)|Medium|
 2756|[Query Batching](./solutions/2756-query-batching.js)|Hard|
+2757|[Generate Circular Array Values](./solutions/2757-generate-circular-array-values.js)|Medium|
 2763|[Sum of Imbalance Numbers of All Subarrays](./solutions/2763-sum-of-imbalance-numbers-of-all-subarrays.js)|Hard|
 2766|[Relocate Marbles](./solutions/2766-relocate-marbles.js)|Medium|
 2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
