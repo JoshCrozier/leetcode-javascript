@@ -2228,6 +2228,7 @@
 2491|[Divide Players Into Teams of Equal Skill](./solutions/2491-divide-players-into-teams-of-equal-skill.js)|Medium|
 2492|[Minimum Score of a Path Between Two Cities](./solutions/2492-minimum-score-of-a-path-between-two-cities.js)|Medium|
 2493|[Divide Nodes Into the Maximum Number of Groups](./solutions/2493-divide-nodes-into-the-maximum-number-of-groups.js)|Hard|
+2495|[Number of Subarrays Having Even Product](./solutions/2495-number-of-subarrays-having-even-product.js)|Medium|
 2496|[Maximum Value of a String in an Array](./solutions/2496-maximum-value-of-a-string-in-an-array.js)|Easy|
 2498|[Frog Jump II](./solutions/2498-frog-jump-ii.js)|Medium|
 2499|[Minimum Total Cost to Make Arrays Unequal](./solutions/2499-minimum-total-cost-to-make-arrays-unequal.js)|Hard|
