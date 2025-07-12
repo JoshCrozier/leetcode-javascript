@@ -2424,6 +2424,7 @@
 2816|[Double a Number Represented as a Linked List](./solutions/2816-double-a-number-represented-as-a-linked-list.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
 2821|[Delay the Resolution of Each Promise](./solutions/2821-delay-the-resolution-of-each-promise.js)|Medium|
+2822|[Inversion of Object](./solutions/2822-inversion-of-object.js)|Easy|
 2824|[Count Pairs Whose Sum is Less than Target](./solutions/2824-count-pairs-whose-sum-is-less-than-target.js)|Easy|
 2825|[Make String a Subsequence Using Cyclic Increments](./solutions/2825-make-string-a-subsequence-using-cyclic-increments.js)|Medium|
 2826|[Sorting Three Groups](./solutions/2826-sorting-three-groups.js)|Medium|
