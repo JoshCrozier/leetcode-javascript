@@ -2410,6 +2410,7 @@
 2791|[Count Paths That Can Form a Palindrome in a Tree](./solutions/2791-count-paths-that-can-form-a-palindrome-in-a-tree.js)|Hard|
 2794|[Create Object from Two Arrays](./solutions/2794-create-object-from-two-arrays.js)|Easy|
 2795|[Parallel Execution of Promises for Individual Results Retrieval](./solutions/2795-parallel-execution-of-promises-for-individual-results-retrieval.js)|Medium|
+2796|[Repeat String](./solutions/2796-repeat-string.js)|Easy|
 2798|[Number of Employees Who Met the Target](./solutions/2798-number-of-employees-who-met-the-target.js)|Easy|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2806|[Account Balance After Rounded Purchase](./solutions/2806-account-balance-after-rounded-purchase.js)|Easy|
