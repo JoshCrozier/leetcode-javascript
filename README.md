@@ -2356,6 +2356,7 @@
 2696|[Minimum String Length After Removing Substrings](./solutions/2696-minimum-string-length-after-removing-substrings.js)|Easy|
 2697|[Lexicographically Smallest Palindrome](./solutions/2697-lexicographically-smallest-palindrome.js)|Easy|
 2698|[Find the Punishment Number of an Integer](./solutions/2698-find-the-punishment-number-of-an-integer.js)|Medium|
+2700|[Differences Between Two Objects](./solutions/2700-differences-between-two-objects.js)|Medium|
 2703|[Return Length of Arguments Passed](./solutions/2703-return-length-of-arguments-passed.js)|Easy|
 2704|[To Be Or Not To Be](./solutions/2704-to-be-or-not-to-be.js)|Easy|
 2705|[Compact Object](./solutions/2705-compact-object.js)|Medium|
