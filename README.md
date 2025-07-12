@@ -2210,6 +2210,7 @@
 2470|[Number of Subarrays With LCM Equal to K](./solutions/2470-number-of-subarrays-with-lcm-equal-to-k.js)|Medium|
 2471|[Minimum Number of Operations to Sort a Binary Tree by Level](./solutions/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level.js)|Medium|
 2472|[Maximum Number of Non-overlapping Palindrome Substrings](./solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.js)|Hard|
+2473|[Minimum Cost to Buy Apples](./solutions/2473-minimum-cost-to-buy-apples.js)|Medium|
 2475|[Number of Unequal Triplets in Array](./solutions/2475-number-of-unequal-triplets-in-array.js)|Easy|
 2476|[Closest Nodes Queries in a Binary Search Tree](./solutions/2476-closest-nodes-queries-in-a-binary-search-tree.js)|Medium|
 2477|[Minimum Fuel Cost to Report to the Capital](./solutions/2477-minimum-fuel-cost-to-report-to-the-capital.js)|Medium|
