@@ -2235,6 +2235,7 @@
 2501|[Longest Square Streak in an Array](./solutions/2501-longest-square-streak-in-an-array.js)|Medium|
 2502|[Design Memory Allocator](./solutions/2502-design-memory-allocator.js)|Medium|
 2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
+2505|[Bitwise OR of All Subsequence Sums](./solutions/2505-bitwise-or-of-all-subsequence-sums.js)|Medium|
 2506|[Count Pairs Of Similar Strings](./solutions/2506-count-pairs-of-similar-strings.js)|Easy|
 2507|[Smallest Value After Replacing With Sum of Prime Factors](./solutions/2507-smallest-value-after-replacing-with-sum-of-prime-factors.js)|Medium|
 2509|[Cycle Length Queries in a Tree](./solutions/2509-cycle-length-queries-in-a-tree.js)|Hard|
