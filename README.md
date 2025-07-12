@@ -2399,6 +2399,7 @@
 2774|[Array Upper Bound](./solutions/2774-array-upper-bound.js)|Easy|
 2775|[Undefined to Null](./solutions/2775-undefined-to-null.js)|Medium|
 2776|[Convert Callback Based Function to Promise Based Function](./solutions/2776-convert-callback-based-function-to-promise-based-function.js)|Medium|
+2777|[Date Range Generator](./solutions/2777-date-range-generator.js)|Medium|
 2778|[Sum of Squares of Special Elements](./solutions/2778-sum-of-squares-of-special-elements.js)|Easy|
 2779|[Maximum Beauty of an Array After Applying Operation](./solutions/2779-maximum-beauty-of-an-array-after-applying-operation.js)|Medium|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
