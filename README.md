@@ -2190,6 +2190,7 @@
 2447|[Number of Subarrays With GCD Equal to K](./solutions/2447-number-of-subarrays-with-gcd-equal-to-k.js)|Medium|
 2448|[Minimum Cost to Make Array Equal](./solutions/2448-minimum-cost-to-make-array-equal.js)|Hard|
 2449|[Minimum Number of Operations to Make Arrays Similar](./solutions/2449-minimum-number-of-operations-to-make-arrays-similar.js)|Hard|
+2450|[Number of Distinct Binary Strings After Applying Operations](./solutions/2450-number-of-distinct-binary-strings-after-applying-operations.js)|Medium|
 2451|[Odd String Difference](./solutions/2451-odd-string-difference.js)|Easy|
 2452|[Words Within Two Edits of Dictionary](./solutions/2452-words-within-two-edits-of-dictionary.js)|Medium|
 2453|[Destroy Sequential Targets](./solutions/2453-destroy-sequential-targets.js)|Medium|
