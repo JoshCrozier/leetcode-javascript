@@ -2349,6 +2349,7 @@
 2685|[Count the Number of Complete Components](./solutions/2685-count-the-number-of-complete-components.js)|Medium|
 2690|[Infinite Method Object](./solutions/2690-infinite-method-object.js)|Easy|
 2691|[Immutability Helper](./solutions/2691-immutability-helper.js)|Hard|
+2692|[Make Object Immutable](./solutions/2692-make-object-immutable.js)|Medium|
 2693|[Call Function with Custom Context](./solutions/2693-call-function-with-custom-context.js)|Medium|
 2694|[Event Emitter](./solutions/2694-event-emitter.js)|Medium|
 2695|[Array Wrapper](./solutions/2695-array-wrapper.js)|Easy|
