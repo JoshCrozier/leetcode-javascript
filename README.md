@@ -2244,6 +2244,7 @@
 2515|[Shortest Distance to Target String in a Circular Array](./solutions/2515-shortest-distance-to-target-string-in-a-circular-array.js)|Easy|
 2516|[Take K of Each Character From Left and Right](./solutions/2516-take-k-of-each-character-from-left-and-right.js)|Medium|
 2517|[Maximum Tastiness of Candy Basket](./solutions/2517-maximum-tastiness-of-candy-basket.js)|Medium|
+2519|[Count the Number of K-Big Indices](./solutions/2519-count-the-number-of-k-big-indices.js)|Hard|
 2520|[Count the Digits That Divide a Number](./solutions/2520-count-the-digits-that-divide-a-number.js)|Easy|
 2521|[Distinct Prime Factors of Product of Array](./solutions/2521-distinct-prime-factors-of-product-of-array.js)|Medium|
 2522|[Partition String Into Substrings With Values at Most K](./solutions/2522-partition-string-into-substrings-with-values-at-most-k.js)|Medium|
