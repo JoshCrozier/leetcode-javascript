@@ -2223,6 +2223,7 @@
 2486|[Append Characters to String to Make Subsequence](./solutions/2486-append-characters-to-string-to-make-subsequence.js)|Medium|
 2487|[Remove Nodes From Linked List](./solutions/2487-remove-nodes-from-linked-list.js)|Medium|
 2488|[Count Subarrays With Median K](./solutions/2488-count-subarrays-with-median-k.js)|Hard|
+2489|[Number of Substrings With Fixed Ratio](./solutions/2489-number-of-substrings-with-fixed-ratio.js)|Medium|
 2490|[Circular Sentence](./solutions/2490-circular-sentence.js)|Easy|
 2491|[Divide Players Into Teams of Equal Skill](./solutions/2491-divide-players-into-teams-of-equal-skill.js)|Medium|
 2492|[Minimum Score of a Path Between Two Cities](./solutions/2492-minimum-score-of-a-path-between-two-cities.js)|Medium|
