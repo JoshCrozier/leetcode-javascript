@@ -2249,6 +2249,7 @@
 2521|[Distinct Prime Factors of Product of Array](./solutions/2521-distinct-prime-factors-of-product-of-array.js)|Medium|
 2522|[Partition String Into Substrings With Values at Most K](./solutions/2522-partition-string-into-substrings-with-values-at-most-k.js)|Medium|
 2523|[Closest Prime Numbers in Range](./solutions/2523-closest-prime-numbers-in-range.js)|Medium|
+2524|[Maximum Frequency Score of a Subarray](./solutions/2524-maximum-frequency-score-of-a-subarray.js)|Hard|
 2527|[Find Xor-Beauty of Array](./solutions/2527-find-xor-beauty-of-array.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
