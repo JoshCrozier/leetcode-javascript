@@ -2391,6 +2391,7 @@
 2756|[Query Batching](./solutions/2756-query-batching.js)|Hard|
 2757|[Generate Circular Array Values](./solutions/2757-generate-circular-array-values.js)|Medium|
 2758|[Next Day](./solutions/2758-next-day.js)|Easy|
+2759|[Convert JSON String to Object](./solutions/2759-convert-json-string-to-object.js)|Hard|
 2763|[Sum of Imbalance Numbers of All Subarrays](./solutions/2763-sum-of-imbalance-numbers-of-all-subarrays.js)|Hard|
 2766|[Relocate Marbles](./solutions/2766-relocate-marbles.js)|Medium|
 2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
