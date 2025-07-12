@@ -2214,6 +2214,7 @@
 2475|[Number of Unequal Triplets in Array](./solutions/2475-number-of-unequal-triplets-in-array.js)|Easy|
 2476|[Closest Nodes Queries in a Binary Search Tree](./solutions/2476-closest-nodes-queries-in-a-binary-search-tree.js)|Medium|
 2477|[Minimum Fuel Cost to Report to the Capital](./solutions/2477-minimum-fuel-cost-to-report-to-the-capital.js)|Medium|
+2479|[Maximum XOR of Two Non-Overlapping Subtrees](./solutions/2479-maximum-xor-of-two-non-overlapping-subtrees.js)|Hard|
 2481|[Minimum Cuts to Divide a Circle](./solutions/2481-minimum-cuts-to-divide-a-circle.js)|Easy|
 2482|[Difference Between Ones and Zeros in Row and Column](./solutions/2482-difference-between-ones-and-zeros-in-row-and-column.js)|Medium|
 2483|[Minimum Penalty for a Shop](./solutions/2483-minimum-penalty-for-a-shop.js)|Medium|
