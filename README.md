@@ -2185,6 +2185,7 @@
 2442|[Count Number of Distinct Integers After Reverse Operations](./solutions/2442-count-number-of-distinct-integers-after-reverse-operations.js)|Medium|
 2443|[Sum of Number and Its Reverse](./solutions/2443-sum-of-number-and-its-reverse.js)|Medium|
 2444|[Count Subarrays With Fixed Bounds](./solutions/2444-count-subarrays-with-fixed-bounds.js)|Hard|
+2445|[Number of Nodes With Value One](./solutions/2445-number-of-nodes-with-value-one.js)|Medium|
 2446|[Determine if Two Events Have Conflict](./solutions/2446-determine-if-two-events-have-conflict.js)|Easy|
 2447|[Number of Subarrays With GCD Equal to K](./solutions/2447-number-of-subarrays-with-gcd-equal-to-k.js)|Medium|
 2448|[Minimum Cost to Make Array Equal](./solutions/2448-minimum-cost-to-make-array-equal.js)|Hard|
