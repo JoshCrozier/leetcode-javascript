@@ -2201,6 +2201,7 @@
 2461|[Maximum Sum of Distinct Subarrays With Length K](./solutions/2461-maximum-sum-of-distinct-subarrays-with-length-k.js)|Medium|
 2462|[Total Cost to Hire K Workers](./solutions/2462-total-cost-to-hire-k-workers.js)|Medium|
 2463|[Minimum Total Distance Traveled](./solutions/2463-minimum-total-distance-traveled.js)|Hard|
+2464|[Minimum Subarrays in a Valid Split](./solutions/2464-minimum-subarrays-in-a-valid-split.js)|Medium|
 2465|[Number of Distinct Averages](./solutions/2465-number-of-distinct-averages.js)|Easy|
 2466|[Count Ways To Build Good Strings](./solutions/2466-count-ways-to-build-good-strings.js)|Medium|
 2467|[Most Profitable Path in a Tree](./solutions/2467-most-profitable-path-in-a-tree.js)|Medium|
