@@ -2416,6 +2416,7 @@
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
 2803|[Factorial Generator](./solutions/2803-factorial-generator.js)|Easy|
 2804|[Array Prototype ForEach](./solutions/2804-array-prototype-foreach.js)|Easy|
+2805|[Custom Interval](./solutions/2805-custom-interval.js)|Medium|
 2806|[Account Balance After Rounded Purchase](./solutions/2806-account-balance-after-rounded-purchase.js)|Easy|
 2807|[Insert Greatest Common Divisors in Linked List](./solutions/2807-insert-greatest-common-divisors-in-linked-list.js)|Medium|
 2810|[Faulty Keyboard](./solutions/2810-faulty-keyboard.js)|Easy|
