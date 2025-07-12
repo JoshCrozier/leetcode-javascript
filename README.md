@@ -2171,6 +2171,7 @@
 2427|[Number of Common Factors](./solutions/2427-number-of-common-factors.js)|Easy|
 2428|[Maximum Sum of an Hourglass](./solutions/2428-maximum-sum-of-an-hourglass.js)|Medium|
 2429|[Minimize XOR](./solutions/2429-minimize-xor.js)|Medium|
+2431|[Maximize Total Tastiness of Purchased Fruits](./solutions/2431-maximize-total-tastiness-of-purchased-fruits.js)|Medium|
 2432|[The Employee That Worked on the Longest Task](./solutions/2432-the-employee-that-worked-on-the-longest-task.js)|Easy|
 2433|[Find The Original Array of Prefix Xor](./solutions/2433-find-the-original-array-of-prefix-xor.js)|Medium|
 2434|[Using a Robot to Print the Lexicographically Smallest String](./solutions/2434-using-a-robot-to-print-the-lexicographically-smallest-string.js)|Medium|
