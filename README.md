@@ -2338,6 +2338,7 @@
 2670|[Find the Distinct Difference Array](./solutions/2670-find-the-distinct-difference-array.js)|Easy|
 2672|[Number of Adjacent Elements With the Same Color](./solutions/2672-number-of-adjacent-elements-with-the-same-color.js)|Medium|
 2673|[Make Costs of Paths Equal in a Binary Tree](./solutions/2673-make-costs-of-paths-equal-in-a-binary-tree.js)|Medium|
+2675|[Array of Objects to Matrix](./solutions/2675-array-of-objects-to-matrix.js)|Hard|
 2676|[Throttle](./solutions/2676-throttle.js)|Medium|
 2677|[Chunk Array](./solutions/2677-chunk-array.js)|Easy|
 2678|[Number of Senior Citizens](./solutions/2678-number-of-senior-citizens.js)|Easy|
