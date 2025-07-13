@@ -2301,6 +2301,7 @@
 2599|[Make the Prefix Sum Non-negative](./solutions/2599-make-the-prefix-sum-non-negative.js)|Medium|
 2600|[K Items With the Maximum Sum](./solutions/2600-k-items-with-the-maximum-sum.js)|Easy|
 2601|[Prime Subtraction Operation](./solutions/2601-prime-subtraction-operation.js)|Medium|
+2604|[Minimum Time to Eat All Grains](./solutions/2604-minimum-time-to-eat-all-grains.js)|Hard|
 2605|[Form Smallest Number From Two Digit Arrays](./solutions/2605-form-smallest-number-from-two-digit-arrays.js)|Easy|
 2606|[Find the Substring With Maximum Cost](./solutions/2606-find-the-substring-with-maximum-cost.js)|Medium|
 2609|[Find the Longest Balanced Substring of a Binary String](./solutions/2609-find-the-longest-balanced-substring-of-a-binary-string.js)|Easy|
