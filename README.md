@@ -1,4 +1,4 @@
-# 2,550+ LeetCode solutions in JavaScript
+# 2,600+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -2329,6 +2329,7 @@
 2635|[Apply Transform Over Each Element in Array](./solutions/2635-apply-transform-over-each-element-in-array.js)|Easy|
 2636|[Promise Pool](./solutions/2636-promise-pool.js)|Medium|
 2637|[Promise Time Limit](./solutions/2637-promise-time-limit.js)|Medium|
+2638|[Count the Number of K-Free Subsets](./solutions/2638-count-the-number-of-k-free-subsets.js)|Medium|
 2639|[Find the Width of Columns of a Grid](./solutions/2639-find-the-width-of-columns-of-a-grid.js)|Easy|
 2640|[Find the Score of All Prefixes of an Array](./solutions/2640-find-the-score-of-all-prefixes-of-an-array.js)|Medium|
 2641|[Cousins in Binary Tree II](./solutions/2641-cousins-in-binary-tree-ii.js)|Medium|
