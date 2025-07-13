@@ -2257,6 +2257,7 @@
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2536|[Increment Submatrices by One](./solutions/2536-increment-submatrices-by-one.js)|Medium|
 2537|[Count the Number of Good Subarrays](./solutions/2537-count-the-number-of-good-subarrays.js)|Medium|
+2539|[Count the Number of Good Subsequences](./solutions/2539-count-the-number-of-good-subsequences.js)|Medium|
 2540|[Minimum Common Value](./solutions/2540-minimum-common-value.js)|Easy|
 2542|[Maximum Subsequence Score](./solutions/2542-maximum-subsequence-score.js)|Medium|
 2543|[Check if Point Is Reachable](./solutions/2543-check-if-point-is-reachable.js)|Hard|
