@@ -2265,6 +2265,7 @@
 2545|[Sort the Students by Their Kth Score](./solutions/2545-sort-the-students-by-their-kth-score.js)|Medium|
 2546|[Apply Bitwise Operations to Make Strings Equal](./solutions/2546-apply-bitwise-operations-to-make-strings-equal.js)|Medium|
 2547|[Minimum Cost to Split an Array](./solutions/2547-minimum-cost-to-split-an-array.js)|Hard|
+2548|[Maximum Price to Fill a Bag](./solutions/2548-maximum-price-to-fill-a-bag.js)|Medium|
 2549|[Count Distinct Numbers on Board](./solutions/2549-count-distinct-numbers-on-board.js)|Easy|
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
 2553|[Separate the Digits in an Array](./solutions/2553-separate-the-digits-in-an-array.js)|Easy|
