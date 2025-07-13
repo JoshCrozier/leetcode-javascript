@@ -2306,6 +2306,7 @@
 2606|[Find the Substring With Maximum Cost](./solutions/2606-find-the-substring-with-maximum-cost.js)|Medium|
 2609|[Find the Longest Balanced Substring of a Binary String](./solutions/2609-find-the-longest-balanced-substring-of-a-binary-string.js)|Easy|
 2610|[Convert an Array Into a 2D Array With Conditions](./solutions/2610-convert-an-array-into-a-2d-array-with-conditions.js)|Medium|
+2613|[Beautiful Pairs](./solutions/2613-beautiful-pairs.js)|Hard|
 2615|[Sum of Distances](./solutions/2615-sum-of-distances.js)|Medium|
 2616|[Minimize the Maximum Difference of Pairs](./solutions/2616-minimize-the-maximum-difference-of-pairs.js)|Medium|
 2618|[Check if Object Instance of Class](./solutions/2618-check-if-object-instance-of-class.js)|Medium|
