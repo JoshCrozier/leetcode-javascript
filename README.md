@@ -2253,6 +2253,7 @@
 2527|[Find Xor-Beauty of Array](./solutions/2527-find-xor-beauty-of-array.js)|Medium|
 2529|[Maximum Count of Positive Integer and Negative Integer](./solutions/2529-maximum-count-of-positive-integer-and-negative-integer.js)|Easy|
 2533|[Number of Good Binary Strings](./solutions/2533-number-of-good-binary-strings.js)|Medium|
+2534|[Time Taken to Cross the Door](./solutions/2534-time-taken-to-cross-the-door.js)|Hard|
 2535|[Difference Between Element Sum and Digit Sum of an Array](./solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array.js)|Easy|
 2536|[Increment Submatrices by One](./solutions/2536-increment-submatrices-by-one.js)|Medium|
 2537|[Count the Number of Good Subarrays](./solutions/2537-count-the-number-of-good-subarrays.js)|Medium|
