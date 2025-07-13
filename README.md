@@ -2270,6 +2270,7 @@
 2551|[Put Marbles in Bags](./solutions/2551-put-marbles-in-bags.js)|Hard|
 2553|[Separate the Digits in an Array](./solutions/2553-separate-the-digits-in-an-array.js)|Easy|
 2554|[Maximum Number of Integers to Choose From a Range I](./solutions/2554-maximum-number-of-integers-to-choose-from-a-range-i.js)|Medium|
+2557|[Maximum Number of Integers to Choose From a Range II](./solutions/2557-maximum-number-of-integers-to-choose-from-a-range-ii.js)|Medium|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
 2562|[Find the Array Concatenation Value](./solutions/2562-find-the-array-concatenation-value.js)|Easy|
