@@ -2386,6 +2386,7 @@
 2710|[Remove Trailing Zeros From a String](./solutions/2710-remove-trailing-zeros-from-a-string.js)|Easy|
 2711|[Difference of Number of Distinct Values on Diagonals](./solutions/2711-difference-of-number-of-distinct-values-on-diagonals.js)|Medium|
 2712|[Minimum Cost to Make All Characters Equal](./solutions/2712-minimum-cost-to-make-all-characters-equal.js)|Medium|
+2714|[Find Shortest Path with K Hops](./solutions/2714-find-shortest-path-with-k-hops.js)|Hard|
 2715|[Timeout Cancellation](./solutions/2715-timeout-cancellation.js)|Easy|
 2716|[Minimize String Length](./solutions/2716-minimize-string-length.js)|Easy|
 2717|[Semi-Ordered Permutation](./solutions/2717-semi-ordered-permutation.js)|Easy|
