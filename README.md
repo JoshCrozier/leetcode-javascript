@@ -2397,6 +2397,7 @@
 2725|[Interval Cancellation](./solutions/2725-interval-cancellation.js)|Easy|
 2726|[Calculator with Method Chaining](./solutions/2726-calculator-with-method-chaining.js)|Easy|
 2727|[Is Object Empty](./solutions/2727-is-object-empty.js)|Easy|
+2728|[Count Houses in a Circular Street](./solutions/2728-count-houses-in-a-circular-street.js)|Easy|
 2729|[Check if The Number is Fascinating](./solutions/2729-check-if-the-number-is-fascinating.js)|Easy|
 2732|[Find a Good Subset of the Matrix](./solutions/2732-find-a-good-subset-of-the-matrix.js)|Hard|
 2733|[Neither Minimum nor Maximum](./solutions/2733-neither-minimum-nor-maximum.js)|Easy|
