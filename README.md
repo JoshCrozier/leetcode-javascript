@@ -2401,6 +2401,7 @@
 2729|[Check if The Number is Fascinating](./solutions/2729-check-if-the-number-is-fascinating.js)|Easy|
 2732|[Find a Good Subset of the Matrix](./solutions/2732-find-a-good-subset-of-the-matrix.js)|Hard|
 2733|[Neither Minimum nor Maximum](./solutions/2733-neither-minimum-nor-maximum.js)|Easy|
+2737|[Find the Closest Marked Node](./solutions/2737-find-the-closest-marked-node.js)|Medium|
 2739|[Total Distance Traveled](./solutions/2739-total-distance-traveled.js)|Easy|
 2740|[Find the Value of the Partition](./solutions/2740-find-the-value-of-the-partition.js)|Medium|
 2742|[Painting the Walls](./solutions/2742-painting-the-walls.js)|Hard|
