@@ -2422,6 +2422,7 @@
 2766|[Relocate Marbles](./solutions/2766-relocate-marbles.js)|Medium|
 2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
 2769|[Find the Maximum Achievable Number](./solutions/2769-find-the-maximum-achievable-number.js)|Easy|
+2773|[Height of Special Binary Tree](./solutions/2773-height-of-special-binary-tree.js)|Medium|
 2774|[Array Upper Bound](./solutions/2774-array-upper-bound.js)|Easy|
 2775|[Undefined to Null](./solutions/2775-undefined-to-null.js)|Medium|
 2776|[Convert Callback Based Function to Promise Based Function](./solutions/2776-convert-callback-based-function-to-promise-based-function.js)|Medium|
