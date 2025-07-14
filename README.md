@@ -2405,6 +2405,7 @@
 2739|[Total Distance Traveled](./solutions/2739-total-distance-traveled.js)|Easy|
 2740|[Find the Value of the Partition](./solutions/2740-find-the-value-of-the-partition.js)|Medium|
 2742|[Painting the Walls](./solutions/2742-painting-the-walls.js)|Hard|
+2743|[Count Substrings Without Repeating Character](./solutions/2743-count-substrings-without-repeating-character.js)|Medium|
 2744|[Find Maximum Number of String Pairs](./solutions/2744-find-maximum-number-of-string-pairs.js)|Easy|
 2745|[Construct the Longest New String](./solutions/2745-construct-the-longest-new-string.js)|Medium|
 2748|[Number of Beautiful Pairs](./solutions/2748-number-of-beautiful-pairs.js)|Easy|
