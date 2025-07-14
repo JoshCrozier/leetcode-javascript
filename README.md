@@ -2348,6 +2348,7 @@
 2657|[Find the Prefix Common Array of Two Arrays](./solutions/2657-find-the-prefix-common-array-of-two-arrays.js)|Medium|
 2658|[Maximum Number of Fish in a Grid](./solutions/2658-maximum-number-of-fish-in-a-grid.js)|Medium|
 2661|[First Completely Painted Row or Column](./solutions/2661-first-completely-painted-row-or-column.js)|Medium|
+2664|[The Knight’s Tour](./solutions/2664-the-knights-tour.js)|Medium|
 2665|[Counter II](./solutions/2665-counter-ii.js)|Easy|
 2666|[Allow One Function Call](./solutions/2666-allow-one-function-call.js)|Easy|
 2667|[Create Hello World Function](./solutions/2667-create-hello-world-function.js)|Easy|
