@@ -2418,6 +2418,7 @@
 2758|[Next Day](./solutions/2758-next-day.js)|Easy|
 2759|[Convert JSON String to Object](./solutions/2759-convert-json-string-to-object.js)|Hard|
 2763|[Sum of Imbalance Numbers of All Subarrays](./solutions/2763-sum-of-imbalance-numbers-of-all-subarrays.js)|Hard|
+2764|[Is Array a Preorder of Some ‌Binary Tree](./solutions/2764-is-array-a-preorder-of-some-binary-tree.js)|Medium|
 2766|[Relocate Marbles](./solutions/2766-relocate-marbles.js)|Medium|
 2767|[Partition String Into Minimum Beautiful Substrings](./solutions/2767-partition-string-into-minimum-beautiful-substrings.js)|Medium|
 2769|[Find the Maximum Achievable Number](./solutions/2769-find-the-maximum-achievable-number.js)|Easy|
