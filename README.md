@@ -2376,6 +2376,7 @@
 2697|[Lexicographically Smallest Palindrome](./solutions/2697-lexicographically-smallest-palindrome.js)|Easy|
 2698|[Find the Punishment Number of an Integer](./solutions/2698-find-the-punishment-number-of-an-integer.js)|Medium|
 2700|[Differences Between Two Objects](./solutions/2700-differences-between-two-objects.js)|Medium|
+2702|[Minimum Operations to Make Numbers Non-positive](./solutions/2702-minimum-operations-to-make-numbers-non-positive.js)|Hard|
 2703|[Return Length of Arguments Passed](./solutions/2703-return-length-of-arguments-passed.js)|Easy|
 2704|[To Be Or Not To Be](./solutions/2704-to-be-or-not-to-be.js)|Easy|
 2705|[Compact Object](./solutions/2705-compact-object.js)|Medium|
