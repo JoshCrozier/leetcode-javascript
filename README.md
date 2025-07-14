@@ -2365,6 +2365,7 @@
 2683|[Neighboring Bitwise XOR](./solutions/2683-neighboring-bitwise-xor.js)|Medium|
 2684|[Maximum Number of Moves in a Grid](./solutions/2684-maximum-number-of-moves-in-a-grid.js)|Medium|
 2685|[Count the Number of Complete Components](./solutions/2685-count-the-number-of-complete-components.js)|Medium|
+2689|[Extract Kth Character From The Rope Tree](./solutions/2689-extract-kth-character-from-the-rope-tree.js)|Easy|
 2690|[Infinite Method Object](./solutions/2690-infinite-method-object.js)|Easy|
 2691|[Immutability Helper](./solutions/2691-immutability-helper.js)|Hard|
 2692|[Make Object Immutable](./solutions/2692-make-object-immutable.js)|Medium|
