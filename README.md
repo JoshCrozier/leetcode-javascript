@@ -2436,6 +2436,7 @@
 2788|[Split Strings by Separator](./solutions/2788-split-strings-by-separator.js)|Easy|
 2789|[Largest Element in an Array after Merge Operations](./solutions/2789-largest-element-in-an-array-after-merge-operations.js)|Medium|
 2791|[Count Paths That Can Form a Palindrome in a Tree](./solutions/2791-count-paths-that-can-form-a-palindrome-in-a-tree.js)|Hard|
+2792|[Count Nodes That Are Great Enough](./solutions/2792-count-nodes-that-are-great-enough.js)|Hard|
 2794|[Create Object from Two Arrays](./solutions/2794-create-object-from-two-arrays.js)|Easy|
 2795|[Parallel Execution of Promises for Individual Results Retrieval](./solutions/2795-parallel-execution-of-promises-for-individual-results-retrieval.js)|Medium|
 2796|[Repeat String](./solutions/2796-repeat-string.js)|Easy|
