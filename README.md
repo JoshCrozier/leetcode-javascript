@@ -2430,6 +2430,7 @@
 2778|[Sum of Squares of Special Elements](./solutions/2778-sum-of-squares-of-special-elements.js)|Easy|
 2779|[Maximum Beauty of an Array After Applying Operation](./solutions/2779-maximum-beauty-of-an-array-after-applying-operation.js)|Medium|
 2780|[Minimum Index of a Valid Split](./solutions/2780-minimum-index-of-a-valid-split.js)|Medium|
+2782|[Number of Unique Categories](./solutions/2782-number-of-unique-categories.js)|Medium|
 2784|[Check if Array is Good](./solutions/2784-check-if-array-is-good.js)|Easy|
 2785|[Sort Vowels in a String](./solutions/2785-sort-vowels-in-a-string.js)|Medium|
 2788|[Split Strings by Separator](./solutions/2788-split-strings-by-separator.js)|Easy|
