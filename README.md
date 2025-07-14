@@ -2410,6 +2410,7 @@
 2745|[Construct the Longest New String](./solutions/2745-construct-the-longest-new-string.js)|Medium|
 2748|[Number of Beautiful Pairs](./solutions/2748-number-of-beautiful-pairs.js)|Easy|
 2751|[Robot Collisions](./solutions/2751-robot-collisions.js)|Hard|
+2753|[Count Houses in a Circular Street II](./solutions/2753-count-houses-in-a-circular-street-ii.js)|Hard|
 2754|[Bind Function to Context](./solutions/2754-bind-function-to-context.js)|Medium|
 2755|[Deep Merge of Two Objects](./solutions/2755-deep-merge-of-two-objects.js)|Medium|
 2756|[Query Batching](./solutions/2756-query-batching.js)|Hard|
