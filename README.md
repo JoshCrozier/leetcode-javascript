@@ -2504,6 +2504,7 @@
 2907|[Maximum Profitable Triplets With Increasing Prices I](./solutions/2907-maximum-profitable-triplets-with-increasing-prices-i.js)|Medium|
 2908|[Minimum Sum of Mountain Triplets I](./solutions/2908-minimum-sum-of-mountain-triplets-i.js)|Easy|
 2909|[Minimum Sum of Mountain Triplets II](./solutions/2909-minimum-sum-of-mountain-triplets-ii.js)|Medium|
+2912|[Number of Ways to Reach Destination in the Grid](./solutions/2912-number-of-ways-to-reach-destination-in-the-grid.js)|Hard|
 2913|[Subarrays Distinct Element Sum of Squares I](./solutions/2913-subarrays-distinct-element-sum-of-squares-i.js)|Easy|
 2914|[Minimum Number of Changes to Make Binary String Beautiful](./solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful.js)|Medium|
 2917|[Find the K-or of an Array](./solutions/2917-find-the-k-or-of-an-array.js)|Easy|
