@@ -2509,6 +2509,7 @@
 2914|[Minimum Number of Changes to Make Binary String Beautiful](./solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful.js)|Medium|
 2917|[Find the K-or of an Array](./solutions/2917-find-the-k-or-of-an-array.js)|Easy|
 2918|[Minimum Equal Sum of Two Arrays After Replacing Zeros](./solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.js)|Medium|
+2921|[Maximum Profitable Triplets With Increasing Prices II](./solutions/2921-maximum-profitable-triplets-with-increasing-prices-ii.js)|Hard|
 2923|[Find Champion I](./solutions/2923-find-champion-i.js)|Easy|
 2924|[Find Champion II](./solutions/2924-find-champion-ii.js)|Medium|
 2925|[Maximum Score After Applying Operations on a Tree](./solutions/2925-maximum-score-after-applying-operations-on-a-tree.js)|Medium|
