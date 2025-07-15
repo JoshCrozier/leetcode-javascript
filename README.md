@@ -2481,6 +2481,7 @@
 2859|[Sum of Values at Indices With K Set Bits](./solutions/2859-sum-of-values-at-indices-with-k-set-bits.js)|Easy|
 2860|[Happy Students](./solutions/2860-happy-students.js)|Medium|
 2862|[Maximum Element-Sum of a Complete Subset of Indices](./solutions/2862-maximum-element-sum-of-a-complete-subset-of-indices.js)|Hard|
+2863|[Maximum Length of Semi-Decreasing Subarrays](./solutions/2863-maximum-length-of-semi-decreasing-subarrays.js)|Medium|
 2864|[Maximum Odd Binary Number](./solutions/2864-maximum-odd-binary-number.js)|Easy|
 2865|[Beautiful Towers I](./solutions/2865-beautiful-towers-i.js)|Medium|
 2869|[Minimum Operations to Collect Elements](./solutions/2869-minimum-operations-to-collect-elements.js)|Easy|
