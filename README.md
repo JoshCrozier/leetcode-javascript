@@ -2443,6 +2443,7 @@
 2797|[Partial Function with Placeholders](./solutions/2797-partial-function-with-placeholders.js)|Easy|
 2798|[Number of Employees Who Met the Target](./solutions/2798-number-of-employees-who-met-the-target.js)|Easy|
 2799|[Count Complete Subarrays in an Array](./solutions/2799-count-complete-subarrays-in-an-array.js)|Medium|
+2802|[Find The K-th Lucky Number](./solutions/2802-find-the-k-th-lucky-number.js)|Medium|
 2803|[Factorial Generator](./solutions/2803-factorial-generator.js)|Easy|
 2804|[Array Prototype ForEach](./solutions/2804-array-prototype-foreach.js)|Easy|
 2805|[Custom Interval](./solutions/2805-custom-interval.js)|Medium|
