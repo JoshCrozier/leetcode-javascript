@@ -2465,6 +2465,7 @@
 2829|[Determine the Minimum Sum of a k-avoiding Array](./solutions/2829-determine-the-minimum-sum-of-a-k-avoiding-array.js)|Medium|
 2832|[Maximal Range That Each Element Is Maximum in It](./solutions/2832-maximal-range-that-each-element-is-maximum-in-it.js)|Medium|
 2833|[Furthest Point From Origin](./solutions/2833-furthest-point-from-origin.js)|Easy|
+2838|[Maximum Coins Heroes Can Collect](./solutions/2838-maximum-coins-heroes-can-collect.js)|Medium|
 2839|[Check if Strings Can be Made Equal With Operations I](./solutions/2839-check-if-strings-can-be-made-equal-with-operations-i.js)|Easy|
 2840|[Check if Strings Can be Made Equal With Operations II](./solutions/2840-check-if-strings-can-be-made-equal-with-operations-ii.js)|Medium|
 2841|[Maximum Sum of Almost Unique Subarray](./solutions/2841-maximum-sum-of-almost-unique-subarray.js)|Medium|
