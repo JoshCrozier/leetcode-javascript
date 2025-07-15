@@ -2484,6 +2484,7 @@
 2863|[Maximum Length of Semi-Decreasing Subarrays](./solutions/2863-maximum-length-of-semi-decreasing-subarrays.js)|Medium|
 2864|[Maximum Odd Binary Number](./solutions/2864-maximum-odd-binary-number.js)|Easy|
 2865|[Beautiful Towers I](./solutions/2865-beautiful-towers-i.js)|Medium|
+2868|[The Wording Game](./solutions/2868-the-wording-game.js)|Hard|
 2869|[Minimum Operations to Collect Elements](./solutions/2869-minimum-operations-to-collect-elements.js)|Easy|
 2870|[Minimum Number of Operations to Make Array Empty](./solutions/2870-minimum-number-of-operations-to-make-array-empty.js)|Medium|
 2871|[Split Array Into Maximum Number of Subarrays](./solutions/2871-split-array-into-maximum-number-of-subarrays.js)|Medium|
