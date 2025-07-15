@@ -2472,6 +2472,7 @@
 2843|[Count Symmetric Integers](./solutions/2843-count-symmetric-integers.js)|Easy|
 2845|[Count of Interesting Subarrays](./solutions/2845-count-of-interesting-subarrays.js)|Medium|
 2846|[Minimum Edge Weight Equilibrium Queries in a Tree](./solutions/2846-minimum-edge-weight-equilibrium-queries-in-a-tree.js)|Hard|
+2847|[Smallest Number With Given Digit Product](./solutions/2847-smallest-number-with-given-digit-product.js)|Medium|
 2848|[Points That Intersect With Cars](./solutions/2848-points-that-intersect-with-cars.js)|Easy|
 2850|[Minimum Moves to Spread Stones Over Grid](./solutions/2850-minimum-moves-to-spread-stones-over-grid.js)|Medium|
 2855|[Minimum Right Shifts to Sort the Array](./solutions/2855-minimum-right-shifts-to-sort-the-array.js)|Easy|
