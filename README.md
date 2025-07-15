@@ -2454,6 +2454,7 @@
 2815|[Max Pair Sum in an Array](./solutions/2815-max-pair-sum-in-an-array.js)|Easy|
 2816|[Double a Number Represented as a Linked List](./solutions/2816-double-a-number-represented-as-a-linked-list.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
+2819|[Minimum Relative Loss After Buying Chocolates](./solutions/2819-minimum-relative-loss-after-buying-chocolates.js)|Hard|
 2821|[Delay the Resolution of Each Promise](./solutions/2821-delay-the-resolution-of-each-promise.js)|Medium|
 2822|[Inversion of Object](./solutions/2822-inversion-of-object.js)|Easy|
 2823|[Deep Object Filter](./solutions/2823-deep-object-filter.js)|Medium|
