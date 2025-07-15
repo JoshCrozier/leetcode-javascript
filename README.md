@@ -2491,6 +2491,7 @@
 2872|[Maximum Number of K-Divisible Components](./solutions/2872-maximum-number-of-k-divisible-components.js)|Hard|
 2873|[Maximum Value of an Ordered Triplet I](./solutions/2873-maximum-value-of-an-ordered-triplet-i.js)|Easy|
 2874|[Maximum Value of an Ordered Triplet II](./solutions/2874-maximum-value-of-an-ordered-triplet-ii.js)|Medium|
+2892|[Minimizing Array After Replacing Pairs With Their Product](./solutions/2892-minimizing-array-after-replacing-pairs-with-their-product.js)|Medium|
 2894|[Divisible and Non-divisible Sums Difference](./solutions/2894-divisible-and-non-divisible-sums-difference.js)|Easy|
 2895|[Minimum Processing Time](./solutions/2895-minimum-processing-time.js)|Medium|
 2897|[Apply Operations on Array to Maximize Sum of Squares](./solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.js)|Hard|
