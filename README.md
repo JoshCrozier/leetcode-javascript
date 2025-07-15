@@ -2475,6 +2475,7 @@
 2847|[Smallest Number With Given Digit Product](./solutions/2847-smallest-number-with-given-digit-product.js)|Medium|
 2848|[Points That Intersect With Cars](./solutions/2848-points-that-intersect-with-cars.js)|Easy|
 2850|[Minimum Moves to Spread Stones Over Grid](./solutions/2850-minimum-moves-to-spread-stones-over-grid.js)|Medium|
+2852|[Sum of Remoteness of All Cells](./solutions/2852-sum-of-remoteness-of-all-cells.js)|Medium|
 2855|[Minimum Right Shifts to Sort the Array](./solutions/2855-minimum-right-shifts-to-sort-the-array.js)|Easy|
 2858|[Minimum Edge Reversals So Every Node Is Reachable](./solutions/2858-minimum-edge-reversals-so-every-node-is-reachable.js)|Hard|
 2859|[Sum of Values at Indices With K Set Bits](./solutions/2859-sum-of-values-at-indices-with-k-set-bits.js)|Easy|
