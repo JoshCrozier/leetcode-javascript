@@ -2450,6 +2450,7 @@
 2806|[Account Balance After Rounded Purchase](./solutions/2806-account-balance-after-rounded-purchase.js)|Easy|
 2807|[Insert Greatest Common Divisors in Linked List](./solutions/2807-insert-greatest-common-divisors-in-linked-list.js)|Medium|
 2810|[Faulty Keyboard](./solutions/2810-faulty-keyboard.js)|Easy|
+2814|[Minimum Time Takes to Reach Destination Without Drowning](./solutions/2814-minimum-time-takes-to-reach-destination-without-drowning.js)|Hard|
 2815|[Max Pair Sum in an Array](./solutions/2815-max-pair-sum-in-an-array.js)|Easy|
 2816|[Double a Number Represented as a Linked List](./solutions/2816-double-a-number-represented-as-a-linked-list.js)|Medium|
 2818|[Apply Operations to Maximize Score](./solutions/2818-apply-operations-to-maximize-score.js)|Hard|
