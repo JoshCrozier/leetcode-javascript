@@ -2519,6 +2519,7 @@
 2932|[Maximum Strong Pair XOR I](./solutions/2932-maximum-strong-pair-xor-i.js)|Easy|
 2933|[High-Access Employees](./solutions/2933-high-access-employees.js)|Medium|
 2934|[Minimum Operations to Maximize Last Elements in Arrays](./solutions/2934-minimum-operations-to-maximize-last-elements-in-arrays.js)|Medium|
+2936|[Number of Equal Numbers Blocks](./solutions/2936-number-of-equal-numbers-blocks.js)|Medium|
 2937|[Make Three Strings Equal](./solutions/2937-make-three-strings-equal.js)|Easy|
 2938|[Separate Black and White Balls](./solutions/2938-separate-black-and-white-balls.js)|Medium|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
