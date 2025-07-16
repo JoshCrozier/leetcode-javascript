@@ -2527,6 +2527,7 @@
 2946|[Matrix Similarity After Cyclic Shifts](./solutions/2946-matrix-similarity-after-cyclic-shifts.js)|Easy|
 2947|[Count Beautiful Substrings I](./solutions/2947-count-beautiful-substrings-i.js)|Medium|
 2948|[Make Lexicographically Smallest Array by Swapping Elements](./solutions/2948-make-lexicographically-smallest-array-by-swapping-elements.js)|Medium|
+2950|[Number of Divisible Substrings](./solutions/2950-number-of-divisible-substrings.js)|Medium|
 2951|[Find the Peaks](./solutions/2951-find-the-peaks.js)|Easy|
 2952|[Minimum Number of Coins to be Added](./solutions/2952-minimum-number-of-coins-to-be-added.js)|Medium|
 2956|[Find Common Elements Between Two Arrays](./solutions/2956-find-common-elements-between-two-arrays.js)|Easy|
