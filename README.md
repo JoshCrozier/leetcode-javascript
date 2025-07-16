@@ -2522,6 +2522,7 @@
 2936|[Number of Equal Numbers Blocks](./solutions/2936-number-of-equal-numbers-blocks.js)|Medium|
 2937|[Make Three Strings Equal](./solutions/2937-make-three-strings-equal.js)|Easy|
 2938|[Separate Black and White Balls](./solutions/2938-separate-black-and-white-balls.js)|Medium|
+2941|[Maximum GCD-Sum of a Subarray](./solutions/2941-maximum-gcd-sum-of-a-subarray.js)|Hard|
 2942|[Find Words Containing Character](./solutions/2942-find-words-containing-character.js)|Easy|
 2946|[Matrix Similarity After Cyclic Shifts](./solutions/2946-matrix-similarity-after-cyclic-shifts.js)|Easy|
 2947|[Count Beautiful Substrings I](./solutions/2947-count-beautiful-substrings-i.js)|Medium|
