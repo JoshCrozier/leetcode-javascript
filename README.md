@@ -2513,6 +2513,7 @@
 2923|[Find Champion I](./solutions/2923-find-champion-i.js)|Easy|
 2924|[Find Champion II](./solutions/2924-find-champion-ii.js)|Medium|
 2925|[Maximum Score After Applying Operations on a Tree](./solutions/2925-maximum-score-after-applying-operations-on-a-tree.js)|Medium|
+2927|[Distribute Candies Among Children III](./solutions/2927-distribute-candies-among-children-iii.js)|Hard|
 2928|[Distribute Candies Among Children I](./solutions/2928-distribute-candies-among-children-i.js)|Easy|
 2929|[Distribute Candies Among Children II](./solutions/2929-distribute-candies-among-children-ii.js)|Medium|
 2932|[Maximum Strong Pair XOR I](./solutions/2932-maximum-strong-pair-xor-i.js)|Easy|
