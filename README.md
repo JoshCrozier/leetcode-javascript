@@ -2575,6 +2575,7 @@
 3033|[Modify the Matrix](./solutions/3033-modify-the-matrix.js)|Easy|
 3034|[Number of Subarrays That Match a Pattern I](./solutions/3034-number-of-subarrays-that-match-a-pattern-i.js)|Medium|
 3035|[Maximum Palindromes After Operations](./solutions/3035-maximum-palindromes-after-operations.js)|Medium|
+3037|[Find Pattern in Infinite Stream II](./solutions/3037-find-pattern-in-infinite-stream-ii.js)|Hard|
 3038|[Maximum Number of Operations With the Same Score I](./solutions/3038-maximum-number-of-operations-with-the-same-score-i.js)|Easy|
 3039|[Apply Operations to Make String Empty](./solutions/3039-apply-operations-to-make-string-empty.js)|Medium|
 3042|[Count Prefix and Suffix Pairs I](./solutions/3042-count-prefix-and-suffix-pairs-i.js)|Easy|
