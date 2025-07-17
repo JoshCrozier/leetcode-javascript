@@ -2593,6 +2593,7 @@
 3069|[Distribute Elements Into Two Arrays I](./solutions/3069-distribute-elements-into-two-arrays-i.js)|Easy|
 3070|[Count Submatrices with Top-Left Element and Sum Less Than k](./solutions/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.js)|Medium|
 3071|[Minimum Operations to Write the Letter Y on a Grid](./solutions/3071-minimum-operations-to-write-the-letter-y-on-a-grid.js)|Medium|
+3073|[Maximum Increasing Triplet Value](./solutions/3073-maximum-increasing-triplet-value.js)|Medium|
 3074|[Apple Redistribution into Boxes](./solutions/3074-apple-redistribution-into-boxes.js)|Easy|
 3075|[Maximize Happiness of Selected Children](./solutions/3075-maximize-happiness-of-selected-children.js)|Medium|
 3076|[Shortest Uncommon Substring in an Array](./solutions/3076-shortest-uncommon-substring-in-an-array.js)|Medium|
