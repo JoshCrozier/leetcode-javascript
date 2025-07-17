@@ -2541,6 +2541,7 @@
 2964|[Number of Divisible Triplet Sums](./solutions/2964-number-of-divisible-triplet-sums.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2966|[Divide Array Into Arrays With Max Difference](./solutions/2966-divide-array-into-arrays-with-max-difference.js)|Medium|
+2969|[Minimum Number of Coins for Fruits II](./solutions/2969-minimum-number-of-coins-for-fruits-ii.js)|Hard|
 2970|[Count the Number of Incremovable Subarrays I](./solutions/2970-count-the-number-of-incremovable-subarrays-i.js)|Easy|
 2971|[Find Polygon With the Largest Perimeter](./solutions/2971-find-polygon-with-the-largest-perimeter.js)|Medium|
 2976|[Minimum Cost to Convert String I](./solutions/2976-minimum-cost-to-convert-string-i.js)|Medium|
