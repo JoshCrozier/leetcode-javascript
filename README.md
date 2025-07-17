@@ -2545,6 +2545,7 @@
 2970|[Count the Number of Incremovable Subarrays I](./solutions/2970-count-the-number-of-incremovable-subarrays-i.js)|Easy|
 2971|[Find Polygon With the Largest Perimeter](./solutions/2971-find-polygon-with-the-largest-perimeter.js)|Medium|
 2976|[Minimum Cost to Convert String I](./solutions/2976-minimum-cost-to-convert-string-i.js)|Medium|
+2979|[Most Expensive Item That Can Not Be Bought](./solutions/2979-most-expensive-item-that-can-not-be-bought.js)|Medium|
 2980|[Check if Bitwise OR Has Trailing Zeros](./solutions/2980-check-if-bitwise-or-has-trailing-zeros.js)|Easy|
 2981|[Find Longest Special Substring That Occurs Thrice I](./solutions/2981-find-longest-special-substring-that-occurs-thrice-i.js)|Medium|
 2997|[Minimum Number of Operations to Make Array XOR Equal to K](./solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.js)|Medium|
