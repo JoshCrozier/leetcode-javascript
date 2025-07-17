@@ -18,20 +18,26 @@
  * @return {number[][]}
  */
 var kSmallestPairs = function(nums1, nums2, k) {
-  const heap = new MinPriorityQueue({ compare: (a, b) => a[0] - b[0] });
+  const minHeap = new PriorityQueue((a, b) => a[0] - b[0]);
   const result = [];
+  const visited = new Set();
 
-  for (let i = 0; i < nums1.length; i++) {
-    heap.enqueue([nums1[i] + nums2[0], 0]);
-  }
+  minHeap.enqueue([nums1[0] + nums2[0], 0, 0]);
+  visited.add('0,0');
 
-  while (k > 0 && !heap.isEmpty()) {
-    const [n, index] = heap.dequeue();
-    result.push([n - nums2[index], nums2[index]]);
-    if (index + 1 < nums2.length) {
-      heap.enqueue([n - nums2[index] + nums2[index + 1], index + 1]);
+  for (let count = 0; count < k && !minHeap.isEmpty(); count++) {
+    const [currentSum, index1, index2] = minHeap.dequeue();
+    result.push([nums1[index1], nums2[index2]]);
+
+    if (index1 + 1 < nums1.length && !visited.has(`${index1 + 1},${index2}`)) {
+      minHeap.enqueue([nums1[index1 + 1] + nums2[index2], index1 + 1, index2]);
+      visited.add(`${index1 + 1},${index2}`);
     }
-    k--;
+
+    if (index2 + 1 < nums2.length && !visited.has(`${index1},${index2 + 1}`)) {
+      minHeap.enqueue([nums1[index1] + nums2[index2 + 1], index1, index2 + 1]);
+      visited.add(`${index1},${index2 + 1}`);
+    }
   }
 
   return result;
