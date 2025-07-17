@@ -2564,6 +2564,7 @@
 3018|[Maximum Number of Removal Queries That Can Be Processed I](./solutions/3018-maximum-number-of-removal-queries-that-can-be-processed-i.js)|Hard|
 3019|[Number of Changing Keys](./solutions/3019-number-of-changing-keys.js)|Easy|
 3021|[Alice and Bob Playing Flower Game](./solutions/3021-alice-and-bob-playing-flower-game.js)|Medium|
+3023|[Find Pattern in Infinite Stream I](./solutions/3023-find-pattern-in-infinite-stream-i.js)|Medium|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
 3025|[Find the Number of Ways to Place People I](./solutions/3025-find-the-number-of-ways-to-place-people-i.js)|Medium|
 3027|[Find the Number of Ways to Place People II](./solutions/3027-find-the-number-of-ways-to-place-people-ii.js)|Hard|
