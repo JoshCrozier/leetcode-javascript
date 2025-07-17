@@ -1,4 +1,4 @@
-# 2,600+ LeetCode solutions in JavaScript
+# 2,650+ LeetCode solutions in JavaScript
 
 [https://leetcodejavascript.com](https://leetcodejavascript.com)
 
@@ -2585,6 +2585,7 @@
 3047|[Find the Largest Area of Square Inside Two Rectangles](./solutions/3047-find-the-largest-area-of-square-inside-two-rectangles.js)|Medium|
 3062|[Winner of the Linked List Game](./solutions/3062-winner-of-the-linked-list-game.js)|Easy|
 3063|[Linked List Frequency](./solutions/3063-linked-list-frequency.js)|Easy|
+3064|[Guess the Number Using Bitwise Questions I](./solutions/3064-guess-the-number-using-bitwise-questions-i.js)|Medium|
 3065|[Minimum Operations to Exceed Threshold Value I](./solutions/3065-minimum-operations-to-exceed-threshold-value-i.js)|Easy|
 3066|[Minimum Operations to Exceed Threshold Value II](./solutions/3066-minimum-operations-to-exceed-threshold-value-ii.js)|Medium|
 3067|[Count Pairs of Connectable Servers in a Weighted Tree Network](./solutions/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network.js)|Medium|
