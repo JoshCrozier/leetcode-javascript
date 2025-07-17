@@ -2613,6 +2613,7 @@
 3104|[Find Longest Self-Contained Substring](./solutions/3104-find-longest-self-contained-substring.js)|Hard|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
+3109|[Find the Index of Permutation](./solutions/3109-find-the-index-of-permutation.js)|Medium|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
 3136|[Valid Word](./solutions/3136-valid-word.js)|Easy|
 3151|[Special Array I](./solutions/3151-special-array-i.js)|Easy|
