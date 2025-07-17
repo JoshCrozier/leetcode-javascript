@@ -2604,6 +2604,7 @@
 3178|[Find the Child Who Has the Ball After K Seconds](./solutions/3178-find-the-child-who-has-the-ball-after-k-seconds.js)|Easy|
 3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./solutions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
 3201|[Find the Maximum Length of Valid Subsequence I](./solutions/3201-find-the-maximum-length-of-valid-subsequence-i.js)|Medium|
+3202|[Find the Maximum Length of Valid Subsequence II](./solutions/3202-find-the-maximum-length-of-valid-subsequence-ii.js)|Medium|
 3208|[Alternating Groups II](./solutions/3208-alternating-groups-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
