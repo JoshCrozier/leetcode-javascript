@@ -2597,6 +2597,7 @@
 3074|[Apple Redistribution into Boxes](./solutions/3074-apple-redistribution-into-boxes.js)|Easy|
 3075|[Maximize Happiness of Selected Children](./solutions/3075-maximize-happiness-of-selected-children.js)|Medium|
 3076|[Shortest Uncommon Substring in an Array](./solutions/3076-shortest-uncommon-substring-in-an-array.js)|Medium|
+3078|[Match Alphanumerical Pattern in Matrix I](./solutions/3078-match-alphanumerical-pattern-in-matrix-i.js)|Medium|
 3079|[Find the Sum of Encrypted Integers](./solutions/3079-find-the-sum-of-encrypted-integers.js)|Easy|
 3083|[Existence of a Substring in a String and Its Reverse](./solutions/3083-existence-of-a-substring-in-a-string-and-its-reverse.js)|Easy|
 3084|[Count Substrings Starting and Ending with Given Character](./solutions/3084-count-substrings-starting-and-ending-with-given-character.js)|Medium|
