@@ -2553,6 +2553,7 @@
 2998|[Minimum Number of Operations to Make X and Y Equal](./solutions/2998-minimum-number-of-operations-to-make-x-and-y-equal.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
 3002|[Maximum Size of a Set After Removals](./solutions/3002-maximum-size-of-a-set-after-removals.js)|Medium|
+3004|[Maximum Subtree of the Same Color](./solutions/3004-maximum-subtree-of-the-same-color.js)|Medium|
 3005|[Count Elements With Maximum Frequency](./solutions/3005-count-elements-with-maximum-frequency.js)|Easy|
 3010|[Divide an Array Into Subarrays With Minimum Cost I](./solutions/3010-divide-an-array-into-subarrays-with-minimum-cost-i.js)|Easy|
 3011|[Find if Array Can Be Sorted](./solutions/3011-find-if-array-can-be-sorted.js)|Medium|
