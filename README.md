@@ -2615,6 +2615,7 @@
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
 3109|[Find the Index of Permutation](./solutions/3109-find-the-index-of-permutation.js)|Medium|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
+3119|[Maximum Number of Potholes That Can Be Fixed](./solutions/3119-maximum-number-of-potholes-that-can-be-fixed.js)|Medium|
 3136|[Valid Word](./solutions/3136-valid-word.js)|Easy|
 3151|[Special Array I](./solutions/3151-special-array-i.js)|Easy|
 3160|[Find the Number of Distinct Colors Among the Balls](./solutions/3160-find-the-number-of-distinct-colors-among-the-balls.js)|Medium|
