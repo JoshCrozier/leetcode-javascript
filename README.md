@@ -2548,6 +2548,7 @@
 2979|[Most Expensive Item That Can Not Be Bought](./solutions/2979-most-expensive-item-that-can-not-be-bought.js)|Medium|
 2980|[Check if Bitwise OR Has Trailing Zeros](./solutions/2980-check-if-bitwise-or-has-trailing-zeros.js)|Easy|
 2981|[Find Longest Special Substring That Occurs Thrice I](./solutions/2981-find-longest-special-substring-that-occurs-thrice-i.js)|Medium|
+2992|[Number of Self-Divisible Permutations](./solutions/2992-number-of-self-divisible-permutations.js)|Medium|
 2997|[Minimum Number of Operations to Make Array XOR Equal to K](./solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.js)|Medium|
 2998|[Minimum Number of Operations to Make X and Y Equal](./solutions/2998-minimum-number-of-operations-to-make-x-and-y-equal.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
