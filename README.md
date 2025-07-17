@@ -2610,6 +2610,7 @@
 3097|[Shortest Subarray With OR at Least K II](./solutions/3097-shortest-subarray-with-or-at-least-k-ii.js)|Medium|
 3099|[Harshad Number](./solutions/3099-harshad-number.js)|Easy|
 3100|[Water Bottles II](./solutions/3100-water-bottles-ii.js)|Medium|
+3104|[Find Longest Self-Contained Substring](./solutions/3104-find-longest-self-contained-substring.js)|Hard|
 3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](./solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.js)|Easy|
 3108|[Minimum Cost Walk in Weighted Graph](./solutions/3108-minimum-cost-walk-in-weighted-graph.js)|Hard|
 3110|[Score of a String](./solutions/3110-score-of-a-string.js)|Easy|
