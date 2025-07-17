@@ -2538,6 +2538,7 @@
 2961|[Double Modular Exponentiation](./solutions/2961-double-modular-exponentiation.js)|Medium|
 2962|[Count Subarrays Where Max Element Appears at Least K Times](./solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.js)|Medium|
 2963|[Count the Number of Good Partitions](./solutions/2963-count-the-number-of-good-partitions.js)|Hard|
+2964|[Number of Divisible Triplet Sums](./solutions/2964-number-of-divisible-triplet-sums.js)|Medium|
 2965|[Find Missing and Repeated Values](./solutions/2965-find-missing-and-repeated-values.js)|Easy|
 2966|[Divide Array Into Arrays With Max Difference](./solutions/2966-divide-array-into-arrays-with-max-difference.js)|Medium|
 2970|[Count the Number of Incremovable Subarrays I](./solutions/2970-count-the-number-of-incremovable-subarrays-i.js)|Easy|
