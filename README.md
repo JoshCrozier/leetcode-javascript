@@ -2561,6 +2561,7 @@
 3014|[Minimum Number of Pushes to Type Word I](./solutions/3014-minimum-number-of-pushes-to-type-word-i.js)|Easy|
 3015|[Count the Number of Houses at a Certain Distance I](./solutions/3015-count-the-number-of-houses-at-a-certain-distance-i.js)|Medium|
 3016|[Minimum Number of Pushes to Type Word II](./solutions/3016-minimum-number-of-pushes-to-type-word-ii.js)|Medium|
+3018|[Maximum Number of Removal Queries That Can Be Processed I](./solutions/3018-maximum-number-of-removal-queries-that-can-be-processed-i.js)|Hard|
 3019|[Number of Changing Keys](./solutions/3019-number-of-changing-keys.js)|Easy|
 3021|[Alice and Bob Playing Flower Game](./solutions/3021-alice-and-bob-playing-flower-game.js)|Medium|
 3024|[Type of Triangle](./solutions/3024-type-of-triangle.js)|Easy|
