@@ -2530,6 +2530,7 @@
 2950|[Number of Divisible Substrings](./solutions/2950-number-of-divisible-substrings.js)|Medium|
 2951|[Find the Peaks](./solutions/2951-find-the-peaks.js)|Easy|
 2952|[Minimum Number of Coins to be Added](./solutions/2952-minimum-number-of-coins-to-be-added.js)|Medium|
+2955|[Number of Same-End Substrings](./solutions/2955-number-of-same-end-substrings.js)|Medium|
 2956|[Find Common Elements Between Two Arrays](./solutions/2956-find-common-elements-between-two-arrays.js)|Easy|
 2957|[Remove Adjacent Almost-Equal Characters](./solutions/2957-remove-adjacent-almost-equal-characters.js)|Medium|
 2958|[Length of Longest Subarray With at Most K Frequency](./solutions/2958-length-of-longest-subarray-with-at-most-k-frequency.js)|Medium|
