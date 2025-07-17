@@ -2571,6 +2571,7 @@
 3028|[Ant on the Boundary](./solutions/3028-ant-on-the-boundary.js)|Easy|
 3029|[Minimum Time to Revert Word to Initial State I](./solutions/3029-minimum-time-to-revert-word-to-initial-state-i.js)|Medium|
 3030|[Find the Grid of Region Average](./solutions/3030-find-the-grid-of-region-average.js)|Medium|
+3032|[Count Numbers With Unique Digits II](./solutions/3032-count-numbers-with-unique-digits-ii.js)|Easy|
 3033|[Modify the Matrix](./solutions/3033-modify-the-matrix.js)|Easy|
 3034|[Number of Subarrays That Match a Pattern I](./solutions/3034-number-of-subarrays-that-match-a-pattern-i.js)|Medium|
 3035|[Maximum Palindromes After Operations](./solutions/3035-maximum-palindromes-after-operations.js)|Medium|
