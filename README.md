@@ -2602,6 +2602,7 @@
 3083|[Existence of a Substring in a String and Its Reverse](./solutions/3083-existence-of-a-substring-in-a-string-and-its-reverse.js)|Easy|
 3084|[Count Substrings Starting and Ending with Given Character](./solutions/3084-count-substrings-starting-and-ending-with-given-character.js)|Medium|
 3085|[Minimum Deletions to Make String K-Special](./solutions/3085-minimum-deletions-to-make-string-k-special.js)|Medium|
+3088|[Make String Anti-palindrome](./solutions/3088-make-string-anti-palindrome.js)|Hard|
 3090|[Maximum Length Substring With Two Occurrences](./solutions/3090-maximum-length-substring-with-two-occurrences.js)|Easy|
 3091|[Apply Operations to Make Sum of Array Greater Than or Equal to k](./solutions/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k.js)|Medium|
 3095|[Shortest Subarray With OR at Least K I](./solutions/3095-shortest-subarray-with-or-at-least-k-i.js)|Easy|
