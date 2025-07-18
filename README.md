@@ -2625,6 +2625,7 @@
 3155|[Maximum Number of Upgradable Servers](./solutions/3155-maximum-number-of-upgradable-servers.js)|Medium|
 3157|[Find the Level of Tree with Minimum Sum](./solutions/3157-find-the-level-of-tree-with-minimum-sum.js)|Medium|
 3160|[Find the Number of Distinct Colors Among the Balls](./solutions/3160-find-the-number-of-distinct-colors-among-the-balls.js)|Medium|
+3167|[Better Compression of String](./solutions/3167-better-compression-of-string.js)|Medium|
 3169|[Count Days Without Meetings](./solutions/3169-count-days-without-meetings.js)|Medium|
 3170|[Lexicographically Minimum String After Removing Stars](./solutions/3170-lexicographically-minimum-string-after-removing-stars.js)|Medium|
 3174|[Clear Digits](./solutions/3174-clear-digits.js)|Easy|
