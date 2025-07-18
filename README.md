@@ -2637,6 +2637,7 @@
 3199|[Count Triplets with Even XOR Set Bits I](./solutions/3199-count-triplets-with-even-xor-set-bits-i.js)|Easy|
 3201|[Find the Maximum Length of Valid Subsequence I](./solutions/3201-find-the-maximum-length-of-valid-subsequence-i.js)|Medium|
 3202|[Find the Maximum Length of Valid Subsequence II](./solutions/3202-find-the-maximum-length-of-valid-subsequence-ii.js)|Medium|
+3205|[Maximum Array Hopping Score I](./solutions/3205-maximum-array-hopping-score-i.js)|Medium|
 3208|[Alternating Groups II](./solutions/3208-alternating-groups-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
