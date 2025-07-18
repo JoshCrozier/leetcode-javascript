@@ -2643,6 +2643,7 @@
 3221|[Maximum Array Hopping Score II](./solutions/3221-maximum-array-hopping-score-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3231|[Minimum Number of Increasing Subsequence to Be Removed](./solutions/3231-minimum-number-of-increasing-subsequence-to-be-removed.js)|Hard|
+3237|[Alt and Tab Simulation](./solutions/3237-alt-and-tab-simulation.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
