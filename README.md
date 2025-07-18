@@ -1955,6 +1955,7 @@
 2160|[Minimum Sum of Four Digit Number After Splitting Digits](./solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits.js)|Easy|
 2161|[Partition Array According to Given Pivot](./solutions/2161-partition-array-according-to-given-pivot.js)|Medium|
 2162|[Minimum Cost to Set Cooking Time](./solutions/2162-minimum-cost-to-set-cooking-time.js)|Medium|
+2163|[Minimum Difference in Sums After Removal of Elements](./solutions/2163-minimum-difference-in-sums-after-removal-of-elements.js)|Hard|
 2164|[Sort Even and Odd Indices Independently](./solutions/2164-sort-even-and-odd-indices-independently.js)|Easy|
 2165|[Smallest Value of the Rearranged Number](./solutions/2165-smallest-value-of-the-rearranged-number.js)|Medium|
 2166|[Design Bitset](./solutions/2166-design-bitset.js)|Medium|
