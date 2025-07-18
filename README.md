@@ -2622,6 +2622,7 @@
 3136|[Valid Word](./solutions/3136-valid-word.js)|Easy|
 3141|[Maximum Hamming Distances](./solutions/3141-maximum-hamming-distances.js)|Hard|
 3151|[Special Array I](./solutions/3151-special-array-i.js)|Easy|
+3155|[Maximum Number of Upgradable Servers](./solutions/3155-maximum-number-of-upgradable-servers.js)|Medium|
 3160|[Find the Number of Distinct Colors Among the Balls](./solutions/3160-find-the-number-of-distinct-colors-among-the-balls.js)|Medium|
 3169|[Count Days Without Meetings](./solutions/3169-count-days-without-meetings.js)|Medium|
 3170|[Lexicographically Minimum String After Removing Stars](./solutions/3170-lexicographically-minimum-string-after-removing-stars.js)|Medium|
