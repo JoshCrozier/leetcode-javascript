@@ -2639,6 +2639,7 @@
 3202|[Find the Maximum Length of Valid Subsequence II](./solutions/3202-find-the-maximum-length-of-valid-subsequence-ii.js)|Medium|
 3205|[Maximum Array Hopping Score I](./solutions/3205-maximum-array-hopping-score-i.js)|Medium|
 3208|[Alternating Groups II](./solutions/3208-alternating-groups-ii.js)|Medium|
+3215|[Count Triplets with Even XOR Set Bits II](./solutions/3215-count-triplets-with-even-xor-set-bits-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
