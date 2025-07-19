@@ -2658,6 +2658,7 @@
 3307|[Find the K-th Character in String Game II](./solutions/3307-find-the-k-th-character-in-string-game-ii.js)|Hard|
 3313|[Find the Last Marked Nodes in Tree](./solutions/3313-find-the-last-marked-nodes-in-tree.js)|Hard|
 3323|[Minimize Connected Groups by Inserting Interval](./solutions/3323-minimize-connected-groups-by-inserting-interval.js)|Medium|
+3329|[Count Substrings With K-Frequency Characters II](./solutions/3329-count-substrings-with-k-frequency-characters-ii.js)|Hard|
 3330|[Find the Original Typed String I](./solutions/3330-find-the-original-typed-string-i.js)|Easy|
 3333|[Find the Original Typed String II](./solutions/3333-find-the-original-typed-string-ii.js)|Hard|
 3335|[Total Characters in String After Transformations I](./solutions/3335-total-characters-in-string-after-transformations-i.js)|Medium|
