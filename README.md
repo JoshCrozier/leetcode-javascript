@@ -2650,6 +2650,7 @@
 3269|[Constructing Two Increasing Arrays](./solutions/3269-constructing-two-increasing-arrays.js)|Hard|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3279|[Maximum Total Area Occupied by Pistons](./solutions/3279-maximum-total-area-occupied-by-pistons.js)|Hard|
+3284|[Sum of Consecutive Subarrays](./solutions/3284-sum-of-consecutive-subarrays.js)|Medium|
 3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
 3307|[Find the K-th Character in String Game II](./solutions/3307-find-the-k-th-character-in-string-game-ii.js)|Hard|
