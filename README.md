@@ -2663,6 +2663,7 @@
 3333|[Find the Original Typed String II](./solutions/3333-find-the-original-typed-string-ii.js)|Hard|
 3335|[Total Characters in String After Transformations I](./solutions/3335-total-characters-in-string-after-transformations-i.js)|Medium|
 3337|[Total Characters in String After Transformations II](./solutions/3337-total-characters-in-string-after-transformations-ii.js)|Hard|
+3339|[Find the Number of K-Even Arrays](./solutions/3339-find-the-number-of-k-even-arrays.js)|Medium|
 3341|[Find Minimum Time to Reach Last Room I](./solutions/3341-find-minimum-time-to-reach-last-room-i.js)|Medium|
 3342|[Find Minimum Time to Reach Last Room II](./solutions/3342-find-minimum-time-to-reach-last-room-ii.js)|Medium|
 3343|[Count Number of Balanced Permutations](./solutions/3343-count-number-of-balanced-permutations.js)|Hard|
