@@ -2647,6 +2647,7 @@
 3247|[Number of Subsequences with Odd Sum](./solutions/3247-number-of-subsequences-with-odd-sum.js)|Medium|
 3253|[Construct String with Minimum Cost (Easy)](./solutions/3253-construct-string-with-minimum-cost-easy.js)|Medium|
 3263|[Convert Doubly Linked List to Array I](./solutions/3263-convert-doubly-linked-list-to-array-i.js)|Easy|
+3269|[Constructing Two Increasing Arrays](./solutions/3269-constructing-two-increasing-arrays.js)|Hard|
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
