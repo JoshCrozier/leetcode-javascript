@@ -2673,6 +2673,7 @@
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
 3359|[Find Sorted Submatrices With Maximum Element at Most K](./solutions/3359-find-sorted-submatrices-with-maximum-element-at-most-k.js)|Hard|
 3362|[Zero Array Transformation III](./solutions/3362-zero-array-transformation-iii.js)|Medium|
+3369|[Design an Array Statistics Tracker](./solutions/3369-design-an-array-statistics-tracker.js)|Hard|
 3372|[Maximize the Number of Target Nodes After Connecting Trees I](./solutions/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i.js)|Medium|
 3373|[Maximize the Number of Target Nodes After Connecting Trees II](./solutions/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii.js)|Hard|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
