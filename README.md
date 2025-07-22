@@ -2683,6 +2683,7 @@
 3394|[Check if Grid can be Cut into Sections](./solutions/3394-check-if-grid-can-be-cut-into-sections.js)|Medium|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./solutions/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
 3397|[Maximum Number of Distinct Elements After Operations](./solutions/3397-maximum-number-of-distinct-elements-after-operations.js)|Medium|
+3400|[Maximum Number of Matching Indices After Right Shifts](./solutions/3400-maximum-number-of-matching-indices-after-right-shifts.js)|Medium|
 3402|[Minimum Operations to Make Columns Strictly Increasing](./solutions/3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 3403|[Find the Lexicographically Largest String From the Box I](./solutions/3403-find-the-lexicographically-largest-string-from-the-box-i.js)|Medium|
 3405|[Count the Number of Arrays with K Matching Adjacent Elements](./solutions/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements.js)|Hard|
