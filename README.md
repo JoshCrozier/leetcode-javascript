@@ -2688,6 +2688,7 @@
 3402|[Minimum Operations to Make Columns Strictly Increasing](./solutions/3402-minimum-operations-to-make-columns-strictly-increasing.js)|Easy|
 3403|[Find the Lexicographically Largest String From the Box I](./solutions/3403-find-the-lexicographically-largest-string-from-the-box-i.js)|Medium|
 3405|[Count the Number of Arrays with K Matching Adjacent Elements](./solutions/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements.js)|Hard|
+3406|[Find the Lexicographically Largest String From the Box II](./solutions/3406-find-the-lexicographically-largest-string-from-the-box-ii.js)|Hard|
 3423|[Maximum Difference Between Adjacent Elements in a Circular Array](./solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.js)|Easy|
 3439|[Reschedule Meetings for Maximum Free Time I](./solutions/3439-reschedule-meetings-for-maximum-free-time-i.js)|Medium|
 3440|[Reschedule Meetings for Maximum Free Time II](./solutions/3440-reschedule-meetings-for-maximum-free-time-ii.js)|Medium|
