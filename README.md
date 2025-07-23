@@ -2679,6 +2679,7 @@
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
 3383|[Minimum Runes to Add to Cast Spell](./solutions/3383-minimum-runes-to-add-to-cast-spell.js)|Hard|
 3385|[Minimum Time to Break Locks II](./solutions/3385-minimum-time-to-break-locks-ii.js)|Hard|
+3391|[Design a 3D Binary Matrix with Efficient Layer Tracking](./solutions/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking.js)|Medium|
 3392|[Count Subarrays of Length Three With a Condition](./solutions/3392-count-subarrays-of-length-three-with-a-condition.js)|Easy|
 3394|[Check if Grid can be Cut into Sections](./solutions/3394-check-if-grid-can-be-cut-into-sections.js)|Medium|
 3396|[Minimum Number of Operations to Make Elements in Array Distinct](./solutions/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.js)|Easy|
