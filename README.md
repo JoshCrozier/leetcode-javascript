@@ -2701,6 +2701,7 @@
 3445|[Maximum Difference Between Even and Odd Frequency II](./solutions/3445-maximum-difference-between-even-and-odd-frequency-ii.js)|Hard|
 3450|[Maximum Students on a Single Bench](./solutions/3450-maximum-students-on-a-single-bench.js)|Easy|
 3452|[Sum of Good Numbers](./solutions/3452-sum-of-good-numbers.js)|Easy|
+3460|[Longest Common Prefix After at Most One Removal](./solutions/3460-longest-common-prefix-after-at-most-one-removal.js)|Medium|
 3461|[Check If Digits Are Equal in String After Operations I](./solutions/3461-check-if-digits-are-equal-in-string-after-operations-i.js)|Easy|
 3462|[Maximum Sum With at Most K Elements](./solutions/3462-maximum-sum-with-at-most-k-elements.js)|Medium|
 3463|[Check If Digits Are Equal in String After Operations II](./solutions/3463-check-if-digits-are-equal-in-string-after-operations-ii.js)|Hard|
