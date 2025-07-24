@@ -2693,6 +2693,7 @@
 3422|[Minimum Operations to Make Subarray Elements Equal](./solutions/3422-minimum-operations-to-make-subarray-elements-equal.js)|Medium|
 3423|[Maximum Difference Between Adjacent Elements in a Circular Array](./solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.js)|Easy|
 3431|[Minimum Unlocked Indices to Sort Nums](./solutions/3431-minimum-unlocked-indices-to-sort-nums.js)|Medium|
+3437|[Permutations III](./solutions/3437-permutations-iii.js)|Medium|
 3439|[Reschedule Meetings for Maximum Free Time I](./solutions/3439-reschedule-meetings-for-maximum-free-time-i.js)|Medium|
 3440|[Reschedule Meetings for Maximum Free Time II](./solutions/3440-reschedule-meetings-for-maximum-free-time-ii.js)|Medium|
 3442|[Maximum Difference Between Even and Odd Frequency I](./solutions/3442-maximum-difference-between-even-and-odd-frequency-i.js)|Easy|
