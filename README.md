@@ -2707,6 +2707,7 @@
 3463|[Check If Digits Are Equal in String After Operations II](./solutions/3463-check-if-digits-are-equal-in-string-after-operations-ii.js)|Hard|
 3464|[Maximize the Distance Between Points on a Square](./solutions/3464-maximize-the-distance-between-points-on-a-square.js)|Hard|
 3466|[Maximum Coin Collection](./solutions/3466-maximum-coin-collection.js)|Medium|
+3476|[Maximize Profit from Task Assignment](./solutions/3476-maximize-profit-from-task-assignment.js)|Medium|
 
 ## License
 
