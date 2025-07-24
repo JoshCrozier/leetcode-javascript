@@ -2710,6 +2710,7 @@
 3476|[Maximize Profit from Task Assignment](./solutions/3476-maximize-profit-from-task-assignment.js)|Medium|
 3481|[Apply Substitutions](./solutions/3481-apply-substitutions.js)|Medium|
 3491|[Phone Number Prefix](./solutions/3491-phone-number-prefix.js)|Easy|
+3496|[Maximize Score After Pair Deletions](./solutions/3496-maximize-score-after-pair-deletions.js)|Medium|
 
 ## License
 
