@@ -1879,6 +1879,7 @@
 2069|[Walking Robot Simulation II](./solutions/2069-walking-robot-simulation-ii.js)|Medium|
 2070|[Most Beautiful Item for Each Query](./solutions/2070-most-beautiful-item-for-each-query.js)|Medium|
 2071|[Maximum Number of Tasks You Can Assign](./solutions/2071-maximum-number-of-tasks-you-can-assign.js)|Hard|
+2073|[Time Needed to Buy Tickets](./solutions/2073-time-needed-to-buy-tickets.js)|Easy|
 2074|[Reverse Nodes in Even Length Groups](./solutions/2074-reverse-nodes-in-even-length-groups.js)|Medium|
 2075|[Decode the Slanted Ciphertext](./solutions/2075-decode-the-slanted-ciphertext.js)|Medium|
 2076|[Process Restricted Friend Requests](./solutions/2076-process-restricted-friend-requests.js)|Hard|
