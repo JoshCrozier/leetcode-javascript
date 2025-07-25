@@ -1862,6 +1862,7 @@
 2050|[Parallel Courses III](./solutions/2050-parallel-courses-iii.js)|Hard|
 2052|[Minimum Cost to Separate Sentence Into Rows](./solutions/2052-minimum-cost-to-separate-sentence-into-rows.js)|Medium|
 2053|[Kth Distinct String in an Array](./solutions/2053-kth-distinct-string-in-an-array.js)|Medium|
+2054|[Two Best Non-Overlapping Events](./solutions/2054-two-best-non-overlapping-events.js)|Medium|
 2055|[Plates Between Candles](./solutions/2055-plates-between-candles.js)|Medium|
 2056|[Number of Valid Move Combinations On Chessboard](./solutions/2056-number-of-valid-move-combinations-on-chessboard.js)|Hard|
 2057|[Smallest Index With Equal Value](./solutions/2057-smallest-index-with-equal-value.js)|Easy|
