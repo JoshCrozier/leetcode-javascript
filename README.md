@@ -2712,6 +2712,7 @@
 3487|[Maximum Unique Subarray Sum After Deletion](./solutions/3487-maximum-unique-subarray-sum-after-deletion.js)|Easy|
 3491|[Phone Number Prefix](./solutions/3491-phone-number-prefix.js)|Easy|
 3496|[Maximize Score After Pair Deletions](./solutions/3496-maximize-score-after-pair-deletions.js)|Medium|
+3506|[Find Time Required to Eliminate Bacterial Strains](./solutions/3506-find-time-required-to-eliminate-bacterial-strains.js)|Hard|
 
 ## License
 
