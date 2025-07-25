@@ -1763,6 +1763,7 @@
 1938|[Maximum Genetic Difference Query](./solutions/1938-maximum-genetic-difference-query.js)|Hard|
 1940|[Longest Common Subsequence Between Sorted Arrays](./solutions/1940-longest-common-subsequence-between-sorted-arrays.js)|Medium|
 1941|[Check if All Characters Have Equal Number of Occurrences](./solutions/1941-check-if-all-characters-have-equal-number-of-occurrences.js)|Easy|
+1942|[The Number of the Smallest Unoccupied Chair](./solutions/1942-the-number-of-the-smallest-unoccupied-chair.js)|Medium|
 1943|[Describe the Painting](./solutions/1943-describe-the-painting.js)|Medium|
 1944|[Number of Visible People in a Queue](./solutions/1944-number-of-visible-people-in-a-queue.js)|Hard|
 1945|[Sum of Digits of String After Convert](./solutions/1945-sum-of-digits-of-string-after-convert.js)|Easy|
