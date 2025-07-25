@@ -2713,6 +2713,7 @@
 3491|[Phone Number Prefix](./solutions/3491-phone-number-prefix.js)|Easy|
 3496|[Maximize Score After Pair Deletions](./solutions/3496-maximize-score-after-pair-deletions.js)|Medium|
 3506|[Find Time Required to Eliminate Bacterial Strains](./solutions/3506-find-time-required-to-eliminate-bacterial-strains.js)|Hard|
+3511|[Make a Positive Array](./solutions/3511-make-a-positive-array.js)|Medium|
 
 ## License
 
