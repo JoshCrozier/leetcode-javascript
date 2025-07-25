@@ -1781,6 +1781,7 @@
 1959|[Minimum Total Space Wasted With K Resizing Operations](./solutions/1959-minimum-total-space-wasted-with-k-resizing-operations.js)|Medium|
 1960|[Maximum Product of the Length of Two Palindromic Substrings](./solutions/1960-maximum-product-of-the-length-of-two-palindromic-substrings.js)|Hard|
 1961|[Check If String Is a Prefix of Array](./solutions/1961-check-if-string-is-a-prefix-of-array.js)|Easy|
+1962|[Remove Stones to Minimize the Total](./solutions/1962-remove-stones-to-minimize-the-total.js)|Medium|
 1963|[Minimum Number of Swaps to Make the String Balanced](./solutions/1963-minimum-number-of-swaps-to-make-the-string-balanced.js)|Medium|
 1964|[Find the Longest Valid Obstacle Course at Each Position](./solutions/1964-find-the-longest-valid-obstacle-course-at-each-position.js)|Hard|
 1966|[Binary Searchable Numbers in an Unsorted Array](./solutions/1966-binary-searchable-numbers-in-an-unsorted-array.js)|Medium|
