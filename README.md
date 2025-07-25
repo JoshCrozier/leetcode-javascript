@@ -1844,6 +1844,7 @@
 2031|[Count Subarrays With More Ones Than Zeros](./solutions/2031-count-subarrays-with-more-ones-than-zeros.js)|Medium|
 2032|[Two Out of Three](./solutions/2032-two-out-of-three.js)|Easy|
 2033|[Minimum Operations to Make a Uni-Value Grid](./solutions/2033-minimum-operations-to-make-a-uni-value-grid.js)|Medium|
+2034|[Stock Price Fluctuation](./solutions/2034-stock-price-fluctuation.js)|Medium|
 2035|[Partition Array Into Two Arrays to Minimize Sum Difference](./solutions/2035-partition-array-into-two-arrays-to-minimize-sum-difference.js)|Hard|
 2036|[Maximum Alternating Subarray Sum](./solutions/2036-maximum-alternating-subarray-sum.js)|Medium|
 2037|[Minimum Number of Moves to Seat Everyone](./solutions/2037-minimum-number-of-moves-to-seat-everyone.js)|Easy|
