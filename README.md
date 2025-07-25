@@ -2715,6 +2715,7 @@
 3506|[Find Time Required to Eliminate Bacterial Strains](./solutions/3506-find-time-required-to-eliminate-bacterial-strains.js)|Hard|
 3511|[Make a Positive Array](./solutions/3511-make-a-positive-array.js)|Medium|
 3520|[Minimum Threshold for Inversion Pairs Count](./solutions/3520-minimum-threshold-for-inversion-pairs-count.js)|Medium|
+3535|[Unit Conversion II](./solutions/3535-unit-conversion-ii.js)|Medium|
 
 ## License
 
