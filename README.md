@@ -2714,6 +2714,7 @@
 3496|[Maximize Score After Pair Deletions](./solutions/3496-maximize-score-after-pair-deletions.js)|Medium|
 3506|[Find Time Required to Eliminate Bacterial Strains](./solutions/3506-find-time-required-to-eliminate-bacterial-strains.js)|Hard|
 3511|[Make a Positive Array](./solutions/3511-make-a-positive-array.js)|Medium|
+3520|[Minimum Threshold for Inversion Pairs Count](./solutions/3520-minimum-threshold-for-inversion-pairs-count.js)|Medium|
 
 ## License
 
