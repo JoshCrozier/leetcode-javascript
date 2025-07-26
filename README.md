@@ -1947,6 +1947,7 @@
 2143|[Choose Numbers From Two Arrays in Range](./solutions/2143-choose-numbers-from-two-arrays-in-range.js)|Hard|
 2144|[Minimum Cost of Buying Candies With Discount](./solutions/2144-minimum-cost-of-buying-candies-with-discount.js)|Easy|
 2145|[Count the Hidden Sequences](./solutions/2145-count-the-hidden-sequences.js)|Medium|
+2146|[K Highest Ranked Items Within a Price Range](./solutions/2146-k-highest-ranked-items-within-a-price-range.js)|Medium|
 2147|[Number of Ways to Divide a Long Corridor](./solutions/2147-number-of-ways-to-divide-a-long-corridor.js)|Hard|
 2148|[Count Elements With Strictly Smaller and Greater Elements](./solutions/2148-count-elements-with-strictly-smaller-and-greater-elements.js)|Easy|
 2149|[Rearrange Array Elements by Sign](./solutions/2149-rearrange-array-elements-by-sign.js)|Medium|
