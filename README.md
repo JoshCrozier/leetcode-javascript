@@ -1906,6 +1906,7 @@
 2099|[Find Subsequence of Length K With the Largest Sum](./solutions/2099-find-subsequence-of-length-k-with-the-largest-sum.js)|Medium|
 2100|[Find Good Days to Rob the Bank](./solutions/2100-find-good-days-to-rob-the-bank.js)|Medium|
 2101|[Detonate the Maximum Bombs](./solutions/2101-detonate-the-maximum-bombs.js)|Medium|
+2102|[Sequentially Ordinal Rank Tracker](./solutions/2102-sequentially-ordinal-rank-tracker.js)|Hard|
 2103|[Rings and Rods](./solutions/2103-rings-and-rods.js)|Easy|
 2104|[Sum of Subarray Ranges](./solutions/2104-sum-of-subarray-ranges.js)|Medium|
 2105|[Watering Plants II](./solutions/2105-watering-plants-ii.js)|Medium|
