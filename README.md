@@ -2003,6 +2003,7 @@
 2204|[Distance to a Cycle in Undirected Graph](./solutions/2204-distance-to-a-cycle-in-undirected-graph.js)|Hard|
 2206|[Divide Array Into Equal Pairs](./solutions/2206-divide-array-into-equal-pairs.js)|Easy|
 2207|[Maximize Number of Subsequences in a String](./solutions/2207-maximize-number-of-subsequences-in-a-string.js)|Medium|
+2208|[Minimum Operations to Halve Array Sum](./solutions/2208-minimum-operations-to-halve-array-sum.js)|Medium|
 2209|[Minimum White Tiles After Covering With Carpets](./solutions/2209-minimum-white-tiles-after-covering-with-carpets.js)|Hard|
 2210|[Count Hills and Valleys in an Array](./solutions/2210-count-hills-and-valleys-in-an-array.js)|Easy|
 2211|[Count Collisions on a Road](./solutions/2211-count-collisions-on-a-road.js)|Medium|
