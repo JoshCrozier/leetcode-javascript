@@ -2713,6 +2713,7 @@
 3464|[Maximize the Distance Between Points on a Square](./solutions/3464-maximize-the-distance-between-points-on-a-square.js)|Hard|
 3466|[Maximum Coin Collection](./solutions/3466-maximum-coin-collection.js)|Medium|
 3476|[Maximize Profit from Task Assignment](./solutions/3476-maximize-profit-from-task-assignment.js)|Medium|
+3480|[Maximize Subarrays After Removing One Conflicting Pair](./solutions/3480-maximize-subarrays-after-removing-one-conflicting-pair.js)|Hard|
 3481|[Apply Substitutions](./solutions/3481-apply-substitutions.js)|Medium|
 3487|[Maximum Unique Subarray Sum After Deletion](./solutions/3487-maximum-unique-subarray-sum-after-deletion.js)|Easy|
 3491|[Phone Number Prefix](./solutions/3491-phone-number-prefix.js)|Easy|
