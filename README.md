@@ -2026,6 +2026,7 @@
 2229|[Check if an Array Is Consecutive](./solutions/2229-check-if-an-array-is-consecutive.js)|Easy|
 2231|[Largest Number After Digit Swaps by Parity](./solutions/2231-largest-number-after-digit-swaps-by-parity.js)|Easy|
 2232|[Minimize Result by Adding Parentheses to Expression](./solutions/2232-minimize-result-by-adding-parentheses-to-expression.js)|Medium|
+2233|[Maximum Product After K Increments](./solutions/2233-maximum-product-after-k-increments.js)|Medium|
 2234|[Maximum Total Beauty of the Gardens](./solutions/2234-maximum-total-beauty-of-the-gardens.js)|Hard|
 2235|[Add Two Integers](./solutions/2235-add-two-integers.js)|Easy|
 2236|[Root Equals Sum of Children](./solutions/2236-root-equals-sum-of-children.js)|Easy|
