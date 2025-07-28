@@ -2066,6 +2066,7 @@
 2273|[Find Resultant Array After Removing Anagrams](./solutions/2273-find-resultant-array-after-removing-anagrams.js)|Easy|
 2274|[Maximum Consecutive Floors Without Special Floors](./solutions/2274-maximum-consecutive-floors-without-special-floors.js)|Medium|
 2275|[Largest Combination With Bitwise AND Greater Than Zero](./solutions/2275-largest-combination-with-bitwise-and-greater-than-zero.js)|Medium|
+2276|[Count Integers in Intervals](./solutions/2276-count-integers-in-intervals.js)|Hard|
 2277|[Closest Node to Path in Tree](./solutions/2277-closest-node-to-path-in-tree.js)|Hard|
 2278|[Percentage of Letter in String](./solutions/2278-percentage-of-letter-in-string.js)|Easy|
 2279|[Maximum Bags With Full Capacity of Rocks](./solutions/2279-maximum-bags-with-full-capacity-of-rocks.js)|Medium|
