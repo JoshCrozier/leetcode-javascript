@@ -2075,6 +2075,7 @@
 2282|[Number of People That Can Be Seen in a Grid](./solutions/2282-number-of-people-that-can-be-seen-in-a-grid.js)|Medium|
 2283|[Check if Number Has Equal Digit Count and Digit Value](./solutions/2283-check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
 2284|[Sender With Largest Word Count](./solutions/2284-sender-with-largest-word-count.js)|Medium|
+2285|[Maximum Total Importance of Roads](./solutions/2285-maximum-total-importance-of-roads.js)|Medium|
 2287|[Rearrange Characters to Make Target String](./solutions/2287-rearrange-characters-to-make-target-string.js)|Easy|
 2288|[Apply Discount to Prices](./solutions/2288-apply-discount-to-prices.js)|Medium|
 2291|[Maximum Profit From Trading Stocks](./solutions/2291-maximum-profit-from-trading-stocks.js)|Medium|
