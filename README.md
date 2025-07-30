@@ -2112,6 +2112,7 @@
 2323|[Find Minimum Time to Finish All Jobs II](./solutions/2323-find-minimum-time-to-finish-all-jobs-ii.js)|Medium|
 2325|[Decode the Message](./solutions/2325-decode-the-message.js)|Easy|
 2326|[Spiral Matrix IV](./solutions/2326-spiral-matrix-iv.js)|Medium|
+2327|[Number of People Aware of a Secret](./solutions/2327-number-of-people-aware-of-a-secret.js)|Medium|
 2328|[Number of Increasing Paths in a Grid](./solutions/2328-number-of-increasing-paths-in-a-grid.js)|Hard|
 2330|[Valid Palindrome IV](./solutions/2330-valid-palindrome-iv.js)|Medium|
 2331|[Evaluate Boolean Binary Tree](./solutions/2331-evaluate-boolean-binary-tree.js)|Easy|
