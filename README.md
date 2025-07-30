@@ -2080,6 +2080,7 @@
 2287|[Rearrange Characters to Make Target String](./solutions/2287-rearrange-characters-to-make-target-string.js)|Easy|
 2288|[Apply Discount to Prices](./solutions/2288-apply-discount-to-prices.js)|Medium|
 2289|[Steps to Make Array Non-decreasing](./solutions/2289-steps-to-make-array-non-decreasing.js)|Medium|
+2290|[Minimum Obstacle Removal to Reach Corner](./solutions/2290-minimum-obstacle-removal-to-reach-corner.js)|Hard|
 2291|[Maximum Profit From Trading Stocks](./solutions/2291-maximum-profit-from-trading-stocks.js)|Medium|
 2293|[Min Max Game](./solutions/2293-min-max-game.js)|Easy|
 2294|[Partition Array Such That Maximum Difference Is K](./solutions/2294-partition-array-such-that-maximum-difference-is-k.js)|Medium|
