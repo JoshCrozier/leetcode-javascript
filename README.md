@@ -2117,6 +2117,7 @@
 2330|[Valid Palindrome IV](./solutions/2330-valid-palindrome-iv.js)|Medium|
 2331|[Evaluate Boolean Binary Tree](./solutions/2331-evaluate-boolean-binary-tree.js)|Easy|
 2334|[Subarray With Elements Greater Than Varying Threshold](./solutions/2334-subarray-with-elements-greater-than-varying-threshold.js)|Hard|
+2335|[Minimum Amount of Time to Fill Cups](./solutions/2335-minimum-amount-of-time-to-fill-cups.js)|Easy|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
 2337|[Move Pieces to Obtain a String](./solutions/2337-move-pieces-to-obtain-a-string.js)|Medium|
 2338|[Count the Number of Ideal Arrays](./solutions/2338-count-the-number-of-ideal-arrays.js)|Hard|
