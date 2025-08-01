@@ -2116,6 +2116,7 @@
 2328|[Number of Increasing Paths in a Grid](./solutions/2328-number-of-increasing-paths-in-a-grid.js)|Hard|
 2330|[Valid Palindrome IV](./solutions/2330-valid-palindrome-iv.js)|Medium|
 2331|[Evaluate Boolean Binary Tree](./solutions/2331-evaluate-boolean-binary-tree.js)|Easy|
+2332|[The Latest Time to Catch a Bus](./solutions/2332-the-latest-time-to-catch-a-bus.js)|Medium|
 2334|[Subarray With Elements Greater Than Varying Threshold](./solutions/2334-subarray-with-elements-greater-than-varying-threshold.js)|Hard|
 2335|[Minimum Amount of Time to Fill Cups](./solutions/2335-minimum-amount-of-time-to-fill-cups.js)|Easy|
 2336|[Smallest Number in Infinite Set](./solutions/2336-smallest-number-in-infinite-set.js)|Medium|
