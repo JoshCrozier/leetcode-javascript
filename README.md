@@ -2127,6 +2127,7 @@
 2341|[Maximum Number of Pairs in Array](./solutions/2341-maximum-number-of-pairs-in-array.js)|Easy|
 2342|[Max Sum of a Pair With Equal Sum of Digits](./solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits.js)|Medium|
 2343|[Query Kth Smallest Trimmed Number](./solutions/2343-query-kth-smallest-trimmed-number.js)|Medium|
+2344|[Minimum Deletions to Make Array Divisible](./solutions/2344-minimum-deletions-to-make-array-divisible.js)|Hard|
 2345|[Finding the Number of Visible Mountains](./solutions/2345-finding-the-number-of-visible-mountains.js)|Medium|
 2347|[Best Poker Hand](./solutions/2347-best-poker-hand.js)|Easy|
 2348|[Number of Zero-Filled Subarrays](./solutions/2348-number-of-zero-filled-subarrays.js)|Medium|
