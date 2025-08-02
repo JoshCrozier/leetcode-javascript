@@ -2298,6 +2298,7 @@
 2557|[Maximum Number of Integers to Choose From a Range II](./solutions/2557-maximum-number-of-integers-to-choose-from-a-range-ii.js)|Medium|
 2559|[Count Vowel Strings in Ranges](./solutions/2559-count-vowel-strings-in-ranges.js)|Medium|
 2560|[House Robber IV](./solutions/2560-house-robber-iv.js)|Medium|
+2561|[Rearranging Fruits](./solutions/2561-rearranging-fruits.js)|Hard|
 2562|[Find the Array Concatenation Value](./solutions/2562-find-the-array-concatenation-value.js)|Easy|
 2563|[Count the Number of Fair Pairs](./solutions/2563-count-the-number-of-fair-pairs.js)|Medium|
 2566|[Maximum Difference by Remapping a Digit](./solutions/2566-maximum-difference-by-remapping-a-digit.js)|Easy|
