@@ -2138,6 +2138,7 @@
 2353|[Design a Food Rating System](./solutions/2353-design-a-food-rating-system.js)|Medium|
 2354|[Number of Excellent Pairs](./solutions/2354-number-of-excellent-pairs.js)|Hard|
 2355|[Maximum Number of Books You Can Take](./solutions/2355-maximum-number-of-books-you-can-take.js)|Hard|
+2357|[Make Array Zero by Subtracting Equal Amounts](./solutions/2357-make-array-zero-by-subtracting-equal-amounts.js)|Easy|
 2358|[Maximum Number of Groups Entering a Competition](./solutions/2358-maximum-number-of-groups-entering-a-competition.js)|Medium|
 2359|[Find Closest Node to Given Two Nodes](./solutions/2359-find-closest-node-to-given-two-nodes.js)|Medium|
 2360|[Longest Cycle in a Graph](./solutions/2360-longest-cycle-in-a-graph.js)|Hard|
