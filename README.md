@@ -2162,6 +2162,7 @@
 2381|[Shifting Letters II](./solutions/2381-shifting-letters-ii.js)|Medium|
 2382|[Maximum Segment Sum After Removals](./solutions/2382-maximum-segment-sum-after-removals.js)|Hard|
 2383|[Minimum Hours of Training to Win a Competition](./solutions/2383-minimum-hours-of-training-to-win-a-competition.js)|Easy|
+2384|[Largest Palindromic Number](./solutions/2384-largest-palindromic-number.js)|Medium|
 2385|[Amount of Time for Binary Tree to Be Infected](./solutions/2385-amount-of-time-for-binary-tree-to-be-infected.js)|Medium|
 2387|[Median of a Row Wise Sorted Matrix](./solutions/2387-median-of-a-row-wise-sorted-matrix.js)|Medium|
 2389|[Longest Subsequence With Limited Sum](./solutions/2389-longest-subsequence-with-limited-sum.js)|Easy|
