@@ -2737,6 +2737,7 @@
 3466|[Maximum Coin Collection](./solutions/3466-maximum-coin-collection.js)|Medium|
 3476|[Maximize Profit from Task Assignment](./solutions/3476-maximize-profit-from-task-assignment.js)|Medium|
 3477|[Fruits Into Baskets II](./solutions/3477-fruits-into-baskets-ii.js)|Easy|
+3479|[Fruits Into Baskets III](./solutions/3479-fruits-into-baskets-iii.js)|Medium|
 3480|[Maximize Subarrays After Removing One Conflicting Pair](./solutions/3480-maximize-subarrays-after-removing-one-conflicting-pair.js)|Hard|
 3481|[Apply Substitutions](./solutions/3481-apply-substitutions.js)|Medium|
 3487|[Maximum Unique Subarray Sum After Deletion](./solutions/3487-maximum-unique-subarray-sum-after-deletion.js)|Easy|
