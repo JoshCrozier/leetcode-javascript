@@ -2463,6 +2463,7 @@
 2782|[Number of Unique Categories](./solutions/2782-number-of-unique-categories.js)|Medium|
 2784|[Check if Array is Good](./solutions/2784-check-if-array-is-good.js)|Easy|
 2785|[Sort Vowels in a String](./solutions/2785-sort-vowels-in-a-string.js)|Medium|
+2787|[Ways to Express an Integer as Sum of Powers](./solutions/2787-ways-to-express-an-integer-as-sum-of-powers.js)|Medium|
 2788|[Split Strings by Separator](./solutions/2788-split-strings-by-separator.js)|Easy|
 2789|[Largest Element in an Array after Merge Operations](./solutions/2789-largest-element-in-an-array-after-merge-operations.js)|Medium|
 2791|[Count Paths That Can Form a Palindrome in a Tree](./solutions/2791-count-paths-that-can-form-a-palindrome-in-a-tree.js)|Hard|
