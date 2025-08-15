@@ -2174,6 +2174,7 @@
 2395|[Find Subarrays With Equal Sum](./solutions/2395-find-subarrays-with-equal-sum.js)|Easy|
 2396|[Strictly Palindromic Number](./solutions/2396-strictly-palindromic-number.js)|Medium|
 2397|[Maximum Rows Covered by Columns](./solutions/2397-maximum-rows-covered-by-columns.js)|Medium|
+2398|[Maximum Number of Robots Within Budget](./solutions/2398-maximum-number-of-robots-within-budget.js)|Hard|
 2399|[Check Distances Between Same Letters](./solutions/2399-check-distances-between-same-letters.js)|Easy|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2402|[Meeting Rooms III](./solutions/2402-meeting-rooms-iii.js)|Hard|
