@@ -2182,6 +2182,7 @@
 2403|[Minimum Time to Kill All Monsters](./solutions/2403-minimum-time-to-kill-all-monsters.js)|Hard|
 2404|[Most Frequent Even Element](./solutions/2404-most-frequent-even-element.js)|Easy|
 2405|[Optimal Partition of String](./solutions/2405-optimal-partition-of-string.js)|Medium|
+2406|[Divide Intervals Into Minimum Number of Groups](./solutions/2406-divide-intervals-into-minimum-number-of-groups.js)|Medium|
 2408|[Design SQL](./solutions/2408-design-sql.js)|Medium|
 2409|[Count Days Spent Together](./solutions/2409-count-days-spent-together.js)|Easy|
 2410|[Maximum Matching of Players With Trainers](./solutions/2410-maximum-matching-of-players-with-trainers.js)|Medium|
