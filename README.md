@@ -2176,6 +2176,7 @@
 2397|[Maximum Rows Covered by Columns](./solutions/2397-maximum-rows-covered-by-columns.js)|Medium|
 2398|[Maximum Number of Robots Within Budget](./solutions/2398-maximum-number-of-robots-within-budget.js)|Hard|
 2399|[Check Distances Between Same Letters](./solutions/2399-check-distances-between-same-letters.js)|Easy|
+2400|[Number of Ways to Reach a Position After Exactly k Steps](./solutions/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps.js)|Medium|
 2401|[Longest Nice Subarray](./solutions/2401-longest-nice-subarray.js)|Medium|
 2402|[Meeting Rooms III](./solutions/2402-meeting-rooms-iii.js)|Hard|
 2403|[Minimum Time to Kill All Monsters](./solutions/2403-minimum-time-to-kill-all-monsters.js)|Hard|
