@@ -2274,6 +2274,7 @@
 2509|[Cycle Length Queries in a Tree](./solutions/2509-cycle-length-queries-in-a-tree.js)|Hard|
 2510|[Check if There is a Path With Equal Number of 0's And 1's](./solutions/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s.js)|Medium|
 2511|[Maximum Enemy Forts That Can Be Captured](./solutions/2511-maximum-enemy-forts-that-can-be-captured.js)|Easy|
+2512|[Reward Top K Students](./solutions/2512-reward-top-k-students.js)|Medium|
 2515|[Shortest Distance to Target String in a Circular Array](./solutions/2515-shortest-distance-to-target-string-in-a-circular-array.js)|Easy|
 2516|[Take K of Each Character From Left and Right](./solutions/2516-take-k-of-each-character-from-left-and-right.js)|Medium|
 2517|[Maximum Tastiness of Candy Basket](./solutions/2517-maximum-tastiness-of-candy-basket.js)|Medium|
