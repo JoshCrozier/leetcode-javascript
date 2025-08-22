@@ -2667,6 +2667,7 @@
 3183|[The Number of Ways to Make the Sum](./solutions/3183-the-number-of-ways-to-make-the-sum.js)|Medium|
 3189|[Minimum Moves to Get a Peaceful Board](./solutions/3189-minimum-moves-to-get-a-peaceful-board.js)|Medium|
 3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./solutions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
+3195|[Find the Minimum Area to Cover All Ones I](./solutions/3195-find-the-minimum-area-to-cover-all-ones-i.js)|Medium|
 3199|[Count Triplets with Even XOR Set Bits I](./solutions/3199-count-triplets-with-even-xor-set-bits-i.js)|Easy|
 3201|[Find the Maximum Length of Valid Subsequence I](./solutions/3201-find-the-maximum-length-of-valid-subsequence-i.js)|Medium|
 3202|[Find the Maximum Length of Valid Subsequence II](./solutions/3202-find-the-maximum-length-of-valid-subsequence-ii.js)|Medium|
