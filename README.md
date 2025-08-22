@@ -2264,6 +2264,7 @@
 2496|[Maximum Value of a String in an Array](./solutions/2496-maximum-value-of-a-string-in-an-array.js)|Easy|
 2498|[Frog Jump II](./solutions/2498-frog-jump-ii.js)|Medium|
 2499|[Minimum Total Cost to Make Arrays Unequal](./solutions/2499-minimum-total-cost-to-make-arrays-unequal.js)|Hard|
+2500|[Delete Greatest Value in Each Row](./solutions/2500-delete-greatest-value-in-each-row.js)|Easy|
 2501|[Longest Square Streak in an Array](./solutions/2501-longest-square-streak-in-an-array.js)|Medium|
 2502|[Design Memory Allocator](./solutions/2502-design-memory-allocator.js)|Medium|
 2503|[Maximum Number of Points From Grid Queries](./solutions/2503-maximum-number-of-points-from-grid-queries.js)|Hard|
