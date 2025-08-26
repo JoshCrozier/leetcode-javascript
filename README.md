@@ -2589,6 +2589,7 @@
 2997|[Minimum Number of Operations to Make Array XOR Equal to K](./solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.js)|Medium|
 2998|[Minimum Number of Operations to Make X and Y Equal](./solutions/2998-minimum-number-of-operations-to-make-x-and-y-equal.js)|Medium|
 2999|[Count the Number of Powerful Integers](./solutions/2999-count-the-number-of-powerful-integers.js)|Hard|
+3000|[Maximum Area of Longest Diagonal Rectangle](./solutions/3000-maximum-area-of-longest-diagonal-rectangle.js)|Easy|
 3002|[Maximum Size of a Set After Removals](./solutions/3002-maximum-size-of-a-set-after-removals.js)|Medium|
 3004|[Maximum Subtree of the Same Color](./solutions/3004-maximum-subtree-of-the-same-color.js)|Medium|
 3005|[Count Elements With Maximum Frequency](./solutions/3005-count-elements-with-maximum-frequency.js)|Easy|
