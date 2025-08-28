@@ -2739,6 +2739,7 @@
 3442|[Maximum Difference Between Even and Odd Frequency I](./solutions/3442-maximum-difference-between-even-and-odd-frequency-i.js)|Easy|
 3443|[Maximum Manhattan Distance After K Changes](./solutions/3443-maximum-manhattan-distance-after-k-changes.js)|Medium|
 3445|[Maximum Difference Between Even and Odd Frequency II](./solutions/3445-maximum-difference-between-even-and-odd-frequency-ii.js)|Hard|
+3446|[Sort Matrix by Diagonals](./solutions/3446-sort-matrix-by-diagonals.js)|Medium|
 3450|[Maximum Students on a Single Bench](./solutions/3450-maximum-students-on-a-single-bench.js)|Easy|
 3452|[Sum of Good Numbers](./solutions/3452-sum-of-good-numbers.js)|Easy|
 3460|[Longest Common Prefix After at Most One Removal](./solutions/3460-longest-common-prefix-after-at-most-one-removal.js)|Medium|
