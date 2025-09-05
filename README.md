@@ -2446,6 +2446,7 @@
 2744|[Find Maximum Number of String Pairs](./solutions/2744-find-maximum-number-of-string-pairs.js)|Easy|
 2745|[Construct the Longest New String](./solutions/2745-construct-the-longest-new-string.js)|Medium|
 2748|[Number of Beautiful Pairs](./solutions/2748-number-of-beautiful-pairs.js)|Easy|
+2749|[Minimum Operations to Make the Integer Zero](./solutions/2749-minimum-operations-to-make-the-integer-zero.js)|Medium|
 2751|[Robot Collisions](./solutions/2751-robot-collisions.js)|Hard|
 2753|[Count Houses in a Circular Street II](./solutions/2753-count-houses-in-a-circular-street-ii.js)|Hard|
 2754|[Bind Function to Context](./solutions/2754-bind-function-to-context.js)|Medium|
