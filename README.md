@@ -2683,6 +2683,7 @@
 3215|[Count Triplets with Even XOR Set Bits II](./solutions/3215-count-triplets-with-even-xor-set-bits-ii.js)|Medium|
 3221|[Maximum Array Hopping Score II](./solutions/3221-maximum-array-hopping-score-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
+3227|[Vowels Game in a String](./solutions/3227-vowels-game-in-a-string.js)|Medium|
 3231|[Minimum Number of Increasing Subsequence to Be Removed](./solutions/3231-minimum-number-of-increasing-subsequence-to-be-removed.js)|Hard|
 3237|[Alt and Tab Simulation](./solutions/3237-alt-and-tab-simulation.js)|Medium|
 3247|[Number of Subsequences with Odd Sum](./solutions/3247-number-of-subsequences-with-odd-sum.js)|Medium|
