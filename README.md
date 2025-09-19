@@ -2732,6 +2732,7 @@
 3403|[Find the Lexicographically Largest String From the Box I](./solutions/3403-find-the-lexicographically-largest-string-from-the-box-i.js)|Medium|
 3405|[Count the Number of Arrays with K Matching Adjacent Elements](./solutions/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements.js)|Hard|
 3406|[Find the Lexicographically Largest String From the Box II](./solutions/3406-find-the-lexicographically-largest-string-from-the-box-ii.js)|Hard|
+3408|[Design Task Manager](./solutions/3408-design-task-manager.js)|Medium|
 3416|[Subsequences with a Unique Middle Mode II](./solutions/3416-subsequences-with-a-unique-middle-mode-ii.js)|Hard|
 3422|[Minimum Operations to Make Subarray Elements Equal](./solutions/3422-minimum-operations-to-make-subarray-elements-equal.js)|Medium|
 3423|[Maximum Difference Between Adjacent Elements in a Circular Array](./solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.js)|Easy|
