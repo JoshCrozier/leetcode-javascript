@@ -2757,6 +2757,7 @@
 3479|[Fruits Into Baskets III](./solutions/3479-fruits-into-baskets-iii.js)|Medium|
 3480|[Maximize Subarrays After Removing One Conflicting Pair](./solutions/3480-maximize-subarrays-after-removing-one-conflicting-pair.js)|Hard|
 3481|[Apply Substitutions](./solutions/3481-apply-substitutions.js)|Medium|
+3484|[Design Spreadsheet](./solutions/3484-design-spreadsheet.js)|Medium|
 3487|[Maximum Unique Subarray Sum After Deletion](./solutions/3487-maximum-unique-subarray-sum-after-deletion.js)|Easy|
 3491|[Phone Number Prefix](./solutions/3491-phone-number-prefix.js)|Easy|
 3495|[Minimum Operations to Make Array Elements Zero](./solutions/3495-minimum-operations-to-make-array-elements-zero.js)|Hard|
