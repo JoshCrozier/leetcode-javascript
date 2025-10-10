@@ -2660,6 +2660,7 @@
 3135|[Equalize Strings by Adding or Removing Characters at Ends](./solutions/3135-equalize-strings-by-adding-or-removing-characters-at-ends.js)|Medium|
 3136|[Valid Word](./solutions/3136-valid-word.js)|Easy|
 3141|[Maximum Hamming Distances](./solutions/3141-maximum-hamming-distances.js)|Hard|
+3147|[Taking Maximum Energy From the Mystic Dungeon](./solutions/3147-taking-maximum-energy-from-the-mystic-dungeon.js)|Medium|
 3151|[Special Array I](./solutions/3151-special-array-i.js)|Easy|
 3155|[Maximum Number of Upgradable Servers](./solutions/3155-maximum-number-of-upgradable-servers.js)|Medium|
 3157|[Find the Level of Tree with Minimum Sum](./solutions/3157-find-the-level-of-tree-with-minimum-sum.js)|Medium|
