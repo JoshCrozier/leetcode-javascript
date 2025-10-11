@@ -2672,6 +2672,7 @@
 3174|[Clear Digits](./solutions/3174-clear-digits.js)|Easy|
 3178|[Find the Child Who Has the Ball After K Seconds](./solutions/3178-find-the-child-who-has-the-ball-after-k-seconds.js)|Easy|
 3183|[The Number of Ways to Make the Sum](./solutions/3183-the-number-of-ways-to-make-the-sum.js)|Medium|
+3186|[Maximum Total Damage With Spell Casting](./solutions/3186-maximum-total-damage-with-spell-casting.js)|Medium|
 3189|[Minimum Moves to Get a Peaceful Board](./solutions/3189-minimum-moves-to-get-a-peaceful-board.js)|Medium|
 3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./solutions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
 3195|[Find the Minimum Area to Cover All Ones I](./solutions/3195-find-the-minimum-area-to-cover-all-ones-i.js)|Medium|
