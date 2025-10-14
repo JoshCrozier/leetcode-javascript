@@ -2712,6 +2712,7 @@
 3342|[Find Minimum Time to Reach Last Room II](./solutions/3342-find-minimum-time-to-reach-last-room-ii.js)|Medium|
 3343|[Count Number of Balanced Permutations](./solutions/3343-count-number-of-balanced-permutations.js)|Hard|
 3344|[Maximum Sized Array](./solutions/3344-maximum-sized-array.js)|Medium|
+3349|[Adjacent Increasing Subarrays Detection I](./solutions/3349-adjacent-increasing-subarrays-detection-i.js)|Easy|
 3353|[Minimum Total Operations](./solutions/3353-minimum-total-operations.js)|Easy|
 3355|[Zero Array Transformation I](./solutions/3355-zero-array-transformation-i.js)|Medium|
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
