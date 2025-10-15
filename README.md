@@ -2772,6 +2772,7 @@
 3516|[Find Closest Person](./solutions/3516-find-closest-person.js)|Easy|
 3520|[Minimum Threshold for Inversion Pairs Count](./solutions/3520-minimum-threshold-for-inversion-pairs-count.js)|Medium|
 3535|[Unit Conversion II](./solutions/3535-unit-conversion-ii.js)|Medium|
+3539|[Find Sum of Array Product of Magical Sequences](./solutions/3539-find-sum-of-array-product-of-magical-sequences.js)|Hard|
 3541|[Find Most Frequent Vowel and Consonant](./solutions/3541-find-most-frequent-vowel-and-consonant.js)|Easy|
 
 ## License
