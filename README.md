@@ -2712,6 +2712,7 @@
 3342|[Find Minimum Time to Reach Last Room II](./solutions/3342-find-minimum-time-to-reach-last-room-ii.js)|Medium|
 3343|[Count Number of Balanced Permutations](./solutions/3343-count-number-of-balanced-permutations.js)|Hard|
 3344|[Maximum Sized Array](./solutions/3344-maximum-sized-array.js)|Medium|
+3346|[Maximum Frequency of an Element After Performing Operations I](./solutions/3346-maximum-frequency-of-an-element-after-performing-operations-i.js)|Medium|
 3347|[Maximum Frequency of an Element After Performing Operations II](./solutions/3347-maximum-frequency-of-an-element-after-performing-operations-ii.js)|Hard|
 3349|[Adjacent Increasing Subarrays Detection I](./solutions/3349-adjacent-increasing-subarrays-detection-i.js)|Easy|
 3350|[Adjacent Increasing Subarrays Detection II](./solutions/3350-adjacent-increasing-subarrays-detection-ii.js)|Medium|
