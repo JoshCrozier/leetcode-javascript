@@ -2717,6 +2717,7 @@
 3349|[Adjacent Increasing Subarrays Detection I](./solutions/3349-adjacent-increasing-subarrays-detection-i.js)|Easy|
 3350|[Adjacent Increasing Subarrays Detection II](./solutions/3350-adjacent-increasing-subarrays-detection-ii.js)|Medium|
 3353|[Minimum Total Operations](./solutions/3353-minimum-total-operations.js)|Easy|
+3354|[Make Array Elements Equal to Zero](./solutions/3354-make-array-elements-equal-to-zero.js)|Easy|
 3355|[Zero Array Transformation I](./solutions/3355-zero-array-transformation-i.js)|Medium|
 3356|[Zero Array Transformation II](./solutions/3356-zero-array-transformation-ii.js)|Medium|
 3359|[Find Sorted Submatrices With Maximum Element at Most K](./solutions/3359-find-sorted-submatrices-with-maximum-element-at-most-k.js)|Hard|
