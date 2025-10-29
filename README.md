@@ -2724,6 +2724,7 @@
 3362|[Zero Array Transformation III](./solutions/3362-zero-array-transformation-iii.js)|Medium|
 3363|[Find the Maximum Number of Fruits Collected](./solutions/3363-find-the-maximum-number-of-fruits-collected.js)|Hard|
 3369|[Design an Array Statistics Tracker](./solutions/3369-design-an-array-statistics-tracker.js)|Hard|
+3370|[Smallest Number With All Set Bits](./solutions/3370-smallest-number-with-all-set-bits.js)|Easy|
 3372|[Maximize the Number of Target Nodes After Connecting Trees I](./solutions/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i.js)|Medium|
 3373|[Maximize the Number of Target Nodes After Connecting Trees II](./solutions/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii.js)|Hard|
 3375|[Minimum Operations to Make Array Values Equal to K](./solutions/3375-minimum-operations-to-make-array-values-equal-to-k.js)|Easy|
