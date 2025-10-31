@@ -2695,6 +2695,7 @@
 3272|[Find the Count of Good Integers](./solutions/3272-find-the-count-of-good-integers.js)|Hard|
 3279|[Maximum Total Area Occupied by Pistons](./solutions/3279-maximum-total-area-occupied-by-pistons.js)|Hard|
 3284|[Sum of Consecutive Subarrays](./solutions/3284-sum-of-consecutive-subarrays.js)|Medium|
+3289|[The Two Sneaky Numbers of Digitville](./solutions/3289-the-two-sneaky-numbers-of-digitville.js)|Easy|
 3294|[Convert Doubly Linked List to Array II](./solutions/3294-convert-doubly-linked-list-to-array-ii.js)|Medium|
 3299|[Sum of Consecutive Subsequences](./solutions/3299-sum-of-consecutive-subsequences.js)|Hard|
 3304|[Find the K-th Character in String Game I](./solutions/3304-find-the-k-th-character-in-string-game-i.js)|Easy|
