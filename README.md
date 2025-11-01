@@ -2683,6 +2683,7 @@
 3205|[Maximum Array Hopping Score I](./solutions/3205-maximum-array-hopping-score-i.js)|Medium|
 3208|[Alternating Groups II](./solutions/3208-alternating-groups-ii.js)|Medium|
 3215|[Count Triplets with Even XOR Set Bits II](./solutions/3215-count-triplets-with-even-xor-set-bits-ii.js)|Medium|
+3217|[Delete Nodes From Linked List Present in Array](./solutions/3217-delete-nodes-from-linked-list-present-in-array.js)|Medium|
 3221|[Maximum Array Hopping Score II](./solutions/3221-maximum-array-hopping-score-ii.js)|Medium|
 3223|[Minimum Length of String After Operations](./solutions/3223-minimum-length-of-string-after-operations.js)|Medium|
 3227|[Vowels Game in a String](./solutions/3227-vowels-game-in-a-string.js)|Medium|
