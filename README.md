@@ -2703,6 +2703,7 @@
 3306|[Count of Substrings Containing Every Vowel and K Consonants II](./solutions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.js)|Medium|
 3307|[Find the K-th Character in String Game II](./solutions/3307-find-the-k-th-character-in-string-game-ii.js)|Hard|
 3313|[Find the Last Marked Nodes in Tree](./solutions/3313-find-the-last-marked-nodes-in-tree.js)|Hard|
+3318|[Find X-Sum of All K-Long Subarrays I](./solutions/3318-find-x-sum-of-all-k-long-subarrays-i.js)|Easy|
 3323|[Minimize Connected Groups by Inserting Interval](./solutions/3323-minimize-connected-groups-by-inserting-interval.js)|Medium|
 3329|[Count Substrings With K-Frequency Characters II](./solutions/3329-count-substrings-with-k-frequency-characters-ii.js)|Hard|
 3330|[Find the Original Typed String I](./solutions/3330-find-the-original-typed-string-i.js)|Easy|
