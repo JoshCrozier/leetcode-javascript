@@ -2674,6 +2674,7 @@
 3183|[The Number of Ways to Make the Sum](./solutions/3183-the-number-of-ways-to-make-the-sum.js)|Medium|
 3186|[Maximum Total Damage With Spell Casting](./solutions/3186-maximum-total-damage-with-spell-casting.js)|Medium|
 3189|[Minimum Moves to Get a Peaceful Board](./solutions/3189-minimum-moves-to-get-a-peaceful-board.js)|Medium|
+3190|[Find Minimum Operations to Make All Elements Divisible by Three](./solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.js)|Easy|
 3191|[Minimum Operations to Make Binary Array Elements Equal to One I](./solutions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.js)|Medium|
 3195|[Find the Minimum Area to Cover All Ones I](./solutions/3195-find-the-minimum-area-to-cover-all-ones-i.js)|Medium|
 3197|[Find the Minimum Area to Cover All Ones II](./solutions/3197-find-the-minimum-area-to-cover-all-ones-ii.js)|Hard|
