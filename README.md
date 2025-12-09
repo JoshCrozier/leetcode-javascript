@@ -2786,6 +2786,7 @@
 3539|[Find Sum of Array Product of Magical Sequences](./solutions/3539-find-sum-of-array-product-of-magical-sequences.js)|Hard|
 3541|[Find Most Frequent Vowel and Consonant](./solutions/3541-find-most-frequent-vowel-and-consonant.js)|Easy|
 3578|[Count Partitions With Max-Min Difference at Most K](./solutions/3578-count-partitions-with-max-min-difference-at-most-k.js)|Medium|
+3583|[Count Special Triplets](./solutions/3583-count-special-triplets.js)|Medium|
 3623|[Count Number of Trapezoids I](./solutions/3623-count-number-of-trapezoids-i.js)|Medium|
 
 ## License
