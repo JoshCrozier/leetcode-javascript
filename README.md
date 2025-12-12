@@ -2750,6 +2750,7 @@
 3423|[Maximum Difference Between Adjacent Elements in a Circular Array](./solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.js)|Easy|
 3431|[Minimum Unlocked Indices to Sort Nums](./solutions/3431-minimum-unlocked-indices-to-sort-nums.js)|Medium|
 3432|[Count Partitions with Even Sum Difference](./solutions/3432-count-partitions-with-even-sum-difference.js)|Easy|
+3433|[Count Mentions Per User](./solutions/3433-count-mentions-per-user.js)|Medium|
 3437|[Permutations III](./solutions/3437-permutations-iii.js)|Medium|
 3439|[Reschedule Meetings for Maximum Free Time I](./solutions/3439-reschedule-meetings-for-maximum-free-time-i.js)|Medium|
 3440|[Reschedule Meetings for Maximum Free Time II](./solutions/3440-reschedule-meetings-for-maximum-free-time-ii.js)|Medium|
