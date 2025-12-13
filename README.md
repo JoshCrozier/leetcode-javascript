@@ -2790,6 +2790,7 @@
 3577|[Count the Number of Computer Unlocking Permutations](./solutions/3577-count-the-number-of-computer-unlocking-permutations.js)|Medium|
 3578|[Count Partitions With Max-Min Difference at Most K](./solutions/3578-count-partitions-with-max-min-difference-at-most-k.js)|Medium|
 3583|[Count Special Triplets](./solutions/3583-count-special-triplets.js)|Medium|
+3606|[Coupon Code Validator](./solutions/3606-coupon-code-validator.js)|Easy|
 3623|[Count Number of Trapezoids I](./solutions/3623-count-number-of-trapezoids-i.js)|Medium|
 
 ## License
